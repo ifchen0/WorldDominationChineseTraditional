@@ -192,46 +192,46 @@
   <TSA_WD_Settings_InterceptionScanIntervalSecTooltip>共用的效能設定。玩家砲兵哨站與快速反應哨站使用此間隔。敵方 T4 據點使用此間隔的三倍（每週期掃描次數有上限）。</TSA_WD_Settings_InterceptionScanIntervalSecTooltip>
   <!-- EN: Reset artillery / interception tuning -->
   <TSA_WD_Settings_ResetMortarInterception>重設砲擊／攔截調整</TSA_WD_Settings_ResetMortarInterception>
-  <!-- EN: Enemy T4 settlement turrets -->
-  <TSA_WD_T4Mortar_Header>敵方 T4 據點砲塔</TSA_WD_T4Mortar_Header>
-  <!-- EN: Enemy T4 settlements fire mortars -->
-  <TSA_WD_T4Mortar_EnableAll>敵方 T4 據點發射迫擊砲</TSA_WD_T4Mortar_EnableAll>
-  <!-- EN: Master toggle. When on, tier-4 enemy settlements act as defensive mortar interceptors: they fire at hostile NON-player WD travelers in range, and when none are in range they shell the nearest hostile settlement. Whether they may also target YOU is the separate option below. -->
-  <TSA_WD_T4Mortar_EnableAllTooltip>總開關。開啟時，4級敵方據點會成為防禦性迫擊砲攔截者：向範圍內的敵對「非玩家」WD 旅行者開火；範圍內沒有目標時，則砲擊最近的敵對據點。是否也能以「你」為目標，由下方另一個選項決定。</TSA_WD_T4Mortar_EnableAllTooltip>
-  <!-- EN: T4 turrets: min tech level -->
-  <TSA_WD_T4Mortar_MinTech>T4 砲塔：最低科技等級</TSA_WD_T4Mortar_MinTech>
-  <!-- EN: Only factions at this tech level or higher may use T4 settlement mortars and anti-air. Neolithic allows essentially all factions. -->
-  <TSA_WD_T4Mortar_MinTechTip>只有達到此科技等級以上的派系才能使用 T4 據點迫擊砲與防空。選「原始部落」基本上等於所有派系皆可。</TSA_WD_T4Mortar_MinTechTip>
+  <!-- EN: Enemy artillery turrets -->
+  <TSA_WD_T4Mortar_Header>敵方砲塔</TSA_WD_T4Mortar_Header>
+  <!-- EN: Enemy Mortar Turrets fire -->
+  <TSA_WD_T4Mortar_EnableAll>敵方迫擊砲塔開火</TSA_WD_T4Mortar_EnableAll>
+  <!-- EN: Master toggle. NPC settlements build Mortar Turrets as advanced building projects (tier 3 on a 30% roll, one free turret on reaching tier 4). When on, these turrets fire at hostile NON-player WD travelers in range, and when none are in range they shell hostile targets nearby. Settlements themselves never fire. Whether turrets may also target YOU is set under Threat timing. -->
+  <TSA_WD_T4Mortar_EnableAllTooltip>總開關。NPC 據點會把迫擊砲塔當作進階建築計畫來建造（3級時有30%機率，升到4級時免費獲得一座）。開啟時，這些砲塔會向範圍內的敵對「非玩家」WD 旅行者開火；範圍內沒有目標時，則砲擊附近的敵對目標。據點本身永遠不會開火。砲塔是否也能以「你」為目標，在「威脅時機」中設定。</TSA_WD_T4Mortar_EnableAllTooltip>
+  <!-- EN: Artillery turrets: min tech level -->
+  <TSA_WD_T4Mortar_MinTech>砲塔：最低科技等級</TSA_WD_T4Mortar_MinTech>
+  <!-- EN: Only factions at this tech level or higher may build and fire Mortar and AA Turrets. Neolithic allows essentially all factions. -->
+  <TSA_WD_T4Mortar_MinTechTip>只有達到此科技等級以上的派系才能建造並使用迫擊砲塔與防空砲塔。選「原始部落」基本上等於所有派系皆可。</TSA_WD_T4Mortar_MinTechTip>
   <!-- EN: May target your WD travelers and outposts -->
   <TSA_WD_T4Mortar_TargetPlayer>可攻擊你的 WD 旅行者與哨站</TSA_WD_T4Mortar_TargetPlayer>
-  <!-- EN: When on, enemy T4 mortars may also fire at your WD caravans and outposts, but only while Late Game is active. With this off, they never target you in Late Game. Mid Game has its own toggle; turning Mid Game on forces this Late Game toggle on. -->
-  <TSA_WD_T4Mortar_TargetPlayerTooltip>開啟時，敵方 T4 迫擊砲也可能向你的 WD 旅隊與哨站開火，但僅限後期階段啟用期間。關閉時，後期階段絕不會以你為目標。中期階段有獨立的開關；開啟中期階段會強制開啟此後期開關。</TSA_WD_T4Mortar_TargetPlayerTooltip>
-  <!-- EN: T4 mortar range (tiles) -->
-  <TSA_WD_T4Mortar_Range>T4 迫擊砲射程（格）</TSA_WD_T4Mortar_Range>
-  <!-- EN: Maximum world distance (tiles) an enemy T4 settlement mortar can reach. Independent of the player artillery range. -->
-  <TSA_WD_T4Mortar_RangeTooltip>敵方 T4 據點迫擊砲能達到的最大世界距離（格）。與玩家砲擊射程分開設定。</TSA_WD_T4Mortar_RangeTooltip>
-  <!-- EN: T4 mortar cooldown (days) -->
-  <TSA_WD_T4Mortar_Cooldown>T4 迫擊砲冷卻（天）</TSA_WD_T4Mortar_Cooldown>
-  <!-- EN: Days between shots for an enemy T4 settlement mortar. Independent of the player artillery cooldown. -->
-  <TSA_WD_T4Mortar_CooldownTooltip>敵方 T4 據點迫擊砲每次射擊的間隔天數。與玩家砲擊冷卻分開設定。</TSA_WD_T4Mortar_CooldownTooltip>
+  <!-- EN: When on, enemy Mortar Turrets may also fire at your WD caravans and outposts, but only while Late Game is active. With this off, they never target you in Late Game. Mid Game has its own toggle; turning Mid Game on forces this Late Game toggle on. -->
+  <TSA_WD_T4Mortar_TargetPlayerTooltip>開啟時，敵方迫擊砲塔也可能向你的 WD 旅隊與哨站開火，但僅限後期階段啟用期間。關閉時，後期階段絕不會以你為目標。中期階段有獨立的開關；開啟中期階段會強制開啟此後期開關。</TSA_WD_T4Mortar_TargetPlayerTooltip>
+  <!-- EN: Mortar Turret range (tiles) -->
+  <TSA_WD_T4Mortar_Range>迫擊砲塔射程（格）</TSA_WD_T4Mortar_Range>
+  <!-- EN: Maximum world distance (tiles) an enemy Mortar Turret can reach. Independent of the player artillery range. -->
+  <TSA_WD_T4Mortar_RangeTooltip>敵方迫擊砲塔能達到的最大世界距離（格）。與玩家砲擊射程分開設定。</TSA_WD_T4Mortar_RangeTooltip>
+  <!-- EN: Mortar Turret cooldown (days) -->
+  <TSA_WD_T4Mortar_Cooldown>迫擊砲塔冷卻（天）</TSA_WD_T4Mortar_Cooldown>
+  <!-- EN: Days between shots for an enemy Mortar Turret. Independent of the player artillery cooldown. -->
+  <TSA_WD_T4Mortar_CooldownTooltip>敵方迫擊砲塔每次射擊的間隔天數。與玩家砲擊冷卻分開設定。</TSA_WD_T4Mortar_CooldownTooltip>
   <!-- EN: Hit chance at 0–50% of max range -->
   <TSA_WD_T4Mortar_HitBand0To50>最大射程0–50%時的命中率</TSA_WD_T4Mortar_HitBand0To50>
-  <!-- EN: Base hit chance for T4 mortar shots at 0–50% of max range, before the equivalent shooting-skill bonus. -->
-  <TSA_WD_T4Mortar_HitBand0To50Tooltip>T4 迫擊砲在最大射程0–50%時的基礎命中率，未計等效射擊技能加成。</TSA_WD_T4Mortar_HitBand0To50Tooltip>
+  <!-- EN: Base hit chance for Mortar Turret shots at 0–50% of max range, before the equivalent shooting-skill bonus. -->
+  <TSA_WD_T4Mortar_HitBand0To50Tooltip>迫擊砲塔在最大射程0–50%時的基礎命中率，未計等效射擊技能加成。</TSA_WD_T4Mortar_HitBand0To50Tooltip>
   <!-- EN: Hit chance at 51–75% of max range -->
   <TSA_WD_T4Mortar_HitBand51To75>最大射程51–75%時的命中率</TSA_WD_T4Mortar_HitBand51To75>
-  <!-- EN: Base hit chance for T4 mortar shots at 51–75% of max range. -->
-  <TSA_WD_T4Mortar_HitBand51To75Tooltip>T4 迫擊砲在最大射程51–75%時的基礎命中率。</TSA_WD_T4Mortar_HitBand51To75Tooltip>
+  <!-- EN: Base hit chance for Mortar Turret shots at 51–75% of max range. -->
+  <TSA_WD_T4Mortar_HitBand51To75Tooltip>迫擊砲塔在最大射程51–75%時的基礎命中率。</TSA_WD_T4Mortar_HitBand51To75Tooltip>
   <!-- EN: Hit chance at 76–100% of max range -->
   <TSA_WD_T4Mortar_HitBand76To100>最大射程76–100%時的命中率</TSA_WD_T4Mortar_HitBand76To100>
-  <!-- EN: Base hit chance for T4 mortar shots at 76–100% of max range. -->
-  <TSA_WD_T4Mortar_HitBand76To100Tooltip>T4 迫擊砲在最大射程76–100%時的基礎命中率。</TSA_WD_T4Mortar_HitBand76To100Tooltip>
-  <!-- EN: Player artillery and Rapid Response outposts use it as-is. Enemy T4 settlements use three times this interval to save performance. -->
-  <TSA_WD_T4Mortar_ScanSharedNote>玩家砲兵哨站與快速反應哨站直接使用此值。敵方 T4 據點使用此間隔的三倍以節省效能。</TSA_WD_T4Mortar_ScanSharedNote>
-  <!-- EN: Enemy T4 settlement mortars are disabled. -->
-  <TSA_WD_T4Mortar_DisabledHint>敵方 T4 據點迫擊砲已停用。</TSA_WD_T4Mortar_DisabledHint>
-  <!-- EN: Reset enemy T4 turret settings -->
-  <TSA_WD_T4Mortar_Reset>重設敵方 T4 砲塔設定</TSA_WD_T4Mortar_Reset>
+  <!-- EN: Base hit chance for Mortar Turret shots at 76–100% of max range. -->
+  <TSA_WD_T4Mortar_HitBand76To100Tooltip>迫擊砲塔在最大射程76–100%時的基礎命中率。</TSA_WD_T4Mortar_HitBand76To100Tooltip>
+  <!-- EN: Player artillery and Rapid Response outposts use it as-is. Enemy artillery turrets use three times this interval to save performance. -->
+  <TSA_WD_T4Mortar_ScanSharedNote>玩家砲兵哨站與快速反應哨站直接使用此值。敵方砲塔使用此間隔的三倍以節省效能。</TSA_WD_T4Mortar_ScanSharedNote>
+  <!-- EN: Enemy Mortar Turrets are disabled. -->
+  <TSA_WD_T4Mortar_DisabledHint>敵方迫擊砲塔已停用。</TSA_WD_T4Mortar_DisabledHint>
+  <!-- EN: Reset enemy artillery turret settings -->
+  <TSA_WD_T4Mortar_Reset>重設敵方砲塔設定</TSA_WD_T4Mortar_Reset>
   <!-- EN: Food logistics -->
   <TSA_WD_Food_Header>食物物流</TSA_WD_Food_Header>
   <!-- EN: Mortar -->
@@ -556,46 +556,46 @@
   <TSA_WD_T4_AutoAA_Off>自動防空：關閉</TSA_WD_T4_AutoAA_Off>
   <!-- EN: When on, this T4 settlement auto-engages hostile airborne targets in AA range. -->
   <TSA_WD_T4_AutoAA_Desc>開啟時，此 T4 據點會自動迎擊防空範圍內的敵對空中目標。</TSA_WD_T4_AutoAA_Desc>
-  <!-- EN: Enemy T4 settlements fire anti-air -->
-  <TSA_WD_T4AA_EnableAll>敵方 T4 據點發射防空砲火</TSA_WD_T4AA_EnableAll>
-  <!-- EN: Master toggle for T4 settlement anti-air against hostile airborne targets. -->
-  <TSA_WD_T4AA_EnableAllTooltip>T4 據點對敵對空中目標發射防空砲火的總開關。</TSA_WD_T4AA_EnableAllTooltip>
+  <!-- EN: Enemy AA Turrets fire -->
+  <TSA_WD_T4AA_EnableAll>敵方防空砲塔開火</TSA_WD_T4AA_EnableAll>
+  <!-- EN: Master toggle for NPC AA Turrets against hostile airborne targets. Settlements build AA Turrets as advanced building projects; settlements themselves never fire. -->
+  <TSA_WD_T4AA_EnableAllTooltip>NPC 防空砲塔對敵對空中目標開火的總開關。據點會把防空砲塔當作進階建築計畫來建造；據點本身永遠不會開火。</TSA_WD_T4AA_EnableAllTooltip>
   <!-- EN: AA may target your airborne assets -->
   <TSA_WD_T4AA_TargetPlayer>防空可攻擊你的空中單位</TSA_WD_T4AA_TargetPlayer>
-  <!-- EN: When on, T4 AA may engage your drop pods and shells while Late Game is active. Mid Game has its own toggle; turning Mid Game on forces this Late Game toggle on. -->
-  <TSA_WD_T4AA_TargetPlayerTooltip>開啟時，T4 防空可在後期階段啟用期間迎擊你的運輸艙與砲彈。中期階段有獨立的開關；開啟中期階段會強制開啟此後期開關。</TSA_WD_T4AA_TargetPlayerTooltip>
-  <!-- EN: T4 AA range (tiles) -->
-  <TSA_WD_T4AA_Range>T4 防空射程（格）</TSA_WD_T4AA_Range>
-  <!-- EN: Maximum AA engagement range for enemy T4 settlements. -->
-  <TSA_WD_T4AA_RangeTooltip>敵方 T4 據點的最大防空迎擊範圍。</TSA_WD_T4AA_RangeTooltip>
-  <!-- EN: T4 AA cooldown (seconds) -->
-  <TSA_WD_T4AA_Cooldown>T4 防空冷卻（秒）</TSA_WD_T4AA_Cooldown>
-  <!-- EN: Seconds between T4 AA engagements. -->
-  <TSA_WD_T4AA_CooldownTooltip>T4 防空每次迎擊之間的秒數。</TSA_WD_T4AA_CooldownTooltip>
-  <!-- EN: T4 AA damage -->
-  <TSA_WD_T4AA_Damage>T4 防空傷害</TSA_WD_T4AA_Damage>
-  <!-- EN: Flak resolver damage for T4 settlement anti-air. -->
-  <TSA_WD_T4AA_DamageTooltip>T4 據點防空的高射砲結算傷害。</TSA_WD_T4AA_DamageTooltip>
-  <!-- EN: T4 AA skill equivalent -->
-  <TSA_WD_T4AA_Skill>T4 防空等效技能</TSA_WD_T4AA_Skill>
-  <!-- EN: Equivalent Shooting skill used for T4 Anti-Air hit bands vs drop pods, transport pods, and aerials (+1 percentage point per level). Does not affect the flat Anti-Air chance vs mortar shells. -->
-  <TSA_WD_T4AA_SkillTooltip>T4 防空對運輸艙與飛行載具的命中區段所用的等效射擊技能（每級+1個百分點）。不影響防空對迫擊砲彈的固定機率。</TSA_WD_T4AA_SkillTooltip>
-  <!-- EN: T4 Anti-Air hit chance at 0–50% of max range -->
-  <TSA_WD_T4AA_HitBand0To50>最大射程0–50%時的 T4 防空命中率</TSA_WD_T4AA_HitBand0To50>
-  <!-- EN: Base T4 Anti-Air hit vs pods and aerials at 0-50% of Anti-Air max range. Skill equivalent adds +1 percentage point per level. Does not apply to mortar shells. -->
-  <TSA_WD_T4AA_HitBand0To50Tooltip>在防空最大射程0-50%時，T4 防空對運輸艙與飛行載具的基礎命中率。等效技能每級+1個百分點。不適用於迫擊砲彈。</TSA_WD_T4AA_HitBand0To50Tooltip>
-  <!-- EN: T4 Anti-Air hit chance at 51–75% of max range -->
-  <TSA_WD_T4AA_HitBand51To75>最大射程51–75%時的 T4 防空命中率</TSA_WD_T4AA_HitBand51To75>
-  <!-- EN: Base T4 Anti-Air hit vs pods and aerials at 51-75% of Anti-Air max range. Mortar shells use the flat T4 Anti-Air vs shells chance instead. -->
-  <TSA_WD_T4AA_HitBand51To75Tooltip>在防空最大射程51-75%時，T4 防空對運輸艙與飛行載具的基礎命中率。迫擊砲彈則改用固定的 T4 防空對砲彈機率。</TSA_WD_T4AA_HitBand51To75Tooltip>
-  <!-- EN: T4 Anti-Air hit chance at 76–100% of max range -->
-  <TSA_WD_T4AA_HitBand76To100>最大射程76–100%時的 T4 防空命中率</TSA_WD_T4AA_HitBand76To100>
-  <!-- EN: Base T4 Anti-Air hit vs pods and aerials at 76–100% of Anti-Air max range. Mortar shells use the flat T4 Anti-Air vs shells chance instead. -->
-  <TSA_WD_T4AA_HitBand76To100Tooltip>在防空最大射程76–100%時，T4 防空對運輸艙與飛行載具的基礎命中率。迫擊砲彈則改用固定的 T4 防空對砲彈機率。</TSA_WD_T4AA_HitBand76To100Tooltip>
-  <!-- EN: T4 Anti-Air hit chance vs mortar shells -->
-  <TSA_WD_T4AA_VsMortar>T4 防空對迫擊砲彈命中率</TSA_WD_T4AA_VsMortar>
-  <!-- EN: Flat chance for T4 Anti-Air to destroy a hostile mortar shell. Ignores Anti-Air range bands and skill equivalent. -->
-  <TSA_WD_T4AA_VsMortarTooltip>T4 防空摧毀敵對迫擊砲彈的固定機率。不受防空距離區段與等效技能影響。</TSA_WD_T4AA_VsMortarTooltip>
+  <!-- EN: When on, enemy AA Turrets may engage your drop pods and shells while Late Game is active. Mid Game has its own toggle; turning Mid Game on forces this Late Game toggle on. -->
+  <TSA_WD_T4AA_TargetPlayerTooltip>開啟時，敵方防空砲塔可在後期階段啟用期間迎擊你的運輸艙與砲彈。中期階段有獨立的開關；開啟中期階段會強制開啟此後期開關。</TSA_WD_T4AA_TargetPlayerTooltip>
+  <!-- EN: AA Turret range (tiles) -->
+  <TSA_WD_T4AA_Range>防空砲塔射程（格）</TSA_WD_T4AA_Range>
+  <!-- EN: Maximum engagement range for enemy AA Turrets. -->
+  <TSA_WD_T4AA_RangeTooltip>敵方防空砲塔的最大迎擊範圍。</TSA_WD_T4AA_RangeTooltip>
+  <!-- EN: AA Turret cooldown (seconds) -->
+  <TSA_WD_T4AA_Cooldown>防空砲塔冷卻（秒）</TSA_WD_T4AA_Cooldown>
+  <!-- EN: Seconds between AA Turret engagements. -->
+  <TSA_WD_T4AA_CooldownTooltip>防空砲塔每次迎擊之間的秒數。</TSA_WD_T4AA_CooldownTooltip>
+  <!-- EN: AA Turret damage -->
+  <TSA_WD_T4AA_Damage>防空砲塔傷害</TSA_WD_T4AA_Damage>
+  <!-- EN: Flak resolver damage for NPC AA Turrets. -->
+  <TSA_WD_T4AA_DamageTooltip>NPC 防空砲塔的高射砲結算傷害。</TSA_WD_T4AA_DamageTooltip>
+  <!-- EN: AA Turret skill equivalent -->
+  <TSA_WD_T4AA_Skill>防空砲塔等效技能</TSA_WD_T4AA_Skill>
+  <!-- EN: Equivalent Shooting skill used for AA Turret hit bands vs drop pods, transport pods, and aerials (+1 percentage point per level). Does not affect the flat AA Turret chance vs mortar shells. -->
+  <TSA_WD_T4AA_SkillTooltip>防空砲塔對運輸艙與飛行載具的命中區段所用的等效射擊技能（每級+1個百分點）。不影響防空砲塔對迫擊砲彈的固定機率。</TSA_WD_T4AA_SkillTooltip>
+  <!-- EN: AA Turret hit chance at 0–50% of max range -->
+  <TSA_WD_T4AA_HitBand0To50>最大射程0–50%時的防空砲塔命中率</TSA_WD_T4AA_HitBand0To50>
+  <!-- EN: Base AA Turret hit vs pods and aerials at 0-50% of max range. Skill equivalent adds +1 percentage point per level. Does not apply to mortar shells. -->
+  <TSA_WD_T4AA_HitBand0To50Tooltip>在最大射程0-50%時，防空砲塔對運輸艙與飛行載具的基礎命中率。等效技能每級+1個百分點。不適用於迫擊砲彈。</TSA_WD_T4AA_HitBand0To50Tooltip>
+  <!-- EN: AA Turret hit chance at 51–75% of max range -->
+  <TSA_WD_T4AA_HitBand51To75>最大射程51–75%時的防空砲塔命中率</TSA_WD_T4AA_HitBand51To75>
+  <!-- EN: Base AA Turret hit vs pods and aerials at 51-75% of max range. Mortar shells use the flat AA Turret vs shells chance instead. -->
+  <TSA_WD_T4AA_HitBand51To75Tooltip>在最大射程51-75%時，防空砲塔對運輸艙與飛行載具的基礎命中率。迫擊砲彈則改用固定的防空砲塔對砲彈機率。</TSA_WD_T4AA_HitBand51To75Tooltip>
+  <!-- EN: AA Turret hit chance at 76–100% of max range -->
+  <TSA_WD_T4AA_HitBand76To100>最大射程76–100%時的防空砲塔命中率</TSA_WD_T4AA_HitBand76To100>
+  <!-- EN: Base AA Turret hit vs pods and aerials at 76–100% of max range. Mortar shells use the flat AA Turret vs shells chance instead. -->
+  <TSA_WD_T4AA_HitBand76To100Tooltip>在最大射程76–100%時，防空砲塔對運輸艙與飛行載具的基礎命中率。迫擊砲彈則改用固定的防空砲塔對砲彈機率。</TSA_WD_T4AA_HitBand76To100Tooltip>
+  <!-- EN: AA Turret hit chance vs mortar shells -->
+  <TSA_WD_T4AA_VsMortar>防空砲塔對迫擊砲彈命中率</TSA_WD_T4AA_VsMortar>
+  <!-- EN: Flat chance for an AA Turret to destroy a hostile mortar shell. Ignores range bands and skill equivalent. -->
+  <TSA_WD_T4AA_VsMortarTooltip>防空砲塔摧毀敵對迫擊砲彈的固定機率。不受距離區段與等效技能影響。</TSA_WD_T4AA_VsMortarTooltip>
   <!-- EN: Unlocks anti-air turret vs. drop pods and shells -->
   <TSA_WD_OutpostUpgrades_BenefitAntiAirUnlock>解鎖可對付運輸艙與砲彈的防空砲塔</TSA_WD_OutpostUpgrades_BenefitAntiAirUnlock>
   <!-- EN: Unlocks Decontamination Missions -->

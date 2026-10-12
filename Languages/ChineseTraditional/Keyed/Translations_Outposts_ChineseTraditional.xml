@@ -3286,6 +3286,10 @@
   <TSA_WD_OutpostUpgradeImpact_PrisonerRecruitSpeed>招募速度</TSA_WD_OutpostUpgradeImpact_PrisonerRecruitSpeed>
   <!-- EN: Unwavering Recruit -->
   <TSA_WD_OutpostUpgradeImpact_UnwaveringRecruit>堅定不移者招募</TSA_WD_OutpostUpgradeImpact_UnwaveringRecruit>
+  <!-- EN: Ecology Baseline -->
+  <TSA_WD_OutpostUpgradeImpact_EcologyBaselineFloor>生態基準</TSA_WD_OutpostUpgradeImpact_EcologyBaselineFloor>
+  <!-- EN: Pollution Scrub -->
+  <TSA_WD_OutpostUpgradeImpact_PollutionScrubOneOff>汙染清除</TSA_WD_OutpostUpgradeImpact_PollutionScrubOneOff>
   <!-- EN: {0} (Lv {1}) -->
   <TSA_WD_OutpostUpgrades_UpgradeTitle>{0}（Lv {1}）</TSA_WD_OutpostUpgrades_UpgradeTitle>
   <!-- EN: Max level reached -->
@@ -3360,8 +3364,8 @@
   <TSA_WD_OutpostUpgrades_BenefitMortarCooldown>−{0}%冷卻</TSA_WD_OutpostUpgrades_BenefitMortarCooldown>
   <!-- EN: +{0} max mortar range tiles -->
   <TSA_WD_OutpostUpgrades_BenefitMortarRange>+{0}格迫擊砲最大射程</TSA_WD_OutpostUpgrades_BenefitMortarRange>
-  <!-- EN: +{0} ally pull radius tiles -->
-  <TSA_WD_OutpostUpgrades_BenefitAllyPullRadius>+{0}格同盟召集半徑</TSA_WD_OutpostUpgrades_BenefitAllyPullRadius>
+  <!-- EN: +{0} ally pull radius from outposts also having tunnels -->
+  <TSA_WD_OutpostUpgrades_BenefitAllyPullRadius>+{0}格同盟召集半徑（來自同樣擁有隧道的哨站）</TSA_WD_OutpostUpgrades_BenefitAllyPullRadius>
   <!-- EN: +{0}pp research efficiency -->
   <TSA_WD_OutpostUpgrades_BenefitResearchEfficiency>+{0}個百分點研究效率</TSA_WD_OutpostUpgrades_BenefitResearchEfficiency>
   <!-- EN: +{0}pp production output -->
@@ -3382,6 +3386,10 @@
   <TSA_WD_OutpostUpgrades_BenefitPrisonerRecruitSpeed>+{0}%俘虜招募速度</TSA_WD_OutpostUpgrades_BenefitPrisonerRecruitSpeed>
   <!-- EN: Unwavering prisoners can be recruited -->
   <TSA_WD_OutpostUpgrades_BenefitUnwaveringRecruitUnlock>可招募堅定不移的俘虜</TSA_WD_OutpostUpgrades_BenefitUnwaveringRecruitUnlock>
+  <!-- EN: Min. Animal Abundance & Fertility = 100 % -->
+  <TSA_WD_OutpostUpgrades_BenefitEcologyBaselineFloor>動物豐富度與肥沃度最低 = 100 %</TSA_WD_OutpostUpgrades_BenefitEcologyBaselineFloor>
+  <!-- EN: Clears pollution on build within {0} tiles (once) -->
+  <TSA_WD_OutpostUpgrades_BenefitPollutionScrubOneOff>建成時清除{0}格內的汙染（一次）</TSA_WD_OutpostUpgrades_BenefitPollutionScrubOneOff>
   <!-- EN: REQUIRES RESEARCH: {0} -->
   <TSA_WD_OutpostUpgrades_RequiresResearch>需要研究：{0}</TSA_WD_OutpostUpgrades_RequiresResearch>
   <!-- EN: (Upgrade active) -->
@@ -4012,8 +4020,8 @@
   <TSA_WD_OutpostStats_Row_MinGarrisonSettlementTip>此據點派出突襲、商隊或施工隊時必須留守的戰力：其等級最大值的駐軍保留百分比（模組設定）。淨化不受限制。</TSA_WD_OutpostStats_Row_MinGarrisonSettlementTip>
   <!-- EN: Ally pull radius -->
   <TSA_WD_OutpostStats_Row_AllyRadius>同盟召集半徑</TSA_WD_OutpostStats_Row_AllyRadius>
-  <!-- EN: World-tile radius for same-faction neighbors and diplomatic allies that can support this site in attacks or defenses. -->
-  <TSA_WD_OutpostStats_Row_AllyRadiusTip>可在攻擊或防守中支援此地點的同派系鄰居與外交同盟所在的世界地塊半徑。</TSA_WD_OutpostStats_Row_AllyRadiusTip>
+  <!-- EN: World-tile radius for same-faction neighbors and diplomatic allies that can support this site in attacks or defenses. Tunnel Network adds an outer ring that only pulls other outposts with Tunnel Network. -->
+  <TSA_WD_OutpostStats_Row_AllyRadiusTip>可在攻擊或防守中支援此地點的同派系鄰居與外交同盟所在的世界地塊半徑。「隧道網路」會增加一圈外環，只召集同樣擁有隧道網路的其他哨站。</TSA_WD_OutpostStats_Row_AllyRadiusTip>
   <!-- EN: Base: {0} -->
   <TSA_WD_AllyRadius_BreakdownBase>基礎：{0}</TSA_WD_AllyRadius_BreakdownBase>
   <!-- EN: Stage scaling: none (early game, scaling off, or no active stage) -->
@@ -4026,32 +4034,32 @@
   <TSA_WD_AllyRadius_BreakdownLate>後期同盟縮放：+{0}%</TSA_WD_AllyRadius_BreakdownLate>
   <!-- EN: Late Game ally scale: off for this stage (no Mid fallback) -->
   <TSA_WD_AllyRadius_BreakdownLateOff>後期同盟縮放：此階段關閉（不退回中期設定）</TSA_WD_AllyRadius_BreakdownLateOff>
-  <!-- EN: Tunnel Network: +{0} -->
-  <TSA_WD_AllyRadius_BreakdownTunnel>隧道網路：+{0}</TSA_WD_AllyRadius_BreakdownTunnel>
+  <!-- EN: Tunnel Network: +{0} (outer ring: Tunnel Network peers only) -->
+  <TSA_WD_AllyRadius_BreakdownTunnel>隧道網路：+{0}（外環：僅限擁有隧道網路的哨站）</TSA_WD_AllyRadius_BreakdownTunnel>
   <!-- EN: Effective ally pull radius: {0} -->
   <TSA_WD_AllyRadius_BreakdownResult>有效同盟召集半徑：{0}</TSA_WD_AllyRadius_BreakdownResult>
   <!-- EN: Food logistics range for this outpost type (mod setting). -->
   <TSA_WD_OutpostStats_Row_FoodRadiusTip>此哨站類型的食物後勤範圍（模組設定）。</TSA_WD_OutpostStats_Row_FoodRadiusTip>
   <!-- EN: Nearby-settlement radius for recruiting, trading, and embassy outposts. -->
-  <TSA_WD_OutpostStats_Row_PeopleRadiusTip>招募、貿易與大大大使館哨站的附近據點半徑。</TSA_WD_OutpostStats_Row_PeopleRadiusTip>
+  <TSA_WD_OutpostStats_Row_PeopleRadiusTip>招募、貿易與大使館哨站的附近據點半徑。</TSA_WD_OutpostStats_Row_PeopleRadiusTip>
   <!-- EN: Warehouse aura radius for this outpost type. -->
   <TSA_WD_OutpostStats_Row_WarehouseRadiusTip>此哨站類型的倉庫光環半徑。</TSA_WD_OutpostStats_Row_WarehouseRadiusTip>
-  <!-- EN: NPC T4 mortar engagement range (mod settings). -->
-  <TSA_WD_OutpostStats_Row_NpcMortarRangeTip>NPC T4 迫擊砲交戰範圍（模組設定）。</TSA_WD_OutpostStats_Row_NpcMortarRangeTip>
-  <!-- EN: Nominal days between NPC T4 mortar shots (mod settings). -->
-  <TSA_WD_OutpostStats_Row_NpcMortarCooldownTip>NPC T4 迫擊砲射擊間隔的標稱天數（模組設定）。</TSA_WD_OutpostStats_Row_NpcMortarCooldownTip>
-  <!-- EN: NPC T4 Anti-Air engagement range (mod settings). -->
-  <TSA_WD_OutpostStats_Row_NpcAntiAirRangeTip>NPC T4 防空交戰範圍（模組設定）。</TSA_WD_OutpostStats_Row_NpcAntiAirRangeTip>
-  <!-- EN: Nominal seconds between NPC T4 Anti-Air shots (mod settings). -->
-  <TSA_WD_OutpostStats_Row_NpcAntiAirCooldownTip>NPC T4 防空射擊間隔的標稱秒數（模組設定）。</TSA_WD_OutpostStats_Row_NpcAntiAirCooldownTip>
+  <!-- EN: Mortar Turret engagement range (mod settings). -->
+  <TSA_WD_OutpostStats_Row_NpcMortarRangeTip>迫擊砲塔交戰範圍（模組設定）。</TSA_WD_OutpostStats_Row_NpcMortarRangeTip>
+  <!-- EN: Nominal days between Mortar Turret shots (mod settings). -->
+  <TSA_WD_OutpostStats_Row_NpcMortarCooldownTip>迫擊砲塔射擊間隔的標稱天數（模組設定）。</TSA_WD_OutpostStats_Row_NpcMortarCooldownTip>
+  <!-- EN: AA Turret engagement range (mod settings). -->
+  <TSA_WD_OutpostStats_Row_NpcAntiAirRangeTip>防空砲塔交戰範圍（模組設定）。</TSA_WD_OutpostStats_Row_NpcAntiAirRangeTip>
+  <!-- EN: Nominal seconds between AA Turret shots (mod settings). -->
+  <TSA_WD_OutpostStats_Row_NpcAntiAirCooldownTip>防空砲塔射擊間隔的標稱秒數（模組設定）。</TSA_WD_OutpostStats_Row_NpcAntiAirCooldownTip>
   <!-- EN: Supporting allied strength -->
   <TSA_WD_OutpostStats_Row_AllyStrength>支援的同盟戰力</TSA_WD_OutpostStats_Row_AllyStrength>
-  <!-- EN: Offensive strength from neighbors inside the ally pull radius. Same-faction always joins; other-faction allies only join depending on the fight. Breakdown: -->
-  <TSA_WD_OutpostStats_Row_AllyStrengthTip>來自同盟召集半徑內鄰居的進攻戰力。同派系一定會加入；其他派系的同盟是否加入視戰況而定。明細：</TSA_WD_OutpostStats_Row_AllyStrengthTip>
+  <!-- EN: Offensive strength from neighbors inside the ally pull radius. Same-faction always joins; other-faction allies only join depending on the fight. Beyond the base radius, only Tunnel Network outposts count. Breakdown: -->
+  <TSA_WD_OutpostStats_Row_AllyStrengthTip>來自同盟召集半徑內鄰居的進攻戰力。同派系一定會加入；其他派系的同盟是否加入視戰況而定。超出基礎半徑的部分，只計算擁有隧道網路的哨站。明細：</TSA_WD_OutpostStats_Row_AllyStrengthTip>
   <!-- EN: Ally Radius -->
   <TSA_WD_Gizmo_ShowAllyRadius>同盟半徑</TSA_WD_Gizmo_ShowAllyRadius>
-  <!-- EN: Toggle ally pull radius for this site type (applies to all sites of the same type). Lists nearby same-faction and other-faction allies. -->
-  <TSA_WD_Gizmo_ShowAllyRadiusDesc>切換此地點類型的同盟召集半徑顯示（套用於同類型的所有地點）。列出附近的同派系與其他派系同盟。</TSA_WD_Gizmo_ShowAllyRadiusDesc>
+  <!-- EN: Toggle ally pull radius for this site type (applies to all sites of the same type). Base ring is cyan; Tunnel Network outer ring is a deeper blue and only pulls Tunnel Network peers. -->
+  <TSA_WD_Gizmo_ShowAllyRadiusDesc>切換此地點類型的同盟召集半徑顯示（套用於同類型的所有地點）。基礎圓圈為青色；隧道網路外環為較深的藍色，只召集同樣擁有隧道網路的哨站。</TSA_WD_Gizmo_ShowAllyRadiusDesc>
   <!-- EN: Attack Radius -->
   <TSA_WD_Gizmo_ShowAttackRadius>攻擊半徑</TSA_WD_Gizmo_ShowAttackRadius>
   <!-- EN: Toggle attack range ({0} tiles) for this site type. Applies to all sites of the same type. -->
@@ -4065,7 +4073,7 @@
   <!-- EN: People Radius -->
   <TSA_WD_Gizmo_ShowPeopleRadius>人員半徑</TSA_WD_Gizmo_ShowPeopleRadius>
   <!-- EN: Toggle nearby-settlement radius ({0} tiles) for recruiting, trading, and embassy outposts. -->
-  <TSA_WD_Gizmo_ShowPeopleRadiusDesc>切換招募、貿易與大大大使館哨站的附近據點半徑（{0}格）顯示。</TSA_WD_Gizmo_ShowPeopleRadiusDesc>
+  <TSA_WD_Gizmo_ShowPeopleRadiusDesc>切換招募、貿易與大使館哨站的附近據點半徑（{0}格）顯示。</TSA_WD_Gizmo_ShowPeopleRadiusDesc>
   <!-- EN: Warehouse Radius -->
   <TSA_WD_Gizmo_ShowWarehouseRadius>倉庫半徑</TSA_WD_Gizmo_ShowWarehouseRadius>
   <!-- EN: Toggle warehouse aura ({0} tiles) for all warehouses. -->
@@ -4348,4 +4356,16 @@
   <TSA_WD_OutpostStats_Row_WarehouseAuraBonus>光環生產加成</TSA_WD_OutpostStats_Row_WarehouseAuraBonus>
   <!-- EN: Production bonus granted to nearby eligible outposts (goods, virtual food, academy XP). Only the best warehouse in range applies. -->
   <TSA_WD_OutpostStats_Row_WarehouseAuraBonusTip>給予附近符合條件哨站的生產加成（物品、虛擬食物、學院經驗值）。範圍內只套用效果最好的一座倉庫。</TSA_WD_OutpostStats_Row_WarehouseAuraBonusTip>
+  <!-- EN: Advanced buildings -->
+  <TSA_WD_OutpostStats_Row_AdvBuildings>進階建築</TSA_WD_OutpostStats_Row_AdvBuildings>
+  <!-- EN: Advanced buildings owned by this settlement. Slots equal the settlement tier ({0}); one of each type at most. -->
+  <TSA_WD_OutpostStats_Row_AdvBuildingsTip>此據點擁有的進階建築。欄位數等於據點等級（{0}）；每種類型最多一座。</TSA_WD_OutpostStats_Row_AdvBuildingsTip>
+  <!-- EN: Land caravan speed -->
+  <TSA_WD_OutpostStats_Row_LandSpeed>陸路旅隊速度</TSA_WD_OutpostStats_Row_LandSpeed>
+  <!-- EN: Stable bonus to the walking speed of caravans launched from this settlement. -->
+  <TSA_WD_OutpostStats_Row_LandSpeedTip>馬廄對從此據點出發的旅隊步行速度的加成。</TSA_WD_OutpostStats_Row_LandSpeedTip>
+  <!-- EN: Silo: {0} +{1}% = {2} -->
+  <TSA_WD_OutpostStats_SiloMaxLine>糧倉：{0} +{1}% = {2}</TSA_WD_OutpostStats_SiloMaxLine>
+  <!-- EN: Hospital: +{0}% -->
+  <TSA_WD_OutpostStats_HospitalLine>醫院：+{0}%</TSA_WD_OutpostStats_HospitalLine>
 </LanguageData>

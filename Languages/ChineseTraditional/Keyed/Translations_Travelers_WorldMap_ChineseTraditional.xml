@@ -560,4 +560,86 @@
   <TSA_WD_DebugOutpostRaidNoStart>WD 除錯：找不到約 4 格外、有路徑可達此哨站的有效起點地塊。</TSA_WD_DebugOutpostRaidNoStart>
   <!-- EN: WD debug: Spawned {0} outpost raid traveler from tile {1} toward {2}. -->
   <TSA_WD_DebugOutpostRaidSpawned>WD 除錯：已生成{0}哨站突襲旅行者，從地塊{1}前往{2}。</TSA_WD_DebugOutpostRaidSpawned>
+  <!-- EN: Silo -->
+  <TSA_WD_AdvBuild_Silo>糧倉</TSA_WD_AdvBuild_Silo>
+  <!-- EN: Hospital -->
+  <TSA_WD_AdvBuild_Hospital>醫院</TSA_WD_AdvBuild_Hospital>
+  <!-- EN: Watch Tower -->
+  <TSA_WD_AdvBuild_WatchTower>瞭望塔</TSA_WD_AdvBuild_WatchTower>
+  <!-- EN: Stable -->
+  <TSA_WD_AdvBuild_Stable>馬廄</TSA_WD_AdvBuild_Stable>
+  <!-- EN: Mortar Turret -->
+  <TSA_WD_AdvBuild_MortarTurret>迫擊砲塔</TSA_WD_AdvBuild_MortarTurret>
+  <!-- EN: AA Turret -->
+  <TSA_WD_AdvBuild_AaTurret>防空砲塔</TSA_WD_AdvBuild_AaTurret>
+  <!-- EN: {0} of {1} -->
+  <TSA_WD_AdvBuild_LabelWithOwner>{1}的{0}</TSA_WD_AdvBuild_LabelWithOwner>
+  <!-- EN: Built by {0} ({1}) -->
+  <TSA_WD_AdvBuild_Inspect_BuiltBy>建造者：{0}（{1}）</TSA_WD_AdvBuild_Inspect_BuiltBy>
+  <!-- EN: Owner lost. This building will be removed. -->
+  <TSA_WD_AdvBuild_Inspect_OwnerLost>擁有者已失去。此建築將被移除。</TSA_WD_AdvBuild_Inspect_OwnerLost>
+  <!-- EN: none -->
+  <TSA_WD_AdvBuild_Inspect_None>無</TSA_WD_AdvBuild_Inspect_None>
+  <!-- EN: Buildings ({1}/{2}): {0} -->
+  <TSA_WD_AdvBuild_Inspect_SettlementBuildings>建築（{1}/{2}）：{0}</TSA_WD_AdvBuild_Inspect_SettlementBuildings>
+  <!-- EN: Defended: hostile raids must beat its strength to destroy it. Mortar hits wear it down; it never regenerates. -->
+  <TSA_WD_AdvBuild_Inspect_ArtilleryVulnerable>有防禦：敵對突襲必須擊敗其戰力才能摧毀它。迫擊砲命中會削弱它；它永遠不會恢復。</TSA_WD_AdvBuild_Inspect_ArtilleryVulnerable>
+  <!-- EN: Undefended: any hostile caravan that crosses this tile, or a single mortar hit, destroys it. -->
+  <TSA_WD_AdvBuild_Inspect_EconomicVulnerable>無防禦：任何經過此地塊的敵對旅隊，或一發迫擊砲命中，都會摧毀它。</TSA_WD_AdvBuild_Inspect_EconomicVulnerable>
+  <!-- EN: Too new to shell: {0} left -->
+  <TSA_WD_AdvBuild_Inspect_Grace>新建中，暫不可砲擊：剩餘{0}</TSA_WD_AdvBuild_Inspect_Grace>
+  <!-- EN: Inactive (disabled in settings, or the owner's tech level is too low) -->
+  <TSA_WD_AdvBuild_Inspect_Inactive>未啟用（已在設定中停用，或擁有者的科技等級太低）</TSA_WD_AdvBuild_Inspect_Inactive>
+  <!-- EN: Reloading: {0} -->
+  <TSA_WD_AdvBuild_Inspect_Cooldown>裝填中：{0}</TSA_WD_AdvBuild_Inspect_Cooldown>
+  <!-- EN: Ready to fire -->
+  <TSA_WD_AdvBuild_Inspect_Ready>可以開火</TSA_WD_AdvBuild_Inspect_Ready>
+  <!-- EN: Fires mortar shells at hostile travelers and targets within {0} tiles. -->
+  <TSA_WD_AdvBuild_Provides_Mortar>向{0}格內的敵對旅行者與目標發射迫擊砲彈。</TSA_WD_AdvBuild_Provides_Mortar>
+  <!-- EN: Engages hostile drop pods, gravships, transport pods and mortar shells within {0} tiles. -->
+  <TSA_WD_AdvBuild_Provides_AntiAir>迎擊{0}格內的敵對運輸艙、重力船與迫擊砲彈。</TSA_WD_AdvBuild_Provides_AntiAir>
+  <!-- EN: Owner max offensive strength +{0}% ({1} to {2}). -->
+  <TSA_WD_AdvBuild_Boost_Silo>擁有者進攻戰力上限+{0}%（{1}→{2}）。</TSA_WD_AdvBuild_Boost_Silo>
+  <!-- EN: Owner offensive and defensive recovery +{0}% (now {1} / {2} per day). -->
+  <TSA_WD_AdvBuild_Boost_Hospital>擁有者進攻與防禦恢復+{0}%（目前每日{1} / {2}）。</TSA_WD_AdvBuild_Boost_Hospital>
+  <!-- EN: Owner attack range +{0}% ({1} to {2} tiles). -->
+  <TSA_WD_AdvBuild_Boost_WatchTower>擁有者攻擊範圍+{0}%（{1}→{2}格）。</TSA_WD_AdvBuild_Boost_WatchTower>
+  <!-- EN: Land caravans from the owner move {0}% faster. -->
+  <TSA_WD_AdvBuild_Boost_Stable>擁有者的陸路旅隊移動速度加快{0}%。</TSA_WD_AdvBuild_Boost_Stable>
+  <!-- EN: Benefit: Max Settlement Strength +{0}% -->
+  <TSA_WD_AdvBuild_Benefit_Silo>效果：據點戰力上限+{0}%</TSA_WD_AdvBuild_Benefit_Silo>
+  <!-- EN: Benefit: Settlement Recovery +{0}% -->
+  <TSA_WD_AdvBuild_Benefit_Hospital>效果：據點恢復+{0}%</TSA_WD_AdvBuild_Benefit_Hospital>
+  <!-- EN: Benefit: Attack Range +{0}% -->
+  <TSA_WD_AdvBuild_Benefit_WatchTower>效果：攻擊範圍+{0}%</TSA_WD_AdvBuild_Benefit_WatchTower>
+  <!-- EN: Benefit: Land Caravan Speed +{0}% -->
+  <TSA_WD_AdvBuild_Benefit_Stable>效果：陸路旅隊速度+{0}%</TSA_WD_AdvBuild_Benefit_Stable>
+  <!-- EN: Watch Tower: +{0}% -->
+  <TSA_WD_AdvBuild_AttackRangeWatchTowerTip>瞭望塔：+{0}%</TSA_WD_AdvBuild_AttackRangeWatchTowerTip>
+  <!-- EN: Too new to shell ({0} left). -->
+  <TSA_WD_AdvBuild_ReasonShellGrace>新建中，暫不可砲擊（剩餘{0}）。</TSA_WD_AdvBuild_ReasonShellGrace>
+  <!-- EN: {1} destroyed {0}. -->
+  <TSA_WD_AdvBuild_Msg_PlayerDestroyed>{1}摧毀了{0}。</TSA_WD_AdvBuild_Msg_PlayerDestroyed>
+  <!-- EN: {0} sent a crew to build a {1}. -->
+  <TSA_WD_AdvBuild_Log_BuilderLaunched>{0}派出小隊建造{1}。</TSA_WD_AdvBuild_Log_BuilderLaunched>
+  <!-- EN: {0} built a {1}. -->
+  <TSA_WD_AdvBuild_Log_Built>{0}建成了{1}。</TSA_WD_AdvBuild_Log_Built>
+  <!-- EN: {0} was destroyed. -->
+  <TSA_WD_AdvBuild_Log_Destroyed>{0}已被摧毀。</TSA_WD_AdvBuild_Log_Destroyed>
+  <!-- EN: {0} was destroyed by {1}. -->
+  <TSA_WD_AdvBuild_Log_DestroyedBy>{0}被{1}摧毀。</TSA_WD_AdvBuild_Log_DestroyedBy>
+  <!-- EN: {0} raised a {1} on reaching tier 4. -->
+  <TSA_WD_AdvBuild_Log_FreeArtillery>{0}升到4級時架設了{1}。</TSA_WD_AdvBuild_Log_FreeArtillery>
+  <!-- EN: Building crew -->
+  <TSA_WD_Traveler_AdvancedBuilder>建造小隊</TSA_WD_Traveler_AdvancedBuilder>
+  <!-- EN: Strength: {0}/{1} -->
+  <TSA_WD_AdvBuild_Inspect_Strength>戰力：{0}/{1}</TSA_WD_AdvBuild_Inspect_Strength>
+  <!-- EN: Faction: {0} -->
+  <TSA_WD_AdvBuild_Inspect_Faction>派系：{0}</TSA_WD_AdvBuild_Inspect_Faction>
+  <!-- EN: Built by Settlement: {0} -->
+  <TSA_WD_AdvBuild_Inspect_BuiltBySettlement>建造據點：{0}</TSA_WD_AdvBuild_Inspect_BuiltBySettlement>
+  <!-- EN: Reloading: {0} Days -->
+  <TSA_WD_AdvBuild_Inspect_ReloadingDays>裝填中：{0}天</TSA_WD_AdvBuild_Inspect_ReloadingDays>
+  <!-- EN: Protection from being shelled: {0} Days -->
+  <TSA_WD_AdvBuild_Inspect_ShellProtectionDays>免受砲擊保護：{0}天</TSA_WD_AdvBuild_Inspect_ShellProtectionDays>
 </LanguageData>

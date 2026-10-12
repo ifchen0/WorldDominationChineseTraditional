@@ -170,14 +170,14 @@
   <TSA_WD_Dash_EscalationTip_Garrison>據點駐軍戰力：+{0}%</TSA_WD_Dash_EscalationTip_Garrison>
   <!-- EN: Hostile expansion toward you: up to {0} tiles -->
   <TSA_WD_Dash_EscalationTip_Expand>敵對勢力向你擴張：最多{0}格</TSA_WD_Dash_EscalationTip_Expand>
-  <!-- EN: Enemy T4 mortars vs your caravans and outposts: on -->
-  <TSA_WD_Dash_EscalationTip_T4MortarOn>敵方 T4 迫擊砲攻擊你的旅隊與哨站：開</TSA_WD_Dash_EscalationTip_T4MortarOn>
-  <!-- EN: Enemy T4 mortars vs your caravans and outposts: off -->
-  <TSA_WD_Dash_EscalationTip_T4MortarOff>敵方 T4 迫擊砲攻擊你的旅隊與哨站：關</TSA_WD_Dash_EscalationTip_T4MortarOff>
-  <!-- EN: Enemy T4 anti-air vs your pods and projectiles: on -->
-  <TSA_WD_Dash_EscalationTip_T4AaOn>敵方 T4 防空攻擊你的運輸艙與投射物：開</TSA_WD_Dash_EscalationTip_T4AaOn>
-  <!-- EN: Enemy T4 anti-air vs your pods and projectiles: off -->
-  <TSA_WD_Dash_EscalationTip_T4AaOff>敵方 T4 防空攻擊你的運輸艙與投射物：關</TSA_WD_Dash_EscalationTip_T4AaOff>
+  <!-- EN: Enemy Mortar Turrets vs your caravans and outposts: on -->
+  <TSA_WD_Dash_EscalationTip_T4MortarOn>敵方迫擊砲塔攻擊你的旅隊與哨站：開</TSA_WD_Dash_EscalationTip_T4MortarOn>
+  <!-- EN: Enemy Mortar Turrets vs your caravans and outposts: off -->
+  <TSA_WD_Dash_EscalationTip_T4MortarOff>敵方迫擊砲塔攻擊你的旅隊與哨站：關</TSA_WD_Dash_EscalationTip_T4MortarOff>
+  <!-- EN: Enemy AA Turrets vs your pods and projectiles: on -->
+  <TSA_WD_Dash_EscalationTip_T4AaOn>敵方防空砲塔攻擊你的運輸艙與投射物：開</TSA_WD_Dash_EscalationTip_T4AaOn>
+  <!-- EN: Enemy AA Turrets vs your pods and projectiles: off -->
+  <TSA_WD_Dash_EscalationTip_T4AaOff>敵方防空砲塔攻擊你的運輸艙與投射物：關</TSA_WD_Dash_EscalationTip_T4AaOff>
   <!-- EN: Outpost incidents: {0} strength loss, {1}% chance per day -->
   <TSA_WD_Dash_EscalationTip_IncidentsOn>哨站事件：損失{0}戰力，每日機率{1}%</TSA_WD_Dash_EscalationTip_IncidentsOn>
   <!-- EN: Outpost incidents: off -->
@@ -428,8 +428,8 @@
   <TSA_WD_Notify_DropPodDeliveryInAaRangeTooltip>當你的某個倉庫設為運輸艙配送，且位於已啟用防空的敵對等級 4 據點防空範圍內時，在右側顯示警示。只檢查倉庫所在地塊（不檢查完整飛行路徑）。可將該倉庫改為陸路配送，或排除防空威脅。</TSA_WD_Notify_DropPodDeliveryInAaRangeTooltip>
   <!-- EN: WD: Drop Pod Delivery in range of AA -->
   <TSA_WD_Alert_DropPodDeliveryInAaRange>WD：運輸艙配送位於防空範圍內</TSA_WD_Alert_DropPodDeliveryInAaRange>
-  <!-- EN: These warehouses use drop pod delivery while inside enemy Tier 4 anti-air range: -->
-  <TSA_WD_Alert_DropPodDeliveryInAaRangeDescHeader>以下倉庫使用運輸艙配送，且位於敵方等級 4 防空範圍內：</TSA_WD_Alert_DropPodDeliveryInAaRangeDescHeader>
+  <!-- EN: These warehouses use drop pod delivery while inside enemy AA Turret range: -->
+  <TSA_WD_Alert_DropPodDeliveryInAaRangeDescHeader>以下倉庫使用運輸艙配送，且位於敵方防空砲塔範圍內：</TSA_WD_Alert_DropPodDeliveryInAaRangeDescHeader>
   <!-- EN: - {0} -->
   <TSA_WD_Alert_DropPodDeliveryInAaRangeDescLine>- {0}</TSA_WD_Alert_DropPodDeliveryInAaRangeDescLine>
   <!-- EN: Show construction insufficient-strength alert (right side) -->

@@ -97,7 +97,7 @@
   <!-- EN: {0} at {1} failed. -{2} goodwill with {3}, now at {4} -->
   <TSA_WD_GoodwillMsg_SpyOpFailure>{1}的{0}失敗。與{3}的友好度 -{2}，目前為{4}</TSA_WD_GoodwillMsg_SpyOpFailure>
   <!-- EN: Trader caravan arrived at your settlement. +{1} goodwill with {0}, now at {2} -->
-  <TSA_WD_GoodwillMsg_TraderCaravan>商隊抵達你的據點。與{0}的友好度 +{1}，目前為{2}</TSA_WD_GoodwillMsg_TraderCaravan>
+  <TSA_WD_GoodwillMsg_TraderCaravan>商隊抵達你的據點。與{0}的友好度 {1}，目前為{2}</TSA_WD_GoodwillMsg_TraderCaravan>
   <!-- EN: Embassy {3}: {1} goodwill with {0}, now at {2} -->
   <TSA_WD_GoodwillMsg_Embassy>大使館{3}：與{0}的友好度{1}，目前為{2}</TSA_WD_GoodwillMsg_Embassy>
   <!-- EN: Ordered {0} at {1} to build road to {2}. -{3} goodwill, now at {4} -->

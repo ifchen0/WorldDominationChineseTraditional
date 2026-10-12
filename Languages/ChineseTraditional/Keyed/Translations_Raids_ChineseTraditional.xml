@@ -364,8 +364,8 @@
   <TSA_WD_Raid_AllowPlayerTooltip>啟用後，範圍內的 NPC 據點可對你的殖民地地圖發動實際突襲。</TSA_WD_Raid_AllowPlayerTooltip>
   <!-- EN: Ally pull radius -->
   <TSA_WD_Raid_AllyRadius>同盟召集半徑</TSA_WD_Raid_AllyRadius>
-  <!-- EN: Base world-tile radius for same-faction and allied-faction neighbors that can join attacks or defenses. Mid/Late Game and the Tunnel Network upgrade can raise the effective radius per site. -->
-  <TSA_WD_Raid_AllyRadiusTooltip>可加入進攻或防守的同派系與同盟派系鄰近據點的基礎世界地塊半徑。中期／後期階段與「隧道網路」升級可提高各地點的有效半徑。</TSA_WD_Raid_AllyRadiusTooltip>
+  <!-- EN: Base world-tile radius for same-faction and allied-faction neighbors that can join attacks or defenses. Mid/Late Game can raise the base. Tunnel Network adds an outer ring that only pulls other outposts with Tunnel Network. -->
+  <TSA_WD_Raid_AllyRadiusTooltip>可加入進攻或防守的同派系與同盟派系鄰居的基礎世界地塊半徑。中期／後期階段可提高基礎值。「隧道網路」會增加一圈外環，只召集同樣擁有隧道網路的其他哨站。</TSA_WD_Raid_AllyRadiusTooltip>
   <!-- EN: Player Raid Cooldown -->
   <TSA_WD_Raid_CdPlayer>玩家突襲冷卻</TSA_WD_Raid_CdPlayer>
   <!-- EN: How many days must pass before your colony can be targeted again by a world-triggered raid. -->

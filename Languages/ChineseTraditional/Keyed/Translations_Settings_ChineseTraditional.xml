@@ -36,8 +36,8 @@
   <TSA_WD_BtnRaidMult>針對玩家的突襲</TSA_WD_BtnRaidMult>
   <!-- EN: Mid Game and Late Game -->
   <TSA_WD_BtnLateGame>中期與後期</TSA_WD_BtnLateGame>
-  <!-- EN: NPC Artillery (T4) -->
-  <TSA_WD_BtnT4Mortar>NPC 砲兵（T4）</TSA_WD_BtnT4Mortar>
+  <!-- EN: NPC artillery turrets -->
+  <TSA_WD_BtnT4Mortar>NPC 砲塔</TSA_WD_BtnT4Mortar>
   <!-- EN: Combat Difficulty -->
   <TSA_WD_BtnCombatDifficulty>戰鬥難度</TSA_WD_BtnCombatDifficulty>
   <!-- EN: Mid/Late Game difficulty, threat timing gates, raid pressure on the player, stage combat bonuses, arrival styles, garrison scaling, and NPC T4 mortar/AA hardware. -->
@@ -108,12 +108,12 @@
   <TSA_WD_Combat_HeaderAdvancedWorldTip>AT 鎖定玩家旅行者/旅隊，以及實驗性的 T4 重力船突襲。</TSA_WD_Combat_HeaderAdvancedWorldTip>
   <!-- EN: How much strength NPC settlements keep at home. -->
   <TSA_WD_Combat_HeaderGarrisonTip>NPC 據點在本地保留多少戰力。</TSA_WD_Combat_HeaderGarrisonTip>
-  <!-- EN: Enemy settlement mortar fire. -->
-  <TSA_WD_Combat_HeaderT4MortarTip>敵方據點的迫擊砲火力。</TSA_WD_Combat_HeaderT4MortarTip>
+  <!-- EN: Enemy Mortar Turret fire. -->
+  <TSA_WD_Combat_HeaderT4MortarTip>敵方迫擊砲塔的火力。</TSA_WD_Combat_HeaderT4MortarTip>
   <!-- EN: Enemy AA vs your drop pods and flyers. -->
   <TSA_WD_Combat_HeaderAntiAirTip>敵方防空對你的運輸艙與飛行器。</TSA_WD_Combat_HeaderAntiAirTip>
-  <!-- EN: T4 mortar / AA hardware -->
-  <TSA_WD_Combat_HeaderT4Hardware>T4 迫擊砲/防空設備</TSA_WD_Combat_HeaderT4Hardware>
+  <!-- EN: NPC Mortar / AA Turret hardware -->
+  <TSA_WD_Combat_HeaderT4Hardware>NPC 迫擊砲塔/防空砲塔設備</TSA_WD_Combat_HeaderT4Hardware>
   <!-- EN: Enable systems and tune range, damage, and accuracy. When they may fire at the player is set under Threat timing. -->
   <TSA_WD_Combat_HeaderT4HardwareTip>啟用系統並調整射程、傷害與精準度。何時可對玩家開火，請在「威脅時機」中設定。</TSA_WD_Combat_HeaderT4HardwareTip>
   <!-- EN: Tech requirements -->
@@ -134,14 +134,14 @@
   <TSA_WD_Combat_GateMaraudTip>勝利後劫掠的階段門檻。</TSA_WD_Combat_GateMaraudTip>
   <!-- EN: Stage gate for settlement-launched ambush. -->
   <TSA_WD_Combat_GateAmbushTip>據點發動埋伏的階段門檻。</TSA_WD_Combat_GateAmbushTip>
-  <!-- EN: T4 mortar vs player -->
-  <TSA_WD_Combat_GateT4Mortar>T4 迫擊砲對玩家</TSA_WD_Combat_GateT4Mortar>
-  <!-- EN: When enemy T4 settlement mortars may target the player. -->
-  <TSA_WD_Combat_GateT4MortarTip>敵方 T4 據點迫擊砲何時可以鎖定玩家。</TSA_WD_Combat_GateT4MortarTip>
-  <!-- EN: T4 anti-air vs player -->
-  <TSA_WD_Combat_GateT4AntiAir>T4 防空對玩家</TSA_WD_Combat_GateT4AntiAir>
-  <!-- EN: When enemy T4 settlement anti-air may target the player. -->
-  <TSA_WD_Combat_GateT4AntiAirTip>敵方 T4 據點防空何時可以鎖定玩家。</TSA_WD_Combat_GateT4AntiAirTip>
+  <!-- EN: NPC Mortar Turrets vs player -->
+  <TSA_WD_Combat_GateT4Mortar>NPC 迫擊砲塔對玩家</TSA_WD_Combat_GateT4Mortar>
+  <!-- EN: When enemy Mortar Turrets may target the player. -->
+  <TSA_WD_Combat_GateT4MortarTip>敵方迫擊砲塔何時可以鎖定玩家。</TSA_WD_Combat_GateT4MortarTip>
+  <!-- EN: NPC AA Turrets vs player -->
+  <TSA_WD_Combat_GateT4AntiAir>NPC 防空砲塔對玩家</TSA_WD_Combat_GateT4AntiAir>
+  <!-- EN: When enemy AA Turrets may target the player. -->
+  <TSA_WD_Combat_GateT4AntiAirTip>敵方防空砲塔何時可以鎖定玩家。</TSA_WD_Combat_GateT4AntiAirTip>
   <!-- EN: Vanguard -->
   <TSA_WD_Combat_GateVanguard>先鋒</TSA_WD_Combat_GateVanguard>
   <!-- EN: Stage gate for Forward Assault Vanguard: packs far settlements into a few strong caravans that dig in on your front line (not on the colony). -->
@@ -722,6 +722,8 @@
   <TSA_WD_WorldSetup_ToolRoadBlock>放置路障</TSA_WD_WorldSetup_ToolRoadBlock>
   <!-- EN: Place Trap -->
   <TSA_WD_WorldSetup_ToolTrap>放置陷阱</TSA_WD_WorldSetup_ToolTrap>
+  <!-- EN: Place Advanced Building -->
+  <TSA_WD_WorldSetup_ToolAdvBuilding>放置進階建築</TSA_WD_WorldSetup_ToolAdvBuilding>
   <!-- EN: Place Road -->
   <TSA_WD_WorldSetup_ToolPlaceRoad>放置道路</TSA_WD_WorldSetup_ToolPlaceRoad>
   <!-- EN: Place Bridge -->
@@ -768,8 +770,8 @@
   <TSA_WD_WorldSetup_PlaceFortifyFailed>無法放置在該處。</TSA_WD_WorldSetup_PlaceFortifyFailed>
   <!-- EN: Placed. -->
   <TSA_WD_WorldSetup_PlaceFortifyDone>已放置。</TSA_WD_WorldSetup_PlaceFortifyDone>
-  <!-- EN: Click a road block, trap, or AT turret to remove it. -->
-  <TSA_WD_WorldSetup_RemoveFortifyHint>點擊路障、陷阱或 反戰車砲塔將其移除。</TSA_WD_WorldSetup_RemoveFortifyHint>
+  <!-- EN: Click a road block, trap, AT turret, or advanced building to remove it. -->
+  <TSA_WD_WorldSetup_RemoveFortifyHint>點擊路障、陷阱、反戰車砲塔或進階建築將其移除。</TSA_WD_WorldSetup_RemoveFortifyHint>
   <!-- EN: Nothing to remove on that tile. -->
   <TSA_WD_WorldSetup_RemoveFortifyNone>該地塊沒有可移除的東西。</TSA_WD_WorldSetup_RemoveFortifyNone>
   <!-- EN: Removed fortification. -->
@@ -1286,8 +1288,16 @@
   <TSA_WD_WorldMap_ToggleTierTexts>據點等級標籤</TSA_WD_WorldMap_ToggleTierTexts>
   <!-- EN: Toggle the T1–T4 labels shown over NPC settlements. -->
   <TSA_WD_WorldMap_ToggleTierTextsTip>切換顯示在 NPC 據點上方的 T1–T4 標籤。</TSA_WD_WorldMap_ToggleTierTextsTip>
-  <!-- EN: Road blocks, traps, and AT -->
-  <TSA_WD_WorldMap_ToggleRoadBlocksAndTraps>路障、陷阱與 AT</TSA_WD_WorldMap_ToggleRoadBlocksAndTraps>
+  <!-- EN: Show offensive Strength -->
+  <TSA_WD_WorldMap_ToggleStrengthTexts>顯示進攻戰力</TSA_WD_WorldMap_ToggleStrengthTexts>
+  <!-- EN: Current Offensive Strength. Does NOT include Defensive Strength. -->
+  <TSA_WD_WorldMap_ToggleStrengthTextsTip>目前的進攻戰力。「不」包含防禦戰力。</TSA_WD_WorldMap_ToggleStrengthTextsTip>
+  <!-- EN: Settlement type icons -->
+  <TSA_WD_WorldMap_ToggleSettlementTypeIcons>據點類型圖示</TSA_WD_WorldMap_ToggleSettlementTypeIcons>
+  <!-- EN: On: subtype art. Off: faction icons. -->
+  <TSA_WD_WorldMap_ToggleSettlementTypeIconsTip>開：子類型圖案。關：派系圖示。</TSA_WD_WorldMap_ToggleSettlementTypeIconsTip>
+  <!-- EN: Road blocks, traps, AT, and buildings -->
+  <TSA_WD_WorldMap_ToggleRoadBlocksAndTraps>路障、陷阱、AT 與建築</TSA_WD_WorldMap_ToggleRoadBlocksAndTraps>
   <!-- EN: Toggle road-block, spike-trap / caltrops, and AT Turret icons on the world map. Overlay icons also hide when zoomed out. -->
   <TSA_WD_WorldMap_ToggleRoadBlocksAndTrapsTip>切換世界地圖上的路障、尖刺陷阱/鐵蒺藜與 反戰車砲塔圖示。縮小視野時疊加圖示也會隱藏。</TSA_WD_WorldMap_ToggleRoadBlocksAndTrapsTip>
   <!-- EN: Blocked tiles for NPC Fortification -->
@@ -1693,7 +1703,7 @@
   <!-- EN: Social outposts full efficiency until -->
   <TSA_WD_SkillScaling_SocialFirstBand>社交類哨站全效率上限</TSA_WD_SkillScaling_SocialFirstBand>
   <!-- EN: For recruiting, trading, and embassy outposts only. Cumulative Social counts fully up to this total, then follows the shared efficiency bands below. -->
-  <TSA_WD_SkillScaling_SocialFirstBandTip>僅適用於招募、貿易與大大大使館哨站。累計社交技能在此總值內以全效率計算，超過後套用下方共用的效率區段。</TSA_WD_SkillScaling_SocialFirstBandTip>
+  <TSA_WD_SkillScaling_SocialFirstBandTip>僅適用於招募、貿易與大使館哨站。累計社交技能在此總值內以全效率計算，超過後套用下方共用的效率區段。</TSA_WD_SkillScaling_SocialFirstBandTip>
   <!-- EN: Skill bands -->
   <TSA_WD_SkillScaling_BandsHeader>技能區段</TSA_WD_SkillScaling_BandsHeader>
   <!-- EN:  -->
@@ -2100,4 +2110,32 @@
   <TSA_WD_MidGame_OnlyFireT4MortarsAtPlayer>僅在中期階段生效時以 T4 迫擊砲攻擊玩家</TSA_WD_MidGame_OnlyFireT4MortarsAtPlayer>
   <!-- EN: Only fire T4 Anti Air at player while Mid Game is active -->
   <TSA_WD_MidGame_OnlyFireT4AntiAirAtPlayer>僅在中期階段生效時以 T4 防空攻擊玩家</TSA_WD_MidGame_OnlyFireT4AntiAirAtPlayer>
+  <!-- EN: Advanced building likelihood -->
+  <TSA_WD_Daily_WeightAdvancedBuildings>進階建築可能性</TSA_WD_Daily_WeightAdvancedBuildings>
+  <!-- EN: Likelihood that a settlement sends a crew to build an advanced building nearby: Silo, Hospital, Watch Tower, Stable, Mortar Turret or AA Turret. Each settlement has as many slots as its tier and at most one of each type. Safe settlements far from enemies build more often; threatened or recovering settlements still can, but less often and with a bias toward artillery when eligible. If chosen but no project can launch, another eligible daily action is used instead. -->
+  <TSA_WD_Daily_WeightAdvancedBuildingsTip>據點派出小隊在附近建造進階建築的可能性：糧倉、醫院、瞭望塔、馬廄、迫擊砲塔或防空砲塔。每個據點的欄位數等於其等級，每種類型最多一座。遠離敵人的安全據點較常建造；受威脅或正在恢復的據點仍可建造，但頻率較低，且符合條件時偏向建造砲塔。若選中卻無法發動任何建造計畫，會改用另一個符合條件的每日行動。</TSA_WD_Daily_WeightAdvancedBuildingsTip>
+  <!-- EN: Cooldown after advanced building -->
+  <TSA_WD_Daily_CdAdvancedBuildings>進階建築後冷卻</TSA_WD_Daily_CdAdvancedBuildings>
+  <!-- EN: Days before this settlement can start another advanced building. Does not block other action types. -->
+  <TSA_WD_Daily_CdAdvancedBuildingsTip>此據點再次開始建造進階建築前需等待的天數。不會阻擋其他類型的行動。</TSA_WD_Daily_CdAdvancedBuildingsTip>
+  <!-- EN: Ambush watch range with buildings (tiles) -->
+  <TSA_WD_Experimental_AmbushWatchRangeAssets>擁有建築時的埋伏監視範圍（格）</TSA_WD_Experimental_AmbushWatchRangeAssets>
+  <!-- EN: Watch range for settlements that own an AT Turret or advanced building. The larger of this and the plain watch range is used, so a settlement can defend its outlying assets. -->
+  <TSA_WD_Experimental_AmbushWatchRangeAssetsTip>擁有反戰車砲塔或進階建築的據點的監視範圍。取此值與一般監視範圍中較大者，讓據點能保護其外圍資產。</TSA_WD_Experimental_AmbushWatchRangeAssetsTip>
+  <!-- EN: Ambush min ratio when defending home -->
+  <TSA_WD_Experimental_AmbushSelfDefenseRatio>保衛據點本身時的埋伏最低戰力比</TSA_WD_Experimental_AmbushSelfDefenseRatio>
+  <!-- EN: Minimum (available strength / enemy strength) before a settlement without outlying assets sends an interception caravan against a caravan heading for the settlement itself. Settlements guarding an AT Turret or advanced building use lower thresholds. -->
+  <TSA_WD_Experimental_AmbushSelfDefenseRatioTip>沒有外圍資產的據點，對朝據點本身而來的旅隊派出攔截旅隊前，所需的最低（可用戰力 / 敵方戰力）比值。保護反戰車砲塔或進階建築的據點使用較低的門檻。</TSA_WD_Experimental_AmbushSelfDefenseRatioTip>
+  <!-- EN: Click an NPC settlement to place a {0} nearby. Right-click or Esc to stop. -->
+  <TSA_WD_WorldSetup_PlaceAdvBuildingHint>點擊 NPC 據點以在其附近放置{0}。按右鍵或 Esc 停止。</TSA_WD_WorldSetup_PlaceAdvBuildingHint>
+  <!-- EN: Click an NPC settlement (not player). -->
+  <TSA_WD_WorldSetup_PlaceAdvBuildingNeedNpc>請點擊 NPC 據點（非玩家）。</TSA_WD_WorldSetup_PlaceAdvBuildingNeedNpc>
+  <!-- EN: {0} already owns a {1}. -->
+  <TSA_WD_WorldSetup_PlaceAdvBuildingDuplicate>{0}已擁有{1}。</TSA_WD_WorldSetup_PlaceAdvBuildingDuplicate>
+  <!-- EN: No buildable tile within range. -->
+  <TSA_WD_WorldSetup_PlaceAdvBuildingNoTile>範圍內沒有可建造的地塊。</TSA_WD_WorldSetup_PlaceAdvBuildingNoTile>
+  <!-- EN: Placed {0} for {1} on tile {2}. -->
+  <TSA_WD_WorldSetup_PlaceAdvBuildingDone>已為{1}在地塊{2}放置{0}。</TSA_WD_WorldSetup_PlaceAdvBuildingDone>
+  <!-- EN: No advanced building defs loaded. -->
+  <TSA_WD_WorldSetup_NoAdvBuildingDefs>沒有載入任何進階建築定義。</TSA_WD_WorldSetup_NoAdvBuildingDefs>
 </LanguageData>

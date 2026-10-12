@@ -1,0 +1,27 @@
+Traditional Chinese (繁體中文) translation for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3680501610]World Domination 2.0[/url] by TSA.
+
+為 TSA 的 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3680501610]World Domination 2.0[/url] 提供繁體中文翻譯。
+
+[h2]What is translated[/h2][list]
+[*]Mod settings and the WD tab (diplomacy, outposts, world stats, action log)
+[*]Outpost types, outpost upgrades, roads, road blocks and traps
+[*]Raids, spy operations, mortar outposts, travelers, alerts, letters and quests
+[/list]
+Terms follow the vanilla Traditional Chinese translation. Translated from the English text; the bundled Simplified Chinese was used only as a reference.
+
+[h2]翻譯範圍[/h2][list]
+[*]模組設定與 WD 分頁（外交、哨站、世界統計、行動紀錄）
+[*]哨站類型、哨站升級、道路、路障與陷阱
+[*]突襲、間諜行動、砲兵哨站、旅行者、警示、信件與任務
+[/list]
+用詞依照原版遊戲的繁體中文翻譯，以英文原文為準翻譯，內附的簡體中文僅作參考。
+
+[h2]Notes[/h2][list]
+[*]Load after World Domination 2.0.
+[*]Safe to add to or remove from an existing save.
+[*]Release notes are left in English.
+[*]World Domination updates often. Text added after this translation shows in English until the translation is updated.
+[/list]
+I made this because I wanted to play World Domination and no Traditional Chinese translation existed yet. If anyone would like to take over the translation, you are welcome to.
+[hr][/hr]
+This translation was made with the help of AI tools (Claude Code). Translation files are included in the Languages folder and on [url=https://github.com/ifchen0/WorldDominationChineseTraditional]GitHub[/url] for review.

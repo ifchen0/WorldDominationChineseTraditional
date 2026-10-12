@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>World Domination 2.0 - 繁體中文翻譯</name>
+  <author>ifchen0</author>
+  <packageId>ifchen0.worlddomination.chinesetraditional</packageId>
+  <url>https://github.com/ifchen0/WorldDominationChineseTraditional</url>
+  <supportedVersions><li>1.6</li></supportedVersions>
+  <description>Traditional Chinese (繁體中文) translation for World Domination 2.0 by TSA.
+
+Translates the mod settings, the WD tab (diplomacy, outposts, world stats, action log), outpost types and upgrades, raids, spy operations, mortar outposts, travelers, alerts, letters and quests. Terms follow the vanilla Traditional Chinese translation. Release notes are left in English.
+
+Load after World Domination 2.0. Safe to add to or remove from an existing save.
+
+I made this because I wanted to play World Domination and no Traditional Chinese translation existed yet. If anyone would like to take over the translation, you are welcome to.</description>
+  <modDependencies>
+    <li><packageId>TSA.WorldDominationExperimental</packageId><displayName>World Domination 2.0</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3680501610</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter>
+    <li>TSA.WorldDominationExperimental</li>
+  </loadAfter>
+</ModMetaData>

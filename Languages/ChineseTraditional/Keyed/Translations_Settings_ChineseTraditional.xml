@@ -37,11 +37,11 @@
   <!-- EN: Mid Game and Late Game -->
   <TSA_WD_BtnLateGame>中期與後期</TSA_WD_BtnLateGame>
   <!-- EN: NPC artillery turrets -->
-  <TSA_WD_BtnT4Mortar>NPC 砲塔</TSA_WD_BtnT4Mortar>
+  <TSA_WD_BtnT4Mortar>NPC砲塔</TSA_WD_BtnT4Mortar>
   <!-- EN: Combat Difficulty -->
   <TSA_WD_BtnCombatDifficulty>戰鬥難度</TSA_WD_BtnCombatDifficulty>
   <!-- EN: Mid/Late Game difficulty, threat timing gates, raid pressure on the player, stage combat bonuses, arrival styles, garrison scaling, and NPC T4 mortar/AA hardware. -->
-  <TSA_WD_DescCombatDifficulty>中期/後期難度、威脅時機門檻、針對玩家的突襲壓力、階段戰鬥加成、抵達方式、駐軍規模，以及 NPC T4 迫擊砲/防空設備。</TSA_WD_DescCombatDifficulty>
+  <TSA_WD_DescCombatDifficulty>中期/後期難度、威脅時機門檻、針對玩家的突襲壓力、階段戰鬥加成、抵達方式、駐軍規模，以及NPC T4迫擊砲/防空設備。</TSA_WD_DescCombatDifficulty>
   <!-- EN: Economic Difficulty -->
   <TSA_WD_BtnEconomicDifficulty>經濟難度</TSA_WD_BtnEconomicDifficulty>
   <!-- EN: Outpost upkeep, skill diminishing returns, goodwill drain, and bribe silver rates by escalation stage. -->
@@ -81,7 +81,7 @@
   <!-- EN: Vanguard and Invasion -->
   <TSA_WD_Combat_HeaderVanguardAndInvasion>先鋒與入侵</TSA_WD_Combat_HeaderVanguardAndInvasion>
   <!-- EN: Strong factions act from far settlements (beyond min player distance). Vanguard packs 5–7 far sites and resettles near you; after packing, the aggressor must still have at least 8 homeland settlements active. Invasion launches 5–7 coordinated raids from far hosts without abandoning those homes. -->
-  <TSA_WD_Combat_HeaderVanguardAndInvasionTip>強大派系會從遠方據點（超過與玩家的最低距離）出手。先鋒會收拾 5–7 個遠方據點並遷到你附近重新落腳；收拾後，進攻方仍須保有至少 8 個本土據點。入侵則從遠方據點發動 5–7 場協同突襲，不會放棄這些家園。</TSA_WD_Combat_HeaderVanguardAndInvasionTip>
+  <TSA_WD_Combat_HeaderVanguardAndInvasionTip>強大派系會從遠方據點（超過與玩家的最低距離）出手。先鋒會收拾5–7個遠方據點並遷到你附近重新落腳；收拾後，進攻方仍須保有至少8個本土據點。入侵則從遠方據點發動5–7場協同突襲，不會放棄這些家園。</TSA_WD_Combat_HeaderVanguardAndInvasionTip>
   <!-- EN: Vanguard pick chance -->
   <TSA_WD_Combat_VanguardVsInvasionPickChance>選擇先鋒的機率</TSA_WD_Combat_VanguardVsInvasionPickChance>
   <!-- EN: When both Vanguard and Invasion can fire, chance to try Vanguard first. The rest of the time Invasion is tried instead. -->
@@ -89,11 +89,11 @@
   <!-- EN: After a conquest loss in a pressured cluster, Strategy may fire (fire chance) then Turtle or desperation. Not controlled by Easy/Medium/Hard presets. -->
   <TSA_WD_Combat_HeaderDesperationTip>受壓據點群因征服而失去據點後，可能觸發對策（依觸發機率），接著進行龜縮或孤注一擲。不受簡單/普通/困難預設集控制。</TSA_WD_Combat_HeaderDesperationTip>
   <!-- EN: Strong NPC factions may declare war on each other. -->
-  <TSA_WD_Combat_HeaderStrongFactionWarTip>強大的 NPC 派系之間可能互相宣戰。</TSA_WD_Combat_HeaderStrongFactionWarTip>
+  <TSA_WD_Combat_HeaderStrongFactionWarTip>強大的NPC派系之間可能互相宣戰。</TSA_WD_Combat_HeaderStrongFactionWarTip>
   <!-- EN: Caps and cooldowns for raids you launch. -->
   <TSA_WD_Combat_HeaderPlayerRaidsTip>你發動突襲的上限與冷卻。</TSA_WD_Combat_HeaderPlayerRaidsTip>
   <!-- EN: How WD raid points are limited vs the storyteller budget. -->
-  <TSA_WD_Combat_HeaderRaidClampTip>WD 突襲點數相對於故事敘述者預算的限制方式。</TSA_WD_Combat_HeaderRaidClampTip>
+  <TSA_WD_Combat_HeaderRaidClampTip>WD突襲點數相對於故事敘述者預算的限制方式。</TSA_WD_Combat_HeaderRaidClampTip>
   <!-- EN: Stage combat bonuses -->
   <TSA_WD_Combat_HeaderStageBonuses>階段戰鬥加成</TSA_WD_Combat_HeaderStageBonuses>
   <!-- EN: Extra raid pressure, growth, and range once Mid or Late is active. -->
@@ -105,15 +105,15 @@
   <!-- EN: Advanced world combat -->
   <TSA_WD_Combat_HeaderAdvancedWorld>進階世界戰鬥</TSA_WD_Combat_HeaderAdvancedWorld>
   <!-- EN: AT targeting of player travelers/caravans, and experimental T4 gravship raids. -->
-  <TSA_WD_Combat_HeaderAdvancedWorldTip>AT 鎖定玩家旅行者/旅隊，以及實驗性的 T4 重力船突襲。</TSA_WD_Combat_HeaderAdvancedWorldTip>
+  <TSA_WD_Combat_HeaderAdvancedWorldTip>AT鎖定玩家旅行者/旅隊，以及實驗性的T4重力船突襲。</TSA_WD_Combat_HeaderAdvancedWorldTip>
   <!-- EN: How much strength NPC settlements keep at home. -->
-  <TSA_WD_Combat_HeaderGarrisonTip>NPC 據點在本地保留多少戰力。</TSA_WD_Combat_HeaderGarrisonTip>
+  <TSA_WD_Combat_HeaderGarrisonTip>NPC據點在本地保留多少戰力。</TSA_WD_Combat_HeaderGarrisonTip>
   <!-- EN: Enemy Mortar Turret fire. -->
   <TSA_WD_Combat_HeaderT4MortarTip>敵方迫擊砲塔的火力。</TSA_WD_Combat_HeaderT4MortarTip>
   <!-- EN: Enemy AA vs your drop pods and flyers. -->
   <TSA_WD_Combat_HeaderAntiAirTip>敵方防空對你的運輸艙與飛行器。</TSA_WD_Combat_HeaderAntiAirTip>
   <!-- EN: NPC Mortar / AA Turret hardware -->
-  <TSA_WD_Combat_HeaderT4Hardware>NPC 迫擊砲塔/防空砲塔設備</TSA_WD_Combat_HeaderT4Hardware>
+  <TSA_WD_Combat_HeaderT4Hardware>NPC迫擊砲塔/防空砲塔設備</TSA_WD_Combat_HeaderT4Hardware>
   <!-- EN: Enable systems and tune range, damage, and accuracy. When they may fire at the player is set under Threat timing. -->
   <TSA_WD_Combat_HeaderT4HardwareTip>啟用系統並調整射程、傷害與精準度。何時可對玩家開火，請在「威脅時機」中設定。</TSA_WD_Combat_HeaderT4HardwareTip>
   <!-- EN: Tech requirements -->
@@ -135,11 +135,11 @@
   <!-- EN: Stage gate for settlement-launched ambush. -->
   <TSA_WD_Combat_GateAmbushTip>據點發動埋伏的階段門檻。</TSA_WD_Combat_GateAmbushTip>
   <!-- EN: NPC Mortar Turrets vs player -->
-  <TSA_WD_Combat_GateT4Mortar>NPC 迫擊砲塔對玩家</TSA_WD_Combat_GateT4Mortar>
+  <TSA_WD_Combat_GateT4Mortar>NPC迫擊砲塔對玩家</TSA_WD_Combat_GateT4Mortar>
   <!-- EN: When enemy Mortar Turrets may target the player. -->
   <TSA_WD_Combat_GateT4MortarTip>敵方迫擊砲塔何時可以鎖定玩家。</TSA_WD_Combat_GateT4MortarTip>
   <!-- EN: NPC AA Turrets vs player -->
-  <TSA_WD_Combat_GateT4AntiAir>NPC 防空砲塔對玩家</TSA_WD_Combat_GateT4AntiAir>
+  <TSA_WD_Combat_GateT4AntiAir>NPC防空砲塔對玩家</TSA_WD_Combat_GateT4AntiAir>
   <!-- EN: When enemy AA Turrets may target the player. -->
   <TSA_WD_Combat_GateT4AntiAirTip>敵方防空砲塔何時可以鎖定玩家。</TSA_WD_Combat_GateT4AntiAirTip>
   <!-- EN: Vanguard -->
@@ -149,7 +149,7 @@
   <!-- EN: Invasion -->
   <TSA_WD_Combat_GateInvasion>入侵</TSA_WD_Combat_GateInvasion>
   <!-- EN: Stage gate for Forward Assault Invasion (5–7 coordinated raids from far hosts; homes stay). Ignores normal raid cooldown and min raid ratio. -->
-  <TSA_WD_Combat_GateInvasionTip>前線攻勢「入侵」的階段門檻（從遠方據點發動 5–7 場協同突襲；家園保留）。忽略一般突襲冷卻與最低突襲比率。</TSA_WD_Combat_GateInvasionTip>
+  <TSA_WD_Combat_GateInvasionTip>前線攻勢「入侵」的階段門檻（從遠方據點發動5–7場協同突襲；家園保留）。忽略一般突襲冷卻與最低突襲比率。</TSA_WD_Combat_GateInvasionTip>
   <!-- EN: Fall back to Invasion if Vanguard cluster fails -->
   <TSA_WD_Combat_FallBackToInvasion>先鋒據點群失敗時改為入侵</TSA_WD_Combat_FallBackToInvasion>
   <!-- EN: When Vanguard cannot reserve a settlement cluster, attempt Invasion instead (if the Invasion gate also passes). -->
@@ -165,7 +165,7 @@
   <!-- EN: Vanguard strongholds (min) -->
   <TSA_WD_Combat_VanguardFoundSitesMin>先鋒據守點（最少）</TSA_WD_Combat_VanguardFoundSitesMin>
   <!-- EN: Minimum number of dig-in sites (and merged caravans) per Vanguard event. Packs still abandon 5–7 homes, but strength folds into these few fists. -->
-  <TSA_WD_Combat_VanguardFoundSitesMinTip>每次先鋒事件的最少據守點數（以及合併旅隊數）。仍會放棄 5–7 個家園，但戰力會集中到這幾支主力。</TSA_WD_Combat_VanguardFoundSitesMinTip>
+  <TSA_WD_Combat_VanguardFoundSitesMinTip>每次先鋒事件的最少據守點數（以及合併旅隊數）。仍會放棄5–7個家園，但戰力會集中到這幾支主力。</TSA_WD_Combat_VanguardFoundSitesMinTip>
   <!-- EN: Vanguard strongholds (max) -->
   <TSA_WD_Combat_VanguardFoundSitesMax>先鋒據守點（最多）</TSA_WD_Combat_VanguardFoundSitesMax>
   <!-- EN: Maximum dig-in sites per Vanguard event. Sites sit one free tile apart. -->
@@ -185,13 +185,13 @@
   <!-- EN: Turtle consolidate (daily) -->
   <TSA_WD_Combat_TurtleHeader>龜縮整併（每日）</TSA_WD_Combat_TurtleHeader>
   <!-- EN: Daily: threatened clusters pack weak T1/T2 sites into a T4 hub (overflow to nearby T3s), promote by strength, and fortify. Separate from Strategy on Settlement Loss. -->
-  <TSA_WD_Combat_HeaderTurtleTip>每日：受威脅的據點群會把弱小的 T1/T2 據點收拾整併到一個 T4 核心據點（滿了則分流到附近的 T3），依戰力提升等級並設防。與據點失守對策分開運作。</TSA_WD_Combat_HeaderTurtleTip>
+  <TSA_WD_Combat_HeaderTurtleTip>每日：受威脅的據點群會把弱小的T1/T2據點收拾整併到一個T4核心據點（滿了則分流到附近的T3），依戰力提升等級並設防。與據點失守對策分開運作。</TSA_WD_Combat_HeaderTurtleTip>
   <!-- EN: Stage gate for daily turtle consolidate. Always = from game start. Never = off. -->
   <TSA_WD_Combat_GateTurtleTip>每日龜縮整併的階段門檻。總是＝從遊戲開始。永不＝關閉。</TSA_WD_Combat_GateTurtleTip>
   <!-- EN: Isolation pressure -->
   <TSA_WD_Combat_IsolationPressureHeader>孤立壓力</TSA_WD_Combat_IsolationPressureHeader>
   <!-- EN: When fewer than three hostile factions can reach your colonies, one eligible faction may be forced to found 1–2 settlements near you. Per-faction cooldown. -->
-  <TSA_WD_Combat_IsolationPressureHeaderTip>能抵達你殖民地的敵對派系少於三個時，可能強制一個符合條件的派系在你附近建立 1–2 個據點。各派系分別冷卻。</TSA_WD_Combat_IsolationPressureHeaderTip>
+  <TSA_WD_Combat_IsolationPressureHeaderTip>能抵達你殖民地的敵對派系少於三個時，可能強制一個符合條件的派系在你附近建立1–2個據點。各派系分別冷卻。</TSA_WD_Combat_IsolationPressureHeaderTip>
   <!-- EN: Stage gate for Isolation Pressure. Always = from game start. Never = off. Difficulty presets do not change this. -->
   <TSA_WD_Combat_GateIsolationPressureTip>孤立壓力的階段門檻。總是＝從遊戲開始。永不＝關閉。難度預設集不會更改此項。</TSA_WD_Combat_GateIsolationPressureTip>
   <!-- EN: Per-faction cooldown -->
@@ -201,7 +201,7 @@
   <!-- EN: Enable turtle consolidate -->
   <TSA_WD_Combat_TurtleEnable>啟用龜縮整併</TSA_WD_Combat_TurtleEnable>
   <!-- EN: When a faction's connected cluster is under pressure, weak outer T1/T2 sites pack into a T4 hub (overflow to nearby T3s once the T4 is full). Deposits promote hub tier by strength. Uses its own per-faction cooldown; at most one cluster per day. -->
-  <TSA_WD_Combat_TurtleEnableTooltip>派系相連的據點群受到壓力時，外圍弱小的 T1/T2 據點會收拾整併到一個 T4 核心據點（T4 滿了之後分流到附近的 T3）。投入的戰力會提升核心據點的等級。使用獨立的各派系冷卻；每天最多一個據點群。</TSA_WD_Combat_TurtleEnableTooltip>
+  <TSA_WD_Combat_TurtleEnableTooltip>派系相連的據點群受到壓力時，外圍弱小的T1/T2據點會收拾整併到一個T4核心據點（T4滿了之後分流到附近的T3）。投入的戰力會提升核心據點的等級。使用獨立的各派系冷卻；每天最多一個據點群。</TSA_WD_Combat_TurtleEnableTooltip>
   <!-- EN: Daily chance -->
   <TSA_WD_Combat_TurtleChance>每日機率</TSA_WD_Combat_TurtleChance>
   <!-- EN: Daily chance to evaluate and launch a turtle consolidation for the single best-scoring threatened cluster. -->
@@ -213,7 +213,7 @@
   <!-- EN: Minimum cluster size -->
   <TSA_WD_Combat_TurtleMinCluster>最小據點群規模</TSA_WD_Combat_TurtleMinCluster>
   <!-- EN: A connected cluster needs at least this many settlements to consolidate. Sites link when within 20 tiles of each other. -->
-  <TSA_WD_Combat_TurtleMinClusterTooltip>相連的據點群至少需要這麼多據點才能整併。彼此相距 20 格以內的據點視為相連。</TSA_WD_Combat_TurtleMinClusterTooltip>
+  <TSA_WD_Combat_TurtleMinClusterTooltip>相連的據點群至少需要這麼多據點才能整併。彼此相距20格以內的據點視為相連。</TSA_WD_Combat_TurtleMinClusterTooltip>
   <!-- EN: Max leaves packed -->
   <TSA_WD_Combat_TurtleMaxPack>最多收拾的外圍據點</TSA_WD_Combat_TurtleMaxPack>
   <!-- EN: Maximum outer settlements that pack up and feed their strength into the hub. -->
@@ -221,11 +221,11 @@
   <!-- EN: Hostile pressure needed -->
   <TSA_WD_Combat_TurtlePressure>所需敵對壓力</TSA_WD_Combat_TurtlePressure>
   <!-- EN: Number of hostile settlements or player colonies/outposts within 15 tiles of any site in a cluster required to consolidate. Allied cluster membership links sites within 20 tiles. -->
-  <TSA_WD_Combat_TurtlePressureTooltip>據點群中任一據點 15 格內需要有這麼多敵對據點或玩家殖民地/哨站，才會整併。同盟的據點群成員以 20 格內相連。</TSA_WD_Combat_TurtlePressureTooltip>
+  <TSA_WD_Combat_TurtlePressureTooltip>據點群中任一據點15格內需要有這麼多敵對據點或玩家殖民地/哨站，才會整併。同盟的據點群成員以20格內相連。</TSA_WD_Combat_TurtlePressureTooltip>
   <!-- EN: Regional pressure ratio -->
   <TSA_WD_Combat_TurtlePressureRatio>區域壓力比率</TSA_WD_Combat_TurtlePressureRatio>
   <!-- EN: Hostile offensive strength within 15 tiles of any site in the cluster, divided by the cluster's own offensive strength. Allied sites form a cluster when linked within 20 tiles. Daily Turtle and Strategy on Settlement Loss both require this ratio (e.g. 400% = hostiles are 4× as strong as the cluster). -->
-  <TSA_WD_Combat_TurtlePressureRatioTooltip>據點群中任一據點 15 格內的敵對進攻戰力，除以據點群自身的進攻戰力。同盟據點在 20 格內相連時構成據點群。每日龜縮與據點失守對策都需要達到此比率（例如 400%＝敵對方戰力為據點群的 4×）。</TSA_WD_Combat_TurtlePressureRatioTooltip>
+  <TSA_WD_Combat_TurtlePressureRatioTooltip>據點群中任一據點15格內的敵對進攻戰力，除以據點群自身的進攻戰力。同盟據點在20格內相連時構成據點群。每日龜縮與據點失守對策都需要達到此比率（例如400%＝敵對方戰力為據點群的4×）。</TSA_WD_Combat_TurtlePressureRatioTooltip>
   <!-- EN: Notify when turtle consolidate launches -->
   <TSA_WD_Combat_TurtleNotify>龜縮整併發動時通知</TSA_WD_Combat_TurtleNotify>
   <!-- EN: Send a letter when a nearby faction consolidates and fortifies a hub. -->
@@ -295,19 +295,19 @@
   <!-- EN: Reset this page to Defaults -->
   <TSA_WD_Daily_Reset>將本頁重設為預設值</TSA_WD_Daily_Reset>
   <!-- EN: Actions per day added for each T1 Settlement. -->
-  <TSA_WD_Daily_Tier1Tip>每個 T1 據點增加的每日行動數。</TSA_WD_Daily_Tier1Tip>
+  <TSA_WD_Daily_Tier1Tip>每個T1據點增加的每日行動數。</TSA_WD_Daily_Tier1Tip>
   <!-- EN: Actions per day added for each T2 Settlement. -->
-  <TSA_WD_Daily_Tier2Tip>每個 T2 據點增加的每日行動數。</TSA_WD_Daily_Tier2Tip>
+  <TSA_WD_Daily_Tier2Tip>每個T2據點增加的每日行動數。</TSA_WD_Daily_Tier2Tip>
   <!-- EN: Actions per day added for each T3 Settlement. -->
-  <TSA_WD_Daily_Tier3Tip>每個 T3 據點增加的每日行動數。</TSA_WD_Daily_Tier3Tip>
+  <TSA_WD_Daily_Tier3Tip>每個T3據點增加的每日行動數。</TSA_WD_Daily_Tier3Tip>
   <!-- EN: Actions per day added for each T4 Settlement. -->
-  <TSA_WD_Daily_Tier4Tip>每個 T4 據點增加的每日行動數。</TSA_WD_Daily_Tier4Tip>
+  <TSA_WD_Daily_Tier4Tip>每個T4據點增加的每日行動數。</TSA_WD_Daily_Tier4Tip>
   <!-- EN: Develop likelihood -->
   <TSA_WD_Daily_WeightGrow>發展可能性</TSA_WD_Daily_WeightGrow>
   <!-- EN: Likelihood of a near-cap settlement to upgrade its tier or found a new settlement. Only rolls when strength is at least 95% of the tier maximum. -->
-  <TSA_WD_Daily_WeightGrowTip>接近上限的據點提升等級或建立新據點的可能性。只有在戰力達到等級上限的 95% 以上時才會擲骰。</TSA_WD_Daily_WeightGrowTip>
+  <TSA_WD_Daily_WeightGrowTip>接近上限的據點提升等級或建立新據點的可能性。只有在戰力達到等級上限的95% 以上時才會擲骰。</TSA_WD_Daily_WeightGrowTip>
   <!-- EN: Actions at 95-100% of tier max strength -->
-  <TSA_WD_Daily_HeaderNearCapActions>戰力達等級上限 95-100% 時的行動</TSA_WD_Daily_HeaderNearCapActions>
+  <TSA_WD_Daily_HeaderNearCapActions>戰力達等級上限95-100% 時的行動</TSA_WD_Daily_HeaderNearCapActions>
   <!-- EN: Include Develop in the percentages above -->
   <TSA_WD_Daily_IncludeDevelopInPercent>將發展計入上方百分比</TSA_WD_Daily_IncludeDevelopInPercent>
   <!-- EN: Settings menu only. When on, Develop is counted in the percentages next to the usual action sliders. In-game rolls are unchanged: Develop only competes when a settlement is near its tier max. -->
@@ -341,7 +341,7 @@
   <!-- EN: Days before this settlement can launch another trader caravan. Does not block other action types. -->
   <TSA_WD_Daily_CdTraderTip>此據點再次派出商隊前的天數。不會阻擋其他類型的行動。</TSA_WD_Daily_CdTraderTip>
   <!-- EN: Action likelihood weights, NPC fortify, and action cooldowns. Daily action counts and capacity are under Growth & Expansion. -->
-  <TSA_WD_DescDailyActions>行動可能性權重、NPC 設防與行動冷卻。每日行動數與容量位於「成長與擴張」。</TSA_WD_DescDailyActions>
+  <TSA_WD_DescDailyActions>行動可能性權重、NPC設防與行動冷卻。每日行動數與容量位於「成長與擴張」。</TSA_WD_DescDailyActions>
   <!-- EN: How quickly do settlements grow? Daily action shares and capacity per tier. Expansion distance and saturation caps. -->
   <TSA_WD_DescGrowthExpand>據點成長的速度有多快？各等級的每日行動配額與容量。擴張距離與飽和上限。</TSA_WD_DescGrowthExpand>
   <!-- EN: Random diplomacy, revolt chance, goodwill cap and vanilla goodwill tweaks, allied raid orders, ordered roads, buy settlement, faction investment, and leader/underdog/zeal/coalition buffs. Strong war, forward assault, and desperation live under Combat Difficulty. -->
@@ -351,23 +351,23 @@
   <!-- EN: How strong settlement garrisons are by tier, and how much they weaken when a settlement is depleted. -->
   <TSA_WD_DescGarrison>各等級據點駐軍的強度，以及據點耗損時削弱多少。</TSA_WD_DescGarrison>
   <!-- EN: KCSG layout tweaks when WD generates settlement assault and outpost defense maps. Per-faction assault eligibility is set in World Setup → Allegiances. -->
-  <TSA_WD_DescBaseGeneration>WD 生成據點突擊與哨站防禦地圖時的 KCSG 配置調整。各派系是否可突擊在「世界設定 → 陣營」中設定。</TSA_WD_DescBaseGeneration>
+  <TSA_WD_DescBaseGeneration>WD生成據點突擊與哨站防禦地圖時的KCSG配置調整。各派系是否可突擊在「世界設定 → 陣營」中設定。</TSA_WD_DescBaseGeneration>
   <!-- EN: Configure the baseline amount a Mining Outpost can get per stone/ore based on the Mining Skill level. -->
   <TSA_WD_DescMiningBaselines>依採礦技能等級，設定採礦哨站每種石材/礦石可獲得的基準量。</TSA_WD_DescMiningBaselines>
   <!-- EN: Toggle which world domination events generate notifications. -->
-  <TSA_WD_DescNotifications>切換哪些 World Domination 事件會產生通知。</TSA_WD_DescNotifications>
+  <TSA_WD_DescNotifications>切換哪些World Domination事件會產生通知。</TSA_WD_DescNotifications>
   <!-- EN: Food consumption, production, logistics range, and efficiency for outposts. -->
   <TSA_WD_DescOutpostFood>哨站的食物消耗、生產、物流範圍與效率。</TSA_WD_DescOutpostFood>
   <!-- EN: Outpost establishment, production, academy/experts, food logistics, and after-conquest founding. Player mortar/AA is under Player Artillery. -->
   <TSA_WD_DescOutpostSettings>哨站建立、生產、學院/專家、食物物流，以及征服後建立據點。玩家迫擊砲/防空位於「玩家砲兵」。</TSA_WD_DescOutpostSettings>
   <!-- EN: View the World Domination update notes and changelog. -->
-  <TSA_WD_DescUpdateNotes>檢視 World Domination 更新說明與變更紀錄。</TSA_WD_DescUpdateNotes>
+  <TSA_WD_DescUpdateNotes>檢視World Domination更新說明與變更紀錄。</TSA_WD_DescUpdateNotes>
   <!-- EN: Configure how raid points are multiplied, whether your outposts may be attacked and whether you want storyteller raids. -->
   <TSA_WD_DescRaidMult>設定突襲點數的倍率、你的哨站是否可能遭受攻擊，以及是否要故事敘述者突襲。</TSA_WD_DescRaidMult>
   <!-- EN: Configure Mid Game and Late Game pushback once you grow strong: thresholds, biased raids, faster growth, expansion creep, goodwill drain, T4 mortars, and outpost incidents. -->
-  <TSA_WD_DescLateGame>設定你變強後的中期與後期反制：門檻、偏向性突襲、加速成長、擴張蔓延、友好度流失、T4 迫擊砲與哨站事件。</TSA_WD_DescLateGame>
+  <TSA_WD_DescLateGame>設定你變強後的中期與後期反制：門檻、偏向性突襲、加速成長、擴張蔓延、友好度流失、T4迫擊砲與哨站事件。</TSA_WD_DescLateGame>
   <!-- EN: Configure enemy tier-4 settlement mortars and anti-air: whether they fire, whether they may target you, and their own ranges, cooldowns, damage and accuracy. -->
-  <TSA_WD_DescT4Mortar>設定敵方 T4 據點的迫擊砲與防空：是否開火、是否可鎖定你，以及其射程、冷卻、傷害與精準度。</TSA_WD_DescT4Mortar>
+  <TSA_WD_DescT4Mortar>設定敵方T4據點的迫擊砲與防空：是否開火、是否可鎖定你，以及其射程、冷卻、傷害與精準度。</TSA_WD_DescT4Mortar>
   <!-- EN: Outpost mortar, anti-air, and Rapid Response combat logic (damage, range, cooldowns, hit bands, intercept strength). Travel speeds for walking travelers, drop pods, and Interception Caravans are under Caravans and Trade. -->
   <TSA_WD_DescPlayerArtillery>哨站迫擊砲、防空與快速反應的戰鬥邏輯（傷害、射程、冷卻、命中區間、攔截戰力）。步行旅行者、運輸艙與攔截旅隊的移動速度位於「旅隊與交易」。</TSA_WD_DescPlayerArtillery>
   <!-- EN: Restore all mod settings to defaults. -->
@@ -375,13 +375,13 @@
   <!-- EN: Success and failure likelihoods, cooldowns, and skill impact for sabotage missions. -->
   <TSA_WD_DescSabotage>破壞任務的成功與失敗可能性、冷卻與技能影響。</TSA_WD_DescSabotage>
   <!-- EN: How likely shall it be for T1, T2, T3, T4 settlements to be created at initial world generation? -->
-  <TSA_WD_DescWorldGen>初始世界生成時，T1、T2、T3、T4 據點出現的可能性各為多少？</TSA_WD_DescWorldGen>
+  <TSA_WD_DescWorldGen>初始世界生成時，T1、T2、T3、T4據點出現的可能性各為多少？</TSA_WD_DescWorldGen>
   <!-- EN: Configure simulated raid outcomes: win chance curves, losses, and the minimum strength ratio needed to attack. Default curve favors defenders (~35% attacker win at equal strength). Travel strength loss while moving is under Caravans. -->
-  <TSA_WD_DescWorldRaids>設定模擬突襲結果：勝率曲線、損失，以及發動攻擊所需的最低戰力比率。預設曲線偏向防守方（戰力相等時進攻方勝率約 35%）。移動中的戰力損耗位於「旅隊」。</TSA_WD_DescWorldRaids>
+  <TSA_WD_DescWorldRaids>設定模擬突襲結果：勝率曲線、損失，以及發動攻擊所需的最低戰力比率。預設曲線偏向防守方（戰力相等時進攻方勝率約35%）。移動中的戰力損耗位於「旅隊」。</TSA_WD_DescWorldRaids>
   <!-- EN: Travel attrition, water pathing for WD caravans, trader caravans, player colony trader spacing, outpost delivery costs, and storyteller trader blocking. Water pathing is also set by Setting presets → Performance. -->
-  <TSA_WD_DescCaravans>移動耗損、WD 旅隊的水路尋路、商隊、玩家殖民地商隊間隔、哨站配送費用，以及阻擋故事敘述者商人。水路尋路也可由「設定預設集 → 效能」設定。</TSA_WD_DescCaravans>
+  <TSA_WD_DescCaravans>移動耗損、WD旅隊的水路尋路、商隊、玩家殖民地商隊間隔、哨站配送費用，以及阻擋故事敘述者商人。水路尋路也可由「設定預設集 → 效能」設定。</TSA_WD_DescCaravans>
   <!-- EN: World actions and raid logic experiments, world-map icon zoom behavior, overlay hold key, NPC fortify travelers, traveler pollution damage, and pollution pathfinding toggles. -->
-  <TSA_WD_DescExperimental>世界行動與突襲邏輯實驗、世界地圖圖示縮放行為、疊加層按住鍵、NPC 設防旅行者、旅行者汙染傷害，以及汙染尋路開關。</TSA_WD_DescExperimental>
+  <TSA_WD_DescExperimental>世界行動與突襲邏輯實驗、世界地圖圖示縮放行為、疊加層按住鍵、NPC設防旅行者、旅行者汙染傷害，以及汙染尋路開關。</TSA_WD_DescExperimental>
   <!-- EN: Setting presets -->
   <TSA_WD_HeaderImportant>設定預設集</TSA_WD_HeaderImportant>
   <!-- EN: Setting presets -->
@@ -399,7 +399,7 @@
   <!-- EN: Performance -->
   <TSA_WD_Important_Performance>效能</TSA_WD_Important_Performance>
   <!-- EN: Preset for pathfinding cost, water travel, enemy T4 artillery, interceptor scan rate, max planet settlements, and NPC ambush interceptor cap. Click Apply to write only these values. -->
-  <TSA_WD_Important_PerformanceTip>尋路成本、水路移動、敵方 T4 砲兵、攔截者掃描頻率、星球據點上限與 NPC 埋伏攔截者上限的預設集。點擊「套用」只會寫入這些數值。</TSA_WD_Important_PerformanceTip>
+  <TSA_WD_Important_PerformanceTip>尋路成本、水路移動、敵方T4砲兵、攔截者掃描頻率、星球據點上限與NPC埋伏攔截者上限的預設集。點擊「套用」只會寫入這些數值。</TSA_WD_Important_PerformanceTip>
   <!-- EN: Difficulty -->
   <TSA_WD_Important_Difficulty>難度</TSA_WD_Important_Difficulty>
   <!-- EN: Preset for raid pressure on you, storyteller strength clamp, daily raid weight, Combat Difficulty threat gates, and Mid/Late escalation. Click Apply to write only these values. Edit details in Combat Difficulty and Economic Difficulty. -->
@@ -419,11 +419,11 @@
   <!-- EN: Reduced Performance -->
   <TSA_WD_Important_Perf_High>較低效能</TSA_WD_Important_Perf_High>
   <!-- EN: Cheapest pathfinding (crow-flies), no water routes, enemy T4 artillery off, slower AA scans, shorter world searches, max 200 settlements, NPC ambush interceptor cap 4. -->
-  <TSA_WD_Important_Perf_LowDesc>最省的尋路（直線距離）、無水路、關閉敵方 T4 砲兵、較慢的防空掃描、較短的世界搜尋、據點上限 200、NPC 埋伏攔截者上限 4。</TSA_WD_Important_Perf_LowDesc>
+  <TSA_WD_Important_Perf_LowDesc>最省的尋路（直線距離）、無水路、關閉敵方T4砲兵、較慢的防空掃描、較短的世界搜尋、據點上限200、NPC埋伏攔截者上限4。</TSA_WD_Important_Perf_LowDesc>
   <!-- EN: Default balance of path accuracy, water travel, interceptor scan rate, max 400 settlements, and NPC ambush interceptor cap 8. -->
-  <TSA_WD_Important_Perf_MediumDesc>路徑精準度、水路移動與攔截者掃描頻率的預設平衡，據點上限 400，NPC 埋伏攔截者上限 8。</TSA_WD_Important_Perf_MediumDesc>
+  <TSA_WD_Important_Perf_MediumDesc>路徑精準度、水路移動與攔截者掃描頻率的預設平衡，據點上限400，NPC埋伏攔截者上限8。</TSA_WD_Important_Perf_MediumDesc>
   <!-- EN: More accurate caravan path prep (80%), faster interceptor scans, water travel on, max 800 settlements, NPC ambush interceptors uncapped. -->
-  <TSA_WD_Important_Perf_HighDesc>更精準的旅隊路徑預處理（80%）、更快的攔截者掃描、開啟水路移動、據點上限 800、NPC 埋伏攔截者不設上限。</TSA_WD_Important_Perf_HighDesc>
+  <TSA_WD_Important_Perf_HighDesc>更精準的旅隊路徑預處理（80%）、更快的攔截者掃描、開啟水路移動、據點上限800、NPC埋伏攔截者不設上限。</TSA_WD_Important_Perf_HighDesc>
   <!-- EN: Easy Difficulty -->
   <TSA_WD_Important_Diff_Easy>簡單難度</TSA_WD_Important_Diff_Easy>
   <!-- EN: Medium Difficulty -->
@@ -431,11 +431,11 @@
   <!-- EN: Hard Difficulty -->
   <TSA_WD_Important_Diff_Hard>困難難度</TSA_WD_Important_Diff_Hard>
   <!-- EN: Longer raid cooldowns, fewer raids, weaker storyteller clamp (50–150%), raid weight 100. Threat stage gates Never (ToO, T4 vs you, Vanguard/Invasion, desperation, strong war). Mid/Late escalation off. Outpost skill diminishing returns off. Drop pod transport component cost off. -->
-  <TSA_WD_Important_Diff_EasyDesc>較長的突襲冷卻、較少突襲、較弱的故事敘述者限制（50–150%）、突襲權重 100。威脅階段門檻為「永不」（機會目標、T4 對你、先鋒/入侵、孤注一擲、強權派系戰爭）。關閉中期/後期升級。關閉哨站技能收益遞減。關閉運輸艙運送的零件成本。</TSA_WD_Important_Diff_EasyDesc>
+  <TSA_WD_Important_Diff_EasyDesc>較長的突襲冷卻、較少突襲、較弱的故事敘述者限制（50–150%）、突襲權重100。威脅階段門檻為「永不」（機會目標、T4對你、先鋒/入侵、孤注一擲、強權派系戰爭）。關閉中期/後期升級。關閉哨站技能收益遞減。關閉運輸艙運送的零件成本。</TSA_WD_Important_Diff_EasyDesc>
   <!-- EN: Default raid pressure and raid weight 200. Threat stage gates From Mid. Mid Game at 8% share or 4,000 outpost strength; Late Game at 14% or 7,500. Outpost skill diminishing returns on with default bands. Drop pod transport component cost on. -->
-  <TSA_WD_Important_Diff_MediumDesc>預設突襲壓力，突襲權重 200。威脅階段門檻為「中期起」。中期於 8% 佔比或 4,000 哨站戰力時開始；後期於 14% 或 7,500。開啟哨站技能收益遞減（預設區間）。開啟運輸艙運送的零件成本。</TSA_WD_Important_Diff_MediumDesc>
+  <TSA_WD_Important_Diff_MediumDesc>預設突襲壓力，突襲權重200。威脅階段門檻為「中期起」。中期於8% 佔比或4,000哨站戰力時開始；後期於14% 或7,500。開啟哨站技能收益遞減（預設區間）。開啟運輸艙運送的零件成本。</TSA_WD_Important_Diff_MediumDesc>
   <!-- EN: Shorter cooldowns, more raids allowed, stronger storyteller clamp (100–300%), raid weight 200 (same as Medium). Threat stage gates Always. Same Mid/Late timing as Medium, but Late Game hits harder. Outpost skill diminishing returns on with default bands. Drop pod transport component cost on. -->
-  <TSA_WD_Important_Diff_HardDesc>較短的冷卻、允許更多突襲、較強的故事敘述者限制（100–300%）、突襲權重 200（與普通相同）。威脅階段門檻為「總是」。中期/後期時機與普通相同，但後期打得更兇。開啟哨站技能收益遞減（預設區間）。開啟運輸艙運送的零件成本。</TSA_WD_Important_Diff_HardDesc>
+  <TSA_WD_Important_Diff_HardDesc>較短的冷卻、允許更多突襲、較強的故事敘述者限制（100–300%）、突襲權重200（與普通相同）。威脅階段門檻為「總是」。中期/後期時機與普通相同，但後期打得更兇。開啟哨站技能收益遞減（預設區間）。開啟運輸艙運送的零件成本。</TSA_WD_Important_Diff_HardDesc>
   <!-- EN: Reset this page to Defaults -->
   <TSA_WD_PlayerArtillery_Reset>將本頁重設為預設值</TSA_WD_PlayerArtillery_Reset>
   <!-- EN: View -->
@@ -471,7 +471,7 @@
   <!-- EN: Tier 4 (Citadel) Multiplier -->
   <TSA_WD_Garrison_T4>T4（要塞）倍率</TSA_WD_Garrison_T4>
   <!-- EN: These options tweak WD/KCSG generation when it runs. Outpost defense maps always use WD layouts. NPC assault maps use WD only for factions with MapGen enabled in World Setup → Allegiances. -->
-  <TSA_WD_BaseGen_Intro>這些選項會在 WD/KCSG 生成執行時調整生成結果。哨站防禦地圖一律使用 WD 配置。NPC 突擊地圖只對在「世界設定 → 陣營」中啟用 MapGen 的派系使用 WD。</TSA_WD_BaseGen_Intro>
+  <TSA_WD_BaseGen_Intro>這些選項會在WD/KCSG生成執行時調整生成結果。哨站防禦地圖一律使用WD配置。NPC突擊地圖只對在「世界設定 → 陣營」中啟用MapGen的派系使用WD。</TSA_WD_BaseGen_Intro>
   <!-- EN: Terrain prep -->
   <TSA_WD_BaseGen_HeaderTerrainPrep>地形整備</TSA_WD_BaseGen_HeaderTerrainPrep>
   <!-- EN: Adaptive terrain prep (swamp / rock) -->
@@ -499,7 +499,7 @@
   <!-- EN: Remap farm soil to map ground -->
   <TSA_WD_BaseGen_RemapFarmSoil>將農地土壤替換為地圖地面</TSA_WD_BaseGen_RemapFarmSoil>
   <!-- EN: On settlement assault and outpost defense maps, replaces layout Soil and SoilRich with the map's dominant fertile walkable terrain. -->
-  <TSA_WD_BaseGen_RemapFarmSoilTip>在據點突擊與哨站防禦地圖上，將配置中的 Soil 與 SoilRich 替換為地圖上主要的可通行肥沃地形。</TSA_WD_BaseGen_RemapFarmSoilTip>
+  <TSA_WD_BaseGen_RemapFarmSoilTip>在據點突擊與哨站防禦地圖上，將配置中的Soil與SoilRich替換為地圖上主要的可通行肥沃地形。</TSA_WD_BaseGen_RemapFarmSoilTip>
   <!-- EN: Fertile ground under crops -->
   <TSA_WD_BaseGen_FertileUnderCrops>作物下方使用肥沃地面</TSA_WD_BaseGen_FertileUnderCrops>
   <!-- EN: On settlement assault and outpost defense maps, places crop symbols on the map's dominant fertile ground before the plant is spawned. -->
@@ -511,7 +511,7 @@
   <!-- EN: Remap layout trees to biome -->
   <TSA_WD_BaseGen_RemapTrees>將配置樹木替換為生態系統樹種</TSA_WD_BaseGen_RemapTrees>
   <!-- EN: On settlement assault and outpost defense maps, swaps Oak/Birch/Maple layout placeholders to the biome's 1st/2nd/3rd most common trees. -->
-  <TSA_WD_BaseGen_RemapTreesTip>在據點突擊與哨站防禦地圖上，將配置中的橡樹/樺樹/楓樹佔位物替換為該生態系統第 1/2/3 常見的樹種。</TSA_WD_BaseGen_RemapTreesTip>
+  <TSA_WD_BaseGen_RemapTreesTip>在據點突擊與哨站防禦地圖上，將配置中的橡樹/樺樹/楓樹佔位物替換為該生態系統第1/2/3常見的樹種。</TSA_WD_BaseGen_RemapTreesTip>
   <!-- EN: On settlement assault and outpost defense maps, spawns a small herd of wild animals around pen markers in the layout. -->
   <TSA_WD_BaseGen_SpawnPenLivestockTip>在據點突擊與哨站防禦地圖上，於配置中的畜欄標記周圍生成一小群野生動物。</TSA_WD_BaseGen_SpawnPenLivestockTip>
   <!-- EN: After generation -->
@@ -519,7 +519,7 @@
   <!-- EN: Unfog settlement rect -->
   <TSA_WD_BaseGen_UnfogRect>揭開據點範圍迷霧</TSA_WD_BaseGen_UnfogRect>
   <!-- EN: On settlement assault and outpost defense maps, reveals the full KCSG layout rectangle after map generation (not just building footprints). -->
-  <TSA_WD_BaseGen_UnfogRectTip>在據點突擊與哨站防禦地圖上，地圖生成後揭開整個 KCSG 配置矩形（不只是建築佔地）。</TSA_WD_BaseGen_UnfogRectTip>
+  <TSA_WD_BaseGen_UnfogRectTip>在據點突擊與哨站防禦地圖上，地圖生成後揭開整個KCSG配置矩形（不只是建築佔地）。</TSA_WD_BaseGen_UnfogRectTip>
   <!-- EN: Fog interior rock and ore -->
   <TSA_WD_BaseGen_FogInteriorMineables>為內部岩石與礦石覆蓋迷霧</TSA_WD_BaseGen_FogInteriorMineables>
   <!-- EN: On settlement assault and outpost defense maps, within the settlement rect, re-fogs natural rock and ore cells that are fully surrounded by rock or ore on all eight neighboring tiles (pre-existing mountain or layout rock). Chunks do not count. Runs after settlement rect unfog. -->
@@ -527,11 +527,11 @@
   <!-- EN: Force settlement power (assault only) -->
   <TSA_WD_BaseGen_ForcePower>強制據點供電（僅突擊）</TSA_WD_BaseGen_ForcePower>
   <!-- EN: On NPC settlement assault maps, powers lamps and turrets without a real grid and refuels fuel turrets. Does not apply to outpost defense maps. -->
-  <TSA_WD_BaseGen_ForcePowerTip>在 NPC 據點突擊地圖上，不需實際電網即可為燈具與砲塔供電，並為燃料砲塔補充燃料。不適用於哨站防禦地圖。</TSA_WD_BaseGen_ForcePowerTip>
+  <TSA_WD_BaseGen_ForcePowerTip>在NPC據點突擊地圖上，不需實際電網即可為燈具與砲塔供電，並為燃料砲塔補充燃料。不適用於哨站防禦地圖。</TSA_WD_BaseGen_ForcePowerTip>
   <!-- EN: Destroy defeated turrets (assault only) -->
   <TSA_WD_BaseGen_SilenceTurrets>摧毀被擊敗的砲塔（僅突擊）</TSA_WD_BaseGen_SilenceTurrets>
   <!-- EN: On NPC settlement assault maps, destroys unmanned leftover faction turrets once all hostile humanlikes are down, fleeing, or gone — so you can reform the caravan. Does not apply to outpost defense maps. -->
-  <TSA_WD_BaseGen_SilenceTurretsTip>在 NPC 據點突擊地圖上，當所有敵對類人生物倒下、逃跑或離開後，摧毀殘留的無人派系砲塔，讓你可以重組旅隊。不適用於哨站防禦地圖。</TSA_WD_BaseGen_SilenceTurretsTip>
+  <TSA_WD_BaseGen_SilenceTurretsTip>在NPC據點突擊地圖上，當所有敵對類人生物倒下、逃跑或離開後，摧毀殘留的無人派系砲塔，讓你可以重組旅隊。不適用於哨站防禦地圖。</TSA_WD_BaseGen_SilenceTurretsTip>
   <!-- EN: Scales the points used to generate defenders. Higher values increase pawn count and quality. -->
   <TSA_WD_Garrison_Tooltip>調整用於生成防守者的點數。數值越高，角色數量與品質越高。</TSA_WD_Garrison_Tooltip>
   <!-- EN: Dynamic Scaling (by current offensive strength) -->
@@ -539,7 +539,7 @@
   <!-- EN: Minimum garrison from depleted offense -->
   <TSA_WD_Garrison_MinScale>進攻戰力耗損時的最低駐軍</TSA_WD_Garrison_MinScale>
   <!-- EN: The map garrison now scales with the attacked settlement's current offensive strength relative to its tier maximum. A full settlement fields 100% of the configured tier multiplier; a depleted one fields less. This is the floor: even a fully drained settlement still fields at least this fraction of its configured garrison. The map layout stays tier-appropriate regardless. -->
-  <TSA_WD_Garrison_MinScaleTooltip>地圖駐軍現在會依被攻擊據點目前進攻戰力相對於其等級上限的比例調整。滿編據點會派出設定等級倍率的 100%；耗損的據點派出較少。此為下限：即使據點完全耗盡，仍至少派出其設定駐軍的這個比例。無論如何，地圖配置都維持符合等級。</TSA_WD_Garrison_MinScaleTooltip>
+  <TSA_WD_Garrison_MinScaleTooltip>地圖駐軍現在會依被攻擊據點目前進攻戰力相對於其等級上限的比例調整。滿編據點會派出設定等級倍率的100%；耗損的據點派出較少。此為下限：即使據點完全耗盡，仍至少派出其設定駐軍的這個比例。無論如何，地圖配置都維持符合等級。</TSA_WD_Garrison_MinScaleTooltip>
   <!-- EN: Initial World Generation Weights -->
   <TSA_WD_Gen_HeaderWeights>初始世界生成權重</TSA_WD_Gen_HeaderWeights>
   <!-- EN: Reroll Settlement Tiers now -->
@@ -547,35 +547,35 @@
   <!-- EN: Reset to Defaults -->
   <TSA_WD_Gen_Reset>重設為預設值</TSA_WD_Gen_Reset>
   <!-- EN: Likelihood of a settlement starting as a Tier 1 Outpost. -->
-  <TSA_WD_Gen_Tier1Tip>據點初始為 T1 哨站的可能性。</TSA_WD_Gen_Tier1Tip>
+  <TSA_WD_Gen_Tier1Tip>據點初始為T1哨站的可能性。</TSA_WD_Gen_Tier1Tip>
   <!-- EN: Likelihood of a settlement starting as a Tier 2 Town. -->
-  <TSA_WD_Gen_Tier2Tip>據點初始為 T2 城鎮的可能性。</TSA_WD_Gen_Tier2Tip>
+  <TSA_WD_Gen_Tier2Tip>據點初始為T2城鎮的可能性。</TSA_WD_Gen_Tier2Tip>
   <!-- EN: Likelihood of a settlement starting as a Tier 3 Fortress. -->
-  <TSA_WD_Gen_Tier3Tip>據點初始為 T3 城鎮的可能性。</TSA_WD_Gen_Tier3Tip>
+  <TSA_WD_Gen_Tier3Tip>據點初始為T3城鎮的可能性。</TSA_WD_Gen_Tier3Tip>
   <!-- EN: Likelihood of a settlement starting as a Tier 4 Citadel. -->
-  <TSA_WD_Gen_Tier4Tip>據點初始為 T4 要塞的可能性。</TSA_WD_Gen_Tier4Tip>
+  <TSA_WD_Gen_Tier4Tip>據點初始為T4要塞的可能性。</TSA_WD_Gen_Tier4Tip>
   <!-- EN: WD: World Setup -->
   <TSA_WD_WorldSetup_Title>WD：世界設定</TSA_WD_WorldSetup_Title>
   <!-- EN: Adjust settlements, roads, and allegiances before you settle. -->
   <TSA_WD_WorldSetup_Subtitle>在定居前調整據點、道路與陣營。</TSA_WD_WorldSetup_Subtitle>
   <!-- EN: Open World Domination World Setup. Drag to move this icon. -->
-  <TSA_WD_WorldSetup_ButtonTooltip>開啟 World Domination 世界設定。拖曳可移動此圖示。</TSA_WD_WorldSetup_ButtonTooltip>
+  <TSA_WD_WorldSetup_ButtonTooltip>開啟World Domination世界設定。拖曳可移動此圖示。</TSA_WD_WorldSetup_ButtonTooltip>
   <!-- EN: Recreate Settlements -->
   <TSA_WD_WorldSetup_Recreate>重新建立據點</TSA_WD_WorldSetup_Recreate>
   <!-- EN: Destroy all NPC settlements and place them again using the count, spacing, faction density, and distance to other factions in this section. Uses your minimum settlement distance setting. Fortifications follow the destroy-on-recreation toggle. -->
-  <TSA_WD_WorldSetup_RecreateTooltip>摧毀所有 NPC 據點，並依本區段的數量、間距、派系密度與派系間距離重新放置。使用你的最小據點距離設定。防禦工事依「重新建立時摧毀」開關處理。</TSA_WD_WorldSetup_RecreateTooltip>
+  <TSA_WD_WorldSetup_RecreateTooltip>摧毀所有NPC據點，並依本區段的數量、間距、派系密度與派系間距離重新放置。使用你的最小據點距離設定。防禦工事依「重新建立時摧毀」開關處理。</TSA_WD_WorldSetup_RecreateTooltip>
   <!-- EN: Recreate all NPC settlements?\n\nWill place: -->
-  <TSA_WD_WorldSetup_RecreateConfirmHeader>要重新建立所有 NPC 據點嗎？\n\n將放置：</TSA_WD_WorldSetup_RecreateConfirmHeader>
+  <TSA_WD_WorldSetup_RecreateConfirmHeader>要重新建立所有NPC據點嗎？\n\n將放置：</TSA_WD_WorldSetup_RecreateConfirmHeader>
   <!-- EN: {0}: {1} -->
   <TSA_WD_WorldSetup_RecreateConfirmLine>{0}：{1}</TSA_WD_WorldSetup_RecreateConfirmLine>
   <!-- EN: Total: {0} (world gen had {1}) -->
   <TSA_WD_WorldSetup_RecreateConfirmTotal>總計：{0}（世界生成時為{1}）</TSA_WD_WorldSetup_RecreateConfirmTotal>
   <!-- EN: NPC road blocks, traps, and AT turrets are cleared. Player sites are left alone. -->
-  <TSA_WD_WorldSetup_RecreateConfirmFooter>NPC 路障、陷阱與 反戰車砲塔會被清除。玩家地點不受影響。</TSA_WD_WorldSetup_RecreateConfirmFooter>
+  <TSA_WD_WorldSetup_RecreateConfirmFooter>NPC路障、陷阱與 反戰車砲塔會被清除。玩家地點不受影響。</TSA_WD_WorldSetup_RecreateConfirmFooter>
   <!-- EN: NPC road blocks, traps, and AT turrets stay in place. Player sites are left alone. -->
-  <TSA_WD_WorldSetup_RecreateConfirmFooterKeepForts>NPC 路障、陷阱與 反戰車砲塔會保留原處。玩家地點不受影響。</TSA_WD_WorldSetup_RecreateConfirmFooterKeepForts>
+  <TSA_WD_WorldSetup_RecreateConfirmFooterKeepForts>NPC路障、陷阱與 反戰車砲塔會保留原處。玩家地點不受影響。</TSA_WD_WorldSetup_RecreateConfirmFooterKeepForts>
   <!-- EN: There are no NPC settlements from world gen to recreate. -->
-  <TSA_WD_WorldSetup_RecreateConfirmEmpty>沒有可重新建立的世界生成 NPC 據點。</TSA_WD_WorldSetup_RecreateConfirmEmpty>
+  <TSA_WD_WorldSetup_RecreateConfirmEmpty>沒有可重新建立的世界生成NPC據點。</TSA_WD_WorldSetup_RecreateConfirmEmpty>
   <!-- EN: Recreated {0} settlements. -->
   <TSA_WD_WorldSetup_RecreateDone>已重新建立{0}個據點。</TSA_WD_WorldSetup_RecreateDone>
   <!-- EN: Recreated {0} settlements. Skipped {1} (no valid tiles left). -->
@@ -589,7 +589,7 @@
   <!-- EN: {0}: stopped after {1} consecutive failures (no valid tiles). -->
   <TSA_WD_WorldSetup_RecreateResultFactionAbort>{0}：連續失敗{1}次後停止（沒有有效地塊）。</TSA_WD_WorldSetup_RecreateResultFactionAbort>
   <!-- EN: Settlement recreation failed. Check Player.log for details. -->
-  <TSA_WD_WorldSetup_RecreateResultError>據點重新建立失敗。詳情請查看 Player.log。</TSA_WD_WorldSetup_RecreateResultError>
+  <TSA_WD_WorldSetup_RecreateResultError>據點重新建立失敗。詳情請查看Player.log。</TSA_WD_WorldSetup_RecreateResultError>
   <!-- EN: Cluster chance -->
   <TSA_WD_WorldSetup_Coherence>聚集機率</TSA_WD_WorldSetup_Coherence>
   <!-- EN: Chance to join an existing same-faction cluster when recreating. Low = start new settlements under Spacing only. High = pack into clusters (up to Max per cluster). -->
@@ -601,7 +601,7 @@
   <!-- EN: Spacing -->
   <TSA_WD_WorldSetup_Spacing>間距</TSA_WD_WorldSetup_Spacing>
   <!-- EN: Minimum gap between settlements (same or other faction). Scales with the slider, up to 4× the establishment minimum distance at 100%. -->
-  <TSA_WD_WorldSetup_SpacingTooltip>據點之間（同派系或其他派系）的最小間隔。隨滑桿調整，在 100% 時最多為建立據點最小距離的 4×。</TSA_WD_WorldSetup_SpacingTooltip>
+  <TSA_WD_WorldSetup_SpacingTooltip>據點之間（同派系或其他派系）的最小間隔。隨滑桿調整，在100% 時最多為建立據點最小距離的4×。</TSA_WD_WorldSetup_SpacingTooltip>
   <!-- EN: Close -->
   <TSA_WD_WorldSetup_SpacingClose>緊密</TSA_WD_WorldSetup_SpacingClose>
   <!-- EN: Spread Out -->
@@ -609,7 +609,7 @@
   <!-- EN: Distance to other factions -->
   <TSA_WD_WorldSetup_OtherFactionDistance>與其他派系的距離</TSA_WD_WorldSetup_OtherFactionDistance>
   <!-- EN: Extra gap beyond Spacing when the neighbor is another faction. At 0, other factions use Spacing only. At 100, adds 3× the establishment minimum on top of Spacing. -->
-  <TSA_WD_WorldSetup_OtherFactionDistanceTooltip>鄰居為其他派系時，在間距之外額外增加的間隔。為 0 時，其他派系只使用間距。為 100 時，在間距之上再加上建立據點最小距離的 3×。</TSA_WD_WorldSetup_OtherFactionDistanceTooltip>
+  <TSA_WD_WorldSetup_OtherFactionDistanceTooltip>鄰居為其他派系時，在間距之外額外增加的間隔。為0時，其他派系只使用間距。為100時，在間距之上再加上建立據點最小距離的3×。</TSA_WD_WorldSetup_OtherFactionDistanceTooltip>
   <!-- EN: Max settlements per cluster -->
   <TSA_WD_WorldSetup_MaxPerCluster>每個據點群的據點上限</TSA_WD_WorldSetup_MaxPerCluster>
   <!-- EN: When recreating, same-faction settlements that pack together may not exceed this count in one cluster. Extra settlements start a new cluster. -->
@@ -617,11 +617,11 @@
   <!-- EN: Min distance between clusters -->
   <TSA_WD_WorldSetup_MinClusterDistance>據點群之間的最小距離</TSA_WD_WorldSetup_MinClusterDistance>
   <!-- EN: Extra separation when starting a new same-faction cluster because the previous one is full or a join failed. Not applied when Cluster chance simply chooses not to join. At 0, off. Default 20. -->
-  <TSA_WD_WorldSetup_MinClusterDistanceTooltip>因前一個據點群已滿或加入失敗而另起同派系新據點群時的額外間隔。聚集機率單純選擇不加入時不套用。為 0 時關閉。預設 20。</TSA_WD_WorldSetup_MinClusterDistanceTooltip>
+  <TSA_WD_WorldSetup_MinClusterDistanceTooltip>因前一個據點群已滿或加入失敗而另起同派系新據點群時的額外間隔。聚集機率單純選擇不加入時不套用。為0時關閉。預設20。</TSA_WD_WorldSetup_MinClusterDistanceTooltip>
   <!-- EN: Penalize bad biomes -->
   <TSA_WD_WorldSetup_BiomePenalty>降低惡劣生態系統權重</TSA_WD_WorldSetup_BiomePenalty>
   <!-- EN: On Recreate, reduce how often settlements land on ice or barren desert. At 0 those tiles are treated like any other. At 100 none are used. Mid values cut the chance proportionally (50 means half as likely). -->
-  <TSA_WD_WorldSetup_BiomePenaltyTooltip>重新建立時，降低據點落在冰原或荒漠的頻率。為 0 時這些地塊與其他地塊一視同仁。為 100 時完全不使用。中間值按比例降低機率（50 表示機率減半）。</TSA_WD_WorldSetup_BiomePenaltyTooltip>
+  <TSA_WD_WorldSetup_BiomePenaltyTooltip>重新建立時，降低據點落在冰原或荒漠的頻率。為0時這些地塊與其他地塊一視同仁。為100時完全不使用。中間值按比例降低機率（50表示機率減半）。</TSA_WD_WorldSetup_BiomePenaltyTooltip>
   <!-- EN: Faction shares -->
   <TSA_WD_WorldSetup_FactionShares>派系配額</TSA_WD_WorldSetup_FactionShares>
   <!-- EN: Change how many settlements each faction gets on recreate. Starts from the world gen mix. -->
@@ -645,31 +645,31 @@
   <!-- EN: Reset to world gen -->
   <TSA_WD_WorldSetup_FactionShares_Reset>重設為世界生成值</TSA_WD_WorldSetup_FactionShares_Reset>
   <!-- EN: No eligible NPC factions on this world. -->
-  <TSA_WD_WorldSetup_FactionShares_Empty>此世界沒有符合條件的 NPC 派系。</TSA_WD_WorldSetup_FactionShares_Empty>
+  <TSA_WD_WorldSetup_FactionShares_Empty>此世界沒有符合條件的NPC派系。</TSA_WD_WorldSetup_FactionShares_Empty>
   <!-- EN: Number of settlements -->
   <TSA_WD_WorldSetup_SettlementCount>據點數量</TSA_WD_WorldSetup_SettlementCount>
   <!-- EN: How many NPC settlements to place on Recreate. Default is the count from vanilla world gen. Faction shares (Faction shares button) decide how that total is split. -->
-  <TSA_WD_WorldSetup_SettlementCountTooltip>重新建立時要放置的 NPC 據點數量。預設為原版世界生成的數量。派系配額（「派系配額」按鈕）決定總數如何分配。</TSA_WD_WorldSetup_SettlementCountTooltip>
+  <TSA_WD_WorldSetup_SettlementCountTooltip>重新建立時要放置的NPC據點數量。預設為原版世界生成的數量。派系配額（「派系配額」按鈕）決定總數如何分配。</TSA_WD_WorldSetup_SettlementCountTooltip>
   <!-- EN: Settlement tiers -->
   <TSA_WD_WorldSetup_TierLikelihood>據點等級</TSA_WD_WorldSetup_TierLikelihood>
   <!-- EN: Edit how often new settlements roll each tier. The next recreate uses these weights. -->
   <TSA_WD_WorldSetup_TierLikelihoodTooltip>編輯新據點擲出各等級的頻率。下次重新建立時會使用這些權重。</TSA_WD_WorldSetup_TierLikelihoodTooltip>
   <!-- EN: WD Faction scope and Allegiances -->
-  <TSA_WD_WorldSetup_Allegiances>WD 派系範圍與陣營</TSA_WD_WorldSetup_Allegiances>
+  <TSA_WD_WorldSetup_Allegiances>WD派系範圍與陣營</TSA_WD_WorldSetup_Allegiances>
   <!-- EN: Opens faction participation (WD Actions, MapGen, Storyteller) and per-pair allegiances. -->
-  <TSA_WD_WorldSetup_AllegiancesTooltip>開啟派系參與設定（WD 行動、MapGen、故事敘述者）與各派系對的陣營。</TSA_WD_WorldSetup_AllegiancesTooltip>
+  <TSA_WD_WorldSetup_AllegiancesTooltip>開啟派系參與設定（WD行動、MapGen、故事敘述者）與各派系對的陣營。</TSA_WD_WorldSetup_AllegiancesTooltip>
   <!-- EN: World Allegiances -->
   <TSA_WD_WorldSetup_AllegiancesTitle>世界陣營</TSA_WD_WorldSetup_AllegiancesTitle>
   <!-- EN: Edit NPC relationships for this world. Optional freeze lasts {0} days (same as random diplomacy). -->
-  <TSA_WD_WorldSetup_AllegiancesSubtitle>編輯此世界的 NPC 關係。可選的凍結持續{0}天（與隨機外交相同）。</TSA_WD_WorldSetup_AllegiancesSubtitle>
+  <TSA_WD_WorldSetup_AllegiancesSubtitle>編輯此世界的NPC關係。可選的凍結持續{0}天（與隨機外交相同）。</TSA_WD_WorldSetup_AllegiancesSubtitle>
   <!-- EN: Edit faction participation and allegiances between pairs. Lock NPC pairs to block random WD diplomacy. -->
-  <TSA_WD_WorldSetup_AllegiancesSubtitleNoFreeze>編輯派系參與設定與派系對之間的陣營。鎖定 NPC 派系對可阻止 WD 隨機外交。</TSA_WD_WorldSetup_AllegiancesSubtitleNoFreeze>
+  <TSA_WD_WorldSetup_AllegiancesSubtitleNoFreeze>編輯派系參與設定與派系對之間的陣營。鎖定NPC派系對可阻止WD隨機外交。</TSA_WD_WorldSetup_AllegiancesSubtitleNoFreeze>
   <!-- EN: Freeze {0} days -->
   <TSA_WD_WorldSetup_FreezeOnApply>凍結{0}天</TSA_WD_WorldSetup_FreezeOnApply>
   <!-- EN: When checked, Neutral / Allied / Hostile also apply a {0}-day freeze so random WD diplomacy will not change that pair during the freeze. -->
-  <TSA_WD_WorldSetup_FreezeOnApplyTooltip>勾選後，設為中立/同盟/敵對時也會套用{0}天凍結，凍結期間 WD 隨機外交不會改變該派系對。</TSA_WD_WorldSetup_FreezeOnApplyTooltip>
+  <TSA_WD_WorldSetup_FreezeOnApplyTooltip>勾選後，設為中立/同盟/敵對時也會套用{0}天凍結，凍結期間WD隨機外交不會改變該派系對。</TSA_WD_WorldSetup_FreezeOnApplyTooltip>
   <!-- EN: Type goodwill (-100 to {0}) and press Enter. Ally sets +75, Hostile sets -75, Neutral sets 0. Upper limit matches Max goodwill in mod settings. -->
-  <TSA_WD_WorldSetup_GoodwillFieldTooltip>輸入友好度（-100 至{0}）並按 Enter。同盟設為 +75，敵對設為 -75，中立設為 0。上限與模組設定中的友好度上限相同。</TSA_WD_WorldSetup_GoodwillFieldTooltip>
+  <TSA_WD_WorldSetup_GoodwillFieldTooltip>輸入友好度（-100至{0}）並按Enter。同盟設為 +75，敵對設為 -75，中立設為0。上限與模組設定中的友好度上限相同。</TSA_WD_WorldSetup_GoodwillFieldTooltip>
   <!-- EN: Permanently hostile -->
   <TSA_WD_WorldSetup_PermanentlyHostile>永久敵對</TSA_WD_WorldSetup_PermanentlyHostile>
   <!-- EN: Reset Allegiances to default -->
@@ -697,7 +697,7 @@
   <!-- EN: Destroy fortifications on recreation -->
   <TSA_WD_WorldSetup_DestroyFortsOnRecreate>重新建立時摧毀防禦工事</TSA_WD_WorldSetup_DestroyFortsOnRecreate>
   <!-- EN: When on, recreating settlements also removes NPC road blocks, spike traps, and AT turrets. Player sites are not affected. -->
-  <TSA_WD_WorldSetup_DestroyFortsOnRecreateTip>開啟時，重新建立據點也會移除 NPC 路障、尖刺陷阱與 反戰車砲塔。玩家地點不受影響。</TSA_WD_WorldSetup_DestroyFortsOnRecreateTip>
+  <TSA_WD_WorldSetup_DestroyFortsOnRecreateTip>開啟時，重新建立據點也會移除NPC路障、尖刺陷阱與 反戰車砲塔。玩家地點不受影響。</TSA_WD_WorldSetup_DestroyFortsOnRecreateTip>
   <!-- EN: Diplomacy -->
   <TSA_WD_WorldSetup_SectionDiplomacy>外交</TSA_WD_WorldSetup_SectionDiplomacy>
   <!-- EN: Placement tools -->
@@ -749,7 +749,7 @@
   <!-- EN: No placeable factions found. -->
   <TSA_WD_WorldSetup_NoFactions>找不到可放置的派系。</TSA_WD_WorldSetup_NoFactions>
   <!-- EN: Click tiles to place {0} settlements for {1}. Right-click or Esc to stop. -->
-  <TSA_WD_WorldSetup_PlaceSettlementHint>點擊地塊為{1}放置{0}個據點。按右鍵或 Esc 停止。</TSA_WD_WorldSetup_PlaceSettlementHint>
+  <TSA_WD_WorldSetup_PlaceSettlementHint>點擊地塊為{1}放置{0}個據點。按右鍵或Esc停止。</TSA_WD_WorldSetup_PlaceSettlementHint>
   <!-- EN: Placed {0} {1} settlement on tile {2}. -->
   <TSA_WD_WorldSetup_PlacedSettlement>已在地塊{2}放置{0} {1}據點。</TSA_WD_WorldSetup_PlacedSettlement>
   <!-- EN: Could not place settlement. -->
@@ -757,7 +757,7 @@
   <!-- EN: Click a settlement on the world map. -->
   <TSA_WD_WorldSetup_ClickSettlementHint>點擊世界地圖上的一個據點。</TSA_WD_WorldSetup_ClickSettlementHint>
   <!-- EN: Click a settlement or WD outpost. -->
-  <TSA_WD_WorldSetup_NeedSettlement>點擊一個據點或 WD 哨站。</TSA_WD_WorldSetup_NeedSettlement>
+  <TSA_WD_WorldSetup_NeedSettlement>點擊一個據點或WD哨站。</TSA_WD_WorldSetup_NeedSettlement>
   <!-- EN: {0} is now {1}. -->
   <TSA_WD_WorldSetup_TierChanged>{0}現在是{1}。</TSA_WD_WorldSetup_TierChanged>
   <!-- EN: {0} strength is now {1} ({2}). -->
@@ -765,7 +765,7 @@
   <!-- EN: No placeable road block kinds. -->
   <TSA_WD_WorldSetup_NoRoadBlockKinds>沒有可放置的路障種類。</TSA_WD_WorldSetup_NoRoadBlockKinds>
   <!-- EN: Click tiles to place. Right-click or Esc to stop. -->
-  <TSA_WD_WorldSetup_PlaceFortifyHint>點擊地塊放置。按右鍵或 Esc 停止。</TSA_WD_WorldSetup_PlaceFortifyHint>
+  <TSA_WD_WorldSetup_PlaceFortifyHint>點擊地塊放置。按右鍵或Esc停止。</TSA_WD_WorldSetup_PlaceFortifyHint>
   <!-- EN: Could not place there. -->
   <TSA_WD_WorldSetup_PlaceFortifyFailed>無法放置在該處。</TSA_WD_WorldSetup_PlaceFortifyFailed>
   <!-- EN: Placed. -->
@@ -811,11 +811,11 @@
   <!-- EN: Click a bridge bank or bridged water tile to destroy that bridge. -->
   <TSA_WD_WorldSetup_DestroyBridgeHint>點擊橋的岸端或有橋的水域地塊以摧毀該橋。</TSA_WD_WorldSetup_DestroyBridgeHint>
   <!-- EN: No WD bridge on that tile. -->
-  <TSA_WD_WorldSetup_DestroyBridgeNone>該地塊沒有 WD 橋。</TSA_WD_WorldSetup_DestroyBridgeNone>
+  <TSA_WD_WorldSetup_DestroyBridgeNone>該地塊沒有WD橋。</TSA_WD_WorldSetup_DestroyBridgeNone>
   <!-- EN: Bridge destroyed. -->
   <TSA_WD_WorldSetup_DestroyBridgeDone>已摧毀橋。</TSA_WD_WorldSetup_DestroyBridgeDone>
   <!-- EN: Click an NPC settlement to remove it. Right-click or Esc to stop. -->
-  <TSA_WD_WorldSetup_RemoveSettlementHint>點擊 NPC 據點將其移除。按右鍵或 Esc 停止。</TSA_WD_WorldSetup_RemoveSettlementHint>
+  <TSA_WD_WorldSetup_RemoveSettlementHint>點擊NPC據點將其移除。按右鍵或Esc停止。</TSA_WD_WorldSetup_RemoveSettlementHint>
   <!-- EN: Removed {0}. -->
   <TSA_WD_WorldSetup_RemoveSettlementDone>已移除{0}。</TSA_WD_WorldSetup_RemoveSettlementDone>
   <!-- EN: Player sites cannot be removed here. -->
@@ -823,15 +823,15 @@
   <!-- EN: Passive Strength Gain -->
   <TSA_WD_Growth_BaseGrowth>被動戰力成長</TSA_WD_Growth_BaseGrowth>
   <!-- EN: Offensive strength points NPC settlements gain automatically each day (before size scaling and mid/late multipliers). -->
-  <TSA_WD_Growth_BaseGrowthTooltip>NPC 據點每天自動獲得的進攻戰力點數（在規模調整與中期/後期倍率之前）。</TSA_WD_Growth_BaseGrowthTooltip>
+  <TSA_WD_Growth_BaseGrowthTooltip>NPC據點每天自動獲得的進攻戰力點數（在規模調整與中期/後期倍率之前）。</TSA_WD_Growth_BaseGrowthTooltip>
   <!-- EN: T1 passive / day -->
-  <TSA_WD_Growth_PassiveT1>T1 被動/天</TSA_WD_Growth_PassiveT1>
+  <TSA_WD_Growth_PassiveT1>T1被動/天</TSA_WD_Growth_PassiveT1>
   <!-- EN: T2 passive / day -->
-  <TSA_WD_Growth_PassiveT2>T2 被動/天</TSA_WD_Growth_PassiveT2>
+  <TSA_WD_Growth_PassiveT2>T2被動/天</TSA_WD_Growth_PassiveT2>
   <!-- EN: T3 passive / day -->
-  <TSA_WD_Growth_PassiveT3>T3 被動/天</TSA_WD_Growth_PassiveT3>
+  <TSA_WD_Growth_PassiveT3>T3被動/天</TSA_WD_Growth_PassiveT3>
   <!-- EN: T4 passive / day -->
-  <TSA_WD_Growth_PassiveT4>T4 被動/天</TSA_WD_Growth_PassiveT4>
+  <TSA_WD_Growth_PassiveT4>T4被動/天</TSA_WD_Growth_PassiveT4>
   <!-- EN: Offensive strength this tier gains automatically each day (before mid/late and underdog multipliers). Flat per tier; no size curve. -->
   <TSA_WD_Growth_PassiveTierTip>此等級每天自動獲得的進攻戰力（在中期/後期與弱勢方倍率之前）。每個等級固定值，無規模曲線。</TSA_WD_Growth_PassiveTierTip>
   <!-- EN: Expansion Success Chance -->
@@ -843,9 +843,9 @@
   <!-- EN: When enabled, completing a silver-based trade grants goodwill with the faction you traded with. Favor-based trades are ignored. -->
   <TSA_WD_Growth_GoodwillFromTradeTooltip>啟用時，完成以白銀計價的交易會提升與交易派系的友好度。以恩惠進行的交易不計。</TSA_WD_Growth_GoodwillFromTradeTooltip>
   <!-- EN: Goodwill per 1000 silver equivalent -->
-  <TSA_WD_Growth_GoodwillPer1000Silver>每 1000 白銀等值的友好度</TSA_WD_Growth_GoodwillPer1000Silver>
+  <TSA_WD_Growth_GoodwillPer1000Silver>每1000白銀等值的友好度</TSA_WD_Growth_GoodwillPer1000Silver>
   <!-- EN: Amount of goodwill gained per 1000 silver of total trade value (market value of goods exchanged). -->
-  <TSA_WD_Growth_GoodwillPer1000SilverTooltip>交易總值（交換物品的市場價值）每 1000 白銀可獲得的友好度。</TSA_WD_Growth_GoodwillPer1000SilverTooltip>
+  <TSA_WD_Growth_GoodwillPer1000SilverTooltip>交易總值（交換物品的市場價值）每1000白銀可獲得的友好度。</TSA_WD_Growth_GoodwillPer1000SilverTooltip>
   <!-- EN: Expansion & Local Density Limits -->
   <TSA_WD_Growth_HeaderExpansion>擴張與區域密度限制</TSA_WD_Growth_HeaderExpansion>
   <!-- EN: Goodwill from Trade -->
@@ -859,21 +859,21 @@
   <!-- EN: Defensive strength baselines -->
   <TSA_WD_Growth_HeaderDefensiveBaselines>防禦戰力基準值</TSA_WD_Growth_HeaderDefensiveBaselines>
   <!-- EN: T1 defensive strength -->
-  <TSA_WD_Growth_T1DefensiveStrength>T1 防禦戰力</TSA_WD_Growth_T1DefensiveStrength>
+  <TSA_WD_Growth_T1DefensiveStrength>T1防禦戰力</TSA_WD_Growth_T1DefensiveStrength>
   <!-- EN: Base local defensive strength for tier 1 settlements. -->
-  <TSA_WD_Growth_T1DefensiveStrengthTooltip>T1 據點的基礎當地防禦戰力。</TSA_WD_Growth_T1DefensiveStrengthTooltip>
+  <TSA_WD_Growth_T1DefensiveStrengthTooltip>T1據點的基礎當地防禦戰力。</TSA_WD_Growth_T1DefensiveStrengthTooltip>
   <!-- EN: T2 defensive strength -->
-  <TSA_WD_Growth_T2DefensiveStrength>T2 防禦戰力</TSA_WD_Growth_T2DefensiveStrength>
+  <TSA_WD_Growth_T2DefensiveStrength>T2防禦戰力</TSA_WD_Growth_T2DefensiveStrength>
   <!-- EN: Base local defensive strength for tier 2 settlements. -->
-  <TSA_WD_Growth_T2DefensiveStrengthTooltip>T2 據點的基礎當地防禦戰力。</TSA_WD_Growth_T2DefensiveStrengthTooltip>
+  <TSA_WD_Growth_T2DefensiveStrengthTooltip>T2據點的基礎當地防禦戰力。</TSA_WD_Growth_T2DefensiveStrengthTooltip>
   <!-- EN: T3 defensive strength -->
-  <TSA_WD_Growth_T3DefensiveStrength>T3 防禦戰力</TSA_WD_Growth_T3DefensiveStrength>
+  <TSA_WD_Growth_T3DefensiveStrength>T3防禦戰力</TSA_WD_Growth_T3DefensiveStrength>
   <!-- EN: Base local defensive strength for tier 3 settlements. -->
-  <TSA_WD_Growth_T3DefensiveStrengthTooltip>T3 據點的基礎當地防禦戰力。</TSA_WD_Growth_T3DefensiveStrengthTooltip>
+  <TSA_WD_Growth_T3DefensiveStrengthTooltip>T3據點的基礎當地防禦戰力。</TSA_WD_Growth_T3DefensiveStrengthTooltip>
   <!-- EN: T4 defensive strength -->
-  <TSA_WD_Growth_T4DefensiveStrength>T4 防禦戰力</TSA_WD_Growth_T4DefensiveStrength>
+  <TSA_WD_Growth_T4DefensiveStrength>T4防禦戰力</TSA_WD_Growth_T4DefensiveStrength>
   <!-- EN: Base local defensive strength for tier 4 settlements. -->
-  <TSA_WD_Growth_T4DefensiveStrengthTooltip>T4 據點的基礎當地防禦戰力。</TSA_WD_Growth_T4DefensiveStrengthTooltip>
+  <TSA_WD_Growth_T4DefensiveStrengthTooltip>T4據點的基礎當地防禦戰力。</TSA_WD_Growth_T4DefensiveStrengthTooltip>
   <!-- EN: Player outpost defensive strength -->
   <TSA_WD_Growth_PlayerOutpostDefensiveStrength>玩家哨站防禦戰力</TSA_WD_Growth_PlayerOutpostDefensiveStrength>
   <!-- EN: Base local defensive strength for player outposts (before upgrades). -->
@@ -881,33 +881,33 @@
   <!-- EN: Incident Severity -->
   <TSA_WD_Growth_HeaderIncidents>事件嚴重程度</TSA_WD_Growth_HeaderIncidents>
   <!-- EN: Local Max T1 Outposts -->
-  <TSA_WD_Growth_LocalMaxT1>區域 T1 哨站上限</TSA_WD_Growth_LocalMaxT1>
+  <TSA_WD_Growth_LocalMaxT1>區域T1哨站上限</TSA_WD_Growth_LocalMaxT1>
   <!-- EN: Maximum T1 settlements allowed within the max Expansion Radius before further expansion is blocked. -->
-  <TSA_WD_Growth_LocalMaxT1Tooltip>最大擴張半徑內允許的 T1 據點上限，達到後即無法繼續擴張。</TSA_WD_Growth_LocalMaxT1Tooltip>
+  <TSA_WD_Growth_LocalMaxT1Tooltip>最大擴張半徑內允許的T1據點上限，達到後即無法繼續擴張。</TSA_WD_Growth_LocalMaxT1Tooltip>
   <!-- EN: Local Max T2 Villages -->
-  <TSA_WD_Growth_LocalMaxT2>區域 T2 村莊上限</TSA_WD_Growth_LocalMaxT2>
+  <TSA_WD_Growth_LocalMaxT2>區域T2村莊上限</TSA_WD_Growth_LocalMaxT2>
   <!-- EN: Maximum T2 settlements allowed within the max Expansion Radius. -->
-  <TSA_WD_Growth_LocalMaxT2Tooltip>最大擴張半徑內允許的 T2 據點上限。</TSA_WD_Growth_LocalMaxT2Tooltip>
+  <TSA_WD_Growth_LocalMaxT2Tooltip>最大擴張半徑內允許的T2據點上限。</TSA_WD_Growth_LocalMaxT2Tooltip>
   <!-- EN: Local Max T3 Towns -->
-  <TSA_WD_Growth_LocalMaxT3>區域 T3 城鎮上限</TSA_WD_Growth_LocalMaxT3>
+  <TSA_WD_Growth_LocalMaxT3>區域T3城鎮上限</TSA_WD_Growth_LocalMaxT3>
   <!-- EN: Maximum T3 settlements allowed within the max Expansion Radius. -->
-  <TSA_WD_Growth_LocalMaxT3Tooltip>最大擴張半徑內允許的 T3 據點上限。</TSA_WD_Growth_LocalMaxT3Tooltip>
+  <TSA_WD_Growth_LocalMaxT3Tooltip>最大擴張半徑內允許的T3據點上限。</TSA_WD_Growth_LocalMaxT3Tooltip>
   <!-- EN: Local Max T4 Citadels -->
-  <TSA_WD_Growth_LocalMaxT4>區域 T4 要塞上限</TSA_WD_Growth_LocalMaxT4>
+  <TSA_WD_Growth_LocalMaxT4>區域T4要塞上限</TSA_WD_Growth_LocalMaxT4>
   <!-- EN: Maximum T4 settlements allowed within the max Expansion Radius. -->
-  <TSA_WD_Growth_LocalMaxT4Tooltip>最大擴張半徑內允許的 T4 據點上限。</TSA_WD_Growth_LocalMaxT4Tooltip>
+  <TSA_WD_Growth_LocalMaxT4Tooltip>最大擴張半徑內允許的T4據點上限。</TSA_WD_Growth_LocalMaxT4Tooltip>
   <!-- EN: T1 same-tier neighbors to upgrade -->
-  <TSA_WD_Growth_SameTierUpgradeT1>T1 升級所需同等級鄰居</TSA_WD_Growth_SameTierUpgradeT1>
+  <TSA_WD_Growth_SameTierUpgradeT1>T1升級所需同等級鄰居</TSA_WD_Growth_SameTierUpgradeT1>
   <!-- EN: Required nearby same-faction T1 settlements before a T1 settlement may upgrade to T2. -->
-  <TSA_WD_Growth_SameTierUpgradeT1Tooltip>T1 據點升級為 T2 前，附近需要的同派系 T1 據點數量。</TSA_WD_Growth_SameTierUpgradeT1Tooltip>
+  <TSA_WD_Growth_SameTierUpgradeT1Tooltip>T1據點升級為T2前，附近需要的同派系T1據點數量。</TSA_WD_Growth_SameTierUpgradeT1Tooltip>
   <!-- EN: T2 same-tier neighbors to upgrade -->
-  <TSA_WD_Growth_SameTierUpgradeT2>T2 升級所需同等級鄰居</TSA_WD_Growth_SameTierUpgradeT2>
+  <TSA_WD_Growth_SameTierUpgradeT2>T2升級所需同等級鄰居</TSA_WD_Growth_SameTierUpgradeT2>
   <!-- EN: Required nearby same-faction T2 settlements before a T2 settlement may upgrade to T3. -->
-  <TSA_WD_Growth_SameTierUpgradeT2Tooltip>T2 據點升級為 T3 前，附近需要的同派系 T2 據點數量。</TSA_WD_Growth_SameTierUpgradeT2Tooltip>
+  <TSA_WD_Growth_SameTierUpgradeT2Tooltip>T2據點升級為T3前，附近需要的同派系T2據點數量。</TSA_WD_Growth_SameTierUpgradeT2Tooltip>
   <!-- EN: T3 same-tier neighbors to upgrade -->
-  <TSA_WD_Growth_SameTierUpgradeT3>T3 升級所需同等級鄰居</TSA_WD_Growth_SameTierUpgradeT3>
+  <TSA_WD_Growth_SameTierUpgradeT3>T3升級所需同等級鄰居</TSA_WD_Growth_SameTierUpgradeT3>
   <!-- EN: Required nearby same-faction T3 settlements before a T3 settlement may upgrade to T4. -->
-  <TSA_WD_Growth_SameTierUpgradeT3Tooltip>T3 據點升級為 T4 前，附近需要的同派系 T3 據點數量。</TSA_WD_Growth_SameTierUpgradeT3Tooltip>
+  <TSA_WD_Growth_SameTierUpgradeT3Tooltip>T3據點升級為T4前，附近需要的同派系T3據點數量。</TSA_WD_Growth_SameTierUpgradeT3Tooltip>
   <!-- EN: Major Incident Strength Loss -->
   <TSA_WD_Growth_MajorInc>大型事件戰力損失</TSA_WD_Growth_MajorInc>
   <!-- EN: Strength points lost during a major catastrophe. -->
@@ -935,7 +935,7 @@
   <!-- EN: Scaling based on Settlement Size -->
   <TSA_WD_Growth_Scaling>依據點規模調整</TSA_WD_Growth_Scaling>
   <!-- EN: At 100%, small settlements gain more passive strength per day and large ones gain less (size curve only). -->
-  <TSA_WD_Growth_ScalingTooltip>在 100% 時，小據點每天獲得較多被動戰力，大據點獲得較少（僅規模曲線）。</TSA_WD_Growth_ScalingTooltip>
+  <TSA_WD_Growth_ScalingTooltip>在100% 時，小據點每天獲得較多被動戰力，大據點獲得較少（僅規模曲線）。</TSA_WD_Growth_ScalingTooltip>
   <!-- EN: General Settings -->
   <TSA_WD_HeaderGeneral>一般設定</TSA_WD_HeaderGeneral>
   <!-- EN: Industrial/Outlander Factions -->
@@ -945,7 +945,7 @@
   <!-- EN: Settings only available in-game (not main menu) -->
   <TSA_WD_HeaderInGameOnlySettings>僅限遊戲中可用的設定（主選單無法使用）</TSA_WD_HeaderInGameOnlySettings>
   <!-- EN: WD Outposts and Caravans/Travelers -->
-  <TSA_WD_HeaderOutposts>WD 哨站與旅隊/旅行者</TSA_WD_HeaderOutposts>
+  <TSA_WD_HeaderOutposts>WD哨站與旅隊/旅行者</TSA_WD_HeaderOutposts>
   <!-- EN: Manual Player Interactions -->
   <TSA_WD_HeaderPlayerInteractions>玩家手動互動</TSA_WD_HeaderPlayerInteractions>
   <!-- EN: System Actions -->
@@ -955,39 +955,39 @@
   <!-- EN: World Actions -->
   <TSA_WD_HeaderWorldActions>世界行動</TSA_WD_HeaderWorldActions>
   <!-- EN: WD Faction scope and Allegiances -->
-  <TSA_WD_OpenAllegianceMatrix>WD 派系範圍與陣營</TSA_WD_OpenAllegianceMatrix>
+  <TSA_WD_OpenAllegianceMatrix>WD派系範圍與陣營</TSA_WD_OpenAllegianceMatrix>
   <!-- EN: In-game only: faction participation (WD Actions, MapGen, Storyteller) and per-pair allegiances. -->
-  <TSA_WD_DescAllegianceMatrix>僅限遊戲中：派系參與設定（WD 行動、MapGen、故事敘述者）與各派系對的陣營。</TSA_WD_DescAllegianceMatrix>
+  <TSA_WD_DescAllegianceMatrix>僅限遊戲中：派系參與設定（WD行動、MapGen、故事敘述者）與各派系對的陣營。</TSA_WD_DescAllegianceMatrix>
   <!-- EN: You are editing live allegiances. Be sure you know what you are doing! -->
   <TSA_WD_Allegiances_LiveEditWarning>你正在編輯即時的陣營。請確定你清楚自己在做什麼！</TSA_WD_Allegiances_LiveEditWarning>
   <!-- EN: Reset this section? Manual participation and storyteller overrides will be cleared. -->
   <TSA_WD_Allegiances_ResetConfirm>要重設此區段嗎？手動參與設定與故事敘述者覆寫設定將被清除。</TSA_WD_Allegiances_ResetConfirm>
   <!-- EN: Factions Controlled by WD -->
-  <TSA_WD_Allegiances_SectionParticipation>由 WD 控制的派系</TSA_WD_Allegiances_SectionParticipation>
+  <TSA_WD_Allegiances_SectionParticipation>由WD控制的派系</TSA_WD_Allegiances_SectionParticipation>
   <!-- EN: Choose which factions can run WD actions, use WD settlement map generation when assaulted, and follow storyteller raid rules. Orbit-only factions cannot be enabled. -->
-  <TSA_WD_Allegiances_SectionParticipation_Tooltip>選擇哪些派系可以執行 WD 行動、遭突擊時使用 WD 據點地圖生成，以及遵循故事敘述者突襲規則。僅存在於軌道上的派系無法啟用。</TSA_WD_Allegiances_SectionParticipation_Tooltip>
+  <TSA_WD_Allegiances_SectionParticipation_Tooltip>選擇哪些派系可以執行WD行動、遭突擊時使用WD據點地圖生成，以及遵循故事敘述者突襲規則。僅存在於軌道上的派系無法啟用。</TSA_WD_Allegiances_SectionParticipation_Tooltip>
   <!-- EN: Allegiances -->
   <TSA_WD_Allegiances_SectionDiplomacy>陣營</TSA_WD_Allegiances_SectionDiplomacy>
   <!-- EN: Edit goodwill and relations between faction pairs. Lock NPC pairs to block random WD diplomacy. -->
-  <TSA_WD_Allegiances_SectionDiplomacy_Tooltip>編輯派系對之間的友好度與關係。鎖定 NPC 派系對可阻止 WD 隨機外交。</TSA_WD_Allegiances_SectionDiplomacy_Tooltip>
+  <TSA_WD_Allegiances_SectionDiplomacy_Tooltip>編輯派系對之間的友好度與關係。鎖定NPC派系對可阻止WD隨機外交。</TSA_WD_Allegiances_SectionDiplomacy_Tooltip>
   <!-- EN: Faction -->
   <TSA_WD_FactionCol_Name>派系</TSA_WD_FactionCol_Name>
   <!-- EN: WD Actions -->
-  <TSA_WD_FactionCol_WdActions>WD 行動</TSA_WD_FactionCol_WdActions>
+  <TSA_WD_FactionCol_WdActions>WD行動</TSA_WD_FactionCol_WdActions>
   <!-- EN: Allow this faction to perform WD actions: raid, expand, trade, fortify, scrub pollution, launch settlement ambush interceptors, and fire defensive mortar/AA/AT. -->
-  <TSA_WD_FactionCol_WdActions_Tooltip>允許此派系執行 WD 行動：突襲、擴張、交易、設防、清除汙染、派出據點伏擊攔截隊，以及以迫擊砲／防空／反戰車進行防禦射擊。</TSA_WD_FactionCol_WdActions_Tooltip>
+  <TSA_WD_FactionCol_WdActions_Tooltip>允許此派系執行WD行動：突襲、擴張、交易、設防、清除汙染、派出據點伏擊攔截隊，以及以迫擊砲／防空／反戰車進行防禦射擊。</TSA_WD_FactionCol_WdActions_Tooltip>
   <!-- EN: MapGen -->
   <TSA_WD_FactionCol_BaseGen>MapGen</TSA_WD_FactionCol_BaseGen>
   <!-- EN: Allow WD to control map generation for this faction when you attack one of their settlements. T1 settlements become tiny villages; T4 citadels become actual fortresses. -->
-  <TSA_WD_FactionCol_BaseGen_Tooltip>你攻擊此派系的據點時，允許 WD 控制其地圖生成。T1 據點會成為小村落；T4 要塞會成為真正的要塞。</TSA_WD_FactionCol_BaseGen_Tooltip>
+  <TSA_WD_FactionCol_BaseGen_Tooltip>你攻擊此派系的據點時，允許WD控制其地圖生成。T1據點會成為小村落；T4要塞會成為真正的要塞。</TSA_WD_FactionCol_BaseGen_Tooltip>
   <!-- EN: Requires WD Actions for this faction. -->
-  <TSA_WD_FactionCol_BaseGen_RequiresWdActions>需要此派系啟用 WD 行動。</TSA_WD_FactionCol_BaseGen_RequiresWdActions>
+  <TSA_WD_FactionCol_BaseGen_RequiresWdActions>需要此派系啟用WD行動。</TSA_WD_FactionCol_BaseGen_RequiresWdActions>
   <!-- EN: N/A -->
   <TSA_WD_FactionCol_NA>不適用</TSA_WD_FactionCol_NA>
   <!-- EN: Storyteller -->
   <TSA_WD_FactionCol_StorytellerRaids>故事敘述者</TSA_WD_FactionCol_StorytellerRaids>
   <!-- EN: May this faction spawn storyteller raids? Off by default. You may activate both WD Actions and Storyteller Raids so you may get raided through both ways. -->
-  <TSA_WD_FactionCol_StorytellerRaids_Tooltip>此派系是否可以產生故事敘述者突襲？預設關閉。你可以同時啟用 WD 行動與故事敘述者突襲，這樣兩種方式都可能讓你遭到突襲。</TSA_WD_FactionCol_StorytellerRaids_Tooltip>
+  <TSA_WD_FactionCol_StorytellerRaids_Tooltip>此派系是否可以產生故事敘述者突襲？預設關閉。你可以同時啟用WD行動與故事敘述者突襲，這樣兩種方式都可能讓你遭到突襲。</TSA_WD_FactionCol_StorytellerRaids_Tooltip>
   <!-- EN: Drop invalid Storyteller Raids -->
   <TSA_WD_StorytellerBlockedRaid_Drop>捨棄無效的故事敘述者突襲</TSA_WD_StorytellerBlockedRaid_Drop>
   <!-- EN: Swap Storyteller Raids to valid Faction -->
@@ -995,15 +995,15 @@
   <!-- EN: When the storyteller picks a faction with Storyteller off in this list: drop the raid, or redirect it to another listed faction that has Storyteller on and can source a vanilla raid. Hidden factions not shown here (mechanoids, insectoids) keep normal storyteller behavior and are never used as swap targets. If no valid listed faction exists, the raid is dropped. -->
   <TSA_WD_StorytellerBlockedRaid_Tooltip>當故事敘述者選中此清單中「故事敘述者」為關閉的派系時：捨棄該突襲，或改派給清單中另一個「故事敘述者」為開啟且能發動原版突襲的派系。未列在此處的隱藏派系（機械族、蟲族）維持一般故事敘述者行為，且永遠不會被選為轉派目標。若清單中沒有有效派系，突襲會被捨棄。</TSA_WD_StorytellerBlockedRaid_Tooltip>
   <!-- EN: Hidden faction. Cannot participate in WD. -->
-  <TSA_WD_FactionExclude_Hidden>隱藏派系。無法參與 WD。</TSA_WD_FactionExclude_Hidden>
+  <TSA_WD_FactionExclude_Hidden>隱藏派系。無法參與WD。</TSA_WD_FactionExclude_Hidden>
   <!-- EN: Off by default. Enable WD Actions to include this non-humanlike faction (advanced). -->
-  <TSA_WD_FactionExclude_NonHumanlike>預設關閉。啟用 WD 行動即可納入此非類人派系（進階）。</TSA_WD_FactionExclude_NonHumanlike>
+  <TSA_WD_FactionExclude_NonHumanlike>預設關閉。啟用WD行動即可納入此非類人派系（進階）。</TSA_WD_FactionExclude_NonHumanlike>
   <!-- EN: No settlement generation weight. Off by default; enable WD Actions to opt in. -->
-  <TSA_WD_FactionExclude_NoSettlementWeight>沒有據點生成權重。預設關閉；啟用 WD 行動即可加入。</TSA_WD_FactionExclude_NoSettlementWeight>
+  <TSA_WD_FactionExclude_NoSettlementWeight>沒有據點生成權重。預設關閉；啟用WD行動即可加入。</TSA_WD_FactionExclude_NoSettlementWeight>
   <!-- EN: Orbit-only factions cannot use World Domination surface simulation. -->
-  <TSA_WD_FactionExclude_NonSurface>僅存在於軌道上的派系無法使用 World Domination 地表模擬。</TSA_WD_FactionExclude_NonSurface>
+  <TSA_WD_FactionExclude_NonSurface>僅存在於軌道上的派系無法使用World Domination地表模擬。</TSA_WD_FactionExclude_NonSurface>
   <!-- EN: Traders Guild is orbit-only and cannot use World Domination surface simulation. -->
-  <TSA_WD_FactionExclude_TradersGuild>商人公會僅存在於軌道上，無法使用 World Domination 地表模擬。</TSA_WD_FactionExclude_TradersGuild>
+  <TSA_WD_FactionExclude_TradersGuild>商人公會僅存在於軌道上，無法使用World Domination地表模擬。</TSA_WD_FactionExclude_TradersGuild>
   <!-- EN: defeated -->
   <TSA_WD_Faction_Defeated>已擊敗</TSA_WD_Faction_Defeated>
   <!-- EN: Reset Section -->
@@ -1011,9 +1011,9 @@
   <!-- EN: Reset participation -->
   <TSA_WD_BtnResetFactionParticipation>重設參與設定</TSA_WD_BtnResetFactionParticipation>
   <!-- EN: Clears manual WD Actions, MapGen, and Storyteller overrides plus soft opt-ins. Hard-excluded factions are unchanged. -->
-  <TSA_WD_BtnResetFactionParticipation_Tooltip>清除手動設定的 WD 行動、MapGen 與故事敘述者覆寫設定，以及軟性加入設定。被強制排除的派系不受影響。</TSA_WD_BtnResetFactionParticipation_Tooltip>
+  <TSA_WD_BtnResetFactionParticipation_Tooltip>清除手動設定的WD行動、MapGen與故事敘述者覆寫設定，以及軟性加入設定。被強制排除的派系不受影響。</TSA_WD_BtnResetFactionParticipation_Tooltip>
   <!-- EN: Per-faction storyteller raid rules moved to WD Faction scope and Allegiances. -->
-  <TSA_WD_Threat_StorytellerMovedHint>各派系的故事敘述者突襲規則已移至「WD 派系範圍與陣營」。</TSA_WD_Threat_StorytellerMovedHint>
+  <TSA_WD_Threat_StorytellerMovedHint>各派系的故事敘述者突襲規則已移至「WD派系範圍與陣營」。</TSA_WD_Threat_StorytellerMovedHint>
   <!-- EN: Allowed diplomacy changes can only be opened while playing (not from the main menu). -->
   <TSA_WD_AllegianceMatrixInGameOnly>允許的外交更改只能在遊戲進行中開啟（無法從主選單開啟）。</TSA_WD_AllegianceMatrixInGameOnly>
   <!-- EN: Max. travel strength loss -->
@@ -1027,27 +1027,27 @@
   <!-- EN: Attrition rest strength floor -->
   <TSA_WD_Caravans_AttritionRestMinRatio>耗損休整戰力下限</TSA_WD_Caravans_AttritionRestMinRatio>
   <!-- EN: Share of departure strength that triggers rest and floors attrition forecasts (default 75%). Combat, traps, and pollution can still push live strength lower. -->
-  <TSA_WD_Caravans_AttritionRestMinRatioTooltip>觸發休整並作為耗損預測下限的出發戰力比例（預設 75%）。戰鬥、陷阱與汙染仍可能讓實際戰力更低。</TSA_WD_Caravans_AttritionRestMinRatioTooltip>
+  <TSA_WD_Caravans_AttritionRestMinRatioTooltip>觸發休整並作為耗損預測下限的出發戰力比例（預設75%）。戰鬥、陷阱與汙染仍可能讓實際戰力更低。</TSA_WD_Caravans_AttritionRestMinRatioTooltip>
   <!-- EN: Attrition rest resume strength -->
   <TSA_WD_Caravans_AttritionRestResumeRatio>耗損休整後繼續移動的戰力</TSA_WD_Caravans_AttritionRestResumeRatio>
   <!-- EN: Share of departure strength at which resting travelers resume travel (default 95%). Must be at least the rest floor. -->
-  <TSA_WD_Caravans_AttritionRestResumeRatioTooltip>休整中的旅行者恢復到出發戰力的此比例時繼續移動（預設 95%）。不得低於休整下限。</TSA_WD_Caravans_AttritionRestResumeRatioTooltip>
+  <TSA_WD_Caravans_AttritionRestResumeRatioTooltip>休整中的旅行者恢復到出發戰力的此比例時繼續移動（預設95%）。不得低於休整下限。</TSA_WD_Caravans_AttritionRestResumeRatioTooltip>
   <!-- EN: Attrition rest regen per hour -->
   <TSA_WD_Caravans_AttritionRestRegen>耗損休整每小時恢復量</TSA_WD_Caravans_AttritionRestRegen>
   <!-- EN: Fraction of departure strength restored each hour while resting (default 2% → about 10 hours from 75% to 95%). -->
-  <TSA_WD_Caravans_AttritionRestRegenTooltip>休整期間每小時恢復的出發戰力比例（預設 2% → 從 75% 恢復到 95% 約需 10 小時）。</TSA_WD_Caravans_AttritionRestRegenTooltip>
+  <TSA_WD_Caravans_AttritionRestRegenTooltip>休整期間每小時恢復的出發戰力比例（預設2% → 從75% 恢復到95% 約需10小時）。</TSA_WD_Caravans_AttritionRestRegenTooltip>
   <!-- EN: Attrition rest fire cooldown (days) -->
   <TSA_WD_Caravans_AttritionRestFireGrace>耗損休整受擊冷卻（天）</TSA_WD_Caravans_AttritionRestFireGrace>
   <!-- EN: After a mortar, AT, or AA hit, the traveler will not start resting for this many days (default 0.5). A hit while resting cancels rest immediately. -->
-  <TSA_WD_Caravans_AttritionRestFireGraceTooltip>被迫擊砲、AT 或防空擊中後，旅行者在此天數內不會開始休整（預設 0.5）。休整中被擊中會立即取消休整。</TSA_WD_Caravans_AttritionRestFireGraceTooltip>
+  <TSA_WD_Caravans_AttritionRestFireGraceTooltip>被迫擊砲、AT或防空擊中後，旅行者在此天數內不會開始休整（預設0.5）。休整中被擊中會立即取消休整。</TSA_WD_Caravans_AttritionRestFireGraceTooltip>
   <!-- EN: Skip rest near destination (days) -->
   <TSA_WD_Caravans_AttritionRestNearDest>接近目的地時跳過休整（天）</TSA_WD_Caravans_AttritionRestNearDest>
   <!-- EN: Do not begin resting if remaining travel time is at most this many days (default 0.1). Attrition still floors at the rest ratio. -->
-  <TSA_WD_Caravans_AttritionRestNearDestTooltip>剩餘移動時間不超過此天數時不開始休整（預設 0.1）。耗損仍以休整比率為下限。</TSA_WD_Caravans_AttritionRestNearDestTooltip>
+  <TSA_WD_Caravans_AttritionRestNearDestTooltip>剩餘移動時間不超過此天數時不開始休整（預設0.1）。耗損仍以休整比率為下限。</TSA_WD_Caravans_AttritionRestNearDestTooltip>
   <!-- EN: Travelers: only cross water if no land route exists -->
   <TSA_WD_Caravans_OnlyWaterIfNoLandPath>旅行者：僅在沒有陸路時才渡水</TSA_WD_Caravans_OnlyWaterIfNoLandPath>
   <!-- EN: When enabled, WD travelers use the normal world path first and only use water-capable routing if that fails. When disabled, both routes are compared and the faster one is used (same cost units as below). -->
-  <TSA_WD_Caravans_OnlyWaterIfNoLandPathTip>啟用時，WD 旅行者先使用一般的世界路徑，失敗時才使用可渡水的路線。停用時，會比較兩種路線並採用較快者（成本單位與下方相同）。</TSA_WD_Caravans_OnlyWaterIfNoLandPathTip>
+  <TSA_WD_Caravans_OnlyWaterIfNoLandPathTip>啟用時，WD旅行者先使用一般的世界路徑，失敗時才使用可渡水的路線。停用時，會比較兩種路線並採用較快者（成本單位與下方相同）。</TSA_WD_Caravans_OnlyWaterIfNoLandPathTip>
   <!-- EN: Travelers: water tile movement cost -->
   <TSA_WD_Caravans_WaterMovementDifficulty>旅行者：水域地塊移動成本</TSA_WD_Caravans_WaterMovementDifficulty>
   <!-- EN: Path cost units applied when a traveler enters a water-covered world tile (vanilla world movement scale). Used for path cost, travel time, and attrition estimates. Lower = faster. -->
@@ -1055,9 +1055,9 @@
   <!-- EN: Water path: skip if land path shorter than (days) -->
   <TSA_WD_Caravans_WaterPathThreshold>水路：陸路少於此天數時跳過</TSA_WD_Caravans_WaterPathThreshold>
   <!-- EN: If a land-only path exists and takes fewer days than this threshold, the expensive water-routing calculation is skipped entirely. Set to 0 to always compute water paths. Higher values improve performance at the cost of occasionally missing a faster water shortcut. -->
-  <TSA_WD_Caravans_WaterPathThresholdTip>若存在純陸路且所需天數少於此門檻，就完全跳過耗費效能的水路計算。設為 0 則一律計算水路。數值越高效能越好，但偶爾會錯過更快的水路捷徑。</TSA_WD_Caravans_WaterPathThresholdTip>
+  <TSA_WD_Caravans_WaterPathThresholdTip>若存在純陸路且所需天數少於此門檻，就完全跳過耗費效能的水路計算。設為0則一律計算水路。數值越高效能越好，但偶爾會錯過更快的水路捷徑。</TSA_WD_Caravans_WaterPathThresholdTip>
   <!-- EN: World Domination has been updated to {0}.\nClick "Open" to access the change log. -->
-  <TSA_WD_ModUpdated>World Domination 已更新至{0}。\n點擊「開啟」查看變更紀錄。</TSA_WD_ModUpdated>
+  <TSA_WD_ModUpdated>World Domination已更新至{0}。\n點擊「開啟」查看變更紀錄。</TSA_WD_ModUpdated>
   <!-- EN: Show mod update popup -->
   <TSA_WD_ShowUpdatePopups>顯示模組更新彈出視窗</TSA_WD_ShowUpdatePopups>
   <!-- EN: When enabled, a small window appears once after you load a map when this mod has been updated to a new version. -->
@@ -1065,11 +1065,11 @@
   <!-- EN: World map overlay hold key -->
   <TSA_WD_WorldMapOverlayHoldKey>世界地圖疊加層按住鍵</TSA_WD_WorldMapOverlayHoldKey>
   <!-- EN: Hold this key and press A for Your Pawns, X for the WD main tab, S for World Stats, D for Diplomacy, Y for Prisoners, F for Outpost Overview, G for Active Travelers, or V for All Gear. On the world map, also press 1–7 to toggle WD overlays (blocked tiles, fertility, animals, fish, mining, movement, pollution), or Q/W/E/R/T for Highlight Relationships, Highlight Player, settlement tier labels, road blocks and traps, and outpost labels. -->
-  <TSA_WD_WorldMapOverlayHoldKey_Tooltip>按住此鍵，再按 A 開啟你的角色、X 開啟 WD 主分頁、S 開啟世界統計、D 開啟外交、Y 開啟俘虜、F 開啟哨站總覽、G 開啟移動中的旅行者，或 V 開啟全部裝備。在世界地圖上，也可按 1–7 切換 WD 疊加層（受阻地塊、肥沃度、動物、魚類、採礦、移動、汙染），或按 Q/W/E/R/T 切換標示關係、標示玩家、據點等級標籤、路障與陷阱，以及哨站標籤。</TSA_WD_WorldMapOverlayHoldKey_Tooltip>
+  <TSA_WD_WorldMapOverlayHoldKey_Tooltip>按住此鍵，再按A開啟你的角色、X開啟WD主分頁、S開啟世界統計、D開啟外交、Y開啟俘虜、F開啟哨站總覽、G開啟移動中的旅行者，或V開啟全部裝備。在世界地圖上，也可按1–7切換WD疊加層（受阻地塊、肥沃度、動物、魚類、採礦、移動、汙染），或按Q/W/E/R/T切換標示關係、標示玩家、據點等級標籤、路障與陷阱，以及哨站標籤。</TSA_WD_WorldMapOverlayHoldKey_Tooltip>
   <!-- EN: Verbose logging -->
   <TSA_WD_VerboseLogging>詳細紀錄</TSA_WD_VerboseLogging>
   <!-- EN: When enabled, the mod writes extra correlation lines to the log ([WD] and [WD Perf]), e.g. food accounting, pathing, threat updates, and World Setup settlement recreation. Use for diagnosing stutter or placement issues. -->
-  <TSA_WD_VerboseLogging_Tooltip>啟用時，模組會在紀錄中寫入額外的關聯資訊行（[WD] 與 [WD Perf]），例如食物收支、尋路、威脅更新，以及世界設定的據點重新建立。用於診斷卡頓或放置問題。</TSA_WD_VerboseLogging_Tooltip>
+  <TSA_WD_VerboseLogging_Tooltip>啟用時，模組會在紀錄中寫入額外的關聯資訊行（[WD]與[WD Perf]），例如食物收支、尋路、威脅更新，以及世界設定的據點重新建立。用於診斷卡頓或放置問題。</TSA_WD_VerboseLogging_Tooltip>
   <!-- EN: Open -->
   <TSA_WD_UpdatePopup_Open>開啟</TSA_WD_UpdatePopup_Open>
   <!-- EN: Close -->
@@ -1107,7 +1107,7 @@
   <!-- EN: Pollution reduces fertility, animals, and fish -->
   <TSA_WD_Outpost_PollutionEcologyPenalty>汙染降低肥沃度、動物與魚類</TSA_WD_Outpost_PollutionEcologyPenalty>
   <!-- EN: When enabled, farming fertility, animal abundance, and fish stock on a world tile are multiplied by (1 - pollution). Example: 20% pollution reduces those scores by 20%. Mining is not affected. -->
-  <TSA_WD_Outpost_PollutionEcologyPenaltyTooltip>啟用時，世界地塊上的農業肥沃度、動物豐富度與魚類資源會乘以（1 - 汙染）。例如：20% 汙染會使這些數值降低 20%。採礦不受影響。</TSA_WD_Outpost_PollutionEcologyPenaltyTooltip>
+  <TSA_WD_Outpost_PollutionEcologyPenaltyTooltip>啟用時，世界地塊上的農業肥沃度、動物豐富度與魚類資源會乘以（1 - 汙染）。例如：20% 汙染會使這些數值降低20%。採礦不受影響。</TSA_WD_Outpost_PollutionEcologyPenaltyTooltip>
   <!-- EN: Require animal abundance for hunting outposts -->
   <TSA_WD_Outpost_ReqAnimals>狩獵哨站需要動物豐富度</TSA_WD_Outpost_ReqAnimals>
   <!-- EN: If disabled, hunting outposts may be founded on tiles with very few animals (or water-covered tiles). -->
@@ -1143,9 +1143,9 @@
   <!-- EN: Travel and Attrition -->
   <TSA_WD_Caravans_HeaderTravel>移動與耗損</TSA_WD_Caravans_HeaderTravel>
   <!-- EN: Walking traveler ticks per tile -->
-  <TSA_WD_Caravans_WalkingTicksPerMove>步行旅行者每地塊 tick 數</TSA_WD_Caravans_WalkingTicksPerMove>
+  <TSA_WD_Caravans_WalkingTicksPerMove>步行旅行者每地塊tick數</TSA_WD_Caravans_WalkingTicksPerMove>
   <!-- EN: World ticks per tile for land WD travelers. Lower = faster. Also used for raid and trader prep attrition estimates. Applies to newly launched travelers; already moving ones keep their launch speed. -->
-  <TSA_WD_Caravans_WalkingTicksPerMoveTip>陸上 WD 旅行者每移動一個地塊所需的世界 tick 數。越低越快。也用於突襲與商人準備的耗損估算。套用於新出發的旅行者；已在移動中的旅行者維持出發時的速度。</TSA_WD_Caravans_WalkingTicksPerMoveTip>
+  <TSA_WD_Caravans_WalkingTicksPerMoveTip>陸上WD旅行者每移動一個地塊所需的世界tick數。越低越快。也用於突襲與商人準備的耗損估算。套用於新出發的旅行者；已在移動中的旅行者維持出發時的速度。</TSA_WD_Caravans_WalkingTicksPerMoveTip>
   <!-- EN: Travel speeds (walking travelers, drop pods, Interception Caravans) are under Caravans and Trade → Travel and Attrition. -->
   <TSA_WD_Artillery_TravelSpeedsInCaravansTip>移動速度（步行旅行者、運輸艙、攔截旅隊）位於「旅隊與交易 → 移動與耗損」。</TSA_WD_Artillery_TravelSpeedsInCaravansTip>
   <!-- EN: Water travel -->
@@ -1153,11 +1153,11 @@
   <!-- EN: Allow caravans to travel over water -->
   <TSA_WD_Caravans_AllowTravelOverWater>允許旅隊經水路移動</TSA_WD_Caravans_AllowTravelOverWater>
   <!-- EN: When enabled, WD travelers may use special pathfinding across water-covered tiles (see options below). When disabled, only standard world paths are used and no water pathfinding runs. Also managed by Setting presets → Performance when you use those packs. -->
-  <TSA_WD_Caravans_AllowTravelOverWaterTip>啟用時，WD 旅行者可在水域覆蓋的地塊上使用特殊尋路（見下方選項）。停用時只使用標準世界路徑，不執行水路尋路。使用「設定預設集 → 效能」的方案時也會一併管理此項。</TSA_WD_Caravans_AllowTravelOverWaterTip>
+  <TSA_WD_Caravans_AllowTravelOverWaterTip>啟用時，WD旅行者可在水域覆蓋的地塊上使用特殊尋路（見下方選項）。停用時只使用標準世界路徑，不執行水路尋路。使用「設定預設集 → 效能」的方案時也會一併管理此項。</TSA_WD_Caravans_AllowTravelOverWaterTip>
   <!-- EN: T3 and T4 always use drop pods to pass over water -->
-  <TSA_WD_Caravans_T3T4DropPodsOverWater>T3 與 T4 一律使用運輸艙越過水域</TSA_WD_Caravans_T3T4DropPodsOverWater>
+  <TSA_WD_Caravans_T3T4DropPodsOverWater>T3與T4一律使用運輸艙越過水域</TSA_WD_Caravans_T3T4DropPodsOverWater>
   <!-- EN: When a T3/T4 raid has no land route, launch it as a drop-pod raid (normal drop-pod attrition and AA) instead of water pathfinding. When off, those raids walk water like T1/T2. Does not change land-connected raids or non-raid travelers. Default on. -->
-  <TSA_WD_Caravans_T3T4DropPodsOverWaterTip>T3/T4 突襲沒有陸路時，改以運輸艙突襲發動（套用一般運輸艙耗損與防空），而非水路尋路。關閉時，這些突襲會像 T1/T2 一樣走水路。不影響陸路相連的突襲或非突襲旅行者。預設開啟。</TSA_WD_Caravans_T3T4DropPodsOverWaterTip>
+  <TSA_WD_Caravans_T3T4DropPodsOverWaterTip>T3/T4突襲沒有陸路時，改以運輸艙突襲發動（套用一般運輸艙耗損與防空），而非水路尋路。關閉時，這些突襲會像T1/T2一樣走水路。不影響陸路相連的突襲或非突襲旅行者。預設開啟。</TSA_WD_Caravans_T3T4DropPodsOverWaterTip>
   <!-- EN: Trader Caravans -->
   <TSA_WD_Caravans_HeaderTrader>商隊</TSA_WD_Caravans_HeaderTrader>
   <!-- EN: Outpost Delivery Caravans -->
@@ -1175,7 +1175,7 @@
   <!-- EN: Receiver reward on arrival -->
   <TSA_WD_Caravans_ReceiverReward>抵達時接收方獎勵</TSA_WD_Caravans_ReceiverReward>
   <!-- EN: Strength granted to the receiving settlement when a WD trader caravan arrives. Player outposts are not valid targets. -->
-  <TSA_WD_Caravans_ReceiverRewardTip>WD 商隊抵達時給予接收據點的戰力。玩家哨站不是有效目標。</TSA_WD_Caravans_ReceiverRewardTip>
+  <TSA_WD_Caravans_ReceiverRewardTip>WD商隊抵達時給予接收據點的戰力。玩家哨站不是有效目標。</TSA_WD_Caravans_ReceiverRewardTip>
   <!-- EN: Mutual goodwill on arrival -->
   <TSA_WD_Caravans_Goodwill>抵達時雙方友好度</TSA_WD_Caravans_Goodwill>
   <!-- EN: Goodwill gained by both factions on successful trader caravan arrival. -->
@@ -1183,55 +1183,55 @@
   <!-- EN: Trader tier upgrades (at cap) -->
   <TSA_WD_Caravans_HeaderTraderTierUps>商隊等級提升（達上限時）</TSA_WD_Caravans_HeaderTraderTierUps>
   <!-- EN: Upgrade chance T1 to T2 -->
-  <TSA_WD_Caravans_TierUpT1ToT2>T1 升級為 T2 的機率</TSA_WD_Caravans_TierUpT1ToT2>
+  <TSA_WD_Caravans_TierUpT1ToT2>T1升級為T2的機率</TSA_WD_Caravans_TierUpT1ToT2>
   <!-- EN: After a successful WD trade, if the strength reward would only raise the settlement up to its current tier maximum, this chance promotes it to T2 instead. Same-tier neighbor requirements for normal tier growth do not apply. -->
-  <TSA_WD_Caravans_TierUpT1ToT2Tip>WD 交易成功後，若戰力獎勵只會讓據點達到目前等級上限，則以此機率改為提升為 T2。一般等級成長所需的同等級鄰居條件不適用。</TSA_WD_Caravans_TierUpT1ToT2Tip>
+  <TSA_WD_Caravans_TierUpT1ToT2Tip>WD交易成功後，若戰力獎勵只會讓據點達到目前等級上限，則以此機率改為提升為T2。一般等級成長所需的同等級鄰居條件不適用。</TSA_WD_Caravans_TierUpT1ToT2Tip>
   <!-- EN: Upgrade chance T2 to T3 -->
-  <TSA_WD_Caravans_TierUpT2ToT3>T2 升級為 T3 的機率</TSA_WD_Caravans_TierUpT2ToT3>
+  <TSA_WD_Caravans_TierUpT2ToT3>T2升級為T3的機率</TSA_WD_Caravans_TierUpT2ToT3>
   <!-- EN: Same as T1 to T2, but for promotion from T2 to T3 when at the T2 strength ceiling. -->
-  <TSA_WD_Caravans_TierUpT2ToT3Tip>與 T1 升 T2 相同，但適用於達到 T2 戰力上限時從 T2 提升為 T3。</TSA_WD_Caravans_TierUpT2ToT3Tip>
+  <TSA_WD_Caravans_TierUpT2ToT3Tip>與T1升T2相同，但適用於達到T2戰力上限時從T2提升為T3。</TSA_WD_Caravans_TierUpT2ToT3Tip>
   <!-- EN: Upgrade chance T3 to T4 -->
-  <TSA_WD_Caravans_TierUpT3ToT4>T3 升級為 T4 的機率</TSA_WD_Caravans_TierUpT3ToT4>
+  <TSA_WD_Caravans_TierUpT3ToT4>T3升級為T4的機率</TSA_WD_Caravans_TierUpT3ToT4>
   <!-- EN: Same as T1 to T2, but for promotion from T3 to T4 when at the T3 strength ceiling. -->
-  <TSA_WD_Caravans_TierUpT3ToT4Tip>與 T1 升 T2 相同，但適用於達到 T3 戰力上限時從 T3 提升為 T4。</TSA_WD_Caravans_TierUpT3ToT4Tip>
+  <TSA_WD_Caravans_TierUpT3ToT4Tip>與T1升T2相同，但適用於達到T3戰力上限時從T3提升為T4。</TSA_WD_Caravans_TierUpT3ToT4Tip>
   <!-- EN: Trader caravan escort strength -->
   <TSA_WD_Caravans_HeaderTraderEscort>商隊護衛戰力</TSA_WD_Caravans_HeaderTraderEscort>
   <!-- EN: Escort strength floor (T1 sender) -->
-  <TSA_WD_Caravans_EscortFloorT1>護衛戰力下限（T1 派出方）</TSA_WD_Caravans_EscortFloorT1>
+  <TSA_WD_Caravans_EscortFloorT1>護衛戰力下限（T1派出方）</TSA_WD_Caravans_EscortFloorT1>
   <!-- EN: Minimum combat/interception strength of a trader caravan sent by a T1 settlement, regardless of the flat strength cost deducted at launch. Keeps trade a meaningful, weighable target for ambush and interception instead of a uniform freebie. -->
-  <TSA_WD_Caravans_EscortFloorT1Tip>T1 據點派出的商隊之最低戰鬥/攔截戰力，與出發時扣除的固定戰力成本無關。讓交易成為值得權衡的埋伏與攔截目標，而不是千篇一律的白吃午餐。</TSA_WD_Caravans_EscortFloorT1Tip>
+  <TSA_WD_Caravans_EscortFloorT1Tip>T1據點派出的商隊之最低戰鬥/攔截戰力，與出發時扣除的固定戰力成本無關。讓交易成為值得權衡的埋伏與攔截目標，而不是千篇一律的白吃午餐。</TSA_WD_Caravans_EscortFloorT1Tip>
   <!-- EN: Escort strength floor (T2 sender) -->
-  <TSA_WD_Caravans_EscortFloorT2>護衛戰力下限（T2 派出方）</TSA_WD_Caravans_EscortFloorT2>
+  <TSA_WD_Caravans_EscortFloorT2>護衛戰力下限（T2派出方）</TSA_WD_Caravans_EscortFloorT2>
   <!-- EN: Same as the T1 floor, for trader caravans sent by a T2 settlement. -->
-  <TSA_WD_Caravans_EscortFloorT2Tip>與 T1 下限相同，適用於 T2 據點派出的商隊。</TSA_WD_Caravans_EscortFloorT2Tip>
+  <TSA_WD_Caravans_EscortFloorT2Tip>與T1下限相同，適用於T2據點派出的商隊。</TSA_WD_Caravans_EscortFloorT2Tip>
   <!-- EN: Escort strength floor (T3 sender) -->
-  <TSA_WD_Caravans_EscortFloorT3>護衛戰力下限（T3 派出方）</TSA_WD_Caravans_EscortFloorT3>
+  <TSA_WD_Caravans_EscortFloorT3>護衛戰力下限（T3派出方）</TSA_WD_Caravans_EscortFloorT3>
   <!-- EN: Same as the T1 floor, for trader caravans sent by a T3 settlement. -->
-  <TSA_WD_Caravans_EscortFloorT3Tip>與 T1 下限相同，適用於 T3 據點派出的商隊。</TSA_WD_Caravans_EscortFloorT3Tip>
+  <TSA_WD_Caravans_EscortFloorT3Tip>與T1下限相同，適用於T3據點派出的商隊。</TSA_WD_Caravans_EscortFloorT3Tip>
   <!-- EN: Escort strength floor (T4 sender) -->
-  <TSA_WD_Caravans_EscortFloorT4>護衛戰力下限（T4 派出方）</TSA_WD_Caravans_EscortFloorT4>
+  <TSA_WD_Caravans_EscortFloorT4>護衛戰力下限（T4派出方）</TSA_WD_Caravans_EscortFloorT4>
   <!-- EN: Same as the T1 floor, for trader caravans sent by a T4 settlement. -->
-  <TSA_WD_Caravans_EscortFloorT4Tip>與 T1 下限相同，適用於 T4 據點派出的商隊。</TSA_WD_Caravans_EscortFloorT4Tip>
+  <TSA_WD_Caravans_EscortFloorT4Tip>與T1下限相同，適用於T4據點派出的商隊。</TSA_WD_Caravans_EscortFloorT4Tip>
   <!-- EN: Full-force window after a caravan is lost (days) -->
   <TSA_WD_Caravans_EscortRecentInterceptWindow>商隊損失後全力出動期間（天）</TSA_WD_Caravans_EscortRecentInterceptWindow>
   <!-- EN: After one of a settlement's trader caravans is destroyed by ambush, Rapid Response, or mortar fire, its subsequent trader caravans go out at that settlement's full offensive-tier strength (instead of the flat floor above) for this many in-game days, deterring repeatedly farming the same supply line. Set to 0 to disable. -->
-  <TSA_WD_Caravans_EscortRecentInterceptWindowTip>據點的商隊被埋伏、快速反應或迫擊砲火摧毀後，該據點之後派出的商隊會在此遊戲天數內以其完整進攻等級戰力出發（而非上方的固定下限），以遏止反覆洗劫同一條補給線。設為 0 則停用。</TSA_WD_Caravans_EscortRecentInterceptWindowTip>
+  <TSA_WD_Caravans_EscortRecentInterceptWindowTip>據點的商隊被埋伏、快速反應或迫擊砲火摧毀後，該據點之後派出的商隊會在此遊戲天數內以其完整進攻等級戰力出發（而非上方的固定下限），以遏止反覆洗劫同一條補給線。設為0則停用。</TSA_WD_Caravans_EscortRecentInterceptWindowTip>
   <!-- EN: Min. days between WD traders to player colony -->
-  <TSA_WD_Caravans_PlayerColonyTraderCooldown>WD 商隊前往玩家殖民地的最短間隔天數</TSA_WD_Caravans_PlayerColonyTraderCooldown>
+  <TSA_WD_Caravans_PlayerColonyTraderCooldown>WD商隊前往玩家殖民地的最短間隔天數</TSA_WD_Caravans_PlayerColonyTraderCooldown>
   <!-- EN: Each of your map colonies can only be chosen as the destination of a WD trader caravan after this many in-game days since the last one was dispatched toward that colony (not when it arrives). Per colony. Set to 0 for no limit. -->
-  <TSA_WD_Caravans_PlayerColonyTraderCooldownTip>你的每個地圖殖民地，要在上一支 WD 商隊朝該殖民地出發（而非抵達）後經過此遊戲天數，才能再被選為 WD 商隊的目的地。各殖民地分別計算。設為 0 則不限制。</TSA_WD_Caravans_PlayerColonyTraderCooldownTip>
+  <TSA_WD_Caravans_PlayerColonyTraderCooldownTip>你的每個地圖殖民地，要在上一支WD商隊朝該殖民地出發（而非抵達）後經過此遊戲天數，才能再被選為WD商隊的目的地。各殖民地分別計算。設為0則不限制。</TSA_WD_Caravans_PlayerColonyTraderCooldownTip>
   <!-- EN: Advanced: travel, WD traders, delivery costs -->
-  <TSA_WD_Caravans_WindowSubtitle>進階：移動、WD 商人、配送費用</TSA_WD_Caravans_WindowSubtitle>
+  <TSA_WD_Caravans_WindowSubtitle>進階：移動、WD商人、配送費用</TSA_WD_Caravans_WindowSubtitle>
   <!-- EN: Disable storyteller trader caravans -->
   <TSA_WD_Caravans_BlockStorytellerTraders>停用故事敘述者商隊</TSA_WD_Caravans_BlockStorytellerTraders>
   <!-- EN: When enabled, storyteller-spawned trader caravans are blocked. WD trader caravans are still allowed. -->
-  <TSA_WD_Caravans_BlockStorytellerTradersTip>啟用時，會阻擋故事敘述者產生的商隊。WD 商隊仍然允許。</TSA_WD_Caravans_BlockStorytellerTradersTip>
+  <TSA_WD_Caravans_BlockStorytellerTradersTip>啟用時，會阻擋故事敘述者產生的商隊。WD商隊仍然允許。</TSA_WD_Caravans_BlockStorytellerTradersTip>
   <!-- EN: Reset this page to Defaults -->
   <TSA_WD_Caravans_Reset>將本頁重設為預設值</TSA_WD_Caravans_Reset>
   <!-- EN: Show advanced settings -->
   <TSA_WD_ShowAdvanced>顯示進階設定</TSA_WD_ShowAdvanced>
   <!-- EN: Show extra menus (NPC Artillery, Building Projects, Mining baselines, Sabotage, Disinformation, World Gen, Garrison) and more options inside each settings dialog. -->
-  <TSA_WD_ShowAdvanced_Tooltip>顯示額外選單（NPC 砲兵、建設專案、採礦基準值、破壞、假情報、世界生成、駐軍），以及各設定對話框內的更多選項。</TSA_WD_ShowAdvanced_Tooltip>
+  <TSA_WD_ShowAdvanced_Tooltip>顯示額外選單（NPC砲兵、建設專案、採礦基準值、破壞、假情報、世界生成、駐軍），以及各設定對話框內的更多選項。</TSA_WD_ShowAdvanced_Tooltip>
   <!-- EN: Faction Name -->
   <TSA_WD_Stats_H_Faction>派系名稱</TSA_WD_Stats_H_Faction>
   <!-- EN: Defeated -->
@@ -1251,7 +1251,7 @@
   <!-- EN: Tier 4 -->
   <TSA_WD_Stats_H_T4>T4</TSA_WD_Stats_H_T4>
   <!-- EN: NPC settlements in this column are real Tier {0} sites. -->
-  <TSA_WD_Stats_TierHeaderTip_Npc>此欄中的 NPC 據點是實際的 T{0} 據點。</TSA_WD_Stats_TierHeaderTip_Npc>
+  <TSA_WD_Stats_TierHeaderTip_Npc>此欄中的NPC據點是實際的T{0}據點。</TSA_WD_Stats_TierHeaderTip_Npc>
   <!-- EN: For your faction, outposts are sorted into these columns by strength (offense + defense combined). They do not have a fixed settlement tier. -->
   <TSA_WD_Stats_TierHeaderTip_Player>對你的派系而言，哨站依戰力（進攻＋防禦合計）分到這些欄位，沒有固定的據點等級。</TSA_WD_Stats_TierHeaderTip_Player>
   <!-- EN: Outpost strength bands:\nTier 1: under {0}\nTier 2: {1}–{2}\nTier 3: {3}–{4}\nTier 4: {5}+ -->
@@ -1271,23 +1271,23 @@
   <!-- EN: Totals -->
   <TSA_WD_Stats_WorldTotals>總計</TSA_WD_Stats_WorldTotals>
   <!-- EN: Tier {0} for this faction.\n\nSettlements: {1}\nStrength: {2}\nShare of world Tier {0} strength: {3} -->
-  <TSA_WD_Stats_RowTierTip>此派系的 T{0}。\n\n據點：{1}\n戰力：{2}\n佔全世界 T{0} 戰力：{3}</TSA_WD_Stats_RowTierTip>
+  <TSA_WD_Stats_RowTierTip>此派系的T{0}。\n\n據點：{1}\n戰力：{2}\n佔全世界T{0}戰力：{3}</TSA_WD_Stats_RowTierTip>
   <!-- EN: Totals for this faction.\n\nSettlements: {0}\nStrength: {1}\nShare of world strength: {2} -->
   <TSA_WD_Stats_RowTotalsTip>此派系的總計。\n\n據點：{0}\n戰力：{1}\n佔全世界戰力：{2}</TSA_WD_Stats_RowTotalsTip>
   <!-- EN: World total for Tier {0}.\n\nSettlements: {1}\nStrength: {2} -->
-  <TSA_WD_Stats_FooterTierTip>全世界 T{0} 總計。\n\n據點：{1}\n戰力：{2}</TSA_WD_Stats_FooterTierTip>
+  <TSA_WD_Stats_FooterTierTip>全世界T{0}總計。\n\n據點：{1}\n戰力：{2}</TSA_WD_Stats_FooterTierTip>
   <!-- EN: World total across all tiers.\n\nSettlements: {0}\nStrength: {1} -->
   <TSA_WD_Stats_FooterTotalsTip>全世界所有等級總計。\n\n據點：{0}\n戰力：{1}</TSA_WD_Stats_FooterTotalsTip>
   <!-- EN: World Domination Windows -->
-  <TSA_WD_WorldDominationWindows>World Domination 視窗</TSA_WD_WorldDominationWindows>
+  <TSA_WD_WorldDominationWindows>World Domination視窗</TSA_WD_WorldDominationWindows>
   <!-- EN: World Domination map tools -->
-  <TSA_WD_WorldMap_MenuTooltip>World Domination 地圖工具</TSA_WD_WorldMap_MenuTooltip>
+  <TSA_WD_WorldMap_MenuTooltip>World Domination地圖工具</TSA_WD_WorldMap_MenuTooltip>
   <!-- EN: Hotkey: {0} -->
   <TSA_WD_WorldMap_HotkeyLine>快捷鍵：{0}</TSA_WD_WorldMap_HotkeyLine>
   <!-- EN: Settlement tier labels -->
   <TSA_WD_WorldMap_ToggleTierTexts>據點等級標籤</TSA_WD_WorldMap_ToggleTierTexts>
   <!-- EN: Toggle the T1–T4 labels shown over NPC settlements. -->
-  <TSA_WD_WorldMap_ToggleTierTextsTip>切換顯示在 NPC 據點上方的 T1–T4 標籤。</TSA_WD_WorldMap_ToggleTierTextsTip>
+  <TSA_WD_WorldMap_ToggleTierTextsTip>切換顯示在NPC據點上方的T1–T4標籤。</TSA_WD_WorldMap_ToggleTierTextsTip>
   <!-- EN: Show offensive Strength -->
   <TSA_WD_WorldMap_ToggleStrengthTexts>顯示進攻戰力</TSA_WD_WorldMap_ToggleStrengthTexts>
   <!-- EN: Current Offensive Strength. Does NOT include Defensive Strength. -->
@@ -1297,11 +1297,11 @@
   <!-- EN: On: subtype art. Off: faction icons. -->
   <TSA_WD_WorldMap_ToggleSettlementTypeIconsTip>開：子類型圖案。關：派系圖示。</TSA_WD_WorldMap_ToggleSettlementTypeIconsTip>
   <!-- EN: Road blocks, traps, AT, and buildings -->
-  <TSA_WD_WorldMap_ToggleRoadBlocksAndTraps>路障、陷阱、AT 與建築</TSA_WD_WorldMap_ToggleRoadBlocksAndTraps>
+  <TSA_WD_WorldMap_ToggleRoadBlocksAndTraps>路障、陷阱、AT與建築</TSA_WD_WorldMap_ToggleRoadBlocksAndTraps>
   <!-- EN: Toggle road-block, spike-trap / caltrops, and AT Turret icons on the world map. Overlay icons also hide when zoomed out. -->
   <TSA_WD_WorldMap_ToggleRoadBlocksAndTrapsTip>切換世界地圖上的路障、尖刺陷阱/鐵蒺藜與 反戰車砲塔圖示。縮小視野時疊加圖示也會隱藏。</TSA_WD_WorldMap_ToggleRoadBlocksAndTrapsTip>
   <!-- EN: Blocked tiles for NPC Fortification -->
-  <TSA_WD_WorldMap_ToggleFortifyBlacklist>禁止 NPC 設防的地塊</TSA_WD_WorldMap_ToggleFortifyBlacklist>
+  <TSA_WD_WorldMap_ToggleFortifyBlacklist>禁止NPC設防的地塊</TSA_WD_WorldMap_ToggleFortifyBlacklist>
   <!-- EN: Show tiles marked so allies (and neutrals if enabled) may not place new road blocks or traps. Existing forts stay until you Remove fortifications. Marks also show while using the mark/remove tools. -->
   <TSA_WD_WorldMap_ToggleFortifyBlacklistTip>顯示已標記的地塊，同盟（以及啟用時的中立）派系無法在這些地塊放置新的路障或陷阱。既有防禦工事會保留，直到你移除防禦工事為止。使用標記/移除工具時也會顯示標記。</TSA_WD_WorldMap_ToggleFortifyBlacklistTip>
   <!-- EN: No-fortify marks -->
@@ -1309,23 +1309,23 @@
   <!-- EN: Show marks, or add and remove blocked tiles one click at a time. -->
   <TSA_WD_WorldMap_NoFortifyMarksTip>顯示標記，或逐一點擊新增與移除禁止地塊。</TSA_WD_WorldMap_NoFortifyMarksTip>
   <!-- EN: Mark tiles NPCs may not fortify -->
-  <TSA_WD_WorldMap_AddBlockedTiles>標記 NPC 不可設防的地塊</TSA_WD_WorldMap_AddBlockedTiles>
+  <TSA_WD_WorldMap_AddBlockedTiles>標記NPC不可設防的地塊</TSA_WD_WorldMap_AddBlockedTiles>
   <!-- EN: Click tiles one by one to mark them. Allies (and neutrals if enabled) cannot place new fortifications there. Right-click or Esc to stop. -->
-  <TSA_WD_WorldMap_AddBlockedTilesTip>逐一點擊地塊進行標記。同盟（以及啟用時的中立）派系無法在該處放置新的防禦工事。按右鍵或 Esc 停止。</TSA_WD_WorldMap_AddBlockedTilesTip>
+  <TSA_WD_WorldMap_AddBlockedTilesTip>逐一點擊地塊進行標記。同盟（以及啟用時的中立）派系無法在該處放置新的防禦工事。按右鍵或Esc停止。</TSA_WD_WorldMap_AddBlockedTilesTip>
   <!-- EN: Remove tiles NPCs may not fortify -->
-  <TSA_WD_WorldMap_RemoveBlockedTiles>移除 NPC 不可設防的地塊</TSA_WD_WorldMap_RemoveBlockedTiles>
+  <TSA_WD_WorldMap_RemoveBlockedTiles>移除NPC不可設防的地塊</TSA_WD_WorldMap_RemoveBlockedTiles>
   <!-- EN: Click marked tiles one by one to clear them. Right-click or Esc to stop. -->
-  <TSA_WD_WorldMap_RemoveBlockedTilesTip>逐一點擊已標記的地塊以清除。按右鍵或 Esc 停止。</TSA_WD_WorldMap_RemoveBlockedTilesTip>
+  <TSA_WD_WorldMap_RemoveBlockedTilesTip>逐一點擊已標記的地塊以清除。按右鍵或Esc停止。</TSA_WD_WorldMap_RemoveBlockedTilesTip>
   <!-- EN: Enable "mark tiles where allies may not build fortifications" under World Actions → NPC Fortify. -->
-  <TSA_WD_WorldMap_BlockedTilesDisabledTip>請在「世界行動 → NPC 設防」中啟用「標記同盟不可建造防禦工事的地塊」。</TSA_WD_WorldMap_BlockedTilesDisabledTip>
+  <TSA_WD_WorldMap_BlockedTilesDisabledTip>請在「世界行動 → NPC設防」中啟用「標記同盟不可建造防禦工事的地塊」。</TSA_WD_WorldMap_BlockedTilesDisabledTip>
   <!-- EN: Highlight Relationships -->
   <TSA_WD_WorldMap_ToggleRelationUnderlays>標示關係</TSA_WD_WorldMap_ToggleRelationUnderlays>
   <!-- EN: Semi-transparent discs over settlements and travelers: red hostile, grey neutral, green allied. Purple marks enemy raid caravans targeting your colony or a player outpost. Size scales with zoom. Hidden at the same far zoom as settlement tier labels.\n\nA star marks a WD quest target -->
-  <TSA_WD_WorldMap_ToggleRelationUnderlaysTip>在據點與旅行者上顯示半透明圓盤：紅色為敵對、灰色為中立、綠色為同盟。紫色標示正以你的殖民地或玩家哨站為目標的敵方突襲旅隊。大小隨縮放調整。在與據點等級標籤相同的遠距縮放下隱藏。\n\n星號標示 WD 任務目標</TSA_WD_WorldMap_ToggleRelationUnderlaysTip>
+  <TSA_WD_WorldMap_ToggleRelationUnderlaysTip>在據點與旅行者上顯示半透明圓盤：紅色為敵對、灰色為中立、綠色為同盟。紫色標示正以你的殖民地或玩家哨站為目標的敵方突襲旅隊。大小隨縮放調整。在與據點等級標籤相同的遠距縮放下隱藏。\n\n星號標示WD任務目標</TSA_WD_WorldMap_ToggleRelationUnderlaysTip>
   <!-- EN: Relationships based on Selection -->
   <TSA_WD_WorldMap_ToggleRelationUnderlaysRelative>依選取對象顯示關係</TSA_WD_WorldMap_ToggleRelationUnderlaysRelative>
   <!-- EN: When on (and Highlight Relationships is on), discs show hostile, neutral, or allied relative to the selected NPC settlement or traveler. With no valid selection, they use your colony as usual. Purple raid warnings stay based on threats to you. -->
-  <TSA_WD_WorldMap_ToggleRelationUnderlaysRelativeTip>開啟時（且「標示關係」已開啟），圓盤會顯示相對於所選 NPC 據點或旅行者的敵對、中立或同盟關係。沒有有效選取時，照常以你的殖民地為準。紫色突襲警示仍以對你的威脅為準。</TSA_WD_WorldMap_ToggleRelationUnderlaysRelativeTip>
+  <TSA_WD_WorldMap_ToggleRelationUnderlaysRelativeTip>開啟時（且「標示關係」已開啟），圓盤會顯示相對於所選NPC據點或旅行者的敵對、中立或同盟關係。沒有有效選取時，照常以你的殖民地為準。紫色突襲警示仍以對你的威脅為準。</TSA_WD_WorldMap_ToggleRelationUnderlaysRelativeTip>
   <!-- EN: Highlight Player -->
   <TSA_WD_WorldMap_TogglePlayerUnderlays>標示玩家</TSA_WD_WorldMap_TogglePlayerUnderlays>
   <!-- EN: Semi-transparent cyan discs under your colonies, outposts, caravans, and travelers. Size scales with zoom. Hidden at the same far zoom as settlement tier labels. A star means that this outpost or colony is currently being targeted by an enemy raid caravan. -->
@@ -1373,19 +1373,19 @@
   <!-- EN: Fertility -->
   <TSA_WD_WorldMap_OverlayFertility>肥沃度</TSA_WD_WorldMap_OverlayFertility>
   <!-- EN: Shows tile fertility around the cursor. Useful for farms and ranches.\n\nColors (hover %):\n• Red: 0–35% (poor)\n• Orange/Yellow: 36–70%\n• Green: 71–100%\n• Purple: over 100% (best; mutators can push higher)\n\nOnly one tile overlay can be active; click again to turn it off. -->
-  <TSA_WD_WorldMap_OverlayFertilityTip>顯示滑鼠指標周圍地塊的肥沃度。適合用於農場與牧場。\n\n顏色（懸停顯示 %）：\n• 紅色：0–35%（差）\n• 橙色/黃色：36–70%\n• 綠色：71–100%\n• 紫色：超過 100%（最佳；地塊特性可使其更高）\n\n同時只能啟用一種地塊疊加層；再次點擊即可關閉。</TSA_WD_WorldMap_OverlayFertilityTip>
+  <TSA_WD_WorldMap_OverlayFertilityTip>顯示滑鼠指標周圍地塊的肥沃度。適合用於農場與牧場。\n\n顏色（懸停顯示 %）：\n• 紅色：0–35%（差）\n• 橙色/黃色：36–70%\n• 綠色：71–100%\n• 紫色：超過100%（最佳；地塊特性可使其更高）\n\n同時只能啟用一種地塊疊加層；再次點擊即可關閉。</TSA_WD_WorldMap_OverlayFertilityTip>
   <!-- EN: Animal Abundance -->
   <TSA_WD_WorldMap_OverlayAnimalAbundance>動物豐富度</TSA_WD_WorldMap_OverlayAnimalAbundance>
   <!-- EN: Shows animal abundance around the cursor. Useful for hunting outposts.\n\nColors (hover %):\n• Red: 0–35% (poor)\n• Orange/Yellow: 36–70%\n• Green: 71–100%\n• Purple: over 100% (best; mutators can push higher)\n\nOnly one tile overlay can be active; click again to turn it off. -->
-  <TSA_WD_WorldMap_OverlayAnimalAbundanceTip>顯示滑鼠指標周圍的動物豐富度。適合用於狩獵哨站。\n\n顏色（懸停顯示 %）：\n• 紅色：0–35%（差）\n• 橙色/黃色：36–70%\n• 綠色：71–100%\n• 紫色：超過 100%（最佳；地塊特性可使其更高）\n\n同時只能啟用一種地塊疊加層；再次點擊即可關閉。</TSA_WD_WorldMap_OverlayAnimalAbundanceTip>
+  <TSA_WD_WorldMap_OverlayAnimalAbundanceTip>顯示滑鼠指標周圍的動物豐富度。適合用於狩獵哨站。\n\n顏色（懸停顯示 %）：\n• 紅色：0–35%（差）\n• 橙色/黃色：36–70%\n• 綠色：71–100%\n• 紫色：超過100%（最佳；地塊特性可使其更高）\n\n同時只能啟用一種地塊疊加層；再次點擊即可關閉。</TSA_WD_WorldMap_OverlayAnimalAbundanceTip>
   <!-- EN: Fish Stocks -->
   <TSA_WD_WorldMap_OverlayFishAbundance>魚類資源</TSA_WD_WorldMap_OverlayFishAbundance>
   <!-- EN: Shows fish stocks around the cursor. Useful for fishing outposts (ocean coasts only).\n\nColors (hover %):\n• Red: 0–35% (poor)\n• Orange/Yellow: 36–70%\n• Green: 71–100%\n• Purple: over 100% (best; mutators can push higher)\n\nOnly one tile overlay can be active; click again to turn it off. -->
-  <TSA_WD_WorldMap_OverlayFishAbundanceTip>顯示滑鼠指標周圍的魚類資源。適合用於漁業哨站（僅限海洋沿岸）。\n\n顏色（懸停顯示 %）：\n• 紅色：0–35%（差）\n• 橙色/黃色：36–70%\n• 綠色：71–100%\n• 紫色：超過 100%（最佳；地塊特性可使其更高）\n\n同時只能啟用一種地塊疊加層；再次點擊即可關閉。</TSA_WD_WorldMap_OverlayFishAbundanceTip>
+  <TSA_WD_WorldMap_OverlayFishAbundanceTip>顯示滑鼠指標周圍的魚類資源。適合用於漁業哨站（僅限海洋沿岸）。\n\n顏色（懸停顯示 %）：\n• 紅色：0–35%（差）\n• 橙色/黃色：36–70%\n• 綠色：71–100%\n• 紫色：超過100%（最佳；地塊特性可使其更高）\n\n同時只能啟用一種地塊疊加層；再次點擊即可關閉。</TSA_WD_WorldMap_OverlayFishAbundanceTip>
   <!-- EN: Mining Efficiency -->
   <TSA_WD_WorldMap_OverlayMiningEfficiency>採礦效率</TSA_WD_WorldMap_OverlayMiningEfficiency>
   <!-- EN: Shows mining efficiency around the cursor. Useful for mining outposts.\n\nColors (hover %):\n• Red: 0–35% (poor)\n• Orange/Yellow: 36–70%\n• Green: 71–100%\n• Purple: over 100% (best; mutators can push higher)\n\nOnly one tile overlay can be active; click again to turn it off. -->
-  <TSA_WD_WorldMap_OverlayMiningEfficiencyTip>顯示滑鼠指標周圍的採礦效率。適合用於採礦哨站。\n\n顏色（懸停顯示 %）：\n• 紅色：0–35%（差）\n• 橙色/黃色：36–70%\n• 綠色：71–100%\n• 紫色：超過 100%（最佳；地塊特性可使其更高）\n\n同時只能啟用一種地塊疊加層；再次點擊即可關閉。</TSA_WD_WorldMap_OverlayMiningEfficiencyTip>
+  <TSA_WD_WorldMap_OverlayMiningEfficiencyTip>顯示滑鼠指標周圍的採礦效率。適合用於採礦哨站。\n\n顏色（懸停顯示 %）：\n• 紅色：0–35%（差）\n• 橙色/黃色：36–70%\n• 綠色：71–100%\n• 紫色：超過100%（最佳；地塊特性可使其更高）\n\n同時只能啟用一種地塊疊加層；再次點擊即可關閉。</TSA_WD_WorldMap_OverlayMiningEfficiencyTip>
   <!-- EN: Overlays do not take into account Outpost upgrades but only the world tile as is. -->
   <TSA_WD_WorldMap_OverlayIgnoresOutpostUpgrades>疊加層不考慮哨站升級，只反映世界地塊本身的狀態。</TSA_WD_WorldMap_OverlayIgnoresOutpostUpgrades>
   <!-- EN: Movement cost -->
@@ -1399,7 +1399,7 @@
   <!-- EN: Pollution -->
   <TSA_WD_WorldMap_OverlayPollution>汙染</TSA_WD_WorldMap_OverlayPollution>
   <!-- EN: Shows Biotech tile pollution around the cursor. Useful for planning Decontamination Crew missions.\n\nColors (hover %):\n• Green: 0%\n• Light green: 1–20%\n• Yellow: 21–40%\n• Orange: 41–69%\n• Red: 70–100%\n\nOnly one tile overlay can be active; click again to turn it off. Requires Biotech. -->
-  <TSA_WD_WorldMap_OverlayPollutionTip>顯示滑鼠指標周圍地塊的 Biotech 汙染程度。適合用於規劃淨化小隊任務。\n\n顏色（懸停顯示 %）：\n• 綠色：0%\n• 淺綠色：1–20%\n• 黃色：21–40%\n• 橙色：41–69%\n• 紅色：70–100%\n\n同時只能啟用一種地塊疊加層；再次點擊即可關閉。需要 Biotech。</TSA_WD_WorldMap_OverlayPollutionTip>
+  <TSA_WD_WorldMap_OverlayPollutionTip>顯示滑鼠指標周圍地塊的Biotech汙染程度。適合用於規劃淨化小隊任務。\n\n顏色（懸停顯示 %）：\n• 綠色：0%\n• 淺綠色：1–20%\n• 黃色：21–40%\n• 橙色：41–69%\n• 紅色：70–100%\n\n同時只能啟用一種地塊疊加層；再次點擊即可關閉。需要Biotech。</TSA_WD_WorldMap_OverlayPollutionTip>
   <!-- EN: Pollution: {0}% -->
   <TSA_WD_WorldMap_OverlayPollution_Hover>汙染：{0}%</TSA_WD_WorldMap_OverlayPollution_Hover>
   <!-- EN: - - Outpost labels - - -->
@@ -1411,7 +1411,7 @@
   <!-- EN: Change notes -->
   <TSA_WD_WorldMap_ChangeNotes>變更說明</TSA_WD_WorldMap_ChangeNotes>
   <!-- EN: Opens the World Domination update / change log. -->
-  <TSA_WD_WorldMap_ChangeNotesTip>開啟 World Domination 更新/變更紀錄。</TSA_WD_WorldMap_ChangeNotesTip>
+  <TSA_WD_WorldMap_ChangeNotesTip>開啟World Domination更新/變更紀錄。</TSA_WD_WorldMap_ChangeNotesTip>
   <!-- EN: World Stats -->
   <TSA_WD_WorldStats>世界統計</TSA_WD_WorldStats>
   <!-- EN: Vanilla goodwill -->
@@ -1419,15 +1419,15 @@
   <!-- EN: Maximum goodwill -->
   <TSA_WD_Diplo_MaxGoodwill>友好度上限</TSA_WD_Diplo_MaxGoodwill>
   <!-- EN: Caps how high goodwill with any faction can go (vanilla default is usually 100). WD can raise this so large gifts and investments are not wasted at the cap. -->
-  <TSA_WD_Diplo_MaxGoodwillTooltip>限制與任何派系的友好度最高能到多少（原版預設通常為 100）。WD 可以提高此值，讓大量贈禮與投資不會因達到上限而浪費。</TSA_WD_Diplo_MaxGoodwillTooltip>
+  <TSA_WD_Diplo_MaxGoodwillTooltip>限制與任何派系的友好度最高能到多少（原版預設通常為100）。WD可以提高此值，讓大量贈禮與投資不會因達到上限而浪費。</TSA_WD_Diplo_MaxGoodwillTooltip>
   <!-- EN: Disable goodwill loss for nearby settlements -->
   <TSA_WD_DisableSettlementProximityGoodwill>停用鄰近據點的友好度損失</TSA_WD_DisableSettlementProximityGoodwill>
   <!-- EN: When enabled, RimWorld’s periodic check for bases built too close to other factions does not change goodwill or send the proximity letter. Factions that expand next to you later will not penalize you. Settle-time warnings when choosing a tile are unchanged. -->
-  <TSA_WD_DisableSettlementProximityGoodwillTooltip>啟用時，RimWorld 定期檢查基地是否太靠近其他派系的機制不會改變友好度，也不會寄送鄰近信件。之後在你旁邊擴張的派系不會懲罰你。選擇定居地塊時的警告不變。</TSA_WD_DisableSettlementProximityGoodwillTooltip>
+  <TSA_WD_DisableSettlementProximityGoodwillTooltip>啟用時，RimWorld定期檢查基地是否太靠近其他派系的機制不會改變友好度，也不會寄送鄰近信件。之後在你旁邊擴張的派系不會懲罰你。選擇定居地塊時的警告不變。</TSA_WD_DisableSettlementProximityGoodwillTooltip>
   <!-- EN: Launch-pod gift strength per 100 market value -->
-  <TSA_WD_Diplo_LaunchPodGiftStrengthPer100>運輸艙贈禮每 100 市場價值的戰力</TSA_WD_Diplo_LaunchPodGiftStrengthPer100>
+  <TSA_WD_Diplo_LaunchPodGiftStrengthPer100>運輸艙贈禮每100市場價值的戰力</TSA_WD_Diplo_LaunchPodGiftStrengthPer100>
   <!-- EN: Strength granted per 100 market value when gifting by launch pod (same rate as other faction investment). Vanilla goodwill is unchanged. Leftover value can fill nearby same-faction towns and buy tier-ups after caps are full. -->
-  <TSA_WD_Diplo_LaunchPodGiftStrengthPer100Tooltip>以運輸艙贈禮時，每 100 市場價值給予的戰力（與其他派系投資的比率相同）。原版友好度不變。剩餘價值可填補附近同派系城鎮，並在上限填滿後購買等級提升。</TSA_WD_Diplo_LaunchPodGiftStrengthPer100Tooltip>
+  <TSA_WD_Diplo_LaunchPodGiftStrengthPer100Tooltip>以運輸艙贈禮時，每100市場價值給予的戰力（與其他派系投資的比率相同）。原版友好度不變。剩餘價值可填補附近同派系城鎮，並在上限填滿後購買等級提升。</TSA_WD_Diplo_LaunchPodGiftStrengthPer100Tooltip>
   <!-- EN: Rel. Strength -->
   <TSA_WD_Raid_Col0>相對戰力</TSA_WD_Raid_Col0>
   <!-- EN: Win Chance -->
@@ -1497,7 +1497,7 @@
   <!-- EN: Decisive Defender Victory -->
   <TSA_WD_Raid_DecisiveDefenderVictory>防守方大勝</TSA_WD_Raid_DecisiveDefenderVictory>
   <!-- EN: WD diplomacy & power-balance letters -->
-  <TSA_WD_Notify_HeaderDiplomacyBuffs>WD 外交與勢力平衡信件</TSA_WD_Notify_HeaderDiplomacyBuffs>
+  <TSA_WD_Notify_HeaderDiplomacyBuffs>WD外交與勢力平衡信件</TSA_WD_Notify_HeaderDiplomacyBuffs>
   <!-- EN: Notify: world leader handicap -->
   <TSA_WD_Notify_LeaderHandicap>通知：霸主懲罰</TSA_WD_Notify_LeaderHandicap>
   <!-- EN: Letter when the dominant faction is hit with the temporary leader handicap. -->
@@ -1517,35 +1517,35 @@
   <!-- EN: Notify: random diplomatic shifts -->
   <TSA_WD_Notify_RandomDiplomacy>通知：隨機外交變化</TSA_WD_Notify_RandomDiplomacy>
   <!-- EN: Letter when World Domination randomly changes a pair of NPC factions (war, peace, ally). -->
-  <TSA_WD_Notify_RandomDiplomacyTooltip>World Domination 隨機改變一對 NPC 派系的關係（戰爭、和平、同盟）時寄送信件。</TSA_WD_Notify_RandomDiplomacyTooltip>
+  <TSA_WD_Notify_RandomDiplomacyTooltip>World Domination隨機改變一對NPC派系的關係（戰爭、和平、同盟）時寄送信件。</TSA_WD_Notify_RandomDiplomacyTooltip>
   <!-- EN: Notify: allies from trade -->
   <TSA_WD_Notify_TradeAllyDiplomacy>通知：因交易結盟</TSA_WD_Notify_TradeAllyDiplomacy>
   <!-- EN: Letter when two NPC factions become allies because WD trader goodwill crossed the ally threshold. -->
-  <TSA_WD_Notify_TradeAllyDiplomacyTooltip>兩個 NPC 派系因 WD 商人友好度超過同盟門檻而結為同盟時寄送信件。</TSA_WD_Notify_TradeAllyDiplomacyTooltip>
+  <TSA_WD_Notify_TradeAllyDiplomacyTooltip>兩個NPC派系因WD商人友好度超過同盟門檻而結為同盟時寄送信件。</TSA_WD_Notify_TradeAllyDiplomacyTooltip>
   <!-- EN: Notify: strong-faction wars -->
   <TSA_WD_Notify_StrongFactionWar>通知：強權派系戰爭</TSA_WD_Notify_StrongFactionWar>
   <!-- EN: Letter when strong NPC factions cool an alliance to neutral or escalate from neutral to war. -->
-  <TSA_WD_Notify_StrongFactionWarTooltip>強大 NPC 派系將同盟降溫為中立，或從中立升級為戰爭時寄送信件。</TSA_WD_Notify_StrongFactionWarTooltip>
+  <TSA_WD_Notify_StrongFactionWarTooltip>強大NPC派系將同盟降溫為中立，或從中立升級為戰爭時寄送信件。</TSA_WD_Notify_StrongFactionWarTooltip>
   <!-- EN: Building Projects -->
   <TSA_WD_BtnRoadBuilding>建設專案</TSA_WD_BtnRoadBuilding>
   <!-- EN: Configure outpost and NPC road, road-block, and trap construction (ranges, work, expedition strength, and road fallbacks when Roads of the Rim is not active). -->
-  <TSA_WD_DescRoadBuilding>設定哨站與 NPC 的道路、路障與陷阱建設（範圍、工作量、遠征戰力，以及未啟用 Roads of the Rim 時的道路備用設定）。</TSA_WD_DescRoadBuilding>
+  <TSA_WD_DescRoadBuilding>設定哨站與NPC的道路、路障與陷阱建設（範圍、工作量、遠征戰力，以及未啟用Roads of the Rim時的道路備用設定）。</TSA_WD_DescRoadBuilding>
   <!-- EN: Road movement / work / min Construction apply only when Roads of the Rim is NOT active. Winter reduction always applies (writes RotR winterFactor when that mod is present). -->
-  <TSA_WD_RoadBuilding_Note>道路移動/工作量/最低建造技能只在未啟用 Roads of the Rim 時套用。冬季減免一律套用（若有該模組則寫入 RotR 的 winterFactor）。</TSA_WD_RoadBuilding_Note>
+  <TSA_WD_RoadBuilding_Note>道路移動/工作量/最低建造技能只在未啟用Roads of the Rim時套用。冬季減免一律套用（若有該模組則寫入RotR的winterFactor）。</TSA_WD_RoadBuilding_Note>
   <!-- EN: Roads -->
   <TSA_WD_RoadBuilding_RoadsHeader>道路</TSA_WD_RoadBuilding_RoadsHeader>
   <!-- EN: Range to build Roads -->
   <TSA_WD_RoadBuilding_RoadRange>修路範圍</TSA_WD_RoadBuilding_RoadRange>
   <!-- EN: Maximum world-tile range for planning road construction from an outpost (and NPC road attempts). -->
-  <TSA_WD_RoadBuilding_RoadRangeTip>從哨站規劃修路（以及 NPC 嘗試修路）的最大世界地塊範圍。</TSA_WD_RoadBuilding_RoadRangeTip>
+  <TSA_WD_RoadBuilding_RoadRangeTip>從哨站規劃修路（以及NPC嘗試修路）的最大世界地塊範圍。</TSA_WD_RoadBuilding_RoadRangeTip>
   <!-- EN: Player outpost road range -->
   <TSA_WD_RoadBuilding_RoadRangePlayer>玩家哨站修路範圍</TSA_WD_RoadBuilding_RoadRangePlayer>
   <!-- EN: Maximum world-tile range for planning road construction from player outposts. -->
   <TSA_WD_RoadBuilding_RoadRangePlayerTip>從玩家哨站規劃修路的最大世界地塊範圍。</TSA_WD_RoadBuilding_RoadRangePlayerTip>
   <!-- EN: NPC road range -->
-  <TSA_WD_RoadBuilding_RoadRangeNpc>NPC 修路範圍</TSA_WD_RoadBuilding_RoadRangeNpc>
+  <TSA_WD_RoadBuilding_RoadRangeNpc>NPC修路範圍</TSA_WD_RoadBuilding_RoadRangeNpc>
   <!-- EN: Maximum world-tile range for NPC settlements attempting to build roads to allies. -->
-  <TSA_WD_RoadBuilding_RoadRangeNpcTip>NPC 據點嘗試向同盟修路的最大世界地塊範圍。</TSA_WD_RoadBuilding_RoadRangeNpcTip>
+  <TSA_WD_RoadBuilding_RoadRangeNpcTip>NPC據點嘗試向同盟修路的最大世界地塊範圍。</TSA_WD_RoadBuilding_RoadRangeNpcTip>
   <!-- EN: Dirt road -->
   <TSA_WD_RoadBuilding_DirtRoad>泥土路</TSA_WD_RoadBuilding_DirtRoad>
   <!-- EN: Stone road -->
@@ -1555,23 +1555,23 @@
   <!-- EN: Movement cost multiplier -->
   <TSA_WD_RoadBuilding_Movement>移動成本倍率</TSA_WD_RoadBuilding_Movement>
   <!-- EN: Cost multiplier for world-path travel on this road type while Roads of the Rim is not active (written onto the vanilla road def). Lower = faster travel. -->
-  <TSA_WD_RoadBuilding_MovementTip>未啟用 Roads of the Rim 時，此道路類型的世界路徑移動成本倍率（寫入原版道路定義）。越低移動越快。</TSA_WD_RoadBuilding_MovementTip>
+  <TSA_WD_RoadBuilding_MovementTip>未啟用Roads of the Rim時，此道路類型的世界路徑移動成本倍率（寫入原版道路定義）。越低移動越快。</TSA_WD_RoadBuilding_MovementTip>
   <!-- EN: Winter movement penalty reduction -->
   <TSA_WD_RoadBuilding_WinterReductionHeader>冬季移動懲罰減免</TSA_WD_RoadBuilding_WinterReductionHeader>
   <!-- EN: Winter movement penalty reduction -->
   <TSA_WD_RoadBuilding_WinterReduction>冬季移動懲罰減免</TSA_WD_RoadBuilding_WinterReduction>
   <!-- EN: How much of the winter movement cost penalty this road type cancels. Always applied: via our winter patch when Roads of the Rim is off, or written into RotR winterFactor when that mod is active. Shown in the world tile Terrain tab movement tooltip and included in the movement cost overlay. -->
-  <TSA_WD_RoadBuilding_WinterReductionTip>此道路類型可抵銷多少冬季移動成本懲罰。一律套用：未啟用 Roads of the Rim 時透過本模組的冬季修補，啟用該模組時則寫入 RotR 的 winterFactor。會顯示在世界地塊「地形」分頁的移動提示中，並納入移動成本疊加層。</TSA_WD_RoadBuilding_WinterReductionTip>
+  <TSA_WD_RoadBuilding_WinterReductionTip>此道路類型可抵銷多少冬季移動成本懲罰。一律套用：未啟用Roads of the Rim時透過本模組的冬季修補，啟用該模組時則寫入RotR的winterFactor。會顯示在世界地塊「地形」分頁的移動提示中，並納入移動成本疊加層。</TSA_WD_RoadBuilding_WinterReductionTip>
   <!-- EN: {0}: winter penalty reduced by {1}% (movement mult ×{2}) -->
   <TSA_WD_RoadBuilding_WinterReductionExplanation>{0}：冬季懲罰減少{1}%（移動倍率 ×{2}）</TSA_WD_RoadBuilding_WinterReductionExplanation>
   <!-- EN: {0}: winter penalty reduction {1}% (applied via Roads of the Rim) -->
-  <TSA_WD_RoadBuilding_WinterReductionTerrainTip>{0}：冬季懲罰減免{1}%（透過 Roads of the Rim 套用）</TSA_WD_RoadBuilding_WinterReductionTerrainTip>
+  <TSA_WD_RoadBuilding_WinterReductionTerrainTip>{0}：冬季懲罰減免{1}%（透過Roads of the Rim套用）</TSA_WD_RoadBuilding_WinterReductionTerrainTip>
   <!-- EN: {0}: winter penalty reduction {1}% (no winter on this tile right now) -->
   <TSA_WD_RoadBuilding_WinterReductionTerrainTipInactive>{0}：冬季懲罰減免{1}%（此地塊目前不是冬季）</TSA_WD_RoadBuilding_WinterReductionTerrainTipInactive>
   <!-- EN: Work needed to build -->
   <TSA_WD_RoadBuilding_Work>建造所需工作量</TSA_WD_RoadBuilding_Work>
   <!-- EN: Abstract work cost for one road segment (WD progress only, not vanilla Construction jobs). Progress rate equals total Construction skill in the outpost. Example: at Dirt Work 250, 1 Construction skill does 25 Work per day, so Dirt takes about 10 days at 1 skill or about 1 day at 10 skill. Higher Work values for Stone or Asphalt take proportionally longer. -->
-  <TSA_WD_RoadBuilding_WorkTip>一段道路的抽象工作量成本（僅計 WD 進度，不是原版的建造工作）。進度速率等於哨站內的建造技能總和。例如：泥土路工作量為 250 時，1 點建造技能每天完成 25 工作量，因此 1 點技能約需 10 天，10 點技能約需 1 天。石板路或柏油路的工作量較高，所需時間也按比例增加。</TSA_WD_RoadBuilding_WorkTip>
+  <TSA_WD_RoadBuilding_WorkTip>一段道路的抽象工作量成本（僅計WD進度，不是原版的建造工作）。進度速率等於哨站內的建造技能總和。例如：泥土路工作量為250時，1點建造技能每天完成25工作量，因此1點技能約需10天，10點技能約需1天。石板路或柏油路的工作量較高，所需時間也按比例增加。</TSA_WD_RoadBuilding_WorkTip>
   <!-- EN: Off. Strength deducted on Caravan dispatch -->
   <TSA_WD_RoadBuilding_RoadStrength>派出旅隊時扣除的進攻戰力</TSA_WD_RoadBuilding_RoadStrength>
   <!-- EN: Offensive strength removed from the outpost when a road-builder caravan is dispatched for one segment. Refunded if the launch fails immediately. -->
@@ -1579,7 +1579,7 @@
   <!-- EN: Min Construction skill needed to build -->
   <TSA_WD_RoadBuilding_MinConstruction>建造所需最低建造技能</TSA_WD_RoadBuilding_MinConstruction>
   <!-- EN: Total Construction skill required in the outpost before this road type can be selected while Roads of the Rim is not active. -->
-  <TSA_WD_RoadBuilding_MinConstructionTip>未啟用 Roads of the Rim 時，哨站內需要的建造技能總和，才能選擇此道路類型。</TSA_WD_RoadBuilding_MinConstructionTip>
+  <TSA_WD_RoadBuilding_MinConstructionTip>未啟用Roads of the Rim時，哨站內需要的建造技能總和，才能選擇此道路類型。</TSA_WD_RoadBuilding_MinConstructionTip>
   <!-- EN: Reset outpost building projects to defaults -->
   <TSA_WD_RoadBuilding_Reset>將哨站建設專案重設為預設值</TSA_WD_RoadBuilding_Reset>
   <!-- EN: Road Blocks -->
@@ -1625,7 +1625,7 @@
   <!-- EN: AT Turrets -->
   <TSA_WD_RoadBuilding_AT_TurretsHeader>反戰車砲塔</TSA_WD_RoadBuilding_AT_TurretsHeader>
   <!-- EN: Light, Medium, and Heavy are buildable. Settlements build by tier (Tier 1–2 Light, Tier 3 Medium, Tier 4 Heavy). Work is build time cost (defaults are twice prior road-parity costs). Expedition strength is crew cost, not gun HP. -->
-  <TSA_WD_RoadBuilding_AT_TurretsNote>可建造輕型、中型與重型。據點依等級建造（T1–2 輕型、T3 中型、T4 重型）。工作量為建造時間成本（預設為先前與道路同等成本的兩倍）。遠征戰力是小隊成本，不是砲的耐久度。</TSA_WD_RoadBuilding_AT_TurretsNote>
+  <TSA_WD_RoadBuilding_AT_TurretsNote>可建造輕型、中型與重型。據點依等級建造（T1–2輕型、T3中型、T4重型）。工作量為建造時間成本（預設為先前與道路同等成本的兩倍）。遠征戰力是小隊成本，不是砲的耐久度。</TSA_WD_RoadBuilding_AT_TurretsNote>
   <!-- EN: Abstract work cost for one AT Turret. Same Construction progress rules as roads. Defaults take about twice as long as the old road-matched costs. -->
   <TSA_WD_RoadBuilding_AT_TurretWorkTip>一座 反戰車砲塔的抽象工作量成本。建造進度規則與道路相同。預設所需時間約為舊版比照道路成本的兩倍。</TSA_WD_RoadBuilding_AT_TurretWorkTip>
   <!-- EN: Off. Strength deducted on Caravan dispatch -->
@@ -1647,7 +1647,7 @@
   <!-- EN: Pollution reduction (pp) -->
   <TSA_WD_RoadBuilding_DecontaminationReduction>汙染減少量（百分點）</TSA_WD_RoadBuilding_DecontaminationReduction>
   <!-- EN: Percentage points of world-tile pollution removed per scrub visit (20 = −20pp). -->
-  <TSA_WD_RoadBuilding_DecontaminationReductionTip>每次淨化造訪移除的世界地塊汙染百分點（20＝−20 百分點）。</TSA_WD_RoadBuilding_DecontaminationReductionTip>
+  <TSA_WD_RoadBuilding_DecontaminationReductionTip>每次淨化造訪移除的世界地塊汙染百分點（20＝−20百分點）。</TSA_WD_RoadBuilding_DecontaminationReductionTip>
   <!-- EN: Light road block -->
   <TSA_WD_RoadBlockLight>輕型路障</TSA_WD_RoadBlockLight>
   <!-- EN: Medium road block -->
@@ -1659,7 +1659,7 @@
   <!-- EN: {0} (Construction {1}/{2}) -->
   <TSA_WD_RoadBlockKind_Disabled>{0}（建造{1}/{2}）</TSA_WD_RoadBlockKind_Disabled>
   <!-- EN: Work: {0}\nCost penalty: +{1}\nEst. days/tile: {2}\nStrength cost: {3}\nMax HP: {4} -->
-  <TSA_WD_RoadBlockKindTooltip>工作量：{0}\n路徑代價懲罰：+{1}\n預估天數/格：{2}\n戰力消耗：{3}\n最大 HP：{4}</TSA_WD_RoadBlockKindTooltip>
+  <TSA_WD_RoadBlockKindTooltip>工作量：{0}\n路徑代價懲罰：+{1}\n預估天數/格：{2}\n戰力消耗：{3}\n最大HP：{4}</TSA_WD_RoadBlockKindTooltip>
   <!-- EN: Spike trap -->
   <TSA_WD_SpikeTrapSpike>尖刺陷阱</TSA_WD_SpikeTrapSpike>
   <!-- EN: Caltrops -->
@@ -1667,7 +1667,7 @@
   <!-- EN: {0} (Construction {1}/{2}) -->
   <TSA_WD_SpikeTrapKind_Disabled>{0}（建造{1}/{2}）</TSA_WD_SpikeTrapKind_Disabled>
   <!-- EN: Work: {0}\nDamage: {1}\nEst. days/tile: {2}\nStrength cost: {3}\nMax HP: {4} -->
-  <TSA_WD_SpikeTrapKindTooltip>工作量：{0}\n傷害：{1}\n預估天數/格：{2}\n戰力消耗：{3}\n最大 HP：{4}</TSA_WD_SpikeTrapKindTooltip>
+  <TSA_WD_SpikeTrapKindTooltip>工作量：{0}\n傷害：{1}\n預估天數/格：{2}\n戰力消耗：{3}\n最大HP：{4}</TSA_WD_SpikeTrapKindTooltip>
   <!-- EN: Work: {0}\nCost mult: {1}\nEst. days/segment: {2}\nStrength cost: {3} -->
   <TSA_WD_RoadKindTooltip>工作量：{0}\n路徑代價倍率：{1}\n預估天數/段：{2}\n戰力消耗：{3}</TSA_WD_RoadKindTooltip>
   <!-- EN: Requirements -->
@@ -1747,11 +1747,11 @@
   <!-- EN: Pollution strength damage -->
   <TSA_WD_Pollution_EnableTravelerDamage>汙染戰力傷害</TSA_WD_Pollution_EnableTravelerDamage>
   <!-- EN: When on, eligible ground WD travelers lose strength leaving polluted tiles, and NPC settlements plus WD outposts take daily strength damage from average pollution nearby. Decontamination crews, airborne shells, and drop pods are unaffected. Use the type checkboxes to choose which caravans take exit damage. NPC settlements also send cheap decontamination crews every 12 hours. -->
-  <TSA_WD_Pollution_EnableTravelerDamageTip>開啟後，符合條件的地面 WD 旅行者離開受汙染地塊時會損失戰力，NPC 據點與 WD 哨站也會因附近平均汙染每日損失戰力。淨化小隊、空中砲彈與運輸艙不受影響。可用各類型勾選框選擇哪些旅隊承受離開傷害。NPC 據點也會每 12 小時派出低成本的淨化小隊。</TSA_WD_Pollution_EnableTravelerDamageTip>
+  <TSA_WD_Pollution_EnableTravelerDamageTip>開啟後，符合條件的地面WD旅行者離開受汙染地塊時會損失戰力，NPC據點與WD哨站也會因附近平均汙染每日損失戰力。淨化小隊、空中砲彈與運輸艙不受影響。可用各類型勾選框選擇哪些旅隊承受離開傷害。NPC據點也會每12小時派出低成本的淨化小隊。</TSA_WD_Pollution_EnableTravelerDamageTip>
   <!-- EN: Waster pirate pollution immunity -->
   <TSA_WD_Pollution_WasterImmunity>荒地人海盜汙染免疫</TSA_WD_Pollution_WasterImmunity>
   <!-- EN: When on, PirateWaster factions skip traveler exit damage, site daily pollution damage, and NPC auto-decontamination. -->
-  <TSA_WD_Pollution_WasterImmunityTip>開啟後，PirateWaster 派系不受旅行者離開傷害、地點每日汙染傷害影響，也不進行 NPC 自動淨化。</TSA_WD_Pollution_WasterImmunityTip>
+  <TSA_WD_Pollution_WasterImmunityTip>開啟後，PirateWaster派系不受旅行者離開傷害、地點每日汙染傷害影響，也不進行NPC自動淨化。</TSA_WD_Pollution_WasterImmunityTip>
   <!-- EN: Raider caravans -->
   <TSA_WD_Pollution_DamageRaiders>突襲旅隊</TSA_WD_Pollution_DamageRaiders>
   <!-- EN: Ground raid and rapid-response caravans take pollution exit damage. Drop-pod raids stay exempt. -->
@@ -1763,15 +1763,15 @@
   <!-- EN: Construction caravans -->
   <TSA_WD_Pollution_DamageConstruction>建造旅隊</TSA_WD_Pollution_DamageConstruction>
   <!-- EN: Road builders, road-block crews, spike-trap crews, and NPC fortify crews take pollution exit damage. -->
-  <TSA_WD_Pollution_DamageConstructionTip>築路隊、路障小隊、尖刺陷阱小隊與 NPC 設防小隊承受汙染離開傷害。</TSA_WD_Pollution_DamageConstructionTip>
+  <TSA_WD_Pollution_DamageConstructionTip>築路隊、路障小隊、尖刺陷阱小隊與NPC設防小隊承受汙染離開傷害。</TSA_WD_Pollution_DamageConstructionTip>
   <!-- EN: Traders and logistics -->
   <TSA_WD_Pollution_DamageTraders>商人與後勤</TSA_WD_Pollution_DamageTraders>
   <!-- EN: Trader, delivery, upgrade, buy, and gift caravans take pollution exit damage (ground only). -->
   <TSA_WD_Pollution_DamageTradersTip>商人、配送、升級、購買與贈禮旅隊承受汙染離開傷害（僅限地面）。</TSA_WD_Pollution_DamageTradersTip>
   <!-- EN: Player WD travelers -->
-  <TSA_WD_Pollution_DamagePlayer>玩家 WD 旅行者</TSA_WD_Pollution_DamagePlayer>
+  <TSA_WD_Pollution_DamagePlayer>玩家WD旅行者</TSA_WD_Pollution_DamagePlayer>
   <!-- EN: When off, player-faction WD travelers take no pollution exit damage even if their type checkbox is on. -->
-  <TSA_WD_Pollution_DamagePlayerTip>關閉時，即使對應類型的勾選框已開啟，玩家派系的 WD 旅行者也不會受到汙染離開傷害。</TSA_WD_Pollution_DamagePlayerTip>
+  <TSA_WD_Pollution_DamagePlayerTip>關閉時，即使對應類型的勾選框已開啟，玩家派系的WD旅行者也不會受到汙染離開傷害。</TSA_WD_Pollution_DamagePlayerTip>
   <!-- EN: Will take damage from pollution -->
   <TSA_WD_Pollution_BannerDamage>將受到汙染傷害</TSA_WD_Pollution_BannerDamage>
   <!-- EN: Route altered to avoid pollution -->
@@ -1783,29 +1783,29 @@
   <!-- EN: Experimental: colony world Build (roads / blocks / traps) -->
   <TSA_WD_Experimental_ColonyWorldBuild>實驗性：殖民地世界建造（道路／路障／陷阱）</TSA_WD_Experimental_ColonyWorldBuild>
   <!-- EN: When on, your colony Settlement gets the cyan Build gizmo (roads, road blocks, spike traps). Speed and unlocks use the sum of Construction skill on colonists at the colony map. No Engineer bonus and no WD strength cost. Turning this off cancels active colony construction projects. -->
-  <TSA_WD_Experimental_ColonyWorldBuildTip>開啟後，你的殖民地據點會獲得青色的「建造」按鈕（道路、路障、尖刺陷阱）。速度與解鎖取決於殖民地地圖上殖民者的建造技能總和。沒有工程師加成，也不消耗 WD 戰力。關閉此選項會取消殖民地進行中的建造專案。</TSA_WD_Experimental_ColonyWorldBuildTip>
+  <TSA_WD_Experimental_ColonyWorldBuildTip>開啟後，你的殖民地據點會獲得青色的「建造」按鈕（道路、路障、尖刺陷阱）。速度與解鎖取決於殖民地地圖上殖民者的建造技能總和。沒有工程師加成，也不消耗WD戰力。關閉此選項會取消殖民地進行中的建造專案。</TSA_WD_Experimental_ColonyWorldBuildTip>
   <!-- EN: Experimental: player conquest can raze -->
   <TSA_WD_Experimental_PlayerConquestRaze>實驗性：玩家征服可夷平</TSA_WD_Experimental_PlayerConquestRaze>
   <!-- EN: When on, wiping an NPC settlement yourself (or simulated conquest that would open the conquest menu) rolls the same Raze Chance as automatic NPC raids. On a raze, you get no recruit / gift / outpost opportunity, and timed ruins remain. Off by default. -->
-  <TSA_WD_Experimental_PlayerConquestRazeTip>開啟後，你親自消滅 NPC 據點（或會開啟征服選單的模擬征服）時，會擲與 NPC 自動突襲相同的夷平機率。若被夷平，你將無法獲得招募／贈禮／哨站機會，且會留下限時廢墟。預設關閉。</TSA_WD_Experimental_PlayerConquestRazeTip>
+  <TSA_WD_Experimental_PlayerConquestRazeTip>開啟後，你親自消滅NPC據點（或會開啟征服選單的模擬征服）時，會擲與NPC自動突襲相同的夷平機率。若被夷平，你將無法獲得招募／贈禮／哨站機會，且會留下限時廢墟。預設關閉。</TSA_WD_Experimental_PlayerConquestRazeTip>
   <!-- EN: NPC AT Turrets target player WD travelers -->
-  <TSA_WD_Experimental_AT_TargetPlayerTravelers>NPC 反戰車砲塔攻擊玩家 WD 旅行者</TSA_WD_Experimental_AT_TargetPlayerTravelers>
+  <TSA_WD_Experimental_AT_TargetPlayerTravelers>NPC反戰車砲塔攻擊玩家WD旅行者</TSA_WD_Experimental_AT_TargetPlayerTravelers>
   <!-- EN: When on, hostile NPC AT Turrets may fire at your ground WD travelers (raid, upgrade, delivery, trader, and other non-airborne missions). Off stops new engagements; shells already in flight still resolve. -->
-  <TSA_WD_Experimental_AT_TargetPlayerTravelersTip>開啟後，敵對 NPC 反戰車砲塔可能向你的地面 WD 旅行者開火（突襲、升級、配送、商人及其他非空中任務）。關閉後不再發起新交戰；已在飛行中的砲彈仍會結算。</TSA_WD_Experimental_AT_TargetPlayerTravelersTip>
+  <TSA_WD_Experimental_AT_TargetPlayerTravelersTip>開啟後，敵對NPC反戰車砲塔可能向你的地面WD旅行者開火（突襲、升級、配送、商人及其他非空中任務）。關閉後不再發起新交戰；已在飛行中的砲彈仍會結算。</TSA_WD_Experimental_AT_TargetPlayerTravelersTip>
   <!-- EN: Enemy systems target player caravans (AT / mortar / ambush) -->
   <TSA_WD_Experimental_AT_TargetPlayerCaravans>敵方系統攻擊玩家旅隊（AT／迫擊砲／埋伏）</TSA_WD_Experimental_AT_TargetPlayerCaravans>
   <!-- EN: When on, hostile NPC AT Turrets, T4 settlement mortars, and settlement ambush interceptors may engage your real pawn caravans if they meet the visibility threshold. AT and mortar hits wound or kill passengers. Off stops new engagements; shells already in flight still resolve. -->
-  <TSA_WD_Experimental_AT_TargetPlayerCaravansTip>開啟後，敵對 NPC 反戰車砲塔、T4 據點迫擊砲與據點埋伏攔截隊，可能在你的實體角色旅隊達到可見性門檻時與其交戰。AT 與迫擊砲命中會使乘員受傷或死亡。關閉後不再發起新交戰；已在飛行中的砲彈仍會結算。</TSA_WD_Experimental_AT_TargetPlayerCaravansTip>
+  <TSA_WD_Experimental_AT_TargetPlayerCaravansTip>開啟後，敵對NPC反戰車砲塔、T4據點迫擊砲與據點埋伏攔截隊，可能在你的實體角色旅隊達到可見性門檻時與其交戰。AT與迫擊砲命中會使乘員受傷或死亡。關閉後不再發起新交戰；已在飛行中的砲彈仍會結算。</TSA_WD_Experimental_AT_TargetPlayerCaravansTip>
   <!-- EN: Minimum visibility to target -->
   <TSA_WD_Experimental_MinPlayerCaravanVisibility>成為目標的最低可見性</TSA_WD_Experimental_MinPlayerCaravanVisibility>
   <!-- EN: Uses vanilla caravan Visibility (body size sum + moving). Parked or resting caravans are much less visible (×30%). Default 80%: about five humans on the move qualify; four do not. -->
-  <TSA_WD_Experimental_MinPlayerCaravanVisibilityTip>使用原版旅隊可見性（體型總和＋是否移動）。停駐或休息中的旅隊可見性大幅降低（×30%）。預設 80%：約五名移動中的人類即符合條件，四名則不會。</TSA_WD_Experimental_MinPlayerCaravanVisibilityTip>
+  <TSA_WD_Experimental_MinPlayerCaravanVisibilityTip>使用原版旅隊可見性（體型總和＋是否移動）。停駐或休息中的旅隊可見性大幅降低（×30%）。預設80%：約五名移動中的人類即符合條件，四名則不會。</TSA_WD_Experimental_MinPlayerCaravanVisibilityTip>
   <!-- EN: Target-of-opportunity retargeting -->
   <TSA_WD_Experimental_HeaderTargetOfOpportunity>機會目標改道</TSA_WD_Experimental_HeaderTargetOfOpportunity>
   <!-- EN: Experimental: target-of-opportunity retargeting -->
   <TSA_WD_Experimental_TargetOfOpportunity>實驗性：機會目標改道</TSA_WD_Experimental_TargetOfOpportunity>
   <!-- EN: When on, an in-flight raid (NPC-vs-NPC, NPC-vs-player, or player-vs-NPC) that passes near a weaker settlement or outpost may redirect onto it instead of continuing to its original target. Never diverts onto another passing caravan or traveler, only onto a static settlement/outpost. By default only after mid or late escalation; turn on "Allow target-of-opportunity, marauding and ambush from the start" below to skip that gate. Off by default. -->
-  <TSA_WD_Experimental_TargetOfOpportunityTip>開啟後，行進中的突襲（NPC 對 NPC、NPC 對玩家或玩家對 NPC）經過較弱的據點或哨站附近時，可能改為攻擊該目標，而不繼續前往原定目標。絕不會轉向攻擊途經的旅隊或旅行者，只會轉向靜態的據點／哨站。預設僅在中期或後期升級後生效；開啟下方的「從開局就允許機會目標、劫掠與埋伏」可略過此門檻。預設關閉。</TSA_WD_Experimental_TargetOfOpportunityTip>
+  <TSA_WD_Experimental_TargetOfOpportunityTip>開啟後，行進中的突襲（NPC對NPC、NPC對玩家或玩家對NPC）經過較弱的據點或哨站附近時，可能改為攻擊該目標，而不繼續前往原定目標。絕不會轉向攻擊途經的旅隊或旅行者，只會轉向靜態的據點／哨站。預設僅在中期或後期升級後生效；開啟下方的「從開局就允許機會目標、劫掠與埋伏」可略過此門檻。預設關閉。</TSA_WD_Experimental_TargetOfOpportunityTip>
   <!-- EN: Eligibility roll chance -->
   <TSA_WD_Experimental_ToORollPct>資格判定機率</TSA_WD_Experimental_ToORollPct>
   <!-- EN: Cheap coin flip rolled every time a raid passes near an eligible watcher, before any strength math runs. Most passes are discarded here for free (this is both the "chance a raid is even eligible to swap" and the main performance throttle). -->
@@ -1813,7 +1813,7 @@
   <!-- EN: Required ratio advantage to switch -->
   <TSA_WD_Experimental_ToOMinRatioAdvantage>切換所需的戰力比優勢</TSA_WD_Experimental_ToOMinRatioAdvantage>
   <!-- EN: Strength ratio means raid strength divided by the target's defense. A nearby settlement only becomes the new target if its ratio is at least this much higher than the current target's ratio. Example: current 1.10 and setting 0.25 means the new target needs 1.35 or better. -->
-  <TSA_WD_Experimental_ToOMinRatioAdvantageTip>戰力比＝突襲戰力除以目標防禦。附近據點的戰力比必須至少比目前目標高出此值，才會成為新目標。例如：目前為 1.10、此設定為 0.25 時，新目標需達到 1.35 以上。</TSA_WD_Experimental_ToOMinRatioAdvantageTip>
+  <TSA_WD_Experimental_ToOMinRatioAdvantageTip>戰力比＝突襲戰力除以目標防禦。附近據點的戰力比必須至少比目前目標高出此值，才會成為新目標。例如：目前為1.10、此設定為0.25時，新目標需達到1.35以上。</TSA_WD_Experimental_ToOMinRatioAdvantageTip>
   <!-- EN: Max retargets per raid -->
   <TSA_WD_Experimental_ToOMaxRetargets>每次突襲最多改道次數</TSA_WD_Experimental_ToOMaxRetargets>
   <!-- EN: Caps how many times a single raid can pick a new target of opportunity before it must commit to whichever target it currently has. -->
@@ -1827,7 +1827,7 @@
   <!-- EN: Experimental: continue raiding after conquest -->
   <TSA_WD_Experimental_ContinueAfterConquest>實驗性：征服後繼續突襲</TSA_WD_Experimental_ContinueAfterConquest>
   <!-- EN: When on, a raid that wins may keep going and attack another nearby weak settlement instead of always disbanding after its first victory. Only continues for auto-resolved NPC/simulated victories, never for a raid resolved through the player colony's manual defense dialog. By default only after mid or late escalation; turn on "Allow target-of-opportunity, marauding and ambush from the start" below to skip that gate. Off by default. -->
-  <TSA_WD_Experimental_ContinueAfterConquestTip>開啟後，獲勝的突襲可能繼續前進，攻擊附近另一個較弱的據點，而不是首次勝利後一律解散。只有自動結算的 NPC／模擬勝利才會繼續，透過玩家殖民地手動防禦對話框結算的突襲絕不會繼續。預設僅在中期或後期升級後生效；開啟下方的「從開局就允許機會目標、劫掠與埋伏」可略過此門檻。預設關閉。</TSA_WD_Experimental_ContinueAfterConquestTip>
+  <TSA_WD_Experimental_ContinueAfterConquestTip>開啟後，獲勝的突襲可能繼續前進，攻擊附近另一個較弱的據點，而不是首次勝利後一律解散。只有自動結算的NPC／模擬勝利才會繼續，透過玩家殖民地手動防禦對話框結算的突襲絕不會繼續。預設僅在中期或後期升級後生效；開啟下方的「從開局就允許機會目標、劫掠與埋伏」可略過此門檻。預設關閉。</TSA_WD_Experimental_ContinueAfterConquestTip>
   <!-- EN: Chance to continue after a win -->
   <TSA_WD_Experimental_MaraudChancePct>勝利後繼續的機率</TSA_WD_Experimental_MaraudChancePct>
   <!-- EN: Rolled once immediately after a victory, before any other marauding checks. -->
@@ -1845,7 +1845,7 @@
   <!-- EN: Experimental: settlement ambush of passing travelers -->
   <TSA_WD_Experimental_SettlementAmbush>實驗性：據點埋伏途經的旅行者</TSA_WD_Experimental_SettlementAmbush>
   <!-- EN: When on, NPC settlements at the minimum ambush tier (Tier 2 by default) may launch an interceptor at a hostile trader caravan, gift/bribe caravan, uninvolved raid, or real player caravan that passes within watch range. Player Rapid Response and mortar outposts are not this feature; they intercept through their own defense range. By default only after mid or late escalation; turn on "Allow target-of-opportunity, marauding and ambush from the start" below to skip that gate. -->
-  <TSA_WD_Experimental_SettlementAmbushTip>開啟後，達到最低埋伏等級（預設為等級 2）的 NPC 據點，可能對進入監視範圍的敵對商隊、贈禮／賄賂旅隊、無關的突襲或玩家實體旅隊派出攔截隊。玩家的快速反應與迫擊砲哨站不屬於此功能，它們透過各自的防禦範圍攔截。預設僅在中期或後期升級後生效；開啟下方的「從開局就允許機會目標、劫掠與埋伏」可略過此門檻。</TSA_WD_Experimental_SettlementAmbushTip>
+  <TSA_WD_Experimental_SettlementAmbushTip>開啟後，達到最低埋伏等級（預設為等級2）的NPC據點，可能對進入監視範圍的敵對商隊、贈禮／賄賂旅隊、無關的突襲或玩家實體旅隊派出攔截隊。玩家的快速反應與迫擊砲哨站不屬於此功能，它們透過各自的防禦範圍攔截。預設僅在中期或後期升級後生效；開啟下方的「從開局就允許機會目標、劫掠與埋伏」可略過此門檻。</TSA_WD_Experimental_SettlementAmbushTip>
   <!-- EN: Ambush chance (coin flip) -->
   <TSA_WD_Experimental_AmbushChancePct>埋伏機率（擲幣判定）</TSA_WD_Experimental_AmbushChancePct>
   <!-- EN: Rolled after the escalation gate but before any strength math, so a failed roll never costs the more expensive strength-ratio check. -->
@@ -1861,49 +1861,49 @@
   <!-- EN: Minimum settlement tier to ambush -->
   <TSA_WD_Experimental_AmbushMinTier>埋伏所需最低據點等級</TSA_WD_Experimental_AmbushMinTier>
   <!-- EN: Only NPC settlements at this tier or higher watch and launch ambush interceptors. Lower-tier hamlets stay home. Mortar and Rapid Response sites are unchanged; they use their own defense range. -->
-  <TSA_WD_Experimental_AmbushMinTierTip>只有達到此等級或更高的 NPC 據點會監視並派出埋伏攔截隊。較低等級的小村落會留守。迫擊砲與快速反應地點不受影響；它們使用各自的防禦範圍。</TSA_WD_Experimental_AmbushMinTierTip>
+  <TSA_WD_Experimental_AmbushMinTierTip>只有達到此等級或更高的NPC據點會監視並派出埋伏攔截隊。較低等級的小村落會留守。迫擊砲與快速反應地點不受影響；它們使用各自的防禦範圍。</TSA_WD_Experimental_AmbushMinTierTip>
   <!-- EN: Max ambush interceptors in flight -->
   <TSA_WD_Experimental_AmbushMaxConcurrent>同時行進中的埋伏攔截隊上限</TSA_WD_Experimental_AmbushMaxConcurrent>
   <!-- EN: Global cap on NPC ambush interceptors on the world at once. 0 means no limit. Does not count player Rapid Response. Performance presets overwrite this when Apply is clicked. -->
-  <TSA_WD_Experimental_AmbushMaxConcurrentTip>全世界同時存在的 NPC 埋伏攔截隊總上限。0 表示不限制。不計入玩家的快速反應。按下效能預設集的「套用」時會覆寫此值。</TSA_WD_Experimental_AmbushMaxConcurrentTip>
+  <TSA_WD_Experimental_AmbushMaxConcurrentTip>全世界同時存在的NPC埋伏攔截隊總上限。0表示不限制。不計入玩家的快速反應。按下效能預設集的「套用」時會覆寫此值。</TSA_WD_Experimental_AmbushMaxConcurrentTip>
   <!-- EN: No limit -->
   <TSA_WD_Experimental_AmbushMaxConcurrentUnlimited>不限制</TSA_WD_Experimental_AmbushMaxConcurrentUnlimited>
   <!-- EN: Plain settlement ambush watch range (tiles) -->
   <TSA_WD_Experimental_AmbushWatchRange>一般據點埋伏監視範圍（格）</TSA_WD_Experimental_AmbushWatchRange>
   <!-- EN: How far an eligible-tier plain NPC settlement watches for ambush targets. Meant to match the inner blocked-tile radius around a settlement. Mortar and Rapid Response sites intercept through their own defense range, not this ambush watch. -->
-  <TSA_WD_Experimental_AmbushWatchRangeTip>達到合格等級的一般 NPC 據點監視埋伏目標的距離。設計上與據點周圍的內圈封鎖地塊半徑一致。迫擊砲與快速反應地點透過各自的防禦範圍攔截，不使用此埋伏監視範圍。</TSA_WD_Experimental_AmbushWatchRangeTip>
+  <TSA_WD_Experimental_AmbushWatchRangeTip>達到合格等級的一般NPC據點監視埋伏目標的距離。設計上與據點周圍的內圈封鎖地塊半徑一致。迫擊砲與快速反應地點透過各自的防禦範圍攔截，不使用此埋伏監視範圍。</TSA_WD_Experimental_AmbushWatchRangeTip>
   <!-- EN: Allow target-of-opportunity, marauding and ambush from the start -->
   <TSA_WD_Experimental_OpportunityIgnoreEscalationGate>從開局就允許機會目標、劫掠與埋伏</TSA_WD_Experimental_OpportunityIgnoreEscalationGate>
   <!-- EN: When on, target-of-opportunity retargeting, post-victory marauding, and settlement ambush (whichever of the three are enabled in the sections above) can trigger from the very start of a game instead of only once mid or late escalation is reached. Has no effect on any of the three unless at least one of them is also switched on. -->
   <TSA_WD_Experimental_OpportunityIgnoreEscalationGateTip>開啟後，機會目標改道、勝利後劫掠與據點埋伏（以上三項中已在上方啟用者）從遊戲一開始就能觸發，不必等到中期或後期升級。若三項都未開啟，此選項沒有任何效果。</TSA_WD_Experimental_OpportunityIgnoreEscalationGateTip>
   <!-- EN: WD world map combat sounds -->
-  <TSA_WD_Experimental_EnableWorldMapSounds>WD 世界地圖戰鬥音效</TSA_WD_Experimental_EnableWorldMapSounds>
+  <TSA_WD_Experimental_EnableWorldMapSounds>WD世界地圖戰鬥音效</TSA_WD_Experimental_EnableWorldMapSounds>
   <!-- EN: When on, AT Turret, mortar, and flak fire play short oneshots on the world map. Turn off to mute all of those WD combat sounds. UI clicks are unchanged. -->
-  <TSA_WD_Experimental_EnableWorldMapSoundsTip>開啟後，反戰車砲塔、迫擊砲與防空砲火會在世界地圖上播放短音效。關閉可將這些 WD 戰鬥音效全部靜音。介面點擊音效不受影響。</TSA_WD_Experimental_EnableWorldMapSoundsTip>
+  <TSA_WD_Experimental_EnableWorldMapSoundsTip>開啟後，反戰車砲塔、迫擊砲與防空砲火會在世界地圖上播放短音效。關閉可將這些WD戰鬥音效全部靜音。介面點擊音效不受影響。</TSA_WD_Experimental_EnableWorldMapSoundsTip>
   <!-- EN: Unlimited Mortar support on settlement assault -->
   <TSA_WD_Experimental_UnlimitedAssaultMortarSupport>據點攻擊時無限迫擊砲支援</TSA_WD_Experimental_UnlimitedAssaultMortarSupport>
   <!-- EN: When on, the assault-map artillery float button can fire without a mortar outpost in range and without putting an outpost on cooldown. Off by default. -->
   <TSA_WD_Experimental_UnlimitedAssaultMortarSupportTip>開啟後，攻擊地圖上的砲擊浮動按鈕不需要範圍內有迫擊砲哨站即可開火，也不會讓哨站進入冷卻。預設關閉。</TSA_WD_Experimental_UnlimitedAssaultMortarSupportTip>
   <!-- EN: Outpost Combat Extended ammo stockpile -->
-  <TSA_WD_Experimental_OutpostCePassiveAmmo>哨站 Combat Extended 彈藥囤積</TSA_WD_Experimental_OutpostCePassiveAmmo>
+  <TSA_WD_Experimental_OutpostCePassiveAmmo>哨站Combat Extended彈藥囤積</TSA_WD_Experimental_OutpostCePassiveAmmo>
   <!-- EN: When Combat Extended is active, outpost colonists with a ranged primary slowly stockpile its basic ammo (FMJ, stone arrows, simple rockets) at {0} magazines per day, up to {1} magazines in their inventory. Free and a bit cheaty. Turn off to disable. On by default. -->
-  <TSA_WD_Experimental_OutpostCePassiveAmmoTip>啟用 Combat Extended 時，主武器為遠程武器的哨站殖民者會緩慢囤積其基本彈藥（全金屬被甲彈、石箭、簡易火箭），每天{0}個彈匣，物品欄最多{1}個彈匣。免費且有點作弊。關閉即可停用。預設開啟。</TSA_WD_Experimental_OutpostCePassiveAmmoTip>
+  <TSA_WD_Experimental_OutpostCePassiveAmmoTip>啟用Combat Extended時，主武器為遠程武器的哨站殖民者會緩慢囤積其基本彈藥（全金屬被甲彈、石箭、簡易火箭），每天{0}個彈匣，物品欄最多{1}個彈匣。免費且有點作弊。關閉即可停用。預設開啟。</TSA_WD_Experimental_OutpostCePassiveAmmoTip>
   <!-- EN: Outpost armory -->
   <TSA_WD_Experimental_OutpostArmory>哨站軍械庫</TSA_WD_Experimental_OutpostArmory>
   <!-- EN: When on, every outpost keeps a loose store for weapons, armor, medicine, drugs, food and ammo. Gear arriving by caravan or drop pod is stored instead of destroyed, and you can hand it to occupants from the Armory button on the Pawns tab. Turn off to go back to discarding arriving gear. Anything already stored stays in the save. On by default. -->
   <TSA_WD_Experimental_OutpostArmoryTip>開啟後，每個哨站都會保有一個散裝倉庫，可存放武器、護甲、藥品、藥物、食物與彈藥。由旅隊或運輸艙抵達的裝備會被存放而非銷毀，你可以從「角色」分頁的「軍械庫」按鈕將其交給駐員。關閉後恢復為丟棄抵達的裝備。已存放的物品會保留在存檔中。預設開啟。</TSA_WD_Experimental_OutpostArmoryTip>
   <!-- EN: Experimental: T4 gravship raids -->
-  <TSA_WD_Experimental_T4GravshipRaids>實驗性：T4 重力船突襲</TSA_WD_Experimental_T4GravshipRaids>
+  <TSA_WD_Experimental_T4GravshipRaids>實驗性：T4重力船突襲</TSA_WD_Experimental_T4GravshipRaids>
   <!-- EN: When on, tier-4 settlements may launch ballistic gravship raid travelers at the player. Requires Odyssey and the Gravship Raids Workshop mod (sk.gravshipraids). Without those mods the option has no effect. Off by default. -->
-  <TSA_WD_Experimental_T4GravshipRaidsTip>開啟後，等級 4 據點可能對玩家發動彈道重力船突襲旅行者。需要 Odyssey 與 Gravship Raids 工作坊模組（sk.gravshipraids）。沒有這些模組時此選項無效。預設關閉。</TSA_WD_Experimental_T4GravshipRaidsTip>
+  <TSA_WD_Experimental_T4GravshipRaidsTip>開啟後，等級4據點可能對玩家發動彈道重力船突襲旅行者。需要Odyssey與Gravship Raids工作坊模組（sk.gravshipraids）。沒有這些模組時此選項無效。預設關閉。</TSA_WD_Experimental_T4GravshipRaidsTip>
   <!-- EN: T4 gravship raid chance -->
-  <TSA_WD_Experimental_GravshipRaidChanceT4>T4 重力船突襲機率</TSA_WD_Experimental_GravshipRaidChanceT4>
+  <TSA_WD_Experimental_GravshipRaidChanceT4>T4重力船突襲機率</TSA_WD_Experimental_GravshipRaidChanceT4>
   <!-- EN: When a T4 settlement launches a raid and gravship raids are enabled, chance it uses a gravship traveler instead of drop pods or a walking caravan. Rolled before the normal drop-pod chance. -->
-  <TSA_WD_Experimental_GravshipRaidChanceT4Tip>啟用重力船突襲時，T4 據點發動突襲會以此機率使用重力船旅行者，而非運輸艙或步行旅隊。判定早於一般的運輸艙機率。</TSA_WD_Experimental_GravshipRaidChanceT4Tip>
+  <TSA_WD_Experimental_GravshipRaidChanceT4Tip>啟用重力船突襲時，T4據點發動突襲會以此機率使用重力船旅行者，而非運輸艙或步行旅隊。判定早於一般的運輸艙機率。</TSA_WD_Experimental_GravshipRaidChanceT4Tip>
   <!-- EN: Experimental: outpost withdraw strength budget -->
   <TSA_WD_Experimental_OutpostWithdrawStrengthBudget>實驗性：哨站撤出戰力預算</TSA_WD_Experimental_OutpostWithdrawStrengthBudget>
   <!-- EN: When on, withdrawals use current uncapped offensive strength with a 5% confirmation allowance. If the selected pawns exceed that budget, a picker opens: Form Caravan, Leave at Outpost, or Mark as Lost. When off, transfers always proceed without that check. -->
-  <TSA_WD_Experimental_OutpostWithdrawStrengthBudgetTip>開啟後，撤出時以目前不設上限的進攻戰力為準，並有 5% 的確認寬限。若所選角色超出預算，會開啟選擇視窗：組織旅隊、留在哨站或標記為失蹤。關閉時，轉移一律直接進行，不做此檢查。</TSA_WD_Experimental_OutpostWithdrawStrengthBudgetTip>
+  <TSA_WD_Experimental_OutpostWithdrawStrengthBudgetTip>開啟後，撤出時以目前不設上限的進攻戰力為準，並有5% 的確認寬限。若所選角色超出預算，會開啟選擇視窗：組織旅隊、留在哨站或標記為失蹤。關閉時，轉移一律直接進行，不做此檢查。</TSA_WD_Experimental_OutpostWithdrawStrengthBudgetTip>
   <!-- EN: Experimental: outpost defense deploy strength budget -->
   <TSA_WD_Experimental_OutpostDefenseDeployBudget>實驗性：哨站防禦部署戰力預算</TSA_WD_Experimental_OutpostDefenseDeployBudget>
   <!-- EN: When on, Fight Manually limits how many outpost pawns you can deploy by current offensive strength. When off, you can select any mix with no budget cap. -->
@@ -1915,15 +1915,15 @@
   <!-- EN: Player global AT Turret cap -->
   <TSA_WD_Experimental_AT_TurretPlayerGlobalMax>玩家 反戰車砲塔總上限</TSA_WD_Experimental_AT_TurretPlayerGlobalMax>
   <!-- EN: Maximum AT Turrets your faction may own at once across the colony and all outposts. NPC settlements use the Fortify tier caps instead. -->
-  <TSA_WD_Experimental_AT_TurretPlayerGlobalMaxTip>你的派系在殖民地與所有哨站合計可同時擁有的 反戰車砲塔上限。NPC 據點改用設防等級上限。</TSA_WD_Experimental_AT_TurretPlayerGlobalMaxTip>
+  <TSA_WD_Experimental_AT_TurretPlayerGlobalMaxTip>你的派系在殖民地與所有哨站合計可同時擁有的 反戰車砲塔上限。NPC據點改用設防等級上限。</TSA_WD_Experimental_AT_TurretPlayerGlobalMaxTip>
   <!-- EN: AT Turrets per colony or outpost -->
   <TSA_WD_Experimental_AT_TurretPlayerPerSiteMax>每個殖民地或哨站的 反戰車砲塔數</TSA_WD_Experimental_AT_TurretPlayerPerSiteMax>
   <!-- EN: Maximum AT Turrets attributed to one player colony or WD outpost. Each site has its own count toward this limit. -->
-  <TSA_WD_Experimental_AT_TurretPlayerPerSiteMaxTip>單一玩家殖民地或 WD 哨站所屬 反戰車砲塔的上限。每個地點各自計算是否達到此上限。</TSA_WD_Experimental_AT_TurretPlayerPerSiteMaxTip>
+  <TSA_WD_Experimental_AT_TurretPlayerPerSiteMaxTip>單一玩家殖民地或WD哨站所屬 反戰車砲塔的上限。每個地點各自計算是否達到此上限。</TSA_WD_Experimental_AT_TurretPlayerPerSiteMaxTip>
   <!-- EN: AT Turret strength (HP) -->
   <TSA_WD_Experimental_AT_TurretMaxStrength>反戰車砲塔戰力（HP）</TSA_WD_Experimental_AT_TurretMaxStrength>
   <!-- EN: Hit points when a new AT Turret of this type is built. Does not change guns already on the map. Separate from Road Building expedition strength. -->
-  <TSA_WD_Experimental_AT_TurretMaxStrengthTip>新建此類型 反戰車砲塔時的 HP。不會改變地圖上已有的砲塔。與道路建設隊伍的戰力無關。</TSA_WD_Experimental_AT_TurretMaxStrengthTip>
+  <TSA_WD_Experimental_AT_TurretMaxStrengthTip>新建此類型 反戰車砲塔時的HP。不會改變地圖上已有的砲塔。與道路建設隊伍的戰力無關。</TSA_WD_Experimental_AT_TurretMaxStrengthTip>
   <!-- EN: AT Turret shell damage -->
   <TSA_WD_Experimental_AT_TurretDamage>反戰車砲塔砲彈傷害</TSA_WD_Experimental_AT_TurretDamage>
   <!-- EN: Strength damage dealt by an AT Turret shell on a hit. -->
@@ -1937,57 +1937,57 @@
   <!-- EN: Fire range and proximity magnet radius for this AT Turret type. Applied live from settings. -->
   <TSA_WD_Experimental_AT_TurretRangeTip>此類型 反戰車砲塔的開火射程與接近吸引半徑。設定變更即時生效。</TSA_WD_Experimental_AT_TurretRangeTip>
   <!-- EN: AT Turret hit chance at 0–50% of max range -->
-  <TSA_WD_Experimental_AT_TurretHitBand0To50>反戰車砲塔命中率（最大射程 0–50%）</TSA_WD_Experimental_AT_TurretHitBand0To50>
+  <TSA_WD_Experimental_AT_TurretHitBand0To50>反戰車砲塔命中率（最大射程0–50%）</TSA_WD_Experimental_AT_TurretHitBand0To50>
   <!-- EN: Base hit chance for shots in the inner band. Skill-equivalent (+1 pp per level, currently 8) is added on top. -->
-  <TSA_WD_Experimental_AT_TurretHitBand0To50Tip>內圈射擊的基礎命中率。另外加上技能等效值（每級 +1 百分點，目前為 8）。</TSA_WD_Experimental_AT_TurretHitBand0To50Tip>
+  <TSA_WD_Experimental_AT_TurretHitBand0To50Tip>內圈射擊的基礎命中率。另外加上技能等效值（每級 +1百分點，目前為8）。</TSA_WD_Experimental_AT_TurretHitBand0To50Tip>
   <!-- EN: AT Turret hit chance at 51–75% of max range -->
-  <TSA_WD_Experimental_AT_TurretHitBand51To75>反戰車砲塔命中率（最大射程 51–75%）</TSA_WD_Experimental_AT_TurretHitBand51To75>
+  <TSA_WD_Experimental_AT_TurretHitBand51To75>反戰車砲塔命中率（最大射程51–75%）</TSA_WD_Experimental_AT_TurretHitBand51To75>
   <!-- EN: Base hit chance for the middle band. Independent from mortar / T4 settlement accuracy. -->
-  <TSA_WD_Experimental_AT_TurretHitBand51To75Tip>中圈的基礎命中率。與迫擊砲／T4 據點準度彼此獨立。</TSA_WD_Experimental_AT_TurretHitBand51To75Tip>
+  <TSA_WD_Experimental_AT_TurretHitBand51To75Tip>中圈的基礎命中率。與迫擊砲／T4據點準度彼此獨立。</TSA_WD_Experimental_AT_TurretHitBand51To75Tip>
   <!-- EN: AT Turret hit chance at 76–100% of max range -->
-  <TSA_WD_Experimental_AT_TurretHitBand76To100>反戰車砲塔命中率（最大射程 76–100%）</TSA_WD_Experimental_AT_TurretHitBand76To100>
+  <TSA_WD_Experimental_AT_TurretHitBand76To100>反戰車砲塔命中率（最大射程76–100%）</TSA_WD_Experimental_AT_TurretHitBand76To100>
   <!-- EN: Base hit chance at the outer edge of AT Turret range. Independent from mortar / T4 settlement accuracy. -->
-  <TSA_WD_Experimental_AT_TurretHitBand76To100Tip>反戰車砲塔射程外緣的基礎命中率。與迫擊砲／T4 據點準度彼此獨立。</TSA_WD_Experimental_AT_TurretHitBand76To100Tip>
+  <TSA_WD_Experimental_AT_TurretHitBand76To100Tip>反戰車砲塔射程外緣的基礎命中率。與迫擊砲／T4據點準度彼此獨立。</TSA_WD_Experimental_AT_TurretHitBand76To100Tip>
   <!-- EN: World map controls -->
   <TSA_WD_Experimental_HeaderControls>世界地圖操作</TSA_WD_Experimental_HeaderControls>
   <!-- EN: Auto-Add Arrivals on by default -->
   <TSA_WD_AutoAdd_DefaultOn>預設開啟「自動加入抵達者」</TSA_WD_AutoAdd_DefaultOn>
   <!-- EN: When on, newly founded WD outposts start with the Auto-Add Arrivals gizmo enabled (caravans whose destination is the outpost). Existing outposts are unchanged. You can still toggle each outpost individually. -->
-  <TSA_WD_AutoAdd_DefaultOnTip>開啟後，新建立的 WD 哨站會預設啟用「自動加入抵達者」按鈕（以該哨站為目的地的旅隊）。既有哨站不受影響。仍可個別切換每個哨站。</TSA_WD_AutoAdd_DefaultOnTip>
+  <TSA_WD_AutoAdd_DefaultOnTip>開啟後，新建立的WD哨站會預設啟用「自動加入抵達者」按鈕（以該哨站為目的地的旅隊）。既有哨站不受影響。仍可個別切換每個哨站。</TSA_WD_AutoAdd_DefaultOnTip>
   <!-- EN: Give food to prisoners transferred after recruitment -->
   <TSA_WD_TravelFood_PrisonerRecruit>招募後轉移的俘虜提供食物</TSA_WD_TravelFood_PrisonerRecruit>
   <!-- EN: When on, prisoners sent to a scheduled colony or outpost after recruitment leave with 150 pemmican each. From a colony, that pemmican is paid for with map food of equal nutrition (prefer food that spoils sooner). From an outpost, it is paid from virtual food. Shortfalls transfer without that pack. -->
-  <TSA_WD_TravelFood_PrisonerRecruitTip>開啟後，招募後送往預定殖民地或哨站的俘虜每人攜帶 150 份乾肉餅出發。從殖民地出發時，以等量營養的地圖食物支付（優先使用較快腐壞的食物）。從哨站出發時，以虛擬食物支付。不足時則不攜帶這份口糧直接轉移。</TSA_WD_TravelFood_PrisonerRecruitTip>
+  <TSA_WD_TravelFood_PrisonerRecruitTip>開啟後，招募後送往預定殖民地或哨站的俘虜每人攜帶150份乾肉餅出發。從殖民地出發時，以等量營養的地圖食物支付（優先使用較快腐壞的食物）。從哨站出發時，以虛擬食物支付。不足時則不攜帶這份口糧直接轉移。</TSA_WD_TravelFood_PrisonerRecruitTip>
   <!-- EN: Give food to any pawn transferred via All Player Pawns -->
   <TSA_WD_TravelFood_AllPlayerPawns>透過全部玩家角色轉移的角色提供食物</TSA_WD_TravelFood_AllPlayerPawns>
   <!-- EN: When on, pawns moved through the All Player Pawns window leave with 150 pemmican each. From a colony, that pemmican is paid for with map food of equal nutrition (prefer food that spoils sooner). From an outpost, it is paid from virtual food. Shortfalls transfer without that pack. -->
-  <TSA_WD_TravelFood_AllPlayerPawnsTip>開啟後，透過「全部玩家角色」視窗轉移的角色每人攜帶 150 份乾肉餅出發。從殖民地出發時，以等量營養的地圖食物支付（優先使用較快腐壞的食物）。從哨站出發時，以虛擬食物支付。不足時則不攜帶這份口糧直接轉移。</TSA_WD_TravelFood_AllPlayerPawnsTip>
+  <TSA_WD_TravelFood_AllPlayerPawnsTip>開啟後，透過「全部玩家角色」視窗轉移的角色每人攜帶150份乾肉餅出發。從殖民地出發時，以等量營養的地圖食物支付（優先使用較快腐壞的食物）。從哨站出發時，以虛擬食物支付。不足時則不攜帶這份口糧直接轉移。</TSA_WD_TravelFood_AllPlayerPawnsTip>
   <!-- EN: Show establish-outpost simulation in WD world map menu -->
-  <TSA_WD_OutpostSim_ShowInWdMenu>在 WD 世界地圖選單顯示建立哨站模擬</TSA_WD_OutpostSim_ShowInWdMenu>
+  <TSA_WD_OutpostSim_ShowInWdMenu>在WD世界地圖選單顯示建立哨站模擬</TSA_WD_OutpostSim_ShowInWdMenu>
   <!-- EN: When on, the WD world map menu includes Establish outpost simulation so you can click a tile and preview requirements and material costs without sending a caravan. -->
-  <TSA_WD_OutpostSim_ShowInWdMenuTip>開啟後，WD 世界地圖選單會包含「建立哨站模擬」，可點選地塊預覽需求與材料成本，不必派出旅隊。</TSA_WD_OutpostSim_ShowInWdMenuTip>
+  <TSA_WD_OutpostSim_ShowInWdMenuTip>開啟後，WD世界地圖選單會包含「建立哨站模擬」，可點選地塊預覽需求與材料成本，不必派出旅隊。</TSA_WD_OutpostSim_ShowInWdMenuTip>
   <!-- EN: NPC Fortify -->
-  <TSA_WD_Experimental_HeaderFortify>NPC 設防</TSA_WD_Experimental_HeaderFortify>
+  <TSA_WD_Experimental_HeaderFortify>NPC設防</TSA_WD_Experimental_HeaderFortify>
   <!-- EN: Min distance from settlement -->
   <TSA_WD_Fortify_MinFromSelf>與據點的最小距離</TSA_WD_Fortify_MinFromSelf>
   <!-- EN: Legacy unused. NPC Fortify now places on the turtle kit rings (radius 1 AT Turrets, radius 2 traps and road blocks). -->
-  <TSA_WD_Fortify_MinFromSelfTip>舊版設定，已不使用。NPC 設防現在依防禦配置環放置（半徑 1 放 反戰車砲塔，半徑 2 放陷阱與路障）。</TSA_WD_Fortify_MinFromSelfTip>
+  <TSA_WD_Fortify_MinFromSelfTip>舊版設定，已不使用。NPC設防現在依防禦配置環放置（半徑1放 反戰車砲塔，半徑2放陷阱與路障）。</TSA_WD_Fortify_MinFromSelfTip>
   <!-- EN: Min distance from other settlements -->
   <TSA_WD_Fortify_MinFromOther>與其他據點的最小距離</TSA_WD_Fortify_MinFromOther>
   <!-- EN: Legacy unused. NPC Fortify no longer uses a min-distance-from-other-settlements ring rule. -->
-  <TSA_WD_Fortify_MinFromOtherTip>舊版設定，已不使用。NPC 設防不再使用「與其他據點最小距離」的環狀規則。</TSA_WD_Fortify_MinFromOtherTip>
+  <TSA_WD_Fortify_MinFromOtherTip>舊版設定，已不使用。NPC設防不再使用「與其他據點最小距離」的環狀規則。</TSA_WD_Fortify_MinFromOtherTip>
   <!-- EN: Max distance from settlement -->
   <TSA_WD_Fortify_MaxFromSelf>與據點的最大距離</TSA_WD_Fortify_MaxFromSelf>
   <!-- EN: Legacy unused. NPC Fortify uses fixed turtle kit radii instead of a max distance band. -->
-  <TSA_WD_Fortify_MaxFromSelfTip>舊版設定，已不使用。NPC 設防改用固定的防禦配置半徑，而非最大距離區間。</TSA_WD_Fortify_MaxFromSelfTip>
+  <TSA_WD_Fortify_MaxFromSelfTip>舊版設定，已不使用。NPC設防改用固定的防禦配置半徑，而非最大距離區間。</TSA_WD_Fortify_MaxFromSelfTip>
   <!-- EN: Max travel to place fortifications -->
   <TSA_WD_Fortify_MaxTravel>放置防禦工事的最大移動距離</TSA_WD_Fortify_MaxTravel>
   <!-- EN: Legacy unused. NPC Fortify always builds at the threatened settlement itself (no distant frontier delegation). -->
-  <TSA_WD_Fortify_MaxTravelTip>舊版設定，已不使用。NPC 設防一律在受威脅的據點本身建造（不再委派至遠處前線）。</TSA_WD_Fortify_MaxTravelTip>
+  <TSA_WD_Fortify_MaxTravelTip>舊版設定，已不使用。NPC設防一律在受威脅的據點本身建造（不再委派至遠處前線）。</TSA_WD_Fortify_MaxTravelTip>
   <!-- EN: Territory link range -->
   <TSA_WD_Fortify_TerritoryLink>領地連結範圍</TSA_WD_Fortify_TerritoryLink>
   <!-- EN: Legacy unused. Territory and frontier detection were removed from NPC Fortify; fields remain for save compatibility. -->
-  <TSA_WD_Fortify_TerritoryLinkTip>舊版設定，已不使用。NPC 設防已移除領地與前線偵測；欄位僅為存檔相容而保留。</TSA_WD_Fortify_TerritoryLinkTip>
+  <TSA_WD_Fortify_TerritoryLinkTip>舊版設定，已不使用。NPC設防已移除領地與前線偵測；欄位僅為存檔相容而保留。</TSA_WD_Fortify_TerritoryLinkTip>
   <!-- EN: Fortify traveler strength -->
   <TSA_WD_Fortify_TravelerStrength>設防旅行者戰力</TSA_WD_Fortify_TravelerStrength>
   <!-- EN: Offensive strength deducted from the settlement per fortify crew. Trap and road-block phases may launch several crews at once; AT Turret is always one crew. -->
@@ -1999,19 +1999,19 @@
   <!-- EN: Enable mark tiles where allies may not build fortifications -->
   <TSA_WD_Fortify_EnableBlacklist>啟用標記同盟不得設防的地塊</TSA_WD_Fortify_EnableBlacklist>
   <!-- EN: Unlocks Add/Remove Blocked Tiles under the WD world-map menu (No-fortify marks). Marked tiles block allies from placing new road blocks or traps. Existing forts stay until you Remove fortifications. Hostiles ignore marks. -->
-  <TSA_WD_Fortify_EnableBlacklistTip>在 WD 世界地圖選單中解鎖「新增／移除封鎖地塊」（禁止設防標記）。被標記的地塊會阻止同盟新建路障或陷阱。既有的防禦工事會保留，直到你「移除防禦工事」。敵對派系無視標記。</TSA_WD_Fortify_EnableBlacklistTip>
+  <TSA_WD_Fortify_EnableBlacklistTip>在WD世界地圖選單中解鎖「新增／移除封鎖地塊」（禁止設防標記）。被標記的地塊會阻止同盟新建路障或陷阱。既有的防禦工事會保留，直到你「移除防禦工事」。敵對派系無視標記。</TSA_WD_Fortify_EnableBlacklistTip>
   <!-- EN: Apply to neutral too -->
   <TSA_WD_Fortify_BlacklistApplyNeutral>也套用於中立派系</TSA_WD_Fortify_BlacklistApplyNeutral>
   <!-- EN: When on, Neutral factions also cannot place new fortifications on marked tiles. Allies are always blocked by marks. Hostiles ignore marks. -->
   <TSA_WD_Fortify_BlacklistApplyNeutralTip>開啟後，中立派系也無法在標記地塊上新建防禦工事。同盟一律受標記限制。敵對派系無視標記。</TSA_WD_Fortify_BlacklistApplyNeutralTip>
   <!-- EN: NPC Fortify -->
-  <TSA_WD_Daily_HeaderFortify>NPC 設防</TSA_WD_Daily_HeaderFortify>
+  <TSA_WD_Daily_HeaderFortify>NPC設防</TSA_WD_Daily_HeaderFortify>
   <!-- EN: What to place -->
   <TSA_WD_Fortify_HeaderTypeChances>放置內容</TSA_WD_Fortify_HeaderTypeChances>
   <!-- EN: Road block chance -->
   <TSA_WD_Fortify_ChanceRoadBlock>路障機率</TSA_WD_Fortify_ChanceRoadBlock>
   <!-- EN: Legacy unused. NPC Fortify places in fixed order: traps, then road blocks, then AT Turrets (no random type roll). -->
-  <TSA_WD_Fortify_ChanceRoadBlockTip>舊版設定，已不使用。NPC 設防依固定順序放置：先陷阱，再路障，最後 反戰車砲塔（不隨機抽選類型）。</TSA_WD_Fortify_ChanceRoadBlockTip>
+  <TSA_WD_Fortify_ChanceRoadBlockTip>舊版設定，已不使用。NPC設防依固定順序放置：先陷阱，再路障，最後 反戰車砲塔（不隨機抽選類型）。</TSA_WD_Fortify_ChanceRoadBlockTip>
   <!-- EN: Trap chance -->
   <TSA_WD_Fortify_ChanceTrap>陷阱機率</TSA_WD_Fortify_ChanceTrap>
   <!-- EN: Legacy unused. Trap placement is the first Fortify phase when the outer ring still needs roads or traps. -->
@@ -2019,37 +2019,37 @@
   <!-- EN: AT Turret chance -->
   <TSA_WD_Fortify_ChanceTurret>反戰車砲塔機率</TSA_WD_Fortify_ChanceTurret>
   <!-- EN: Legacy unused. AT Turrets are the last Fortify phase (radius 1, spread sites, kit tier cap). -->
-  <TSA_WD_Fortify_ChanceTurretTip>舊版設定，已不使用。反戰車砲塔是設防的最後階段（半徑 1、分散地點、受配置等級上限限制）。</TSA_WD_Fortify_ChanceTurretTip>
+  <TSA_WD_Fortify_ChanceTurretTip>舊版設定，已不使用。反戰車砲塔是設防的最後階段（半徑1、分散地點、受配置等級上限限制）。</TSA_WD_Fortify_ChanceTurretTip>
   <!-- EN: Multi-caravan launches -->
   <TSA_WD_Fortify_HeaderMultiCaravan>多旅隊出動</TSA_WD_Fortify_HeaderMultiCaravan>
   <!-- EN: T1 chance of 2 caravans -->
-  <TSA_WD_Fortify_MultiT1ChanceOf2>T1 出動 2 支旅隊機率</TSA_WD_Fortify_MultiT1ChanceOf2>
+  <TSA_WD_Fortify_MultiT1ChanceOf2>T1出動2支旅隊機率</TSA_WD_Fortify_MultiT1ChanceOf2>
   <!-- EN: When Fortify is in the trap or road-block phase: Tier 1 chance to send 2 crews instead of 1. Also used for NPC road multi-launch. -->
-  <TSA_WD_Fortify_MultiT1ChanceOf2Tip>設防處於陷阱或路障階段時：等級 1 派出 2 支小隊而非 1 支的機率。NPC 築路多隊出動也使用此值。</TSA_WD_Fortify_MultiT1ChanceOf2Tip>
+  <TSA_WD_Fortify_MultiT1ChanceOf2Tip>設防處於陷阱或路障階段時：等級1派出2支小隊而非1支的機率。NPC築路多隊出動也使用此值。</TSA_WD_Fortify_MultiT1ChanceOf2Tip>
   <!-- EN: T2 chance of 2 caravans -->
-  <TSA_WD_Fortify_MultiT2ChanceOf2>T2 出動 2 支旅隊機率</TSA_WD_Fortify_MultiT2ChanceOf2>
+  <TSA_WD_Fortify_MultiT2ChanceOf2>T2出動2支旅隊機率</TSA_WD_Fortify_MultiT2ChanceOf2>
   <!-- EN: When Fortify is in the trap or road-block phase: Tier 2 chance to send 2 crews instead of 1. -->
-  <TSA_WD_Fortify_MultiT2ChanceOf2Tip>設防處於陷阱或路障階段時：等級 2 派出 2 支小隊而非 1 支的機率。</TSA_WD_Fortify_MultiT2ChanceOf2Tip>
+  <TSA_WD_Fortify_MultiT2ChanceOf2Tip>設防處於陷阱或路障階段時：等級2派出2支小隊而非1支的機率。</TSA_WD_Fortify_MultiT2ChanceOf2Tip>
   <!-- EN: T3 chance of 2 caravans -->
-  <TSA_WD_Fortify_MultiT3ChanceOf2>T3 出動 2 支旅隊機率</TSA_WD_Fortify_MultiT3ChanceOf2>
+  <TSA_WD_Fortify_MultiT3ChanceOf2>T3出動2支旅隊機率</TSA_WD_Fortify_MultiT3ChanceOf2>
   <!-- EN: When Fortify is in the trap or road-block phase: Tier 3 chance to send 2 crews instead of 1. -->
-  <TSA_WD_Fortify_MultiT3ChanceOf2Tip>設防處於陷阱或路障階段時：等級 3 派出 2 支小隊而非 1 支的機率。</TSA_WD_Fortify_MultiT3ChanceOf2Tip>
+  <TSA_WD_Fortify_MultiT3ChanceOf2Tip>設防處於陷阱或路障階段時：等級3派出2支小隊而非1支的機率。</TSA_WD_Fortify_MultiT3ChanceOf2Tip>
   <!-- EN: T4 chance of 3 caravans -->
-  <TSA_WD_Fortify_MultiT4ChanceOf3>T4 出動 3 支旅隊機率</TSA_WD_Fortify_MultiT4ChanceOf3>
+  <TSA_WD_Fortify_MultiT4ChanceOf3>T4出動3支旅隊機率</TSA_WD_Fortify_MultiT4ChanceOf3>
   <!-- EN: When Fortify is in the trap or road-block phase: Tier 4 chance to send 3 crews instead of 2. -->
-  <TSA_WD_Fortify_MultiT4ChanceOf3Tip>設防處於陷阱或路障階段時：等級 4 派出 3 支小隊而非 2 支的機率。</TSA_WD_Fortify_MultiT4ChanceOf3Tip>
+  <TSA_WD_Fortify_MultiT4ChanceOf3Tip>設防處於陷阱或路障階段時：等級4派出3支小隊而非2支的機率。</TSA_WD_Fortify_MultiT4ChanceOf3Tip>
   <!-- EN: AT Turret caps -->
   <TSA_WD_Fortify_HeaderAtTurrets>反戰車砲塔上限</TSA_WD_Fortify_HeaderAtTurrets>
   <!-- EN: T1 max AT Turrets -->
-  <TSA_WD_Fortify_AtTurretMaxT1>T1 反戰車砲塔上限</TSA_WD_Fortify_AtTurretMaxT1>
+  <TSA_WD_Fortify_AtTurretMaxT1>T1反戰車砲塔上限</TSA_WD_Fortify_AtTurretMaxT1>
   <!-- EN: T2 max AT Turrets -->
-  <TSA_WD_Fortify_AtTurretMaxT2>T2 反戰車砲塔上限</TSA_WD_Fortify_AtTurretMaxT2>
+  <TSA_WD_Fortify_AtTurretMaxT2>T2反戰車砲塔上限</TSA_WD_Fortify_AtTurretMaxT2>
   <!-- EN: T3 max AT Turrets -->
-  <TSA_WD_Fortify_AtTurretMaxT3>T3 反戰車砲塔上限</TSA_WD_Fortify_AtTurretMaxT3>
+  <TSA_WD_Fortify_AtTurretMaxT3>T3反戰車砲塔上限</TSA_WD_Fortify_AtTurretMaxT3>
   <!-- EN: T4 max AT Turrets -->
-  <TSA_WD_Fortify_AtTurretMaxT4>T4 反戰車砲塔上限</TSA_WD_Fortify_AtTurretMaxT4>
+  <TSA_WD_Fortify_AtTurretMaxT4>T4反戰車砲塔上限</TSA_WD_Fortify_AtTurretMaxT4>
   <!-- EN: Maximum AT Turrets an NPC settlement of this tier may own at once. Player colony and outpost caps are under Experimental. -->
-  <TSA_WD_Fortify_AtTurretMaxTip>此等級 NPC 據點可同時擁有的 反戰車砲塔上限。玩家殖民地與哨站的上限位於「實驗性」設定中。</TSA_WD_Fortify_AtTurretMaxTip>
+  <TSA_WD_Fortify_AtTurretMaxTip>此等級NPC據點可同時擁有的 反戰車砲塔上限。玩家殖民地與哨站的上限位於「實驗性」設定中。</TSA_WD_Fortify_AtTurretMaxTip>
   <!-- EN: Pollution -->
   <TSA_WD_Experimental_HeaderPollution>汙染</TSA_WD_Experimental_HeaderPollution>
   <!-- EN: Outpost silver upkeep -->
@@ -2061,11 +2061,11 @@
   <!-- EN: Drop Pod transport cost components -->
   <TSA_WD_DropPodTransportCostComponents>運輸艙運送消耗零件</TSA_WD_DropPodTransportCostComponents>
   <!-- EN: When on, player drop-pod launches spend industrial components (1 per traveling pawn; 1 per goods traveler). When off, the cost shown and charged is 0. Easy difficulty preset turns this off; Medium and Hard turn it on. -->
-  <TSA_WD_DropPodTransportCostComponentsTip>開啟後，玩家發射運輸艙會消耗工業零件（每名出行角色 1 個；每個貨物旅行者 1 個）。關閉時，顯示與收取的消耗皆為 0。簡單難度預設集會關閉此項；中等與困難則開啟。</TSA_WD_DropPodTransportCostComponentsTip>
+  <TSA_WD_DropPodTransportCostComponentsTip>開啟後，玩家發射運輸艙會消耗工業零件（每名出行角色1個；每個貨物旅行者1個）。關閉時，顯示與收取的消耗皆為0。簡單難度預設集會關閉此項；中等與困難則開啟。</TSA_WD_DropPodTransportCostComponentsTip>
   <!-- EN: Silver per outpost colonist -->
   <TSA_WD_Upkeep_SilverPerOccupant>每名哨站殖民者的白銀</TSA_WD_Upkeep_SilverPerOccupant>
   <!-- EN: Each Occupant at a player WD outpost adds this much silver to the bill. Mechanoids, prisoners, animals, and vehicles are free. -->
-  <TSA_WD_Upkeep_SilverPerOccupantTip>玩家 WD 哨站的每名駐員會使帳單增加此數量的白銀。機械族、俘虜、動物與載具免費。</TSA_WD_Upkeep_SilverPerOccupantTip>
+  <TSA_WD_Upkeep_SilverPerOccupantTip>玩家WD哨站的每名駐員會使帳單增加此數量的白銀。機械族、俘虜、動物與載具免費。</TSA_WD_Upkeep_SilverPerOccupantTip>
   <!-- EN: Upkeep period (days) -->
   <TSA_WD_Upkeep_IntervalDays>維持費週期（天）</TSA_WD_Upkeep_IntervalDays>
   <!-- EN: Days between upkeep deadlines while Mid or Late is active. -->
@@ -2081,19 +2081,19 @@
   <!-- EN: Damage at 100% pollution -->
   <TSA_WD_Pollution_DamageAtFull>100% 汙染時傷害</TSA_WD_Pollution_DamageAtFull>
   <!-- EN: Strength lost at full pollution. Values between the threshold and 100% interpolate linearly. -->
-  <TSA_WD_Pollution_DamageAtFullTip>完全汙染時損失的戰力。門檻與 100% 之間的數值以線性內插計算。</TSA_WD_Pollution_DamageAtFullTip>
+  <TSA_WD_Pollution_DamageAtFullTip>完全汙染時損失的戰力。門檻與100% 之間的數值以線性內插計算。</TSA_WD_Pollution_DamageAtFullTip>
   <!-- EN: Site pollution radius -->
   <TSA_WD_Pollution_DamageRadius>地點汙染半徑</TSA_WD_Pollution_DamageRadius>
   <!-- EN: World-tile radius around settlements and outposts used for daily average pollution damage and NPC auto-decontamination search. Includes the site tile. -->
-  <TSA_WD_Pollution_DamageRadiusTip>據點與哨站周圍用於計算每日平均汙染傷害與 NPC 自動淨化搜尋的世界地塊半徑。包含地點所在地塊。</TSA_WD_Pollution_DamageRadiusTip>
+  <TSA_WD_Pollution_DamageRadiusTip>據點與哨站周圍用於計算每日平均汙染傷害與NPC自動淨化搜尋的世界地塊半徑。包含地點所在地塊。</TSA_WD_Pollution_DamageRadiusTip>
   <!-- EN: NPC decontamination strength cost -->
-  <TSA_WD_Pollution_NpcDecontamCost>NPC 淨化戰力消耗</TSA_WD_Pollution_NpcDecontamCost>
+  <TSA_WD_Pollution_NpcDecontamCost>NPC淨化戰力消耗</TSA_WD_Pollution_NpcDecontamCost>
   <!-- EN: Offensive strength NPC settlements try to spend when sending an auto-decontamination crew. Never pulls offense below 10. Crews still launch if the settlement cannot pay. -->
-  <TSA_WD_Pollution_NpcDecontamCostTip>NPC 據點派出自動淨化小隊時嘗試花費的進攻戰力。不會讓進攻戰力降到 10 以下。據點付不起時仍會派出小隊。</TSA_WD_Pollution_NpcDecontamCostTip>
+  <TSA_WD_Pollution_NpcDecontamCostTip>NPC據點派出自動淨化小隊時嘗試花費的進攻戰力。不會讓進攻戰力降到10以下。據點付不起時仍會派出小隊。</TSA_WD_Pollution_NpcDecontamCostTip>
   <!-- EN: Pollution path cost -->
   <TSA_WD_Pollution_PathCost>汙染路徑代價</TSA_WD_Pollution_PathCost>
   <!-- EN: When on, WD pathfinding treats polluted tiles as more expensive so travelers prefer cleaner routes. Applying a Performance preset overwrites this toggle. -->
-  <TSA_WD_Pollution_PathCostTip>開啟後，WD 尋路會將受汙染地塊視為代價較高，使旅行者偏好較乾淨的路線。套用效能預設集會覆寫此開關。</TSA_WD_Pollution_PathCostTip>
+  <TSA_WD_Pollution_PathCostTip>開啟後，WD尋路會將受汙染地塊視為代價較高，使旅行者偏好較乾淨的路線。套用效能預設集會覆寫此開關。</TSA_WD_Pollution_PathCostTip>
   <!-- EN: Pollution repath while traveling -->
   <TSA_WD_Pollution_PathRepath>行進中因汙染重新尋路</TSA_WD_Pollution_PathRepath>
   <!-- EN: When on, travelers may recalculate path mid-route if pollution costs change. Applying a Performance preset overwrites this toggle. -->
@@ -2103,13 +2103,13 @@
   <!-- EN: When on, a mission may refuse to launch if the planned path is blocked by pollution cost rules. Applying a Performance preset overwrites this toggle. -->
   <TSA_WD_Pollution_PathPreCommitCancelTip>開啟後，若規劃的路徑被汙染代價規則阻擋，任務可能拒絕出發。套用效能預設集會覆寫此開關。</TSA_WD_Pollution_PathPreCommitCancelTip>
   <!-- EN: Only fire T4 Mortars at player while Late Game is active -->
-  <TSA_WD_LateGame_OnlyFireT4MortarsAtPlayer>僅在後期階段生效時以 T4 迫擊砲攻擊玩家</TSA_WD_LateGame_OnlyFireT4MortarsAtPlayer>
+  <TSA_WD_LateGame_OnlyFireT4MortarsAtPlayer>僅在後期階段生效時以T4迫擊砲攻擊玩家</TSA_WD_LateGame_OnlyFireT4MortarsAtPlayer>
   <!-- EN: Only fire T4 Anti Air at player while Late Game is active -->
-  <TSA_WD_LateGame_OnlyFireT4AntiAirAtPlayer>僅在後期階段生效時以 T4 防空攻擊玩家</TSA_WD_LateGame_OnlyFireT4AntiAirAtPlayer>
+  <TSA_WD_LateGame_OnlyFireT4AntiAirAtPlayer>僅在後期階段生效時以T4防空攻擊玩家</TSA_WD_LateGame_OnlyFireT4AntiAirAtPlayer>
   <!-- EN: Only fire T4 Mortars at player while Mid Game is active -->
-  <TSA_WD_MidGame_OnlyFireT4MortarsAtPlayer>僅在中期階段生效時以 T4 迫擊砲攻擊玩家</TSA_WD_MidGame_OnlyFireT4MortarsAtPlayer>
+  <TSA_WD_MidGame_OnlyFireT4MortarsAtPlayer>僅在中期階段生效時以T4迫擊砲攻擊玩家</TSA_WD_MidGame_OnlyFireT4MortarsAtPlayer>
   <!-- EN: Only fire T4 Anti Air at player while Mid Game is active -->
-  <TSA_WD_MidGame_OnlyFireT4AntiAirAtPlayer>僅在中期階段生效時以 T4 防空攻擊玩家</TSA_WD_MidGame_OnlyFireT4AntiAirAtPlayer>
+  <TSA_WD_MidGame_OnlyFireT4AntiAirAtPlayer>僅在中期階段生效時以T4防空攻擊玩家</TSA_WD_MidGame_OnlyFireT4AntiAirAtPlayer>
   <!-- EN: Advanced building likelihood -->
   <TSA_WD_Daily_WeightAdvancedBuildings>進階建築可能性</TSA_WD_Daily_WeightAdvancedBuildings>
   <!-- EN: Likelihood that a settlement sends a crew to build an advanced building nearby: Silo, Hospital, Watch Tower, Stable, Mortar Turret or AA Turret. Each settlement has as many slots as its tier and at most one of each type. Safe settlements far from enemies build more often; threatened or recovering settlements still can, but less often and with a bias toward artillery when eligible. If chosen but no project can launch, another eligible daily action is used instead. -->
@@ -2127,9 +2127,9 @@
   <!-- EN: Minimum (available strength / enemy strength) before a settlement without outlying assets sends an interception caravan against a caravan heading for the settlement itself. Settlements guarding an AT Turret or advanced building use lower thresholds. -->
   <TSA_WD_Experimental_AmbushSelfDefenseRatioTip>沒有外圍資產的據點，對朝據點本身而來的旅隊派出攔截旅隊前，所需的最低（可用戰力 / 敵方戰力）比值。保護反戰車砲塔或進階建築的據點使用較低的門檻。</TSA_WD_Experimental_AmbushSelfDefenseRatioTip>
   <!-- EN: Click an NPC settlement to place a {0} nearby. Right-click or Esc to stop. -->
-  <TSA_WD_WorldSetup_PlaceAdvBuildingHint>點擊 NPC 據點以在其附近放置{0}。按右鍵或 Esc 停止。</TSA_WD_WorldSetup_PlaceAdvBuildingHint>
+  <TSA_WD_WorldSetup_PlaceAdvBuildingHint>點擊NPC據點以在其附近放置{0}。按右鍵或Esc停止。</TSA_WD_WorldSetup_PlaceAdvBuildingHint>
   <!-- EN: Click an NPC settlement (not player). -->
-  <TSA_WD_WorldSetup_PlaceAdvBuildingNeedNpc>請點擊 NPC 據點（非玩家）。</TSA_WD_WorldSetup_PlaceAdvBuildingNeedNpc>
+  <TSA_WD_WorldSetup_PlaceAdvBuildingNeedNpc>請點擊NPC據點（非玩家）。</TSA_WD_WorldSetup_PlaceAdvBuildingNeedNpc>
   <!-- EN: {0} already owns a {1}. -->
   <TSA_WD_WorldSetup_PlaceAdvBuildingDuplicate>{0}已擁有{1}。</TSA_WD_WorldSetup_PlaceAdvBuildingDuplicate>
   <!-- EN: No buildable tile within range. -->

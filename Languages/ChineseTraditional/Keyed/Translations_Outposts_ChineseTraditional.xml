@@ -19,7 +19,7 @@
   <!-- EN: Colony -->
   <TSA_ColonyLabel>殖民地</TSA_ColonyLabel>
   <!-- EN: 1) Cover every reachable outpost up to a net food balance of ~0 (worst shortages first), using surplus from all Smart producers in range together.\n2) Each producer keeps one equal share of its remaining surplus (Keep here).\n3) Water-fill the rest so recipient nets equalize (same +X), raising the lowest nets first. -->
-  <TSA_DeficitTooltip>1) 合併範圍內所有智慧模式生產者的盈餘，將每個可到達的哨站補到食物淨值約 0（短缺最嚴重者優先）。\n2) 每個生產者保留其剩餘盈餘的一個均等份額（留存於此）。\n3) 其餘以注水法分配，使接收者淨值拉平（同為 +X），淨值最低者先補。</TSA_DeficitTooltip>
+  <TSA_DeficitTooltip>1) 合併範圍內所有智慧模式生產者的盈餘，將每個可到達的哨站補到食物淨值約0（短缺最嚴重者優先）。\n2) 每個生產者保留其剩餘盈餘的一個均等份額（留存於此）。\n3) 其餘以注水法分配，使接收者淨值拉平（同為 +X），淨值最低者先補。</TSA_DeficitTooltip>
   <!-- EN: Keep here: -->
   <TSA_Logistics_KeepHere>留存於此：</TSA_Logistics_KeepHere>
   <!-- EN: Virtual food that is not sent to other outposts will be surplus for the food producing outpost itself. -->
@@ -35,7 +35,7 @@
   <!-- EN: Distributes surplus food equally among all outposts in range that have a deficit. -->
   <TSA_EqualTooltip>將盈餘食物平均分配給範圍內所有有缺口的哨站。</TSA_EqualTooltip>
   <!-- EN: Prioritizes outposts that can be 100% satisfied. Remaining food is then shared among others. -->
-  <TSA_FeedTooltip>優先供應能 100% 滿足的哨站，剩餘食物再分給其他哨站。</TSA_FeedTooltip>
+  <TSA_FeedTooltip>優先供應能100% 滿足的哨站，剩餘食物再分給其他哨站。</TSA_FeedTooltip>
   <!-- EN: Food Supply: {0}/{1} ({2} units/day) -->
   <TSA_FoodSupplyInspect>食物供應：{0}/{1}（每日{2}單位）</TSA_FoodSupplyInspect>
   <!-- EN: {0}: {1} has died of starvation at the outpost. -->
@@ -183,7 +183,7 @@
   <!-- EN: Rapid Response Drop Pods -->
   <TSA_WD_Traveler_RapidResponseDropPod>快速反應運輸艙</TSA_WD_Traveler_RapidResponseDropPod>
   <!-- EN: Automatically dispatch fast virtual counter-caravans against hostile WD travelers within {0} tiles. Raiders are only engaged when they target you or an ally. Current deployable strength: {1}. -->
-  <TSA_WD_RapidResponse_AutoDesc>自動派出快速的虛擬反制旅隊，攔截{0}格內的敵對 WD 旅行者。突襲者只有在以你或同盟為目標時才會被攔截。目前可部署戰力：{1}。</TSA_WD_RapidResponse_AutoDesc>
+  <TSA_WD_RapidResponse_AutoDesc>自動派出快速的虛擬反制旅隊，攔截{0}格內的敵對WD旅行者。突襲者只有在以你或同盟為目標時才會被攔截。目前可部署戰力：{1}。</TSA_WD_RapidResponse_AutoDesc>
   <!-- EN: Rapid Response: Off -->
   <TSA_WD_RapidResponse_Auto_Off>快速反應：關閉</TSA_WD_RapidResponse_Auto_Off>
   <!-- EN: Rapid Response: All caravans -->
@@ -219,7 +219,7 @@
   <!-- EN: Drop-pod dispatch ({0}) -->
   <TSA_WD_RapidResponse_DropPods>運輸艙派遣（{0}）</TSA_WD_RapidResponse_DropPods>
   <!-- EN: Launch selected outpost pawns by drop pod to any passable world tile in range (or a hostile traveler / player colony / outpost). Costs 1 industrial component per traveling pawn from colony and warehouse stock. -->
-  <TSA_WD_RapidResponse_DropPodsDesc>以運輸艙將選取的哨站角色發射到範圍內任何可通行的世界地塊（或敵對旅行者／玩家殖民地／哨站）。每名出發角色消耗 1 個工業零件，從殖民地與倉庫庫存扣除。</TSA_WD_RapidResponse_DropPodsDesc>
+  <TSA_WD_RapidResponse_DropPodsDesc>以運輸艙將選取的哨站角色發射到範圍內任何可通行的世界地塊（或敵對旅行者／玩家殖民地／哨站）。每名出發角色消耗1個工業零件，從殖民地與倉庫庫存扣除。</TSA_WD_RapidResponse_DropPodsDesc>
   <!-- EN: Requires completed Transport Pod research. -->
   <TSA_WD_RapidResponse_DropPodsNeedResearch>需要完成「運輸艙」研究。</TSA_WD_RapidResponse_DropPodsNeedResearch>
   <!-- EN: Select at least one outpost pawn to dispatch. -->
@@ -297,15 +297,15 @@
   <!-- EN: Intercept raiders whose destination belongs to a faction allied with you. -->
   <TSA_WD_RapidResponse_Tip_RaidTargetAllies>攔截目的地屬於你同盟派系的突襲者。</TSA_WD_RapidResponse_Tip_RaidTargetAllies>
   <!-- EN: Intercept raiders whose destination belongs to a non-allied NPC faction. -->
-  <TSA_WD_RapidResponse_Tip_RaidTargetOtherNpcs>攔截目的地屬於非同盟 NPC 派系的突襲者。</TSA_WD_RapidResponse_Tip_RaidTargetOtherNpcs>
+  <TSA_WD_RapidResponse_Tip_RaidTargetOtherNpcs>攔截目的地屬於非同盟NPC派系的突襲者。</TSA_WD_RapidResponse_Tip_RaidTargetOtherNpcs>
   <!-- EN: Only launch if deployable strength is at least this percentage of the target caravan's current strength. 0% means no minimum. Can go above 100% if you want a clear advantage. -->
-  <TSA_WD_RapidResponse_Tip_MinStrength>只有在可部署戰力至少達到目標旅隊目前戰力的此百分比時才出擊。0% 表示無下限。若想取得明顯優勢，可設定超過 100%。</TSA_WD_RapidResponse_Tip_MinStrength>
+  <TSA_WD_RapidResponse_Tip_MinStrength>只有在可部署戰力至少達到目標旅隊目前戰力的此百分比時才出擊。0% 表示無下限。若想取得明顯優勢，可設定超過100%。</TSA_WD_RapidResponse_Tip_MinStrength>
   <!-- EN: Once this outpost is strong enough to launch, it sends at most this many times the target's strength and keeps the rest home. -->
   <TSA_WD_RapidResponse_Tip_MaxStrength>此哨站戰力足以出擊時，最多僅派出目標戰力的此倍數，其餘留守。</TSA_WD_RapidResponse_Tip_MaxStrength>
   <!-- EN: Maximum tiles from this outpost for automatic intercepts. The ring preview on the world map updates as you drag. -->
   <TSA_WD_RapidResponse_Tip_Range>自動攔截距此哨站的最大格數。拖曳時世界地圖上的範圍圈預覽會即時更新。</TSA_WD_RapidResponse_Tip_Range>
   <!-- EN: Restore this page to defaults: Raiders only, intercept raids targeting you or allies, 90% min relative strength, 3.00x max relative strength to send, and full range. -->
-  <TSA_WD_RapidResponse_Tip_Reset>將此頁還原為預設值：僅突襲者、攔截以你或同盟為目標的突襲、最低相對戰力 90%、最高派出相對戰力 3.00x、最大範圍。</TSA_WD_RapidResponse_Tip_Reset>
+  <TSA_WD_RapidResponse_Tip_Reset>將此頁還原為預設值：僅突襲者、攔截以你或同盟為目標的突襲、最低相對戰力90%、最高派出相對戰力3.00x、最大範圍。</TSA_WD_RapidResponse_Tip_Reset>
   <!-- EN: Apply all settings on this page and close the dialog. -->
   <TSA_WD_RapidResponse_Tip_Confirm>套用此頁所有設定並關閉對話框。</TSA_WD_RapidResponse_Tip_Confirm>
   <!-- EN: Intercept raiders -->
@@ -323,7 +323,7 @@
   <!-- EN: Raiders targeting your allies -->
   <TSA_WD_RapidResponse_RaidTarget_Allies>以你的同盟為目標的突襲者</TSA_WD_RapidResponse_RaidTarget_Allies>
   <!-- EN: Raiders targeting other NPCs -->
-  <TSA_WD_RapidResponse_RaidTarget_OtherNpcs>以其他 NPC 為目標的突襲者</TSA_WD_RapidResponse_RaidTarget_OtherNpcs>
+  <TSA_WD_RapidResponse_RaidTarget_OtherNpcs>以其他NPC為目標的突襲者</TSA_WD_RapidResponse_RaidTarget_OtherNpcs>
   <!-- EN: No minimum -->
   <TSA_WD_RapidResponse_MinStrength_None>無下限</TSA_WD_RapidResponse_MinStrength_None>
   <!-- EN: Adjust range ({0} tiles) -->
@@ -385,7 +385,7 @@
   <!-- EN: {0} joined {1} from transport pods. -->
   <TSA_WD_Pod_AddedPawn>{0}已從運輸艙加入{1}。</TSA_WD_Pod_AddedPawn>
   <!-- EN: Cannot store {0} in this outpost (WD outposts only hold colonists as virtual pawns). Item lost. -->
-  <TSA_WD_PodArrival_ItemNotStored>無法將{0}存放於此哨站（WD 哨站只會將殖民者以虛擬角色形式保存）。物品已遺失。</TSA_WD_PodArrival_ItemNotStored>
+  <TSA_WD_PodArrival_ItemNotStored>無法將{0}存放於此哨站（WD哨站只會將殖民者以虛擬角色形式保存）。物品已遺失。</TSA_WD_PodArrival_ItemNotStored>
   <!-- EN: When enabled, caravans whose destination is this outpost are automatically added when they stop. Resting or pausing here while bound elsewhere does not. -->
   <TSA_WD_AutoAdd_Desc>啟用時，目的地為此哨站的旅隊停下後會自動加入。僅是途經此處休息或暫停、目的地為他處的旅隊則不會。</TSA_WD_AutoAdd_Desc>
   <!-- EN: Auto-Add Arrivals -->
@@ -425,7 +425,7 @@
   <!-- EN: Farming fertility score (0–100%).\n\nFormula:\n- Growing season fraction (year twelfths with average temperature in a crop-friendly band, including hot tropics)\n- × biome plant density ranked between the lowest and highest plant-density biomes in your mod list (best biomes = 100%)\n- × hill penalty (Flat/Small hills = 100%, Large hills = 80%, Mountainous = 50%, water = 0%). -->
   <TSA_WD_Biome_Tooltip_Fertility>農耕肥沃度評分（0–100%）。\n\n公式：\n- 生長季比例（一年十二等分中，平均溫度落在適合作物區間的比例，含炎熱熱帶）\n- × 生態系統植物密度，依你模組清單中植物密度最低與最高的生態系統排名（最佳生態系統 = 100%）\n- × 丘陵懲罰（平地/丘陵 = 100%，山丘 = 80%，山地 = 50%，水域 = 0%）。</TSA_WD_Biome_Tooltip_Fertility>
   <!-- EN: Farming score combines growing season, biome plant density rank, and hilliness into a base value. Listed tile features add flat percentage points (Odyssey / Landmarks mutators acknowledged by this mod). -->
-  <TSA_WD_ProductivityTooltip_FertilityIntro>農耕評分將生長季、生態系統植物密度排名與地勢起伏合併為基礎值。列出的地塊特徵會加減固定百分點（本模組認可的 Odyssey / Landmarks 地塊特性）。</TSA_WD_ProductivityTooltip_FertilityIntro>
+  <TSA_WD_ProductivityTooltip_FertilityIntro>農耕評分將生長季、生態系統植物密度排名與地勢起伏合併為基礎值。列出的地塊特徵會加減固定百分點（本模組認可的Odyssey / Landmarks地塊特性）。</TSA_WD_ProductivityTooltip_FertilityIntro>
   <!-- EN: Animal abundance ranks this biome's animal density among all loaded biomes, then adds flat modifiers from world tile features (mutators) this mod acknowledges. -->
   <TSA_WD_ProductivityTooltip_HuntingIntro>動物豐富度依此生態系統的動物密度在所有已載入生態系統中的排名計算，再加上本模組認可的世界地塊特徵（變異）的固定修正。</TSA_WD_ProductivityTooltip_HuntingIntro>
   <!-- EN: Fish stocks rank this biome's max fish population among biomes that have fish, then adds flat modifiers from world tile features (mutators) this mod acknowledges. Only ocean-coast land tiles qualify. -->
@@ -451,7 +451,7 @@
   <!-- EN: Raw before cap: {0}% — result capped at {1}%. -->
   <TSA_WD_ProductivityTooltip_CappedHigh>上限前原始值：{0}%——結果限制為{1}%。</TSA_WD_ProductivityTooltip_CappedHigh>
   <!-- EN: Raw before floor: {0}% — minimum 0% applied. -->
-  <TSA_WD_ProductivityTooltip_CappedLow>下限前原始值：{0}%——已套用最低 0%。</TSA_WD_ProductivityTooltip_CappedLow>
+  <TSA_WD_ProductivityTooltip_CappedLow>下限前原始值：{0}%——已套用最低0%。</TSA_WD_ProductivityTooltip_CappedLow>
   <!-- EN: Invalid tile. -->
   <TSA_WD_ProductivityTooltip_InvalidTile>無效的地塊。</TSA_WD_ProductivityTooltip_InvalidTile>
   <!-- EN: Not applicable (water). -->
@@ -509,7 +509,7 @@
   <!-- EN: Terrain type of this tile (Flat, Small hills, Large hills, Mountainous, Impassable).\n\nTerrain affects fertility penalties and mining potential for outposts. -->
   <TSA_WD_Biome_Tooltip_Terrain>此地塊的地形類型（平地、丘陵、山丘、山地、無法通行）。\n\n地形會影響哨站的肥沃度懲罰與採礦潛力。</TSA_WD_Biome_Tooltip_Terrain>
   <!-- EN: Neutral or allied settlements within the trading radius (currently {0} tiles). Yield uses up to the top 3 settlements per faction by tier. -->
-  <TSA_WD_Biome_Tooltip_TradingNearby>貿易半徑（目前{0}格）內的中立或同盟據點。收益依等級計入每個派系最多前 3 個據點。</TSA_WD_Biome_Tooltip_TradingNearby>
+  <TSA_WD_Biome_Tooltip_TradingNearby>貿易半徑（目前{0}格）內的中立或同盟據點。收益依等級計入每個派系最多前3個據點。</TSA_WD_Biome_Tooltip_TradingNearby>
   <!-- EN: Within range: -->
   <TSA_WD_Biome_Tooltip_TradingNearbyPartnersHeader>範圍內：</TSA_WD_Biome_Tooltip_TradingNearbyPartnersHeader>
   <!-- EN: {0} ({1}) -->
@@ -609,7 +609,7 @@
   <!-- EN: One of the banks is impassable. -->
   <TSA_WD_BridgeReject_ImpassableBank>其中一側河岸無法通行。</TSA_WD_BridgeReject_ImpassableBank>
   <!-- EN: Need a water corridor of 1 to {0} tiles between the banks. -->
-  <TSA_WD_BridgeReject_NotStraightOrTooLong>兩岸之間需要 1 到{0}格的水域通道。</TSA_WD_BridgeReject_NotStraightOrTooLong>
+  <TSA_WD_BridgeReject_NotStraightOrTooLong>兩岸之間需要1到{0}格的水域通道。</TSA_WD_BridgeReject_NotStraightOrTooLong>
   <!-- EN: Bridges must reach the opposite bank, not along the same shore. -->
   <TSA_WD_BridgeReject_SameShore>橋必須通往對岸，不能沿著同一側岸邊。</TSA_WD_BridgeReject_SameShore>
   <!-- EN: Invalid bridge target. -->
@@ -643,7 +643,7 @@
   <!-- EN: Insufficient Materials to Deliver {0} -->
   <TSA_WD_InsufficientMaterialsToBuild>材料不足，無法運送{0}</TSA_WD_InsufficientMaterialsToBuild>
   <!-- EN: Direct this outpost to begin constructing a road network towards a specific tile. Speed scales with cumulative Construction skill.\n\nShift+click to place waypoints; click without Shift to set the final destination. -->
-  <TSA_WD_BuildRoadDesc>指示此哨站開始朝特定地塊修建道路網。速度隨累計建造技能提升。\n\nShift+點擊放置中途點；不按 Shift 點擊則設定最終目的地。</TSA_WD_BuildRoadDesc>
+  <TSA_WD_BuildRoadDesc>指示此哨站開始朝特定地塊修建道路網。速度隨累計建造技能提升。\n\nShift+點擊放置中途點；不按Shift點擊則設定最終目的地。</TSA_WD_BuildRoadDesc>
   <!-- EN: Currently building towards "{0}"\nProgress: {1}% -->
   <TSA_WD_BuildRoadStatus>正在朝「{0}」修建\n進度：{1}%</TSA_WD_BuildRoadStatus>
   <!-- EN: Cancel Road Construction -->
@@ -665,11 +665,11 @@
   <!-- EN: Remove roads -->
   <TSA_WD_RemoveRoads>移除道路</TSA_WD_RemoveRoads>
   <!-- EN: Send a crew to remove existing roads along a path. Each segment takes as long as building a dirt road, regardless of road type.\n\nShift+click to place waypoints; click without Shift to set the final destination. -->
-  <TSA_WD_RemoveRoadsDesc>派遣小隊沿路徑移除現有道路。不論道路類型，每段耗時都與修建一段泥土路相同。\n\nShift+點擊放置中途點；不按 Shift 點擊則設定最終目的地。</TSA_WD_RemoveRoadsDesc>
+  <TSA_WD_RemoveRoadsDesc>派遣小隊沿路徑移除現有道路。不論道路類型，每段耗時都與修建一段泥土路相同。\n\nShift+點擊放置中途點；不按Shift點擊則設定最終目的地。</TSA_WD_RemoveRoadsDesc>
   <!-- EN: Currently removing roads toward "{0}"\nProgress: {1}% -->
   <TSA_WD_RemoveRoadsStatus>正在朝「{0}」移除道路\n進度：{1}%</TSA_WD_RemoveRoadsStatus>
   <!-- EN: Click a tile to start a road-removal path (Shift adds waypoints). -->
-  <TSA_WD_RoadRemovalTip>點擊地塊以開始規劃移除道路的路徑（按 Shift 新增中途點）。</TSA_WD_RoadRemovalTip>
+  <TSA_WD_RoadRemovalTip>點擊地塊以開始規劃移除道路的路徑（按Shift新增中途點）。</TSA_WD_RoadRemovalTip>
   <!-- EN: No roads on that path. -->
   <TSA_WD_RoadRemovalEmpty>該路徑上沒有道路。</TSA_WD_RoadRemovalEmpty>
   <!-- EN: Road removal project set ({0} segments). -->
@@ -685,7 +685,7 @@
   <!-- EN: Removing roads -->
   <TSA_WD_Inspect_RoadClear>正在移除道路</TSA_WD_Inspect_RoadClear>
   <!-- EN: Click a passable tile (Shift adds waypoints). Confirm to clear road blocks and traps on that path. -->
-  <TSA_WD_FortificationClearTip>點擊可通行的地塊（按 Shift 新增中途點）。確認後清除該路徑上的路障與陷阱。</TSA_WD_FortificationClearTip>
+  <TSA_WD_FortificationClearTip>點擊可通行的地塊（按Shift新增中途點）。確認後清除該路徑上的路障與陷阱。</TSA_WD_FortificationClearTip>
   <!-- EN: No road blocks or traps on that path. -->
   <TSA_WD_FortificationClearEmpty>該路徑上沒有路障或陷阱。</TSA_WD_FortificationClearEmpty>
   <!-- EN: Fortification clear project set ({0} tiles). -->
@@ -709,13 +709,13 @@
   <!-- EN: Remove no-fortify marks. Instant, no crew. -->
   <TSA_WD_FortifyBlacklist_EraseTip>移除禁止設防標記。立即生效，不需小隊。</TSA_WD_FortifyBlacklist_EraseTip>
   <!-- EN: Click a tile to mark it. Right-click or Esc to stop. -->
-  <TSA_WD_FortifyBlacklist_AddTargetTip>點擊地塊以標記。右鍵或 Esc 停止。</TSA_WD_FortifyBlacklist_AddTargetTip>
+  <TSA_WD_FortifyBlacklist_AddTargetTip>點擊地塊以標記。右鍵或Esc停止。</TSA_WD_FortifyBlacklist_AddTargetTip>
   <!-- EN: Click a marked tile to clear it. Right-click or Esc to stop. -->
-  <TSA_WD_FortifyBlacklist_RemoveTargetTip>點擊已標記的地塊以清除。右鍵或 Esc 停止。</TSA_WD_FortifyBlacklist_RemoveTargetTip>
+  <TSA_WD_FortifyBlacklist_RemoveTargetTip>點擊已標記的地塊以清除。右鍵或Esc停止。</TSA_WD_FortifyBlacklist_RemoveTargetTip>
   <!-- EN: Click a tile to mark it. Right-click or Esc to stop. -->
-  <TSA_WD_FortifyBlacklist_MarkTargetTip>點擊地塊以標記。右鍵或 Esc 停止。</TSA_WD_FortifyBlacklist_MarkTargetTip>
+  <TSA_WD_FortifyBlacklist_MarkTargetTip>點擊地塊以標記。右鍵或Esc停止。</TSA_WD_FortifyBlacklist_MarkTargetTip>
   <!-- EN: Click a marked tile to clear it. Right-click or Esc to stop. -->
-  <TSA_WD_FortifyBlacklist_EraseTargetTip>點擊已標記的地塊以清除。右鍵或 Esc 停止。</TSA_WD_FortifyBlacklist_EraseTargetTip>
+  <TSA_WD_FortifyBlacklist_EraseTargetTip>點擊已標記的地塊以清除。右鍵或Esc停止。</TSA_WD_FortifyBlacklist_EraseTargetTip>
   <!-- EN: Choose a passable land tile. -->
   <TSA_WD_FortifyBlacklist_BadTile>請選擇可通行的陸地地塊。</TSA_WD_FortifyBlacklist_BadTile>
   <!-- EN: Could not save no-fortify marks (world component missing). -->
@@ -793,11 +793,11 @@
   <!-- EN: {0} (coming soon) -->
   <TSA_WD_AT_TurretTier_ComingSoon>{0}（即將推出）</TSA_WD_AT_TurretTier_ComingSoon>
   <!-- EN: Tier 1 or 2 -->
-  <TSA_WD_AT_TurretTier_SettlementT1T2>等級 1 或 2</TSA_WD_AT_TurretTier_SettlementT1T2>
+  <TSA_WD_AT_TurretTier_SettlementT1T2>等級1或2</TSA_WD_AT_TurretTier_SettlementT1T2>
   <!-- EN: {0} (requires {1}) -->
   <TSA_WD_AT_TurretTier_RequiresSettlementTier>{0}（需要{1}）</TSA_WD_AT_TurretTier_RequiresSettlementTier>
   <!-- EN: {0} (Construction {1}/{2}) -->
-  <TSA_WD_AT_TurretTier_Disabled>{0}（建造 {1}/{2}）</TSA_WD_AT_TurretTier_Disabled>
+  <TSA_WD_AT_TurretTier_Disabled>{0}（建造{1}/{2}）</TSA_WD_AT_TurretTier_Disabled>
   <!-- EN: Strength cost: {1}\nEst. days: {2} -->
   <TSA_WD_AT_TurretTierTooltip>戰力成本：{1}\n預估天數：{2}</TSA_WD_AT_TurretTierTooltip>
   <!-- EN: Click a free passable tile to place an AT Turret. Shift-click to select multiple. -->
@@ -809,13 +809,13 @@
   <!-- EN: Decontamination Crew -->
   <TSA_WD_BuildDecontamination>淨化小隊</TSA_WD_BuildDecontamination>
   <!-- EN: Send a crew to scrub pollution from world tiles. Plan a path; only polluted tiles are scrubbed. Requires Decontamination Equipment and Biotech. -->
-  <TSA_WD_BuildDecontaminationDesc>派遣小隊清除世界地塊上的汙染。規劃路徑後只會淨化有汙染的地塊。需要「淨化設備」與生機 DLC。</TSA_WD_BuildDecontaminationDesc>
+  <TSA_WD_BuildDecontaminationDesc>派遣小隊清除世界地塊上的汙染。規劃路徑後只會淨化有汙染的地塊。需要「淨化設備」與生機DLC。</TSA_WD_BuildDecontaminationDesc>
   <!-- EN: Cancel Decontamination -->
   <TSA_WD_CancelDecontamination>取消淨化</TSA_WD_CancelDecontamination>
   <!-- EN: Abort the decontamination project and destroy any crew already en route. No strength refund. -->
   <TSA_WD_CancelDecontaminationDesc>中止淨化工程，並摧毀已在途中的小隊。不退還戰力。</TSA_WD_CancelDecontaminationDesc>
   <!-- EN: Decontamination requires Biotech -->
-  <TSA_WD_DecontaminationRequiresBiotech>淨化需要生機 DLC</TSA_WD_DecontaminationRequiresBiotech>
+  <TSA_WD_DecontaminationRequiresBiotech>淨化需要生機DLC</TSA_WD_DecontaminationRequiresBiotech>
   <!-- EN: Requires Decontamination Equipment upgrade -->
   <TSA_WD_DecontaminationRequiresUpgrade>需要「淨化設備」升級</TSA_WD_DecontaminationRequiresUpgrade>
   <!-- EN: Decontaminating toward "{0}"\nProgress: {1}% -->
@@ -833,7 +833,7 @@
   <!-- EN: Click any passable tile to start. Shift+click waypoints. Only polluted tiles on the path are scrubbed. -->
   <TSA_WD_DecontaminationBuildTip>點擊任何可通行的地塊開始。Shift+點擊放置中途點。只會淨化路徑上有汙染的地塊。</TSA_WD_DecontaminationBuildTip>
   <!-- EN: {0} (Construction {1}/{2}) -->
-  <TSA_WD_DecontaminationKind_Disabled>{0}（建造 {1}/{2}）</TSA_WD_DecontaminationKind_Disabled>
+  <TSA_WD_DecontaminationKind_Disabled>{0}（建造{1}/{2}）</TSA_WD_DecontaminationKind_Disabled>
   <!-- EN: Work: {0}\nPollution scrub: −{1}pp\nEst. days/tile: {2}\nStrength cost: {3}\nMin Construction: {4} -->
   <TSA_WD_DecontaminationTooltip>工作量：{0}\n汙染清除：−{1}pp\n每格預估天數：{2}\n戰力成本：{3}\n最低建造：{4}</TSA_WD_DecontaminationTooltip>
   <!-- EN: Remove Traps -->
@@ -873,13 +873,13 @@
   <!-- EN: Click a trapped tile to start clearing there. Shift+click more nodes; click to confirm. -->
   <TSA_WD_SpikeTrapClearTip>點擊有陷阱的地塊以從該處開始清除。Shift+點擊加入更多節點；點擊確認。</TSA_WD_SpikeTrapClearTip>
   <!-- EN: Tier 1 Cap -->
-  <TSA_WD_CapT1>等級 1 上限</TSA_WD_CapT1>
+  <TSA_WD_CapT1>等級1上限</TSA_WD_CapT1>
   <!-- EN: Tier 2 Cap -->
-  <TSA_WD_CapT2>等級 2 上限</TSA_WD_CapT2>
+  <TSA_WD_CapT2>等級2上限</TSA_WD_CapT2>
   <!-- EN: Tier 3 Cap -->
-  <TSA_WD_CapT3>等級 3 上限</TSA_WD_CapT3>
+  <TSA_WD_CapT3>等級3上限</TSA_WD_CapT3>
   <!-- EN: Tier 4 Cap -->
-  <TSA_WD_CapT4>等級 4 上限</TSA_WD_CapT4>
+  <TSA_WD_CapT4>等級4上限</TSA_WD_CapT4>
   <!-- EN: Can Raid again in: {0} days -->
   <TSA_WD_Cd_Launch>可再次突襲：{0}天後</TSA_WD_Cd_Launch>
   <!-- EN: Defensive shield expires in: {0} days -->
@@ -893,7 +893,7 @@
   <!-- EN: Are you sure you want to reset ALL mod settings to their default values? This cannot be undone. -->
   <TSA_WD_ConfirmResetAll>確定要將所有模組設定重設為預設值嗎？此動作無法復原。</TSA_WD_ConfirmResetAll>
   <!-- EN: You may choose outpost types ≤ T{0}; only biome and nearby settlement checks apply. -->
-  <TSA_WD_ConquestDialog_Header>你可以選擇 ≤ T{0} 的哨站類型；只會檢查生態系統與附近據點條件。</TSA_WD_ConquestDialog_Header>
+  <TSA_WD_ConquestDialog_Header>你可以選擇 ≤ T{0}的哨站類型；只會檢查生態系統與附近據點條件。</TSA_WD_ConquestDialog_Header>
   <!-- EN: Conquest outcome -->
   <TSA_WD_ConquestLetter_Label>征服結果</TSA_WD_ConquestLetter_Label>
   <!-- EN: The ruins of {0} (Tier {1}) are under your control. Decide whether to establish an outpost, recruit the survivors, hand the site to a friendly faction, or leave it behind. -->
@@ -979,9 +979,9 @@
   <!-- EN: {0} requires at least {1} settlements from neutral or allied factions (not your own) within {2} tiles. Found: {3}. -->
   <TSA_WD_Establish_MinNearbySettlements>{0}需要{2}格內至少有{1}個中立或同盟派系的據點（不含你自己的）。找到：{3}。</TSA_WD_Establish_MinNearbySettlements>
   <!-- EN: {0} requires at least {1} nearby NPC settlements within {2} tiles (hostile neighbors count as defector sources). Found: {3}. -->
-  <TSA_WD_Establish_MinNearbySettlements_Recruiting>{0}需要{2}格內至少有{1}個附近的 NPC 據點（敵對鄰居算作叛逃者來源）。找到：{3}。</TSA_WD_Establish_MinNearbySettlements_Recruiting>
+  <TSA_WD_Establish_MinNearbySettlements_Recruiting>{0}需要{2}格內至少有{1}個附近的NPC據點（敵對鄰居算作叛逃者來源）。找到：{3}。</TSA_WD_Establish_MinNearbySettlements_Recruiting>
   <!-- EN: {0} requires at least {1} nearby NPC settlements within {2} tiles (hostile neighbors count for black-market trade). Found: {3}. -->
-  <TSA_WD_Establish_MinNearbySettlements_Trading>{0}需要{2}格內至少有{1}個附近的 NPC 據點（敵對鄰居算作黑市交易對象）。找到：{3}。</TSA_WD_Establish_MinNearbySettlements_Trading>
+  <TSA_WD_Establish_MinNearbySettlements_Trading>{0}需要{2}格內至少有{1}個附近的NPC據點（敵對鄰居算作黑市交易對象）。找到：{3}。</TSA_WD_Establish_MinNearbySettlements_Trading>
   <!-- EN: {0} requires at least {1} embassy-eligible settlements within {2} tiles. Found: {3}. -->
   <TSA_WD_Establish_MinNearbySettlements_Embassy>{0}需要{2}格內至少有{1}個可設大使館的據點。找到：{3}。</TSA_WD_Establish_MinNearbySettlements_Embassy>
   <!-- EN: {0} requires at least {1} pawn(s) in the caravan (have {2}). -->
@@ -1029,7 +1029,7 @@
   <!-- EN: Max Food per Outpost -->
   <TSA_WD_Food_MaxFoodPerOutpost>每個哨站食物上限</TSA_WD_Food_MaxFoodPerOutpost>
   <!-- EN: Maximum virtual food storage capacity per outpost. Warehouse outposts always use at least 500. -->
-  <TSA_WD_Food_MaxFoodPerOutpostTooltip>每個哨站的虛擬食物最大儲存量。倉庫哨站一律至少為 500。</TSA_WD_Food_MaxFoodPerOutpostTooltip>
+  <TSA_WD_Food_MaxFoodPerOutpostTooltip>每個哨站的虛擬食物最大儲存量。倉庫哨站一律至少為500。</TSA_WD_Food_MaxFoodPerOutpostTooltip>
   <!-- EN: Max Support Radius -->
   <TSA_WD_Food_MaxRange>最大支援半徑</TSA_WD_Food_MaxRange>
   <!-- EN: The maximum tile distance a Farming/Hunting hub can assign food. Recipients in range receive the full assigned amount. -->
@@ -1071,7 +1071,7 @@
   <!-- EN: ROAD: {0} skipped (could not start route to {1}). -->
   <TSA_WD_Log_Road_SkippedLaunchFailed>道路：{0}已略過（無法開始前往{1}的路線）。</TSA_WD_Log_Road_SkippedLaunchFailed>
   <!-- EN: ROAD: {0} skipped (strength {1}; minimum 100 required). -->
-  <TSA_WD_Log_Road_SkippedLowStrength>道路：{0}已略過（戰力{1}；至少需要 100）。</TSA_WD_Log_Road_SkippedLowStrength>
+  <TSA_WD_Log_Road_SkippedLowStrength>道路：{0}已略過（戰力{1}；至少需要100）。</TSA_WD_Log_Road_SkippedLowStrength>
   <!-- EN: ROAD: {0} skipped (no faction or allied settlement to connect). -->
   <TSA_WD_Log_Road_SkippedNoAllyTarget>道路：{0}已略過（沒有可連通的己方派系或同盟據點）。</TSA_WD_Log_Road_SkippedNoAllyTarget>
   <!-- EN: ROAD: {0} skipped (route to {1} complete or no road upgrade work found). -->
@@ -1095,7 +1095,7 @@
   <!-- EN: Caravan clash -->
   <TSA_WD_Log_TravelerClash>旅隊交戰</TSA_WD_Log_TravelerClash>
   <!-- EN: {0} caravan fought {1} ({2} vs {3}). -->
-  <TSA_WD_Log_NpcCaravanClash>{0}旅隊與{1}交戰（{2} 對 {3}）。</TSA_WD_Log_NpcCaravanClash>
+  <TSA_WD_Log_NpcCaravanClash>{0}旅隊與{1}交戰（{2}對{3}）。</TSA_WD_Log_NpcCaravanClash>
   <!-- EN: Caravan Clash Resolved -->
   <TSA_WD_CaravanClash_Header>旅隊交戰結果</TSA_WD_CaravanClash_Header>
   <!-- EN: Open-field clashes use the same World Raids outcome math as settlement battles (win chance and casualties by strength ratio). Soft defender favor comes from that table and from who is designated defender. -->
@@ -1123,7 +1123,7 @@
   <!-- EN: Stone blocks -->
   <TSA_WD_MiningBaseline_Stones>石磚</TSA_WD_MiningBaseline_Stones>
   <!-- EN: Baseline quantity per Mining skill per cycle for this resource. Example: 10 baseline × 5 Mining Skill = 50 produced per cycle (before terrain efficiency). -->
-  <TSA_WD_MiningBaseline_Tooltip>此資源每週期每點採礦技能的基準產量。例：基準 10 × 採礦技能 5 = 每週期產出 50（未計入地形效率）。</TSA_WD_MiningBaseline_Tooltip>
+  <TSA_WD_MiningBaseline_Tooltip>此資源每週期每點採礦技能的基準產量。例：基準10 × 採礦技能5 = 每週期產出50（未計入地形效率）。</TSA_WD_MiningBaseline_Tooltip>
   <!-- EN: No nutrition-bearing items found in the caravan inventory. -->
   <TSA_WD_NoFoodInInventory>旅隊物品欄中找不到含營養的物品。</TSA_WD_NoFoodInInventory>
   <!-- EN: No personnel at this outpost. -->
@@ -1141,7 +1141,7 @@
   <!-- EN: Goods received from {0} -->
   <TSA_WD_OutpostDelivery_LetterLabel>收到來自{0}的物品</TSA_WD_OutpostDelivery_LetterLabel>
   <!-- EN: Only one WD Outpost Delivery Spot is allowed per map. -->
-  <TSA_WD_DeliverySpot_AlreadyExists>每張地圖只能有一個 WD 哨站配送點。</TSA_WD_DeliverySpot_AlreadyExists>
+  <TSA_WD_DeliverySpot_AlreadyExists>每張地圖只能有一個WD哨站配送點。</TSA_WD_DeliverySpot_AlreadyExists>
   <!-- EN: Outpost Overview -->
   <TSA_WD_OutpostManager>哨站總覽</TSA_WD_OutpostManager>
   <!-- EN: Outpost Overview Page -->
@@ -1149,7 +1149,7 @@
   <!-- EN: Outpost build cost multiplier -->
   <TSA_WD_Outpost_BuildCostMult>哨站建造成本倍率</TSA_WD_Outpost_BuildCostMult>
   <!-- EN: Multiplier applied to the base establishment cost (50 wood). Affects outposts founded via caravan only. -->
-  <TSA_WD_Outpost_BuildCostMultTooltip>套用於基礎建立成本（50 木材）的倍率。僅影響透過旅隊建立的哨站。</TSA_WD_Outpost_BuildCostMultTooltip>
+  <TSA_WD_Outpost_BuildCostMultTooltip>套用於基礎建立成本（50木材）的倍率。僅影響透過旅隊建立的哨站。</TSA_WD_Outpost_BuildCostMultTooltip>
   <!-- EN: Click to rename the outpost. -->
   <TSA_WD_Outpost_ClickToRenameTooltip>點擊以重新命名哨站。</TSA_WD_Outpost_ClickToRenameTooltip>
   <!-- EN: Min. strength to send delivery -->
@@ -1163,7 +1163,7 @@
   <!-- EN: {0} days -->
   <TSA_WD_Outpost_Delivery_DaysLeft>{0}天</TSA_WD_Outpost_Delivery_DaysLeft>
   <!-- EN: Delivery delayed until outpost has at least 100 strength (current: {0}). -->
-  <TSA_WD_Outpost_Delivery_Delayed>配送延後，直到哨站戰力至少達 100（目前：{0}）。</TSA_WD_Outpost_Delivery_Delayed>
+  <TSA_WD_Outpost_Delivery_Delayed>配送延後，直到哨站戰力至少達100（目前：{0}）。</TSA_WD_Outpost_Delivery_Delayed>
   <!-- EN: Paused -->
   <TSA_WD_Outpost_Delivery_Paused>已暫停</TSA_WD_Outpost_Delivery_Paused>
   <!-- EN: Delivery pending. Strength too low. -->
@@ -1205,29 +1205,29 @@
   <!-- EN: Offer outpost on conquered settlements -->
   <TSA_WD_Outpost_AfterConquestEnabled>在被征服的據點提供建立哨站選項</TSA_WD_Outpost_AfterConquestEnabled>
   <!-- EN: When enabled, defeating a hostile NPC settlement turns it into ruins and, after you leave the map, opens a letter to establish a World Domination outpost there. When disabled, settlement defeat uses vanilla behavior instead. -->
-  <TSA_WD_Outpost_AfterConquestEnabledTooltip>啟用時，擊敗敵對 NPC 據點會使其變為廢墟，你離開地圖後會開啟一封信件，讓你在該處建立 World Domination 哨站。停用時，擊敗據點改用原版行為。</TSA_WD_Outpost_AfterConquestEnabledTooltip>
+  <TSA_WD_Outpost_AfterConquestEnabledTooltip>啟用時，擊敗敵對NPC據點會使其變為廢墟，你離開地圖後會開啟一封信件，讓你在該處建立World Domination哨站。停用時，擊敗據點改用原版行為。</TSA_WD_Outpost_AfterConquestEnabledTooltip>
   <!-- EN: Conquest outpost flow is off. Pawn counts below apply again if you turn it back on. -->
   <TSA_WD_Outpost_AfterConquestDisabledHint>征服後建立哨站流程已關閉。重新開啟時，下方的角色數量會再次生效。</TSA_WD_Outpost_AfterConquestDisabledHint>
   <!-- EN: Pawns after Conquering T1 settlement -->
-  <TSA_WD_Outpost_ConquestPawnsT1>征服 T1 據點後的角色數</TSA_WD_Outpost_ConquestPawnsT1>
+  <TSA_WD_Outpost_ConquestPawnsT1>征服T1據點後的角色數</TSA_WD_Outpost_ConquestPawnsT1>
   <!-- EN: How many colonists are generated when you establish an outpost on ruins left after defeating a tier 1 settlement. -->
-  <TSA_WD_Outpost_ConquestPawnsT1Tooltip>在擊敗等級 1 據點後留下的廢墟上建立哨站時，會產生多少名殖民者。</TSA_WD_Outpost_ConquestPawnsT1Tooltip>
+  <TSA_WD_Outpost_ConquestPawnsT1Tooltip>在擊敗等級1據點後留下的廢墟上建立哨站時，會產生多少名殖民者。</TSA_WD_Outpost_ConquestPawnsT1Tooltip>
   <!-- EN: Pawns after Conquering T2 settlement -->
-  <TSA_WD_Outpost_ConquestPawnsT2>征服 T2 據點後的角色數</TSA_WD_Outpost_ConquestPawnsT2>
+  <TSA_WD_Outpost_ConquestPawnsT2>征服T2據點後的角色數</TSA_WD_Outpost_ConquestPawnsT2>
   <!-- EN: Same as above when the defeated settlement was tier 2. -->
-  <TSA_WD_Outpost_ConquestPawnsT2Tooltip>同上，適用於被擊敗的據點為等級 2 時。</TSA_WD_Outpost_ConquestPawnsT2Tooltip>
+  <TSA_WD_Outpost_ConquestPawnsT2Tooltip>同上，適用於被擊敗的據點為等級2時。</TSA_WD_Outpost_ConquestPawnsT2Tooltip>
   <!-- EN: Pawns after Conquering T3 settlement -->
-  <TSA_WD_Outpost_ConquestPawnsT3>征服 T3 據點後的角色數</TSA_WD_Outpost_ConquestPawnsT3>
+  <TSA_WD_Outpost_ConquestPawnsT3>征服T3據點後的角色數</TSA_WD_Outpost_ConquestPawnsT3>
   <!-- EN: Same as above when the defeated settlement was tier 3. -->
-  <TSA_WD_Outpost_ConquestPawnsT3Tooltip>同上，適用於被擊敗的據點為等級 3 時。</TSA_WD_Outpost_ConquestPawnsT3Tooltip>
+  <TSA_WD_Outpost_ConquestPawnsT3Tooltip>同上，適用於被擊敗的據點為等級3時。</TSA_WD_Outpost_ConquestPawnsT3Tooltip>
   <!-- EN: Pawns after Conquering T4 settlement -->
-  <TSA_WD_Outpost_ConquestPawnsT4>征服 T4 據點後的角色數</TSA_WD_Outpost_ConquestPawnsT4>
+  <TSA_WD_Outpost_ConquestPawnsT4>征服T4據點後的角色數</TSA_WD_Outpost_ConquestPawnsT4>
   <!-- EN: Same as above when the defeated settlement was tier 4. -->
-  <TSA_WD_Outpost_ConquestPawnsT4Tooltip>同上，適用於被擊敗的據點為等級 4 時。</TSA_WD_Outpost_ConquestPawnsT4Tooltip>
+  <TSA_WD_Outpost_ConquestPawnsT4Tooltip>同上，適用於被擊敗的據點為等級4時。</TSA_WD_Outpost_ConquestPawnsT4Tooltip>
   <!-- EN: Min. relevant skill level (conquest founders) -->
   <TSA_WD_Outpost_ConquestMinRelevantSkill>相關技能最低等級（征服建立者）</TSA_WD_Outpost_ConquestMinRelevantSkill>
   <!-- EN: Each generated pawn’s skills that match the outpost type (plants, mining, etc.) are raised to at least this level. Vanilla skill range is 0–20. -->
-  <TSA_WD_Outpost_ConquestMinRelevantSkillTooltip>每名產生的角色中，與哨站類型相符的技能（種植、採礦等）會提升至至少此等級。原版技能範圍為 0–20。</TSA_WD_Outpost_ConquestMinRelevantSkillTooltip>
+  <TSA_WD_Outpost_ConquestMinRelevantSkillTooltip>每名產生的角色中，與哨站類型相符的技能（種植、採礦等）會提升至至少此等級。原版技能範圍為0–20。</TSA_WD_Outpost_ConquestMinRelevantSkillTooltip>
   <!-- EN: Production -->
   <TSA_WD_Outpost_HeaderProduction>生產</TSA_WD_Outpost_HeaderProduction>
   <!-- EN: Strength recovery (outposts, advanced) -->
@@ -1239,31 +1239,31 @@
   <!-- EN: Off. recovery (% of target cap per day) -->
   <TSA_WD_Outpost_StrengthRecovery_OffFraction>進攻恢復（每日佔目標上限 %）</TSA_WD_Outpost_StrengthRecovery_OffFraction>
   <!-- EN: Each day, offensive strength recovers by the greater of this percentage of the occupant-based offensive target cap or the minimum flat recovery below, then multiplied by 1 + sum of upgrade offensive recovery bonuses. -->
-  <TSA_WD_Outpost_StrengthRecovery_OffFractionTooltip>每天進攻戰力會恢復「依駐員計算的進攻目標上限的此百分比」與「下方最低固定恢復量」兩者中較大者，再乘以 1 + 各升級進攻恢復加成總和。</TSA_WD_Outpost_StrengthRecovery_OffFractionTooltip>
+  <TSA_WD_Outpost_StrengthRecovery_OffFractionTooltip>每天進攻戰力會恢復「依駐員計算的進攻目標上限的此百分比」與「下方最低固定恢復量」兩者中較大者，再乘以1 + 各升級進攻恢復加成總和。</TSA_WD_Outpost_StrengthRecovery_OffFractionTooltip>
   <!-- EN: Min. defensive strength recovery (per day) -->
   <TSA_WD_Outpost_StrengthRecovery_DefMinFlat>防禦戰力最低恢復量（每日）</TSA_WD_Outpost_StrengthRecovery_DefMinFlat>
   <!-- EN: Floor for daily defensive recovery when below cap. Actual gain is max(this, cap × def. recovery %). -->
-  <TSA_WD_Outpost_StrengthRecovery_DefMinFlatTooltip>低於上限時每日防禦恢復的下限。實際增加量為 max（此值, 上限 × 防禦恢復 %）。</TSA_WD_Outpost_StrengthRecovery_DefMinFlatTooltip>
+  <TSA_WD_Outpost_StrengthRecovery_DefMinFlatTooltip>低於上限時每日防禦恢復的下限。實際增加量為max（此值, 上限 × 防禦恢復 %）。</TSA_WD_Outpost_StrengthRecovery_DefMinFlatTooltip>
   <!-- EN: Min. offensive strength recovery (per day) -->
   <TSA_WD_Outpost_StrengthRecovery_OffMinFlat>進攻戰力最低恢復量（每日）</TSA_WD_Outpost_StrengthRecovery_OffMinFlat>
   <!-- EN: Floor for daily offensive recovery before upgrade multiplier. Actual gain is max(this, target cap × off. recovery %) × (1 + upgrade bonuses). -->
-  <TSA_WD_Outpost_StrengthRecovery_OffMinFlatTooltip>套用升級倍率前每日進攻恢復的下限。實際增加量為 max（此值, 目標上限 × 進攻恢復 %）×（1 + 升級加成）。</TSA_WD_Outpost_StrengthRecovery_OffMinFlatTooltip>
+  <TSA_WD_Outpost_StrengthRecovery_OffMinFlatTooltip>套用升級倍率前每日進攻恢復的下限。實際增加量為max（此值, 目標上限 × 進攻恢復 %）×（1 + 升級加成）。</TSA_WD_Outpost_StrengthRecovery_OffMinFlatTooltip>
   <!-- EN: Occupant healing (injury severity per day) -->
   <TSA_WD_Outpost_OccupantHealSeverity>駐員治療（每日傷勢嚴重度）</TSA_WD_Outpost_OccupantHealSeverity>
   <!-- EN: Each day, every non-permanent injury on mothballed outpost occupants loses this many severity points (linear). Set to 0 to disable injury healing (timed hediffs still wear off). Example: at 2 severity per day, a 6-severity wound heals in ~3 days; 20 severity in ~10 days. Hospital upgrades on each outpost multiply this injury/immunity rate (Basic +30%, Advanced +60%). Immunizable diseases advance immunity and natural recovery severity at the same multiplier. Blood loss prefers its natural recovery rate, otherwise this daily amount. Separately, drug highs, food poisoning, alcohol/hangover, and similar timed hediffs advance one in-game day of their vanilla wear-off each day; hypothermia and heatstroke clear when sheltered at the outpost; malnutrition recovers while Food is topped. -->
-  <TSA_WD_Outpost_OccupantHealSeverityTooltip>每天，封存中哨站駐員身上每個非永久性傷勢會減少此數值的嚴重度（線性）。設為 0 即停用傷勢治療（有時效的健康狀態仍會自然消退）。例：每日 2 點嚴重度時，6 點嚴重度的傷口約 3 天痊癒；20 點約 10 天。各哨站的醫院升級會加乘此傷勢／免疫速率（基礎 +30%，進階 +60%）。可免疫疾病的免疫力與自然恢復也以相同倍率推進。失血優先採用其自然恢復速率，否則採用此每日量。另外，藥物興奮、食物中毒、酒醉／宿醉等有時效的健康狀態，每天會推進一天原版的消退進度；在哨站有遮蔽時，失溫與中暑會解除；食物補足期間，營養不良會逐漸恢復。</TSA_WD_Outpost_OccupantHealSeverityTooltip>
+  <TSA_WD_Outpost_OccupantHealSeverityTooltip>每天，封存中哨站駐員身上每個非永久性傷勢會減少此數值的嚴重度（線性）。設為0即停用傷勢治療（有時效的健康狀態仍會自然消退）。例：每日2點嚴重度時，6點嚴重度的傷口約3天痊癒；20點約10天。各哨站的醫院升級會加乘此傷勢／免疫速率（基礎 +30%，進階 +60%）。可免疫疾病的免疫力與自然恢復也以相同倍率推進。失血優先採用其自然恢復速率，否則採用此每日量。另外，藥物興奮、食物中毒、酒醉／宿醉等有時效的健康狀態，每天會推進一天原版的消退進度；在哨站有遮蔽時，失溫與中暑會解除；食物補足期間，營養不良會逐漸恢復。</TSA_WD_Outpost_OccupantHealSeverityTooltip>
   <!-- EN: Vehicle repair per day -->
   <TSA_WD_Outpost_VehicleRepairPerDay>每日載具修復量</TSA_WD_Outpost_VehicleRepairPerDay>
   <!-- EN: Each day, every damaged part on Vehicle Framework vehicles stored at the outpost regains this fraction of that part's max health. 0 disables. -->
-  <TSA_WD_Outpost_VehicleRepairPerDayTooltip>每天，存放於哨站的 Vehicle Framework 載具每個受損部件會恢復該部件最大耐久的此比例。0 為停用。</TSA_WD_Outpost_VehicleRepairPerDayTooltip>
+  <TSA_WD_Outpost_VehicleRepairPerDayTooltip>每天，存放於哨站的Vehicle Framework載具每個受損部件會恢復該部件最大耐久的此比例。0為停用。</TSA_WD_Outpost_VehicleRepairPerDayTooltip>
   <!-- EN: Production time multiplier -->
   <TSA_WD_Outpost_ProductionTimeMult>生產時間倍率</TSA_WD_Outpost_ProductionTimeMult>
   <!-- EN: Multiplies production cycle length (XML productionCycleDays or default). Lower = shorter cycles / more frequent deliveries. Remaining time rescales when you change this during a cycle. -->
-  <TSA_WD_Outpost_ProductionTimeMultTooltip>乘上生產週期長度（XML productionCycleDays 或預設值）。數值越低 = 週期越短／配送越頻繁。在週期進行中變更時，剩餘時間會依比例調整。</TSA_WD_Outpost_ProductionTimeMultTooltip>
+  <TSA_WD_Outpost_ProductionTimeMultTooltip>乘上生產週期長度（XML productionCycleDays或預設值）。數值越低 = 週期越短／配送越頻繁。在週期進行中變更時，剩餘時間會依比例調整。</TSA_WD_Outpost_ProductionTimeMultTooltip>
   <!-- EN: Production output multiplier -->
   <TSA_WD_Outpost_ProductionOutputMult>產出倍率</TSA_WD_Outpost_ProductionOutputMult>
   <!-- EN: Multiplies delivery quantities each cycle (crops, hunting, mining, fabrication, trading silver, recruits as rounded integers). 1.00 means unchanged output. -->
-  <TSA_WD_Outpost_ProductionOutputMultTooltip>乘上每週期的配送數量（作物、狩獵、採礦、製造、交易白銀、招募人數皆四捨五入為整數）。1.00 表示產出不變。</TSA_WD_Outpost_ProductionOutputMultTooltip>
+  <TSA_WD_Outpost_ProductionOutputMultTooltip>乘上每週期的配送數量（作物、狩獵、採礦、製造、交易白銀、招募人數皆四捨五入為整數）。1.00表示產出不變。</TSA_WD_Outpost_ProductionOutputMultTooltip>
   <!-- EN: Research outpost speed -->
   <TSA_WD_Outpost_ResearchSpeedMult>研究哨站速度</TSA_WD_Outpost_ResearchSpeedMult>
   <!-- EN: Multiplies research points contributed by Research outposts only. Does not change item production or colony research benches. -->
@@ -1295,7 +1295,7 @@
   <!-- EN: Production paused: No nearby neutral or allied non-player settlements or outposts. -->
   <TSA_WD_Outpost_Inspect_ProducingPausedNoNearbySettlements>生產暫停：附近沒有中立或同盟的非玩家據點或哨站。</TSA_WD_Outpost_Inspect_ProducingPausedNoNearbySettlements>
   <!-- EN: Production paused: {0} needs at least {1} nearby NPC settlements within {2} tiles (hostile neighbors count). Found: {3}. -->
-  <TSA_WD_Outpost_Inspect_ProducingPausedMinNearbyPartners>生產暫停：{0}需要{2}格內至少有{1}個附近的 NPC 據點（敵對鄰居也算）。找到：{3}。</TSA_WD_Outpost_Inspect_ProducingPausedMinNearbyPartners>
+  <TSA_WD_Outpost_Inspect_ProducingPausedMinNearbyPartners>生產暫停：{0}需要{2}格內至少有{1}個附近的NPC據點（敵對鄰居也算）。找到：{3}。</TSA_WD_Outpost_Inspect_ProducingPausedMinNearbyPartners>
   <!-- EN: Production paused: {0} -->
   <TSA_WD_Outpost_Inspect_ProductionPaused>生產暫停：{0}</TSA_WD_Outpost_Inspect_ProductionPaused>
   <!-- EN: Min. distance to establish outpost (tiles) -->
@@ -1305,11 +1305,11 @@
   <!-- EN: Raid protection cooldown (days) -->
   <TSA_WD_Outpost_RaidProtectionCooldownDays>突襲保護冷卻（天）</TSA_WD_Outpost_RaidProtectionCooldownDays>
   <!-- EN: Days your WD outposts cannot be targeted by NPC raids after one is launched against them, after a failed defense, or when first established. Separate from the NPC settlement "Defense Shield" in World Actions settings. -->
-  <TSA_WD_Outpost_RaidProtectionCooldownDaysTooltip>你的 WD 哨站在遭受 NPC 突襲後、防禦失敗後或剛建立時，無法被 NPC 突襲鎖定的天數。與世界行動設定中 NPC 據點的「防禦護盾」是分開的。</TSA_WD_Outpost_RaidProtectionCooldownDaysTooltip>
+  <TSA_WD_Outpost_RaidProtectionCooldownDaysTooltip>你的WD哨站在遭受NPC突襲後、防禦失敗後或剛建立時，無法被NPC突襲鎖定的天數。與世界行動設定中NPC據點的「防禦護盾」是分開的。</TSA_WD_Outpost_RaidProtectionCooldownDaysTooltip>
   <!-- EN: WD trader caravan destination search radius (tiles) -->
-  <TSA_WD_Outpost_TraderDestSearchRadius>WD 商隊目的地搜尋半徑（格）</TSA_WD_Outpost_TraderDestSearchRadius>
+  <TSA_WD_Outpost_TraderDestSearchRadius>WD商隊目的地搜尋半徑（格）</TSA_WD_Outpost_TraderDestSearchRadius>
   <!-- EN: Maximum path distance from the sending settlement when World Domination AI picks a neutral or allied settlement (including player map colonies) for a trader caravan. Independent from the World Raids target search radius. -->
-  <TSA_WD_Outpost_TraderDestSearchRadiusTooltip>World Domination AI 為商隊挑選中立或同盟據點（含玩家地圖殖民地）時，距離出發據點的最大路徑距離。與世界突襲的目標搜尋半徑各自獨立。</TSA_WD_Outpost_TraderDestSearchRadiusTooltip>
+  <TSA_WD_Outpost_TraderDestSearchRadiusTooltip>World Domination AI為商隊挑選中立或同盟據點（含玩家地圖殖民地）時，距離出發據點的最大路徑距離。與世界突襲的目標搜尋半徑各自獨立。</TSA_WD_Outpost_TraderDestSearchRadiusTooltip>
   <!-- EN: Outpost Name -->
   <TSA_WD_Outpost_Name>哨站名稱</TSA_WD_Outpost_Name>
   <!-- EN: Next Delivery in -->
@@ -1371,7 +1371,7 @@
   <!-- EN: Name your new {0} -->
   <TSA_WD_Outpost_NameNewDialogTitle>為你的新{0}命名</TSA_WD_Outpost_NameNewDialogTitle>
   <!-- EN: You can also later rename your outpost by clicking its name in the "Outpost Overview" window under the main WD tab. -->
-  <TSA_WD_Outpost_NameNewDialogTip>之後也可以在 WD 主分頁下的「哨站總覽」視窗中點擊哨站名稱來重新命名。</TSA_WD_Outpost_NameNewDialogTip>
+  <TSA_WD_Outpost_NameNewDialogTip>之後也可以在WD主分頁下的「哨站總覽」視窗中點擊哨站名稱來重新命名。</TSA_WD_Outpost_NameNewDialogTip>
   <!-- EN: Generate a random name -->
   <TSA_WD_Outpost_NameNewDialogDiceTip>產生隨機名稱</TSA_WD_Outpost_NameNewDialogDiceTip>
   <!-- EN: Add outpost type to name -->
@@ -1433,23 +1433,23 @@
   <!-- EN: Silver budget per skill per delivery -->
   <TSA_WD_Outpost_SilverValuePerSkill>每次配送每點技能的白銀預算</TSA_WD_Outpost_SilverValuePerSkill>
   <!-- EN: Fixed per delivery—not stretched or shrunk when your outpost cycle is 10 vs 100 days. Hunting: each delivery can include meat, leather/fur, and wool (when the animal yields them); per product, baseline units/skill = (budget ÷ total silver per kill) × that product's count per kill. Crops/mining: baseline ≈ budget ÷ item market value. Then: baseline × tile efficiency × skill (× output slider). -->
-  <TSA_WD_Outpost_SilverValuePerSkillTooltip>每次配送固定——哨站週期為 10 天或 100 天都不會拉長或縮短。狩獵：每次配送可包含肉類、皮革/毛皮與羊毛（若該動物有產出）；每種產物的每點技能基準單位 =（預算 ÷ 每次獵殺的總白銀價值）× 該產物每次獵殺的數量。作物/採礦：基準 ≈ 預算 ÷ 物品市場價格。接著：基準 × 地塊效率 × 技能（× 產出滑桿）。</TSA_WD_Outpost_SilverValuePerSkillTooltip>
+  <TSA_WD_Outpost_SilverValuePerSkillTooltip>每次配送固定——哨站週期為10天或100天都不會拉長或縮短。狩獵：每次配送可包含肉類、皮革/毛皮與羊毛（若該動物有產出）；每種產物的每點技能基準單位 =（預算 ÷ 每次獵殺的總白銀價值）× 該產物每次獵殺的數量。作物/採礦：基準 ≈ 預算 ÷ 物品市場價格。接著：基準 × 地塊效率 × 技能（× 產出滑桿）。</TSA_WD_Outpost_SilverValuePerSkillTooltip>
   <!-- EN: Clamp outpost skills at level 20 -->
-  <TSA_WD_Outpost_ClampSkillsAtLevel20>哨站技能上限鎖定為 20 級</TSA_WD_Outpost_ClampSkillsAtLevel20>
+  <TSA_WD_Outpost_ClampSkillsAtLevel20>哨站技能上限鎖定為20級</TSA_WD_Outpost_ClampSkillsAtLevel20>
   <!-- EN: When enabled, outpost math treats pawn skills above 20 as 20. Leave disabled for Endless Growth-style mods so higher skill levels can fully contribute. -->
-  <TSA_WD_Outpost_ClampSkillsAtLevel20Tooltip>啟用時，哨站計算會將超過 20 的角色技能視為 20。若使用 Endless Growth 類模組，請保持停用，讓更高技能等級能完整發揮作用。</TSA_WD_Outpost_ClampSkillsAtLevel20Tooltip>
+  <TSA_WD_Outpost_ClampSkillsAtLevel20Tooltip>啟用時，哨站計算會將超過20的角色技能視為20。若使用Endless Growth類模組，請保持停用，讓更高技能等級能完整發揮作用。</TSA_WD_Outpost_ClampSkillsAtLevel20Tooltip>
   <!-- EN: Occupant skill XP per successful payout -->
   <TSA_WD_Outpost_OccupantSkillXpPerCycle>每次成功產出的駐員技能經驗</TSA_WD_Outpost_OccupantSkillXpPerCycle>
   <!-- EN: Experience granted to each relevant outpost skill (farming, hunting, etc.) for every colonist at the outpost when a delivery actually launches. Set to 0 to disable. Does not apply while payout is blocked. -->
-  <TSA_WD_Outpost_OccupantSkillXpPerCycleTooltip>配送實際出發時，哨站內每名殖民者在每項相關哨站技能（種植、狩獵等）獲得的經驗值。設為 0 即停用。產出受阻時不適用。</TSA_WD_Outpost_OccupantSkillXpPerCycleTooltip>
+  <TSA_WD_Outpost_OccupantSkillXpPerCycleTooltip>配送實際出發時，哨站內每名殖民者在每項相關哨站技能（種植、狩獵等）獲得的經驗值。設為0即停用。產出受阻時不適用。</TSA_WD_Outpost_OccupantSkillXpPerCycleTooltip>
   <!-- EN: Max skill level for outpost XP -->
   <TSA_WD_Outpost_OccupantSkillXpMaxLevel>哨站經驗的技能等級上限</TSA_WD_Outpost_OccupantSkillXpMaxLevel>
   <!-- EN: Pawns do not gain outpost payout XP in a skill once it is at this level or higher. -->
   <TSA_WD_Outpost_OccupantSkillXpMaxLevelTooltip>角色的技能達到此等級或更高後，不再從哨站產出獲得該技能經驗。</TSA_WD_Outpost_OccupantSkillXpMaxLevelTooltip>
   <!-- EN: Social XP pool per resistance reduced -->
-  <TSA_WD_Outpost_RecruitSocialXpPerResistance>每降低 1 點反抗的社交經驗池</TSA_WD_Outpost_RecruitSocialXpPerResistance>
+  <TSA_WD_Outpost_RecruitSocialXpPerResistance>每降低1點反抗的社交經驗池</TSA_WD_Outpost_RecruitSocialXpPerResistance>
   <!-- EN: When prisoners lose resistance at this outpost, that much Social XP enters a pool and is split equally among garrisoned humanlikes who can still learn Social. Set to 0 to disable. -->
-  <TSA_WD_Outpost_RecruitSocialXpPerResistanceTooltip>此哨站的俘虜反抗降低時，對應數量的社交經驗會進入經驗池，平均分給仍能學習社交的駐軍類人角色。設為 0 即停用。</TSA_WD_Outpost_RecruitSocialXpPerResistanceTooltip>
+  <TSA_WD_Outpost_RecruitSocialXpPerResistanceTooltip>此哨站的俘虜反抗降低時，對應數量的社交經驗會進入經驗池，平均分給仍能學習社交的駐軍類人角色。設為0即停用。</TSA_WD_Outpost_RecruitSocialXpPerResistanceTooltip>
   <!-- EN: Academy -->
   <TSA_WD_Outpost_HeaderAcademy>學院</TSA_WD_Outpost_HeaderAcademy>
   <!-- EN: Experts -->
@@ -1489,7 +1489,7 @@
   <!-- EN: Academy base XP per day (per student) -->
   <TSA_WD_Outpost_AcademyBaseXpPerDay>學院每日基礎經驗（每名學生）</TSA_WD_Outpost_AcademyBaseXpPerDay>
   <!-- EN: Base daily XP each eligible student receives before teacher multiplier (1x at level 8 up to 2x at level 20). -->
-  <TSA_WD_Outpost_AcademyBaseXpPerDayTooltip>每名符合資格的學生在套用教師倍率前每日獲得的基礎經驗（8 級為 1x，至 20 級為 2x）。</TSA_WD_Outpost_AcademyBaseXpPerDayTooltip>
+  <TSA_WD_Outpost_AcademyBaseXpPerDayTooltip>每名符合資格的學生在套用教師倍率前每日獲得的基礎經驗（8級為1x，至20級為2x）。</TSA_WD_Outpost_AcademyBaseXpPerDayTooltip>
   <!-- EN: Academy minimum teacher skill -->
   <TSA_WD_Outpost_AcademyMinTeacherSkill>學院教師最低技能</TSA_WD_Outpost_AcademyMinTeacherSkill>
   <!-- EN: Minimum level required in the selected skill for at least one outpost pawn to teach it. -->
@@ -1513,7 +1513,7 @@
   <!-- EN: {0}, {1} -->
   <TSA_WD_OutpostOverview_StrengthRecoveryRow>{0}，{1}</TSA_WD_OutpostOverview_StrengthRecoveryRow>
   <!-- EN: Row 1: Current Total Strength/Max Total Strength\nRow 2: Current Def. Strength/Max Def. Strength, Current Off. Strength/Max Off. Strength\nRow 3: Def. Strength recovered per Day, Off. Strength recovered per Day -->
-  <TSA_WD_OutpostOverview_StrengthTooltip>第 1 列：目前總戰力/最大總戰力\n第 2 列：目前防禦戰力/最大防禦戰力，目前進攻戰力/最大進攻戰力\n第 3 列：每日防禦戰力恢復量，每日進攻戰力恢復量</TSA_WD_OutpostOverview_StrengthTooltip>
+  <TSA_WD_OutpostOverview_StrengthTooltip>第1列：目前總戰力/最大總戰力\n第2列：目前防禦戰力/最大防禦戰力，目前進攻戰力/最大進攻戰力\n第3列：每日防禦戰力恢復量，每日進攻戰力恢復量</TSA_WD_OutpostOverview_StrengthTooltip>
   <!-- EN: +{0} more… -->
   <TSA_WD_OutpostOverview_UpgradesMore>還有{0}項…</TSA_WD_OutpostOverview_UpgradesMore>
   <!-- EN: {0} pawn(s) with bleeding wounds at this outpost. -->
@@ -1567,7 +1567,7 @@
   <!-- EN: Remove all selected pawns, animals, and vehicles at once. They leave in a single caravan. -->
   <TSA_WD_Pawns_RemoveChosenTip>一次移出所有選取的角色、動物與載具。他們會組成一支旅隊離開。</TSA_WD_Pawns_RemoveChosenTip>
   <!-- EN: Slaves, animals, vehicles, and mechanoids can only be removed if accompanied by at least 1 pawn. -->
-  <TSA_WD_Pawns_RemoveSlaveAccompanimentRequiredTip>奴隸、動物、載具與機械族必須有至少 1 名角色陪同才能移出。</TSA_WD_Pawns_RemoveSlaveAccompanimentRequiredTip>
+  <TSA_WD_Pawns_RemoveSlaveAccompanimentRequiredTip>奴隸、動物、載具與機械族必須有至少1名角色陪同才能移出。</TSA_WD_Pawns_RemoveSlaveAccompanimentRequiredTip>
   <!-- EN: Cannot remove the last occupant while mechanoids remain at this outpost. Remove the mechanoids first or take them with you. -->
   <TSA_WD_Pawns_RemoveLastOccupantMechanoidsRemain>哨站中仍有機械族時，無法移出最後一名駐員。請先移出機械族，或將其一併帶走。</TSA_WD_Pawns_RemoveLastOccupantMechanoidsRemain>
   <!-- EN: Producing {0} -->
@@ -1585,7 +1585,7 @@
   <!-- EN: Baselines are defined in the mod settings. -->
   <TSA_WD_Production_BaselineTooltip_Mining>基準值定義於模組設定中。</TSA_WD_Production_BaselineTooltip_Mining>
   <!-- EN: Baselines are defined in the outpost XML (amount per skill for each product). -->
-  <TSA_WD_Production_BaselineTooltip_Xml>基準值定義於哨站 XML 中（每種產物的每點技能數量）。</TSA_WD_Production_BaselineTooltip_Xml>
+  <TSA_WD_Production_BaselineTooltip_Xml>基準值定義於哨站XML中（每種產物的每點技能數量）。</TSA_WD_Production_BaselineTooltip_Xml>
   <!-- EN: Reset -->
   <TSA_WD_Production_Clear>重設</TSA_WD_Production_Clear>
   <!-- EN: Cancel production? This will reset the production cycle. -->
@@ -1615,7 +1615,7 @@
   <!-- EN: nothing -->
   <TSA_WD_Text_Nothing>無</TSA_WD_Text_Nothing>
   <!-- EN: Per skill at 100% tile efficiency: -->
-  <TSA_WD_Hunting_AnimalBaseline_Intro>地塊效率 100% 時每點技能：</TSA_WD_Hunting_AnimalBaseline_Intro>
+  <TSA_WD_Hunting_AnimalBaseline_Intro>地塊效率100% 時每點技能：</TSA_WD_Hunting_AnimalBaseline_Intro>
   <!-- EN: Budget {0} silver per Animals skill per delivery. One kill of this animal ≈ {1} silver (market value of meat, leather, and wool combined).\n{2}\nDelivery = baseline × tile efficiency × assigned Animals skill × output multiplier. -->
   <TSA_WD_Hunting_AnimalBaselineTooltip>每次配送每點馴獸技能預算{0}白銀。獵殺一隻此動物約值{1}白銀（肉類、皮革與羊毛的市場價格合計）。\n{2}\n配送量 = 基準 × 地塊效率 × 指派的馴獸技能 × 產出倍率。</TSA_WD_Hunting_AnimalBaselineTooltip>
   <!-- EN: ~{0} {1} per skill at this tile -->
@@ -1689,13 +1689,13 @@
   <!-- EN: Production paused: -->
   <TSA_WD_Production_PausedHeader>生產暫停：</TSA_WD_Production_PausedHeader>
   <!-- EN: Baselines are defined in the outpost XML (amount per skill for each product). -->
-  <TSA_WD_Production_PerSkillBaselineTooltip>基準值定義於哨站 XML 中（每種產物的每點技能數量）。</TSA_WD_Production_PerSkillBaselineTooltip>
+  <TSA_WD_Production_PerSkillBaselineTooltip>基準值定義於哨站XML中（每種產物的每點技能數量）。</TSA_WD_Production_PerSkillBaselineTooltip>
   <!-- EN: Recruiting -->
   <TSA_WD_Production_Recruiting>招募</TSA_WD_Production_Recruiting>
   <!-- EN: Recruits from Social skill plus a bonus from nearby settlement tiers. Open the recruiting dialog for details. -->
   <TSA_WD_Production_RecruitingDesc>依社交技能招募，並依附近據點等級獲得加成。開啟招募對話框以檢視詳情。</TSA_WD_Production_RecruitingDesc>
   <!-- EN: Total Social at outpost. Base recruits: 1 per 10 Social (cycle average). Nearby tiers add bonus recruits. -->
-  <TSA_WD_Production_RecruitingSocialTooltip>哨站的社交技能總和。基礎招募數：每 10 點社交 1 名（週期平均）。附近據點的等級可增加額外招募數。</TSA_WD_Production_RecruitingSocialTooltip>
+  <TSA_WD_Production_RecruitingSocialTooltip>哨站的社交技能總和。基礎招募數：每10點社交1名（週期平均）。附近據點的等級可增加額外招募數。</TSA_WD_Production_RecruitingSocialTooltip>
   <!-- EN: Pawn Count -->
   <TSA_WD_Outpost_RelevantStat_Pawns>角色數量</TSA_WD_Outpost_RelevantStat_Pawns>
   <!-- EN: Scavenging -->
@@ -1825,25 +1825,25 @@
   <!-- EN: Requires research: {0} -->
   <TSA_WD_Production_TooltipFabrication_Research>需要研究：{0}</TSA_WD_Production_TooltipFabrication_Research>
   <!-- EN: Avg Social {1} → ~{2} recruit(s). Base from Social (1 per {0}) plus bonus from up to the top 3 nearby partners per faction. -->
-  <TSA_WD_Production_TooltipRecruiting>平均社交{1} → 約{2}名新兵。基礎依社交計算（每{0}點 1 名），另加上每個派系最多前 3 個附近夥伴的加成。</TSA_WD_Production_TooltipRecruiting>
+  <TSA_WD_Production_TooltipRecruiting>平均社交{1} → 約{2}名新兵。基礎依社交計算（每{0}點1名），另加上每個派系最多前3個附近夥伴的加成。</TSA_WD_Production_TooltipRecruiting>
   <!-- EN: Outpost Recruiting -->
   <TSA_WD_Recruiting_WindowTitle>哨站招募</TSA_WD_Recruiting_WindowTitle>
   <!-- EN: Expected recruits this cycle: -->
   <TSA_WD_Recruiting_Info_ExpectedOutput>本週期預計新兵數：</TSA_WD_Recruiting_Info_ExpectedOutput>
   <!-- EN: Currently, this outpost has {0} cumulative Social skill from pawns. For each 10 Social you get 1 pawn at the end of the production cycle. -->
-  <TSA_WD_Recruiting_Info_CurrentSocialTip>此哨站目前角色的累計社交技能為{0}。每 10 點社交可在生產週期結束時獲得 1 名角色。</TSA_WD_Recruiting_Info_CurrentSocialTip>
+  <TSA_WD_Recruiting_Info_CurrentSocialTip>此哨站目前角色的累計社交技能為{0}。每10點社交可在生產週期結束時獲得1名角色。</TSA_WD_Recruiting_Info_CurrentSocialTip>
   <!-- EN: Average Social this cycle: {0}. For each 10 average Social you get 1 pawn at the end of the production cycle. -->
-  <TSA_WD_Recruiting_Info_AvgSocialTip>本週期平均社交：{0}。每 10 點平均社交可在生產週期結束時獲得 1 名角色。</TSA_WD_Recruiting_Info_AvgSocialTip>
+  <TSA_WD_Recruiting_Info_AvgSocialTip>本週期平均社交：{0}。每10點平均社交可在生產週期結束時獲得1名角色。</TSA_WD_Recruiting_Info_AvgSocialTip>
   <!-- EN: Each contributing partner adds neighbor points by tier:\nTier 1 = 1\nTier 2 = 2\nTier 3 = 3.5\nTier 4 = 5\nOnly the top 3 partners per faction (by tier, then distance) count. -->
-  <TSA_WD_Recruiting_NeighborBonusTierPointsTip>每個有貢獻的夥伴依等級增加鄰居點數：\n等級 1 = 1\n等級 2 = 2\n等級 3 = 3.5\n等級 4 = 5\n每個派系只計入前 3 個夥伴（依等級，其次依距離）。</TSA_WD_Recruiting_NeighborBonusTierPointsTip>
+  <TSA_WD_Recruiting_NeighborBonusTierPointsTip>每個有貢獻的夥伴依等級增加鄰居點數：\n等級1 = 1\n等級2 = 2\n等級3 = 3.5\n等級4 = 5\n每個派系只計入前3個夥伴（依等級，其次依距離）。</TSA_WD_Recruiting_NeighborBonusTierPointsTip>
   <!-- EN: Choose training: -->
   <TSA_WD_Recruiting_ChooseTraining>選擇培訓：</TSA_WD_Recruiting_ChooseTraining>
   <!-- EN: Selected: {0} -->
   <TSA_WD_Recruiting_SelectedTraining>已選擇：{0}</TSA_WD_Recruiting_SelectedTraining>
   <!-- EN: Settlements within {0} tiles. Up to 3 per faction contribute. Hostile neighbors count as defectors at reduced efficiency and show a red tint when they contribute. -->
-  <TSA_WD_Recruiting_NearbyHeaderTip>{0}格內的據點。每個派系最多 3 個有貢獻。敵對鄰居以降低的效率計為叛逃者，有貢獻時以紅色標示。</TSA_WD_Recruiting_NearbyHeaderTip>
+  <TSA_WD_Recruiting_NearbyHeaderTip>{0}格內的據點。每個派系最多3個有貢獻。敵對鄰居以降低的效率計為叛逃者，有貢獻時以紅色標示。</TSA_WD_Recruiting_NearbyHeaderTip>
   <!-- EN: Up to the top 3 partners per faction add neighbor points (Tier 1=1, Tier 2=2, Tier 3=3.5, Tier 4=5). Add those together. Every {0} combined points = +1 extra recruit this cycle. -->
-  <TSA_WD_Recruiting_NeighborBonusRule>每個派系最多前 3 個夥伴會增加鄰居點數（等級 1=1，等級 2=2，等級 3=3.5，等級 4=5），將其加總。每{0}點合計點數 = 本週期額外 +1 名新兵。</TSA_WD_Recruiting_NeighborBonusRule>
+  <TSA_WD_Recruiting_NeighborBonusRule>每個派系最多前3個夥伴會增加鄰居點數（等級1=1，等級2=2，等級3=3.5，等級4=5），將其加總。每{0}點合計點數 = 本週期額外 +1名新兵。</TSA_WD_Recruiting_NeighborBonusRule>
   <!-- EN: For each {0} neighbor points from contributing partners, you get one extra recruit at the end of the production cycle. -->
   <TSA_WD_Recruiting_NeighborBonusFooterRule>有貢獻的夥伴每提供{0}點鄰居點數，生產週期結束時就多獲得一名新兵。</TSA_WD_Recruiting_NeighborBonusFooterRule>
   <!-- EN: Total Neighbor points: {0} -->
@@ -1859,9 +1859,9 @@
   <!-- EN: Hostile neighbor (defectors): counts at {0}% efficiency. -->
   <TSA_WD_Recruiting_PartnerRowTip_Defectors>敵對鄰居（叛逃者）：以{0}%效率計算。</TSA_WD_Recruiting_PartnerRowTip_Defectors>
   <!-- EN: {0} ({1} Social) + {2} ({3} neighbor points) x {4}% Expert bonus [= {5}] -->
-  <TSA_WD_Recruiting_Math_Compact>{0}（社交{1}）+ {2}（鄰居點數{3}）x {4}%專家加成 [= {5}]</TSA_WD_Recruiting_Math_Compact>
+  <TSA_WD_Recruiting_Math_Compact>{0}（社交{1}）+ {2}（鄰居點數{3}）x {4}%專家加成[= {5}]</TSA_WD_Recruiting_Math_Compact>
   <!-- EN: {0} ({1} Social) + {2} ({3} neighbor points) x {4}% Expert bonus x -{5}% skill focus [= {6}] -->
-  <TSA_WD_Recruiting_Math_CompactWithSkill>{0}（社交{1}）+ {2}（鄰居點數{3}）x {4}%專家加成 x -{5}%技能重點 [= {6}]</TSA_WD_Recruiting_Math_CompactWithSkill>
+  <TSA_WD_Recruiting_Math_CompactWithSkill>{0}（社交{1}）+ {2}（鄰居點數{3}）x {4}%專家加成x -{5}%技能重點[= {6}]</TSA_WD_Recruiting_Math_CompactWithSkill>
   <!-- EN: Any colonist -->
   <TSA_WD_Recruiting_PriorityAny>任意殖民者</TSA_WD_Recruiting_PriorityAny>
   <!-- EN: No recruit penalty -->
@@ -1873,11 +1873,11 @@
   <!-- EN: -{0}% recruits this cycle. Each recruit gets at least level {1} in {2}. -->
   <TSA_WD_Recruiting_PrioritySkillTip>本週期新兵 -{0}%。每名新兵的{2}至少為{1}級。</TSA_WD_Recruiting_PrioritySkillTip>
   <!-- EN: Baseliner 100% -->
-  <TSA_WD_Recruiting_XenotypeNone>一般人類 100%</TSA_WD_Recruiting_XenotypeNone>
+  <TSA_WD_Recruiting_XenotypeNone>一般人類100%</TSA_WD_Recruiting_XenotypeNone>
   <!-- EN: Nearby settlements: -->
   <TSA_WD_Recruiting_XenotypeSourcesHeader>附近據點：</TSA_WD_Recruiting_XenotypeSourcesHeader>
   <!-- EN: Click a row to locate it on the world map. Highlighted rows contribute (top 3 per faction). They also shape faction xenotypes and pawn kinds. -->
-  <TSA_WD_Recruiting_XenotypeSourcesTip>點擊一列以在世界地圖上定位。標示的列有貢獻（每個派系前 3 個），也會影響派系異種人與角色種類。</TSA_WD_Recruiting_XenotypeSourcesTip>
+  <TSA_WD_Recruiting_XenotypeSourcesTip>點擊一列以在世界地圖上定位。標示的列有貢獻（每個派系前3個），也會影響派系異種人與角色種類。</TSA_WD_Recruiting_XenotypeSourcesTip>
   <!-- EN: Social Skill: {0} => {1} Pawns -->
   <TSA_WD_Recruiting_Math_SocialLine>社交技能：{0} =&gt; {1}名角色</TSA_WD_Recruiting_Math_SocialLine>
   <!-- EN: Neighbor Points: {0} => {1} Pawns -->
@@ -1895,15 +1895,15 @@
   <!-- EN:   - {0}: {1} -->
   <TSA_WD_Recruiting_XenotypePoolLine>  - {0}：{1}</TSA_WD_Recruiting_XenotypePoolLine>
   <!-- EN: Xenotypes of recruited pawns come from contributing partners in range (top 3 per faction). Expand this section to see the breakdown. -->
-  <TSA_WD_Recruiting_XenotypePoolTip>新兵的異種人來自範圍內有貢獻的夥伴（每個派系前 3 個）。展開此區段以檢視明細。</TSA_WD_Recruiting_XenotypePoolTip>
+  <TSA_WD_Recruiting_XenotypePoolTip>新兵的異種人來自範圍內有貢獻的夥伴（每個派系前3個）。展開此區段以檢視明細。</TSA_WD_Recruiting_XenotypePoolTip>
   <!-- EN: Colonist 100% -->
-  <TSA_WD_Recruiting_PawnKindNone>殖民者 100%</TSA_WD_Recruiting_PawnKindNone>
+  <TSA_WD_Recruiting_PawnKindNone>殖民者100%</TSA_WD_Recruiting_PawnKindNone>
   <!-- EN: Pawn kinds from nearby Settlements: -->
   <TSA_WD_Recruiting_PawnKindPoolHeader>附近據點的角色種類：</TSA_WD_Recruiting_PawnKindPoolHeader>
   <!-- EN:   - {0}: {1} -->
   <TSA_WD_Recruiting_PawnKindPoolLine>  - {0}：{1}</TSA_WD_Recruiting_PawnKindPoolLine>
   <!-- EN: Pawn kinds of recruited pawns come from contributing partners in range (top 3 per faction), using each faction's combat raid kind weights (cheaper kinds more often). Expand this section to see the breakdown. -->
-  <TSA_WD_Recruiting_PawnKindPoolTip>新兵的角色種類來自範圍內有貢獻的夥伴（每個派系前 3 個），依各派系戰鬥突襲的角色種類權重決定（較便宜的種類較常出現）。展開此區段以檢視明細。</TSA_WD_Recruiting_PawnKindPoolTip>
+  <TSA_WD_Recruiting_PawnKindPoolTip>新兵的角色種類來自範圍內有貢獻的夥伴（每個派系前3個），依各派系戰鬥突襲的角色種類權重決定（較便宜的種類較常出現）。展開此區段以檢視明細。</TSA_WD_Recruiting_PawnKindPoolTip>
   <!-- EN: ~{0} {1} -->
   <TSA_WD_Recruiting_Info_ExpectedCount>約{0}{1}</TSA_WD_Recruiting_Info_ExpectedCount>
   <!-- EN: {0} points ÷ {1} = {2} extra recruits -->
@@ -1913,7 +1913,7 @@
   <!-- EN: Outpost Trading -->
   <TSA_WD_Trading_WindowTitle>哨站貿易</TSA_WD_Trading_WindowTitle>
   <!-- EN: Settlements within {0} tiles. Up to 3 per faction contribute. Hostile neighbors count at reduced efficiency (black market) and show a red tint when they contribute. -->
-  <TSA_WD_Trading_NearbyHeaderTip>{0}格內的據點。每個派系最多計入 3 個。敵對鄰居以較低效率計入（黑市），計入時會以紅色標示。</TSA_WD_Trading_NearbyHeaderTip>
+  <TSA_WD_Trading_NearbyHeaderTip>{0}格內的據點。每個派系最多計入3個。敵對鄰居以較低效率計入（黑市），計入時會以紅色標示。</TSA_WD_Trading_NearbyHeaderTip>
   <!-- EN: Currently, this outpost has {0} cumulative Social skill from pawns. Social yield scales silver payout at cycle end. -->
   <TSA_WD_Trading_Info_CurrentSocialTip>此哨站目前角色的社交技能累計為{0}。社交產出會在週期結束時調整白銀收益。</TSA_WD_Trading_Info_CurrentSocialTip>
   <!-- EN: Average Social this cycle: {0}. This value determines the Social multiplier applied to tier silver at cycle end. -->
@@ -1929,7 +1929,7 @@
   <!-- EN: Nearby settlements: -->
   <TSA_WD_Trading_NearbySettlementsHeader>附近據點：</TSA_WD_Trading_NearbySettlementsHeader>
   <!-- EN: Click a row to locate it on the world map. Highlighted rows contribute silver (top 3 per faction by tier). -->
-  <TSA_WD_Trading_NearbySettlementsTip>點擊一列可在世界地圖上定位。標示的列會提供白銀（每個派系依等級取前 3 個）。</TSA_WD_Trading_NearbySettlementsTip>
+  <TSA_WD_Trading_NearbySettlementsTip>點擊一列可在世界地圖上定位。標示的列會提供白銀（每個派系依等級取前3個）。</TSA_WD_Trading_NearbySettlementsTip>
   <!-- EN: {0} ({1}), +{2} silver -->
   <TSA_WD_Trading_PartnerRow>{0}（{1}），+{2}白銀</TSA_WD_Trading_PartnerRow>
   <!-- EN: {0}\n{2}, {1}, {3} tiles\n\nAdds +{4} silver.\n\nClick to locate on the world map. -->
@@ -1937,9 +1937,9 @@
   <!-- EN: Hostile neighbor (black market): counts at {0}% efficiency. -->
   <TSA_WD_Trading_PartnerRowTip_BlackMarket>敵對鄰居（黑市）：以{0}%效率計入。</TSA_WD_Trading_PartnerRowTip_BlackMarket>
   <!-- EN: Each nearby settlement adds silver by tier:\nTier 1 = 100\nTier 2 = 200\nTier 3 = 350\nTier 4 = 500 -->
-  <TSA_WD_Trading_TierSilverTip>每個附近據點依等級提供白銀：\n等級 1 = 100\n等級 2 = 200\n等級 3 = 350\n等級 4 = 500</TSA_WD_Trading_TierSilverTip>
+  <TSA_WD_Trading_TierSilverTip>每個附近據點依等級提供白銀：\n等級1 = 100\n等級2 = 200\n等級3 = 350\n等級4 = 500</TSA_WD_Trading_TierSilverTip>
   <!-- EN: Sum silver from up to the top 3 partners per faction (hostile partners at reduced efficiency), then multiply by Social yield at cycle end. -->
-  <TSA_WD_Trading_FooterRule>加總每個派系最多前 3 個貿易夥伴的白銀（敵對夥伴效率較低），週期結束時再乘以社交產出。</TSA_WD_Trading_FooterRule>
+  <TSA_WD_Trading_FooterRule>加總每個派系最多前3個貿易夥伴的白銀（敵對夥伴效率較低），週期結束時再乘以社交產出。</TSA_WD_Trading_FooterRule>
   <!-- EN: Total tier silver: {0} -->
   <TSA_WD_Trading_FooterTierSum>等級白銀總計：{0}</TSA_WD_Trading_FooterTierSum>
   <!-- EN: Expected payout: {0} silver -->
@@ -1951,11 +1951,11 @@
   <!-- EN: Social multiplier this cycle: {0}% -->
   <TSA_WD_Trading_SocialMultiplierLine>本週期社交倍率：{0}%</TSA_WD_Trading_SocialMultiplierLine>
   <!-- EN: Each Social skill point above the minimum adds +{0}% to the tier silver yield. -->
-  <TSA_WD_Trading_SocialBonusTip>每高出最低值 1 點社交技能，等級白銀產出+{0}%。</TSA_WD_Trading_SocialBonusTip>
+  <TSA_WD_Trading_SocialBonusTip>每高出最低值1點社交技能，等級白銀產出+{0}%。</TSA_WD_Trading_SocialBonusTip>
   <!-- EN: +{0}% yield per Social above minimum ({1} excess Social this cycle). -->
-  <TSA_WD_Trading_SocialPerPointDetail>每高出最低值 1 點社交，產出+{0}%（本週期超出{1}點社交）。</TSA_WD_Trading_SocialPerPointDetail>
+  <TSA_WD_Trading_SocialPerPointDetail>每高出最低值1點社交，產出+{0}%（本週期超出{1}點社交）。</TSA_WD_Trading_SocialPerPointDetail>
   <!-- EN: Every cumulative Social skill point above the outpost minimum increases payout by +{0}% of the tier silver sum. Example: 2 excess Social = +{0}% × 2. -->
-  <TSA_WD_Trading_SocialPerPointTip>每高出哨站最低值 1 點累計社交技能，收益增加等級白銀總和的+{0}%。例如：超出 2 點社交 = +{0}% × 2。</TSA_WD_Trading_SocialPerPointTip>
+  <TSA_WD_Trading_SocialPerPointTip>每高出哨站最低值1點累計社交技能，收益增加等級白銀總和的+{0}%。例如：超出2點社交 = +{0}% × 2。</TSA_WD_Trading_SocialPerPointTip>
   <!-- EN: Choose commodity: -->
   <TSA_WD_Trading_ChooseCommodity>選擇商品：</TSA_WD_Trading_ChooseCommodity>
   <!-- EN: {0} silver = {1} tier silver × {2}% -->
@@ -1969,7 +1969,7 @@
   <!-- EN: Output multiplier at min level: {0} % -->
   <TSA_WD_Trading_Math_MultAtMin>最低等級時的產出倍率：{0}%</TSA_WD_Trading_Math_MultAtMin>
   <!-- EN: Bonus per extra Social Point: {0} % -->
-  <TSA_WD_Trading_Math_BonusPerPoint>每多 1 點社交的加成：{0}%</TSA_WD_Trading_Math_BonusPerPoint>
+  <TSA_WD_Trading_Math_BonusPerPoint>每多1點社交的加成：{0}%</TSA_WD_Trading_Math_BonusPerPoint>
   <!-- EN: Social Skill Points at Outpost: {0} -->
   <TSA_WD_Trading_Math_SocialAtOutpost>哨站社交技能點數：{0}</TSA_WD_Trading_Math_SocialAtOutpost>
   <!-- EN: Resulting Multiplier: {0} % -->
@@ -1979,17 +1979,17 @@
   <!-- EN: - Delivery: {0} {1} -->
   <TSA_WD_Trading_Math_ExpectedCommodity>- 配送：{0}{1}</TSA_WD_Trading_Math_ExpectedCommodity>
   <!-- EN: Silver from nearby settlements (within {0} tiles) at cycle end. Up to top 3 settlements per faction. T1=100, T2=200, T3=350, T4=500. -->
-  <TSA_WD_Production_TooltipTrading>週期結束時從附近據點（{0}格內）取得白銀。每個派系最多計入前 3 個據點。T1=100、T2=200、T3=350、T4=500。</TSA_WD_Production_TooltipTrading>
+  <TSA_WD_Production_TooltipTrading>週期結束時從附近據點（{0}格內）取得白銀。每個派系最多計入前3個據點。T1=100、T2=200、T3=350、T4=500。</TSA_WD_Production_TooltipTrading>
   <!-- EN: {0} Silver this cycle: nearby tier sum {1} × {2}% Social yield (outpost Social {3}; 100% at MinCumulativeSkill {4}) × global output multiplier. -->
-  <TSA_WD_Production_TooltipTrading_Formula>本週期{0}白銀：附近等級總和{1} × {2}%社交產出（哨站社交{3}；MinCumulativeSkill {4}時為 100%）× 全域產出倍率。</TSA_WD_Production_TooltipTrading_Formula>
+  <TSA_WD_Production_TooltipTrading_Formula>本週期{0}白銀：附近等級總和{1} × {2}%社交產出（哨站社交{3}；MinCumulativeSkill {4}時為100%）× 全域產出倍率。</TSA_WD_Production_TooltipTrading_Formula>
   <!-- EN: {0} Silver (tier sum {1} × {2}% Social, then × global output multiplier) -->
   <TSA_WD_Production_TradingYieldSilverOnly>{0}白銀（等級總和{1} × {2}%社交，再 × 全域產出倍率）</TSA_WD_Production_TradingYieldSilverOnly>
   <!-- EN: Trading -->
   <TSA_WD_Production_Trading>貿易</TSA_WD_Production_Trading>
   <!-- EN: {0} silver x {1}% ({2} Social) x {3}% Expert [= {4} {5}] -->
-  <TSA_WD_Trading_Math_Compact>{0}白銀 x {1}%（{2}社交）x {3}%專家 [= {4}{5}]</TSA_WD_Trading_Math_Compact>
+  <TSA_WD_Trading_Math_Compact>{0}白銀x {1}%（{2}社交）x {3}%專家[= {4}{5}]</TSA_WD_Trading_Math_Compact>
   <!-- EN: {0} tier points x {1}% ({2} Social) x {3}% Expert [= +{4} goodwill] -->
-  <TSA_WD_Embassy_Math_Compact>{0}等級點數 x {1}%（{2}社交）x {3}%專家 [= +{4}友好度]</TSA_WD_Embassy_Math_Compact>
+  <TSA_WD_Embassy_Math_Compact>{0}等級點數x {1}%（{2}社交）x {3}%專家[= +{4}友好度]</TSA_WD_Embassy_Math_Compact>
   <!-- EN: Nearby settlements: -->
   <TSA_WD_Trading_Math_Header>附近據點：</TSA_WD_Trading_Math_Header>
   <!-- EN: • {0} ({1}): +{2} silver -->
@@ -2041,7 +2041,7 @@
   <!-- EN: The Embassy will pick the highest Tier Settlement of each faction in range, take its base goodwill value and multiply it with a factor that is based on the cum. social skill at your embassy -->
   <TSA_WD_Embassy_FooterRule>大使館會選出範圍內每個派系等級最高的據點，取其基礎友好度，再乘以依大使館累計社交技能而定的係數</TSA_WD_Embassy_FooterRule>
   <!-- EN: Each contributing settlement adds base points by tier:\nTier 1 = 1.5\nTier 2 = 3\nTier 3 = 5\nTier 4 = 8 -->
-  <TSA_WD_Embassy_TierPointsTip>每個計入的據點依等級提供基礎點數：\n等級 1 = 1.5\n等級 2 = 3\n等級 3 = 5\n等級 4 = 8</TSA_WD_Embassy_TierPointsTip>
+  <TSA_WD_Embassy_TierPointsTip>每個計入的據點依等級提供基礎點數：\n等級1 = 1.5\n等級2 = 3\n等級3 = 5\n等級4 = 8</TSA_WD_Embassy_TierPointsTip>
   <!-- EN: Expected payout: +{0} goodwill -->
   <TSA_WD_Embassy_FooterExpected>預期收益：+{0}友好度</TSA_WD_Embassy_FooterExpected>
   <!-- EN: Faction goodwill this cycle: -->
@@ -2067,17 +2067,17 @@
   <!-- EN: Total expected: +{0} goodwill -->
   <TSA_WD_Embassy_Math_Total>預期總計：+{0}友好度</TSA_WD_Embassy_Math_Total>
   <!-- EN: Trading: silver from nearby settlements at cycle end, scaled by Social above the def baseline. -->
-  <TSA_WD_Production_TradingDesc>貿易：週期結束時從附近據點取得白銀，依高出 def 基準值的社交調整。</TSA_WD_Production_TradingDesc>
+  <TSA_WD_Production_TradingDesc>貿易：週期結束時從附近據點取得白銀，依高出def基準值的社交調整。</TSA_WD_Production_TradingDesc>
   <!-- EN: Embassy: goodwill with nearby factions at cycle end (Neutral/Ally; hostiles if settings allow). Highest settlement tier per faction, scaled by Social. -->
   <TSA_WD_Production_EmbassyDesc>大使館：週期結束時提升與附近派系的友好度（中立／同盟；若設定允許也包含敵對）。每個派系取等級最高的據點，依社交調整。</TSA_WD_Production_EmbassyDesc>
   <!-- EN: Silver from nearby settlements/outposts at cycle end. Total Social applies: 100% silver at MinCumulativeSkill Social in the def, +5% per extra Social (then × global output multiplier). -->
-  <TSA_WD_Production_TradingTooltip>週期結束時從附近據點／哨站取得白銀。套用總社交：社交達 def 中的 MinCumulativeSkill 時為 100%白銀，每多 1 點社交+5%（再 × 全域產出倍率）。</TSA_WD_Production_TradingTooltip>
+  <TSA_WD_Production_TradingTooltip>週期結束時從附近據點／哨站取得白銀。套用總社交：社交達def中的MinCumulativeSkill時為100%白銀，每多1點社交+5%（再 × 全域產出倍率）。</TSA_WD_Production_TradingTooltip>
   <!-- EN: {0} Silver from nearby NPC settlements × {1} Outpost total Social Skill -->
-  <TSA_WD_Production_TradingYield>{0}白銀來自附近 NPC 據點 × {1}哨站社交技能總和</TSA_WD_Production_TradingYield>
+  <TSA_WD_Production_TradingYield>{0}白銀來自附近NPC據點 × {1}哨站社交技能總和</TSA_WD_Production_TradingYield>
   <!-- EN: from nearby tiers at cycle end -->
   <TSA_WD_Production_TradingYield_AtCycleEnd>週期結束時依附近據點等級計算</TSA_WD_Production_TradingYield_AtCycleEnd>
   <!-- EN: x{0} Silver at cycle end -->
-  <TSA_WD_Production_TradingYield_Average>週期結束時 x{0}白銀</TSA_WD_Production_TradingYield_Average>
+  <TSA_WD_Production_TradingYield_Average>週期結束時x{0}白銀</TSA_WD_Production_TradingYield_Average>
   <!-- EN: x{0} Silver -->
   <TSA_WD_Production_TradingYield_Snapshot>x{0}白銀</TSA_WD_Production_TradingYield_Snapshot>
   <!-- EN: Outpost Production (Finished in {0}) -->
@@ -2281,7 +2281,7 @@
   <!-- EN: Fate -->
   <TSA_WD_StrengthBudget_ColFate>去留</TSA_WD_StrengthBudget_ColFate>
   <!-- EN: Choose Caravan, Outpost, or Abandon for each pawn. C, O, and A set every pawn. -->
-  <TSA_WD_StrengthBudget_ColFateTip>為每個角色選擇旅隊、哨站或放棄。C、O、A 可一次設定所有角色。</TSA_WD_StrengthBudget_ColFateTip>
+  <TSA_WD_StrengthBudget_ColFateTip>為每個角色選擇旅隊、哨站或放棄。C、O、A可一次設定所有角色。</TSA_WD_StrengthBudget_ColFateTip>
   <!-- EN: Set every pawn to Caravan. -->
   <TSA_WD_StrengthBudget_FateAllFormTip>將所有角色設為旅隊。</TSA_WD_StrengthBudget_FateAllFormTip>
   <!-- EN: Set every pawn to Outpost. -->
@@ -2335,7 +2335,7 @@
   <!-- EN: Biome = {0} -->
   <TSA_WD_Req_Biome>生態系統 = {0}</TSA_WD_Req_Biome>
   <!-- EN: Outpost is T{0}. Conquested T{1} -->
-  <TSA_WD_Req_ConquestTier>哨站為 T{0}。已征服 T{1}</TSA_WD_Req_ConquestTier>
+  <TSA_WD_Req_ConquestTier>哨站為T{0}。已征服T{1}</TSA_WD_Req_ConquestTier>
   <!-- EN: Cum. {0} Skill: {1} / {2} -->
   <TSA_WD_Req_CumSkill>累計{0}技能：{1}／{2}</TSA_WD_Req_CumSkill>
   <!-- EN: Cum. Skill: — -->
@@ -2397,9 +2397,9 @@
   <!-- EN: At least {0} settlements or outposts (non-hostile) within {1} tiles. -->
   <TSA_WD_Req_Tooltip_MinNearbyMet>{1}格內至少有{0}個據點或哨站（非敵對）。</TSA_WD_Req_Tooltip_MinNearbyMet>
   <!-- EN: At least {0} nearby NPC settlements within {1} tiles (hostile neighbors count as defector sources). -->
-  <TSA_WD_Req_Tooltip_MinNearbyMet_Recruiting>{1}格內至少有{0}個附近的 NPC 據點（敵對鄰居算作叛逃者來源）。</TSA_WD_Req_Tooltip_MinNearbyMet_Recruiting>
+  <TSA_WD_Req_Tooltip_MinNearbyMet_Recruiting>{1}格內至少有{0}個附近的NPC據點（敵對鄰居算作叛逃者來源）。</TSA_WD_Req_Tooltip_MinNearbyMet_Recruiting>
   <!-- EN: At least {0} nearby NPC settlements within {1} tiles (hostile neighbors count for black-market trade). -->
-  <TSA_WD_Req_Tooltip_MinNearbyMet_Trading>{1}格內至少有{0}個附近的 NPC 據點（敵對鄰居算作黑市貿易）。</TSA_WD_Req_Tooltip_MinNearbyMet_Trading>
+  <TSA_WD_Req_Tooltip_MinNearbyMet_Trading>{1}格內至少有{0}個附近的NPC據點（敵對鄰居算作黑市貿易）。</TSA_WD_Req_Tooltip_MinNearbyMet_Trading>
   <!-- EN: At least {0} embassy-eligible settlements within {1} tiles. -->
   <TSA_WD_Req_Tooltip_MinNearbyMet_Embassy>{1}格內至少有{0}個符合大使館條件的據點。</TSA_WD_Req_Tooltip_MinNearbyMet_Embassy>
   <!-- EN: Need at least {0} within {1} tiles. Found: {2} -->
@@ -2543,7 +2543,7 @@
   <!-- EN: Count includes all non-dead humanlikes in the caravan when you use Establish outpost on the target tile. -->
   <TSA_WD_RequirementsPreview_MinPawnRequirementTip>在目標地塊使用「建立哨站」時，計入旅隊中所有存活的人形角色。</TSA_WD_RequirementsPreview_MinPawnRequirementTip>
   <!-- EN: No TSA outpost defs found. -->
-  <TSA_WD_SelectOutpost_NoDefs>找不到 TSA 哨站 def。</TSA_WD_SelectOutpost_NoDefs>
+  <TSA_WD_SelectOutpost_NoDefs>找不到TSA哨站def。</TSA_WD_SelectOutpost_NoDefs>
   <!-- EN: Establish -->
   <TSA_WD_Select_Establish>建立</TSA_WD_Select_Establish>
   <!-- EN: World tile: -->
@@ -2573,15 +2573,15 @@
   <!-- EN: Produces meat, leather and wool. Scales with Animal abundance on the world tile and Animals skill. Efficiency can be boosted via Upgrades -->
   <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Hunting>生產肉類、皮革與羊毛。依世界地塊的動物豐富度與馴獸技能調整。效率可透過升級提升</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Hunting>
   <!-- EN: Produces one selected fish species. Scales with fish stocks on ocean-coast tiles and Animals skill. Efficiency can be boosted via Upgrades. Requires Odyssey -->
-  <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Fishing>生產一種選定的魚類。依海岸地塊的魚類資源與馴獸技能調整。效率可透過升級提升。需要 Odyssey</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Fishing>
+  <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Fishing>生產一種選定的魚類。依海岸地塊的魚類資源與馴獸技能調整。效率可透過升級提升。需要Odyssey</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Fishing>
   <!-- EN: Recruits new colonists each cycle. Scales with Social skill and up to the top 3 nearby partners per faction (hostile neighbors count as defectors). Needs nearby NPC settlements in range -->
-  <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Recruiting>每個週期招募新殖民者。依社交技能及每個派系最多前 3 個附近夥伴調整（敵對鄰居算作叛逃者）。範圍內需有附近的 NPC 據點</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Recruiting>
+  <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Recruiting>每個週期招募新殖民者。依社交技能及每個派系最多前3個附近夥伴調整（敵對鄰居算作叛逃者）。範圍內需有附近的NPC據點</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Recruiting>
   <!-- EN: Produces silver each cycle. Scales with Social skill and up to the top 3 nearby partners per faction (hostile neighbors count for black-market trade). Needs nearby NPC settlements in range -->
-  <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Trading>每個週期生產白銀。依社交技能及每個派系最多前 3 個附近夥伴調整（敵對鄰居算作黑市貿易）。範圍內需有附近的 NPC 據點</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Trading>
+  <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Trading>每個週期生產白銀。依社交技能及每個派系最多前3個附近夥伴調整（敵對鄰居算作黑市貿易）。範圍內需有附近的NPC據點</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Trading>
   <!-- EN: Improves goodwill with nearby factions each cycle (Neutral/Ally; hostiles if settings allow). Uses the highest settlement tier per faction. Scales with Social skill -->
   <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Embassy>每個週期提升與附近派系的友好度（中立／同盟；若設定允許也包含敵對）。每個派系取等級最高的據點。依社交技能調整</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Embassy>
   <!-- EN: Produces random goods each cycle. Each colonist adds 500 silver of loot per delivery. Fixed cycle time; needs at least 2 colonists to found -->
-  <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Scavenging>每個週期生產隨機物資。每名殖民者每次配送增加價值 500 白銀的戰利品。週期時間固定；至少需要 2 名殖民者才能建立</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Scavenging>
+  <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Scavenging>每個週期生產隨機物資。每名殖民者每次配送增加價值500白銀的戰利品。週期時間固定；至少需要2名殖民者才能建立</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Scavenging>
   <!-- EN: Produces Stone Blocks, Ores and Components. Scales with the Mining efficiency of the world tile it is placed on. Efficiency can be boosted via Upgrades -->
   <TSA_WD_OutpostTooltip_TSA_WD_Outpost_Mining>生產石磚、礦石與零件。依所在世界地塊的採礦效率調整。效率可透過升級提升</TSA_WD_OutpostTooltip_TSA_WD_Outpost_Mining>
   <!-- EN: Produces industrial and advanced components. Scales with Crafting skill. Requires Fabrication research -->
@@ -2589,7 +2589,7 @@
   <!-- EN: Produces chemfuel (Crafting), neutroamine and dye (Medicine). Requires Biofuel Refining to found -->
   <TSA_WD_OutpostTooltip_TSA_WD_Outpost_BiofuelRefinery>生產化合燃料（手工）、中性胺與染料（醫療）。需要生質燃料提煉才能建立</TSA_WD_OutpostTooltip_TSA_WD_Outpost_BiofuelRefinery>
   <!-- EN: Produces deepchem on desert tiles. Scales with Intellectual skill. Requires Vanilla Chemfuel Expanded -->
-  <TSA_WD_OutpostTooltip_TSA_WD_Outpost_DeepchemDrill>在沙漠地塊生產深層化合物。依智識技能調整。需要 Vanilla Chemfuel Expanded</TSA_WD_OutpostTooltip_TSA_WD_Outpost_DeepchemDrill>
+  <TSA_WD_OutpostTooltip_TSA_WD_Outpost_DeepchemDrill>在沙漠地塊生產深層化合物。依智識技能調整。需要Vanilla Chemfuel Expanded</TSA_WD_OutpostTooltip_TSA_WD_Outpost_DeepchemDrill>
   <!-- EN: Produces plasteel, synthread, or hyperweave on desert tiles. Scales with Crafting skill -->
   <TSA_WD_OutpostTooltip_TSA_WD_Outpost_RawShaping>在沙漠地塊生產塑鋼、合成纖維或超級布料。依手工技能調整</TSA_WD_OutpostTooltip_TSA_WD_Outpost_RawShaping>
   <!-- EN: Legacy chemical outpost. Produces neutroamine and dye (Medicine). Prefer a Chemical Refinery for new foundations -->
@@ -2663,11 +2663,11 @@
   <!-- EN: Mass -->
   <TSA_WD_Armory_ColMass>重量</TSA_WD_Armory_ColMass>
   <!-- EN: Carried mass over carry capacity (current/max). With Combat Extended, uses CE carry weight. -->
-  <TSA_WD_Armory_ColMassTip>攜帶重量／攜帶上限（目前／最大）。使用 Combat Extended 時採用 CE 的攜帶重量。</TSA_WD_Armory_ColMassTip>
+  <TSA_WD_Armory_ColMassTip>攜帶重量／攜帶上限（目前／最大）。使用Combat Extended時採用CE的攜帶重量。</TSA_WD_Armory_ColMassTip>
   <!-- EN: Bulk -->
   <TSA_WD_Armory_ColBulk>體積</TSA_WD_Armory_ColBulk>
   <!-- EN: Combat Extended carry bulk (current/max). Only shown when Combat Extended is active. -->
-  <TSA_WD_Armory_ColBulkTip>Combat Extended 攜帶體積（目前／最大）。僅在啟用 Combat Extended 時顯示。</TSA_WD_Armory_ColBulkTip>
+  <TSA_WD_Armory_ColBulkTip>Combat Extended攜帶體積（目前／最大）。僅在啟用Combat Extended時顯示。</TSA_WD_Armory_ColBulkTip>
   <!-- EN: No occupants to equip. -->
   <TSA_WD_Armory_NoOccupants>沒有可裝備的駐員。</TSA_WD_Armory_NoOccupants>
   <!-- EN: Nothing stored here yet. Gear arriving by caravan or drop pod lands in the Armory. Use Open All Gear tab below to ship from a colony or another outpost. -->
@@ -2695,7 +2695,7 @@
   <!-- EN: Ammo -->
   <TSA_WD_Armory_MenuAmmo>彈藥</TSA_WD_Armory_MenuAmmo>
   <!-- EN: Combat Extended ammo helpers: strip from pawns, or add from Armory stock. -->
-  <TSA_WD_Armory_MenuAmmoTip>Combat Extended 彈藥工具：從角色身上卸下，或從軍械庫庫存補充。</TSA_WD_Armory_MenuAmmoTip>
+  <TSA_WD_Armory_MenuAmmoTip>Combat Extended彈藥工具：從角色身上卸下，或從軍械庫庫存補充。</TSA_WD_Armory_MenuAmmoTip>
   <!-- EN: Remove food from pawns -->
   <TSA_WD_Armory_Menu_RemoveFood>從角色身上移除食物</TSA_WD_Armory_Menu_RemoveFood>
   <!-- EN: Move all nutrition food from occupant inventories into the Armory. Drugs and medicine stay on the pawns. -->
@@ -2703,17 +2703,17 @@
   <!-- EN: Assign food to pawns -->
   <TSA_WD_Armory_Menu_AssignFood>分配食物給角色</TSA_WD_Armory_Menu_AssignFood>
   <!-- EN: Share Armory nutrition food evenly across occupants (up to 10 items each). Does not take food already carried by pawns. -->
-  <TSA_WD_Armory_Menu_AssignFoodTip>將軍械庫中提供營養的食物平均分給駐員（每人最多 10 件）。不會拿走角色已攜帶的食物。</TSA_WD_Armory_Menu_AssignFoodTip>
+  <TSA_WD_Armory_Menu_AssignFoodTip>將軍械庫中提供營養的食物平均分給駐員（每人最多10件）。不會拿走角色已攜帶的食物。</TSA_WD_Armory_Menu_AssignFoodTip>
   <!-- EN: Convert real food to outpost food -->
   <TSA_WD_Armory_Menu_ConvertFood>將實體食物轉換為哨站食物</TSA_WD_Armory_Menu_ConvertFood>
   <!-- EN: Remove -->
   <TSA_WD_Armory_Menu_RemoveAmmo>移除</TSA_WD_Armory_Menu_RemoveAmmo>
   <!-- EN: Move all Combat Extended ammo from occupant inventories into the Armory. Does not unload magazines still in guns. -->
-  <TSA_WD_Armory_Menu_RemoveAmmoTip>將駐員物品欄中所有 Combat Extended 彈藥移到軍械庫。不會卸下仍在槍中的彈匣。</TSA_WD_Armory_Menu_RemoveAmmoTip>
+  <TSA_WD_Armory_Menu_RemoveAmmoTip>將駐員物品欄中所有Combat Extended彈藥移到軍械庫。不會卸下仍在槍中的彈匣。</TSA_WD_Armory_Menu_RemoveAmmoTip>
   <!-- EN: Add -->
   <TSA_WD_Armory_Menu_AddAmmo>補充</TSA_WD_Armory_Menu_AddAmmo>
   <!-- EN: Give each occupant up to 4 full magazines of suitable ammo from Armory stock, then share any leftover among them. Mixes ammo types when several fit. Does not take ammo already carried by pawns. -->
-  <TSA_WD_Armory_Menu_AddAmmoTip>從軍械庫庫存給每名駐員最多 4 個滿彈匣的合適彈藥，剩餘的再平均分給他們。有多種彈藥適用時會混合分配。不會拿走角色已攜帶的彈藥。</TSA_WD_Armory_Menu_AddAmmoTip>
+  <TSA_WD_Armory_Menu_AddAmmoTip>從軍械庫庫存給每名駐員最多4個滿彈匣的合適彈藥，剩餘的再平均分給他們。有多種彈藥適用時會混合分配。不會拿走角色已攜帶的彈藥。</TSA_WD_Armory_Menu_AddAmmoTip>
   <!-- EN: Moved food from {0} inventory stack(s) into the Armory. -->
   <TSA_WD_Armory_RemovedFood>已將{0}組物品欄中的食物移到軍械庫。</TSA_WD_Armory_RemovedFood>
   <!-- EN: No food in occupant inventories to move. -->
@@ -3077,9 +3077,9 @@
   <!-- EN: Travel by land caravan. No industrial component cost. Click to change. -->
   <TSA_WD_DispatchMode_LandDesc>以陸路旅隊移動。不消耗工業零件。點擊以變更。</TSA_WD_DispatchMode_LandDesc>
   <!-- EN: Travel by drop pod. Costs 1 industrial component per launch (colonies + warehouses). -->
-  <TSA_WD_DispatchMode_DropPodDesc>以運輸艙移動。每次發射消耗 1 個工業零件（來自殖民地與倉庫）。</TSA_WD_DispatchMode_DropPodDesc>
+  <TSA_WD_DispatchMode_DropPodDesc>以運輸艙移動。每次發射消耗1個工業零件（來自殖民地與倉庫）。</TSA_WD_DispatchMode_DropPodDesc>
   <!-- EN: Careful, those could be shot down by anti-air guns of enemy T4 settlements! -->
-  <TSA_WD_DispatchMode_DropPodAaWarning>注意，運輸艙可能被敵方 T4 據點的防空砲擊落！</TSA_WD_DispatchMode_DropPodAaWarning>
+  <TSA_WD_DispatchMode_DropPodAaWarning>注意，運輸艙可能被敵方T4據點的防空砲擊落！</TSA_WD_DispatchMode_DropPodAaWarning>
   <!-- EN: Switching to drop pod delivery requires completed Transport Pod research. -->
   <TSA_WD_DispatchMode_NeedsResearch>切換為運輸艙配送需要完成運輸艙研究。</TSA_WD_DispatchMode_NeedsResearch>
   <!-- EN: Warehouse daily auto-ship does not spend a component. -->
@@ -3107,11 +3107,11 @@
   <!-- EN: Travel by land caravan. No industrial component cost. Click to change. -->
   <TSA_WD_PawnDropPod_ModeLandTip>以陸路旅隊移動。不消耗工業零件。點擊以變更。</TSA_WD_PawnDropPod_ModeLandTip>
   <!-- EN: Travel by drop pod (1 component per traveling pawn, from colonies + warehouses). Click to change. -->
-  <TSA_WD_PawnDropPod_ModeDropPodTip>以運輸艙移動（每名移動角色消耗 1 個零件，來自殖民地與倉庫）。點擊以變更。</TSA_WD_PawnDropPod_ModeDropPodTip>
+  <TSA_WD_PawnDropPod_ModeDropPodTip>以運輸艙移動（每名移動角色消耗1個零件，來自殖民地與倉庫）。點擊以變更。</TSA_WD_PawnDropPod_ModeDropPodTip>
   <!-- EN: Travel by land caravan. No industrial component cost. Click to change. -->
   <TSA_WD_PawnDropPod_ModeOriginTipLand>以陸路旅隊移動。不消耗工業零件。點擊以變更。</TSA_WD_PawnDropPod_ModeOriginTipLand>
   <!-- EN: Travel by drop pod (1 component per traveling pawn, from colonies + warehouses). Click to change. -->
-  <TSA_WD_PawnDropPod_ModeOriginTipPod>以運輸艙移動（每名移動角色消耗 1 個零件，來自殖民地與倉庫）。點擊以變更。</TSA_WD_PawnDropPod_ModeOriginTipPod>
+  <TSA_WD_PawnDropPod_ModeOriginTipPod>以運輸艙移動（每名移動角色消耗1個零件，來自殖民地與倉庫）。點擊以變更。</TSA_WD_PawnDropPod_ModeOriginTipPod>
   <!-- EN: Selected origins disagree. Click to set one travel mode for all of them. -->
   <TSA_WD_PawnDropPod_ModeOriginTipMixed>選取的來源設定不一。點擊為它們全部設定同一種移動方式。</TSA_WD_PawnDropPod_ModeOriginTipMixed>
   <!-- EN: Travel mode applies once this outpost has a redirection target. Set one with Set Redirection on the outpost. -->
@@ -3133,7 +3133,7 @@
   <!-- EN: If short on components: abort launch -->
   <TSA_WD_PawnDropPod_FallbackMenuAbort>零件不足時：取消發射</TSA_WD_PawnDropPod_FallbackMenuAbort>
   <!-- EN: Cost: {0} industrial component(s) (1 per traveling pawn) -->
-  <TSA_WD_PawnDropPod_CostLine>成本：{0}個工業零件（每名移動角色 1 個）</TSA_WD_PawnDropPod_CostLine>
+  <TSA_WD_PawnDropPod_CostLine>成本：{0}個工業零件（每名移動角色1個）</TSA_WD_PawnDropPod_CostLine>
   <!-- EN: Cost: {0} -->
   <TSA_WD_PawnDropPod_TotalCost>成本：{0}</TSA_WD_PawnDropPod_TotalCost>
   <!-- EN: Available (Colony+all Warehouses): {0} -->
@@ -3165,15 +3165,15 @@
   <!-- EN: Destination is outside drop-pod range. -->
   <TSA_WD_PawnDropPod_OutOfRange>目的地超出運輸艙航程。</TSA_WD_PawnDropPod_OutOfRange>
   <!-- EN: Industrial component def missing. -->
-  <TSA_WD_PawnDropPod_NoComponentDef>缺少工業零件 def。</TSA_WD_PawnDropPod_NoComponentDef>
+  <TSA_WD_PawnDropPod_NoComponentDef>缺少工業零件def。</TSA_WD_PawnDropPod_NoComponentDef>
   <!-- EN: Smart Send -->
   <TSA_WD_PawnDropPod_SmartSendTitle>智慧派送</TSA_WD_PawnDropPod_SmartSendTitle>
   <!-- EN: Confirm Smart Send -->
   <TSA_WD_PawnDropPod_SmartSendConfirm>確認智慧派送</TSA_WD_PawnDropPod_SmartSendConfirm>
   <!-- EN: Travel by drop pod when recruited (1 component per traveling pawn at send) -->
-  <TSA_WD_PawnDropPod_ScheduleViaDropPod>招募後以運輸艙移動（派送時每名移動角色消耗 1 個零件）</TSA_WD_PawnDropPod_ScheduleViaDropPod>
+  <TSA_WD_PawnDropPod_ScheduleViaDropPod>招募後以運輸艙移動（派送時每名移動角色消耗1個零件）</TSA_WD_PawnDropPod_ScheduleViaDropPod>
   <!-- EN: Charged when recruitment sends the pawn: 1 component per traveling pawn (have {0}). -->
-  <TSA_WD_PawnDropPod_ScheduleDeferredCost>招募派送角色時扣除：每名移動角色 1 個零件（目前有{0}）。</TSA_WD_PawnDropPod_ScheduleDeferredCost>
+  <TSA_WD_PawnDropPod_ScheduleDeferredCost>招募派送角色時扣除：每名移動角色1個零件（目前有{0}）。</TSA_WD_PawnDropPod_ScheduleDeferredCost>
   <!-- EN: If components are missing at send: land or abort per outpost fallback setting. -->
   <TSA_WD_PawnDropPod_ScheduleFallbackNote>派送時若缺少零件：依哨站的改走陸路設定走陸路或取消。</TSA_WD_PawnDropPod_ScheduleFallbackNote>
   <!-- EN: Drop pod shipment launched toward {0}. -->
@@ -3259,13 +3259,13 @@
   <!-- EN: Small hills -->
   <TSA_WD_Terrain_SmallHills>丘陵</TSA_WD_Terrain_SmallHills>
   <!-- EN: Tier 1 -->
-  <TSA_WD_Tier1>等級 1</TSA_WD_Tier1>
+  <TSA_WD_Tier1>等級1</TSA_WD_Tier1>
   <!-- EN: Tier 2 -->
-  <TSA_WD_Tier2>等級 2</TSA_WD_Tier2>
+  <TSA_WD_Tier2>等級2</TSA_WD_Tier2>
   <!-- EN: Tier 3 -->
-  <TSA_WD_Tier3>等級 3</TSA_WD_Tier3>
+  <TSA_WD_Tier3>等級3</TSA_WD_Tier3>
   <!-- EN: Tier 4 -->
-  <TSA_WD_Tier4>等級 4</TSA_WD_Tier4>
+  <TSA_WD_Tier4>等級4</TSA_WD_Tier4>
   <!-- EN: Survival Rate -->
   <TSA_WD_VictorySurvival>存活率</TSA_WD_VictorySurvival>
   <!-- EN: Vulnerable -->
@@ -3515,7 +3515,7 @@
   <!-- EN: Select a skill. A lesson requires a teacher at least level {0} in that skill. -->
   <TSA_WD_Academy_TooltipNoSkill>選擇一項技能。授課需要該技能至少等級{0}的教師。</TSA_WD_Academy_TooltipNoSkill>
   <!-- EN: Teaching {0}.\nBase {1} XP/day × teacher multiplier {7}× (1× at teacher level 8, 2× at 20) × {2} day cycle → ~{5} XP per cycle for each eligible student (below level {4}). Best teacher now: {3}. Minimum teacher level: {6}. -->
-  <TSA_WD_Academy_Tooltip>教授{0}。\n基礎{1}經驗值／天 × 教師倍率{7}×（教師等級 8 時 1×，20 時 2×）× {2}天週期 → 每名符合條件的學生（低於等級{4}）每週期約{5}經驗值。目前最佳教師：{3}。教師最低等級：{6}。</TSA_WD_Academy_Tooltip>
+  <TSA_WD_Academy_Tooltip>教授{0}。\n基礎{1}經驗值／天 × 教師倍率{7}×（教師等級8時1×，20時2×）× {2}天週期 → 每名符合條件的學生（低於等級{4}）每週期約{5}經驗值。目前最佳教師：{3}。教師最低等級：{6}。</TSA_WD_Academy_Tooltip>
   <!-- EN: Academy Teaching -->
   <TSA_WD_Academy_DialogTitle>學院教學</TSA_WD_Academy_DialogTitle>
   <!-- EN: Selected Skill: {0} -->
@@ -3633,7 +3633,7 @@
   <!-- EN: Prisoner Resistance Drop -->
   <TSA_WD_Experts_BenefitLabel_PrisonerResistance>俘虜反抗下降</TSA_WD_Experts_BenefitLabel_PrisonerResistance>
   <!-- EN: No bonus at {0} Lvl 0 -->
-  <TSA_WD_Experts_Expanded_NoBonusAtZero>{0}等級 0 時無加成</TSA_WD_Experts_Expanded_NoBonusAtZero>
+  <TSA_WD_Experts_Expanded_NoBonusAtZero>{0}等級0時無加成</TSA_WD_Experts_Expanded_NoBonusAtZero>
   <!-- EN: +{0}% {1} at {2} Lvl {3} -->
   <TSA_WD_Experts_Expanded_MaxAtRef>{2}等級{3}時+{0}%{1}</TSA_WD_Experts_Expanded_MaxAtRef>
   <!-- EN: {0} {1} / day at {2} Lvl {3} -->
@@ -3669,13 +3669,13 @@
   <!-- EN: Choose expert role: -->
   <TSA_WD_Experts_ChooseRoleHeader>選擇專家職位：</TSA_WD_Experts_ChooseRoleHeader>
   <!-- EN: When a new humanoid unlocks another expert slot (every 4), auto-assign the vacant role to the best matching unassigned pawn by role skill. Does not fill slots that were already open. -->
-  <TSA_WD_Experts_AutoAssignTipOn>新的人形角色解鎖另一個專家欄位時（每 4 名），自動將空缺職位指派給該職位技能最相符的未指派角色。不會填補原本就空著的欄位。</TSA_WD_Experts_AutoAssignTipOn>
+  <TSA_WD_Experts_AutoAssignTipOn>新的人形角色解鎖另一個專家欄位時（每4名），自動將空缺職位指派給該職位技能最相符的未指派角色。不會填補原本就空著的欄位。</TSA_WD_Experts_AutoAssignTipOn>
   <!-- EN: New expert slots stay empty until you assign them manually. -->
   <TSA_WD_Experts_AutoAssignTipOff>新的專家欄位會保持空缺，直到你手動指派。</TSA_WD_Experts_AutoAssignTipOff>
   <!-- EN: Maximum assignable Experts: {0} -->
   <TSA_WD_Experts_CapacityMax>可指派的專家上限：{0}</TSA_WD_Experts_CapacityMax>
   <!-- EN: For each 4 humanoid pawns at this outpost you may assign 1 Expert. You have {0} humanoid pawns here so you may assign {1} Expert(s). -->
-  <TSA_WD_Experts_CapacityTooltip>此哨站每有 4 名人形角色可指派 1 名專家。你在此有{0}名人形角色，因此可指派{1}名專家。</TSA_WD_Experts_CapacityTooltip>
+  <TSA_WD_Experts_CapacityTooltip>此哨站每有4名人形角色可指派1名專家。你在此有{0}名人形角色，因此可指派{1}名專家。</TSA_WD_Experts_CapacityTooltip>
   <!-- EN: {0} is no longer {1} at {2} because there are too few pawns to support this many experts. -->
   <TSA_WD_Experts_RemovedTooFewPawns>由於{2}的角色太少，無法支撐這麼多專家，{0}不再擔任{1}。</TSA_WD_Experts_RemovedTooFewPawns>
   <!-- EN: Not enough humanoid occupants to support another expert at this outpost. -->
@@ -3965,7 +3965,7 @@
   <!-- EN: Ambush / interception -->
   <TSA_WD_OutpostStats_Row_AmbushInterception>伏擊／攔截</TSA_WD_OutpostStats_Row_AmbushInterception>
   <!-- EN: Shown for NPC settlements at the minimum ambush tier. After this settlement launches an ambush interceptor, it cannot launch another until Ready. Stopping a chase and refunding strength does not clear this cooldown. The value in brackets is the full cooldown. -->
-  <TSA_WD_OutpostStats_Row_AmbushInterceptionTip>僅顯示於達到伏擊最低等級的 NPC 據點。此據點派出伏擊攔截隊後，在就緒前無法再派出。停止追擊並退還戰力不會清除此冷卻。括號內為完整冷卻時間。</TSA_WD_OutpostStats_Row_AmbushInterceptionTip>
+  <TSA_WD_OutpostStats_Row_AmbushInterceptionTip>僅顯示於達到伏擊最低等級的NPC據點。此據點派出伏擊攔截隊後，在就緒前無法再派出。停止追擊並退還戰力不會清除此冷卻。括號內為完整冷卻時間。</TSA_WD_OutpostStats_Row_AmbushInterceptionTip>
   <!-- EN: Ready -->
   <TSA_WD_OutpostStats_Value_ReadyToAmbush>就緒</TSA_WD_OutpostStats_Value_ReadyToAmbush>
   <!-- EN: {0} min ({1} min) -->
@@ -3997,7 +3997,7 @@
   <!-- EN: Total vehicles -->
   <TSA_WD_OutpostStats_Row_Vehicles>載具總數</TSA_WD_OutpostStats_Row_Vehicles>
   <!-- EN: Vehicle Framework vehicles stored at this outpost. -->
-  <TSA_WD_OutpostStats_Row_VehiclesTip>存放在此哨站的 Vehicle Framework 載具。</TSA_WD_OutpostStats_Row_VehiclesTip>
+  <TSA_WD_OutpostStats_Row_VehiclesTip>存放在此哨站的Vehicle Framework載具。</TSA_WD_OutpostStats_Row_VehiclesTip>
   <!-- EN: Total mechanoids -->
   <TSA_WD_OutpostStats_Row_Mechanoids>機械族總數</TSA_WD_OutpostStats_Row_Mechanoids>
   <!-- EN: Mechanoid workers stored separately from colonists. -->
@@ -4115,7 +4115,7 @@
   <!-- EN: Toggle attack range ({0} tiles) for this site type. Applies to all sites of the same type. -->
   <TSA_WD_Gizmo_ShowAttackRadiusDesc>切換此地點類型的攻擊範圍（{0}格）顯示。套用於同類型的所有地點。</TSA_WD_Gizmo_ShowAttackRadiusDesc>
   <!-- EN: Color bands (raid target pick likelihood):\nRed = 0–25% of max range. Highest likelihood to pick a target.\nOrange = 25–50% of max range.\nYellow = 50–75% of max range.\nPale yellow-green = 75–100% of max range. Lowest likelihood.\nUnder Expansionist Zeal, the innermost band shows cyan instead of red. -->
-  <TSA_WD_Gizmo_AttackRadiusBandsLegend>色帶（突襲目標選中機率）：\n紅色 = 最大範圍的 0–25%。選中目標機率最高。\n橙色 = 最大範圍的 25–50%。\n黃色 = 最大範圍的 50–75%。\n淡黃綠色 = 最大範圍的 75–100%。機率最低。\n擴張狂熱期間，最內圈會顯示為青色而非紅色。</TSA_WD_Gizmo_AttackRadiusBandsLegend>
+  <TSA_WD_Gizmo_AttackRadiusBandsLegend>色帶（突襲目標選中機率）：\n紅色 = 最大範圍的0–25%。選中目標機率最高。\n橙色 = 最大範圍的25–50%。\n黃色 = 最大範圍的50–75%。\n淡黃綠色 = 最大範圍的75–100%。機率最低。\n擴張狂熱期間，最內圈會顯示為青色而非紅色。</TSA_WD_Gizmo_AttackRadiusBandsLegend>
   <!-- EN: Food Supply Radius -->
   <TSA_WD_Gizmo_ShowFoodRadius>食物供應半徑</TSA_WD_Gizmo_ShowFoodRadius>
   <!-- EN: Toggle food logistics range ({0} tiles) for all food producers. -->
@@ -4135,15 +4135,15 @@
   <!-- EN: Toggle mortar range ({0} tiles) for this site type. -->
   <TSA_WD_Gizmo_ShowMortarRadiusDesc>切換此地點類型的迫擊砲射程（{0}格）顯示。</TSA_WD_Gizmo_ShowMortarRadiusDesc>
   <!-- EN: Color bands (base hit chance before shooter skill):\nRed = 0–50% of max range. Highest accuracy ({0}% base hit).\nOrange = 51–75% of max range ({1}% base hit).\nYellow = 76–100% of max range ({2}% base hit). -->
-  <TSA_WD_Gizmo_MortarRadiusBandsLegend>色帶（計入射手技能前的基礎命中率）：\n紅色 = 最大範圍的 0–50%。命中率最高（基礎命中{0}%）。\n橙色 = 最大範圍的 51–75%（基礎命中{1}%）。\n黃色 = 最大範圍的 76–100%（基礎命中{2}%）。</TSA_WD_Gizmo_MortarRadiusBandsLegend>
+  <TSA_WD_Gizmo_MortarRadiusBandsLegend>色帶（計入射手技能前的基礎命中率）：\n紅色 = 最大範圍的0–50%。命中率最高（基礎命中{0}%）。\n橙色 = 最大範圍的51–75%（基礎命中{1}%）。\n黃色 = 最大範圍的76–100%（基礎命中{2}%）。</TSA_WD_Gizmo_MortarRadiusBandsLegend>
   <!-- EN: Color bands (base hit chance before skill-equivalent):\nRed = 0–50% of max range. Highest accuracy ({0}% base hit).\nOrange = 51–75% of max range ({1}% base hit).\nYellow = 76–100% of max range ({2}% base hit). -->
-  <TSA_WD_Gizmo_AtTurretRadiusBandsLegend>色帶（計入等效技能前的基礎命中率）：\n紅色 = 最大範圍的 0–50%。命中率最高（基礎命中{0}%）。\n橙色 = 最大範圍的 51–75%（基礎命中{1}%）。\n黃色 = 最大範圍的 76–100%（基礎命中{2}%）。</TSA_WD_Gizmo_AtTurretRadiusBandsLegend>
+  <TSA_WD_Gizmo_AtTurretRadiusBandsLegend>色帶（計入等效技能前的基礎命中率）：\n紅色 = 最大範圍的0–50%。命中率最高（基礎命中{0}%）。\n橙色 = 最大範圍的51–75%（基礎命中{1}%）。\n黃色 = 最大範圍的76–100%（基礎命中{2}%）。</TSA_WD_Gizmo_AtTurretRadiusBandsLegend>
   <!-- EN: AA Radius -->
   <TSA_WD_Gizmo_ShowAARadius>防空半徑</TSA_WD_Gizmo_ShowAARadius>
   <!-- EN: Toggle Anti-Air range ({0} tiles) for this site type. -->
   <TSA_WD_Gizmo_ShowAARadiusDesc>切換此地點類型的防空範圍（{0}格）顯示。</TSA_WD_Gizmo_ShowAARadiusDesc>
   <!-- EN: Color bands vs pods and aerials (base hit chance before shooter skill):\nRed = 0–50% of max range. Highest accuracy ({0}% base hit).\nOrange = 51–75% of max range ({1}% base hit).\nYellow = 76–100% of max range ({2}% base hit).\nMortar shells use a flat shot-down chance instead of these bands. -->
-  <TSA_WD_Gizmo_AARadiusBandsLegend>對運輸艙與空中單位的色帶（計入射手技能前的基礎命中率）：\n紅色 = 最大範圍的 0–50%。命中率最高（基礎命中{0}%）。\n橙色 = 最大範圍的 51–75%（基礎命中{1}%）。\n黃色 = 最大範圍的 76–100%（基礎命中{2}%）。\n迫擊砲彈改用固定的擊落機率，不適用這些色帶。</TSA_WD_Gizmo_AARadiusBandsLegend>
+  <TSA_WD_Gizmo_AARadiusBandsLegend>對運輸艙與空中單位的色帶（計入射手技能前的基礎命中率）：\n紅色 = 最大範圍的0–50%。命中率最高（基礎命中{0}%）。\n橙色 = 最大範圍的51–75%（基礎命中{1}%）。\n黃色 = 最大範圍的76–100%（基礎命中{2}%）。\n迫擊砲彈改用固定的擊落機率，不適用這些色帶。</TSA_WD_Gizmo_AARadiusBandsLegend>
   <!-- EN: Same faction (always join attack & defense): -->
   <TSA_WD_AllyPreview_SameFactionHeader>同派系（一定加入攻擊與防守）：</TSA_WD_AllyPreview_SameFactionHeader>
   <!-- EN: Other faction allies: -->
@@ -4303,7 +4303,7 @@
   <!-- EN: Estimated silver from the next trading delivery. -->
   <TSA_WD_OutpostStats_Row_TradingSilverTip>下一次貿易配送的估計白銀數量。</TSA_WD_OutpostStats_Row_TradingSilverTip>
   <!-- EN: Eligible NPC settlements within embassy radius (Neutral/Ally; hostiles if settings allow). Permanent enemies excluded. -->
-  <TSA_WD_OutpostStats_Row_EmbassyNearbyTip>大使館半徑內符合條件的 NPC 據點（中立／同盟；設定允許時也含敵對）。永久敵對派系除外。</TSA_WD_OutpostStats_Row_EmbassyNearbyTip>
+  <TSA_WD_OutpostStats_Row_EmbassyNearbyTip>大使館半徑內符合條件的NPC據點（中立／同盟；設定允許時也含敵對）。永久敵對派系除外。</TSA_WD_OutpostStats_Row_EmbassyNearbyTip>
   <!-- EN: Total Social skill -->
   <TSA_WD_OutpostStats_Row_EmbassySocial>社交技能總和</TSA_WD_OutpostStats_Row_EmbassySocial>
   <!-- EN: Cumulative Social skill of embassy occupants (raw and effective). -->

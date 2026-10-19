@@ -39,17 +39,17 @@
   <!-- EN: No active travelers. -->
   <TSA_WD_Dash_NoTravelers>沒有移動中的旅行者。</TSA_WD_Dash_NoTravelers>
   <!-- EN: Open World Domination mod settings. -->
-  <TSA_WD_Dash_OpenModSettingsTip>開啟 World Domination 模組設定。</TSA_WD_Dash_OpenModSettingsTip>
+  <TSA_WD_Dash_OpenModSettingsTip>開啟World Domination模組設定。</TSA_WD_Dash_OpenModSettingsTip>
   <!-- EN: See all diplomatic relationships between any faction. Also shows bribe cooldowns and cooldowns after diplomatic changes by WD.\n\nHotkey: {0} -->
-  <TSA_WD_Dash_NavTip_Diplomacy>查看任意派系之間的所有外交關係。也會顯示賄賂冷卻，以及 WD 外交變動後的冷卻。\n\n快捷鍵：{0}</TSA_WD_Dash_NavTip_Diplomacy>
+  <TSA_WD_Dash_NavTip_Diplomacy>查看任意派系之間的所有外交關係。也會顯示賄賂冷卻，以及WD外交變動後的冷卻。\n\n快捷鍵：{0}</TSA_WD_Dash_NavTip_Diplomacy>
   <!-- EN: Browse and manage all of your World Domination outposts in one place.\n\nHotkey: {0} -->
-  <TSA_WD_Dash_NavTip_Outposts>在同一處瀏覽並管理你所有的 World Domination 哨站。\n\n快捷鍵：{0}</TSA_WD_Dash_NavTip_Outposts>
+  <TSA_WD_Dash_NavTip_Outposts>在同一處瀏覽並管理你所有的World Domination哨站。\n\n快捷鍵：{0}</TSA_WD_Dash_NavTip_Outposts>
   <!-- EN: See every active traveler on the world map (raids, deliveries, expansion, and more).\n\nHotkey: {0} -->
   <TSA_WD_Dash_NavTip_Travelers>查看世界地圖上所有移動中的旅行者（突襲、配送、擴張等）。\n\n快捷鍵：{0}</TSA_WD_Dash_NavTip_Travelers>
   <!-- EN: Faction strength rankings and world power breakdown.\n\nHotkey: {0} -->
   <TSA_WD_Dash_NavTip_WorldStats>派系戰力排名與世界戰力組成。\n\n快捷鍵：{0}</TSA_WD_Dash_NavTip_WorldStats>
   <!-- EN: Recent World Domination events and actions (last 500 entries). -->
-  <TSA_WD_Dash_NavTip_ActionLog>近期的 World Domination 事件與行動（最近 500 筆）。</TSA_WD_Dash_NavTip_ActionLog>
+  <TSA_WD_Dash_NavTip_ActionLog>近期的World Domination事件與行動（最近500筆）。</TSA_WD_Dash_NavTip_ActionLog>
   <!-- EN: Review colony prisoners and assign post-recruit outpost destinations.\n\nHotkey: {0} -->
   <TSA_WD_Dash_NavTip_Prisoners>檢視殖民地俘虜，並指定招募後前往的哨站。\n\n快捷鍵：{0}</TSA_WD_Dash_NavTip_Prisoners>
   <!-- EN: List, filter, and move your pawns across colonies and outposts.\n\nHotkey: {0} -->
@@ -65,11 +65,11 @@
   <!-- EN: Your three highest and three lowest goodwill relationships among visible factions. -->
   <TSA_WD_Dash_Goodwill_Tip>在可見派系中，你友好度最高與最低的各三個關係。</TSA_WD_Dash_Goodwill_Tip>
   <!-- EN: Sort outposts by current food (lowest first). Click to cycle: F food, S strength, P pawn count. -->
-  <TSA_WD_Dash_OutpostSort_FoodTip>依目前食物排序哨站（由低到高）。點擊切換：F 食物、S 戰力、P 角色數。</TSA_WD_Dash_OutpostSort_FoodTip>
+  <TSA_WD_Dash_OutpostSort_FoodTip>依目前食物排序哨站（由低到高）。點擊切換：F食物、S戰力、P角色數。</TSA_WD_Dash_OutpostSort_FoodTip>
   <!-- EN: Sort outposts by strength (highest first). Click to cycle: F food, S strength, P pawn count. -->
-  <TSA_WD_Dash_OutpostSort_StrengthTip>依戰力排序哨站（由高到低）。點擊切換：F 食物、S 戰力、P 角色數。</TSA_WD_Dash_OutpostSort_StrengthTip>
+  <TSA_WD_Dash_OutpostSort_StrengthTip>依戰力排序哨站（由高到低）。點擊切換：F食物、S戰力、P角色數。</TSA_WD_Dash_OutpostSort_StrengthTip>
   <!-- EN: Sort outposts by pawn count (highest first). Click to cycle: F food, S strength, P pawn count. -->
-  <TSA_WD_Dash_OutpostSort_PawnTip>依角色數排序哨站（由高到低）。點擊切換：F 食物、S 戰力、P 角色數。</TSA_WD_Dash_OutpostSort_PawnTip>
+  <TSA_WD_Dash_OutpostSort_PawnTip>依角色數排序哨站（由高到低）。點擊切換：F食物、S戰力、P角色數。</TSA_WD_Dash_OutpostSort_PawnTip>
   <!-- EN: {0} (attack-capable offense: {1}) -->
   <TSA_WD_Dash_ThreatLine>{0}（可出擊的進攻戰力：{1}）</TSA_WD_Dash_ThreatLine>
   <!-- EN: Threats -->
@@ -127,13 +127,13 @@
   <!-- EN: Raid cooldown inactive. When a raid caravan targets you, a cooldown will be applied. -->
   <TSA_WD_Dash_ColonyRaidProtectionTip_Vulnerable>突襲冷卻未生效。當突襲旅隊以你為目標時，會套用冷卻。</TSA_WD_Dash_ColonyRaidProtectionTip_Vulnerable>
   <!-- EN: {0} is under WD raid cooldown and cannot be targeted until it expires. -->
-  <TSA_WD_Dash_ColonyRaidProtectionTip_OnCooldown>{0}正處於 WD 突襲冷卻中，冷卻結束前無法被選為目標。</TSA_WD_Dash_ColonyRaidProtectionTip_OnCooldown>
+  <TSA_WD_Dash_ColonyRaidProtectionTip_OnCooldown>{0}正處於WD突襲冷卻中，冷卻結束前無法被選為目標。</TSA_WD_Dash_ColonyRaidProtectionTip_OnCooldown>
   <!-- EN: Storyteller raids deactivated for factions controlled by WD. -->
-  <TSA_WD_Dash_StorytellerRaidsBlocked>WD 控制的派系已停用故事敘述者突襲。</TSA_WD_Dash_StorytellerRaidsBlocked>
+  <TSA_WD_Dash_StorytellerRaidsBlocked>WD控制的派系已停用故事敘述者突襲。</TSA_WD_Dash_StorytellerRaidsBlocked>
   <!-- EN: Can be activated in the mod settings. -->
   <TSA_WD_Dash_StorytellerRaidsBlockedTip>可在模組設定中啟用。</TSA_WD_Dash_StorytellerRaidsBlockedTip>
   <!-- EN: Storyteller raids active for factions controlled by WD. -->
-  <TSA_WD_Dash_StorytellerRaidsActive>WD 控制的派系已啟用故事敘述者突襲。</TSA_WD_Dash_StorytellerRaidsActive>
+  <TSA_WD_Dash_StorytellerRaidsActive>WD控制的派系已啟用故事敘述者突襲。</TSA_WD_Dash_StorytellerRaidsActive>
   <!-- EN: Can be deactivated in the mod settings. -->
   <TSA_WD_Dash_StorytellerRaidsActiveTip>可在模組設定中停用。</TSA_WD_Dash_StorytellerRaidsActiveTip>
   <!-- EN: You are the {0} strongest of {1} factions. -->
@@ -145,7 +145,7 @@
   <!-- EN: Configure Scope -->
   <TSA_WD_Dash_ConfigureScope>設定範圍</TSA_WD_Dash_ConfigureScope>
   <!-- EN: Opens WD Faction scope and Allegiances. Choose which factions use WD Actions, MapGen, and storyteller raids. -->
-  <TSA_WD_Dash_ConfigureScopeTip>開啟 WD 派系範圍與陣營歸屬。選擇哪些派系使用 WD 行動、MapGen 與故事敘述者突襲。</TSA_WD_Dash_ConfigureScopeTip>
+  <TSA_WD_Dash_ConfigureScopeTip>開啟WD派系範圍與陣營歸屬。選擇哪些派系使用WD行動、MapGen與故事敘述者突襲。</TSA_WD_Dash_ConfigureScopeTip>
   <!-- EN: Diplomacy -->
   <TSA_WD_Dash_Nav_Diplomacy>外交</TSA_WD_Dash_Nav_Diplomacy>
   <!-- EN: Outposts -->
@@ -157,11 +157,11 @@
   <!-- EN: Late game difficulty active -->
   <TSA_WD_Dash_LateGameDifficultyActive>後期難度已生效</TSA_WD_Dash_LateGameDifficultyActive>
   <!-- EN: Ally pull radius for you and NPC factions: +{0}% -->
-  <TSA_WD_Dash_EscalationTip_AllyRadius>你與 NPC 派系的同盟召集半徑：+{0}%</TSA_WD_Dash_EscalationTip_AllyRadius>
+  <TSA_WD_Dash_EscalationTip_AllyRadius>你與NPC派系的同盟召集半徑：+{0}%</TSA_WD_Dash_EscalationTip_AllyRadius>
   <!-- EN: Ally pull radius for you and NPC factions: unchanged (scaling off) -->
-  <TSA_WD_Dash_EscalationTip_AllyRadiusOff>你與 NPC 派系的同盟召集半徑：不變（縮放已關閉）</TSA_WD_Dash_EscalationTip_AllyRadiusOff>
+  <TSA_WD_Dash_EscalationTip_AllyRadiusOff>你與NPC派系的同盟召集半徑：不變（縮放已關閉）</TSA_WD_Dash_EscalationTip_AllyRadiusOff>
   <!-- EN: NPC settlement attack range: +{0}% -->
-  <TSA_WD_Dash_EscalationTip_AttackRange>NPC 據點攻擊範圍：+{0}%</TSA_WD_Dash_EscalationTip_AttackRange>
+  <TSA_WD_Dash_EscalationTip_AttackRange>NPC據點攻擊範圍：+{0}%</TSA_WD_Dash_EscalationTip_AttackRange>
   <!-- EN: Raid bias toward you: +{0}% -->
   <TSA_WD_Dash_EscalationTip_RaidBias>突襲偏向你的程度：+{0}%</TSA_WD_Dash_EscalationTip_RaidBias>
   <!-- EN: Hostile settlement growth: x{0} -->
@@ -219,11 +219,11 @@
   <!-- EN: Today: {0} (max. {1}) -->
   <TSA_WD_Dash_RaidsLaunchedAtYou_Today>今天：{0}（上限{1}）</TSA_WD_Dash_RaidsLaunchedAtYou_Today>
   <!-- EN: Last 4 Days: {0} (max. {1}) -->
-  <TSA_WD_Dash_RaidsLaunchedAtYou_Last4Days>過去 4 天：{0}（上限{1}）</TSA_WD_Dash_RaidsLaunchedAtYou_Last4Days>
+  <TSA_WD_Dash_RaidsLaunchedAtYou_Last4Days>過去4天：{0}（上限{1}）</TSA_WD_Dash_RaidsLaunchedAtYou_Last4Days>
   <!-- EN: Last 7 Days: {0} (max. {1}) -->
-  <TSA_WD_Dash_RaidsLaunchedAtYou_Last7Days>過去 7 天：{0}（上限{1}）</TSA_WD_Dash_RaidsLaunchedAtYou_Last7Days>
+  <TSA_WD_Dash_RaidsLaunchedAtYou_Last7Days>過去7天：{0}（上限{1}）</TSA_WD_Dash_RaidsLaunchedAtYou_Last7Days>
   <!-- EN: WD raids launched against your colonies and outposts. Values are current raids in each time window. The max. values are global caps and can be configured in mod settings. -->
-  <TSA_WD_Dash_RaidsLaunchedAtYou_Tip>針對你的殖民地與哨站發動的 WD 突襲。數值為各時段內目前的突襲次數。上限為全域上限，可在模組設定中調整。</TSA_WD_Dash_RaidsLaunchedAtYou_Tip>
+  <TSA_WD_Dash_RaidsLaunchedAtYou_Tip>針對你的殖民地與哨站發動的WD突襲。數值為各時段內目前的突襲次數。上限為全域上限，可在模組設定中調整。</TSA_WD_Dash_RaidsLaunchedAtYou_Tip>
   <!-- EN: {0} ({1}/{2}, {3}) -->
   <TSA_WD_Dash_OutpostLine>{0}（{1}/{2}，{3}）</TSA_WD_Dash_OutpostLine>
   <!-- EN: {0}: {1} current food, {2} maximum food, {3} per day -->
@@ -261,7 +261,7 @@
   <!-- EN: Always show outpost/traveler images regardless of zoom level -->
   <TSA_WD_Notify_AlwaysShowOutpostTravelerIcons>無論縮放程度一律顯示哨站／旅行者圖片</TSA_WD_Notify_AlwaysShowOutpostTravelerIcons>
   <!-- EN: When on, WD outposts and travelers keep their upright map icons at every zoom and hide the tilted globe mesh. When off, vanilla zoom behavior returns (upright icons far out, globe mesh when zoomed in). -->
-  <TSA_WD_Notify_AlwaysShowOutpostTravelerIconsTip>開啟後，WD 哨站與旅行者在任何縮放程度都保持直立的地圖圖示，並隱藏傾斜的球面模型。關閉時恢復原版縮放行為（拉遠時為直立圖示，拉近時為球面模型）。</TSA_WD_Notify_AlwaysShowOutpostTravelerIconsTip>
+  <TSA_WD_Notify_AlwaysShowOutpostTravelerIconsTip>開啟後，WD哨站與旅行者在任何縮放程度都保持直立的地圖圖示，並隱藏傾斜的球面模型。關閉時恢復原版縮放行為（拉遠時為直立圖示，拉近時為球面模型）。</TSA_WD_Notify_AlwaysShowOutpostTravelerIconsTip>
   <!-- EN: Always show settlement images regardless of zoom level -->
   <TSA_WD_Notify_AlwaysShowSettlementIcons>無論縮放程度一律顯示據點圖片</TSA_WD_Notify_AlwaysShowSettlementIcons>
   <!-- EN: When on, settlements keep their upright map icons at every zoom and hide the tilted globe mesh. When off, vanilla zoom behavior returns (upright icons far out, globe mesh when zoomed in). -->
@@ -291,19 +291,19 @@
   <!-- EN: Receive a letter when an enemy AT Turret destroys one of your travelers or caravans by shell or melee clash. -->
   <TSA_WD_Notify_NpcAtTurretKilledPlayerTooltip>敵方 反戰車砲塔以砲彈或近戰交鋒摧毀你的旅行者或旅隊時，收到信件。</TSA_WD_Notify_NpcAtTurretKilledPlayerTooltip>
   <!-- EN: Notify when a WD Raid is launched at your Colony -->
-  <TSA_WD_Notify_IncomingRaidColony>WD 突襲對你的殖民地發動時通知</TSA_WD_Notify_IncomingRaidColony>
+  <TSA_WD_Notify_IncomingRaidColony>WD突襲對你的殖民地發動時通知</TSA_WD_Notify_IncomingRaidColony>
   <!-- EN: Receive a high-priority letter when a hostile expedition is launched against your colony. -->
   <TSA_WD_Notify_IncomingRaidColonyTooltip>敵對突襲隊伍對你的殖民地發動時，收到高優先度信件。</TSA_WD_Notify_IncomingRaidColonyTooltip>
   <!-- EN: Notify when a WD Raid arrives at your Colony -->
-  <TSA_WD_Notify_RaidArrivalColony>WD 突襲抵達你的殖民地時通知</TSA_WD_Notify_RaidArrivalColony>
+  <TSA_WD_Notify_RaidArrivalColony>WD突襲抵達你的殖民地時通知</TSA_WD_Notify_RaidArrivalColony>
   <!-- EN: Receive a high-priority letter when a hostile expedition arrives and spawns on your colony map. -->
   <TSA_WD_Notify_RaidArrivalColonyTooltip>敵對突襲隊伍抵達並出現在你的殖民地地圖時，收到高優先度信件。</TSA_WD_Notify_RaidArrivalColonyTooltip>
   <!-- EN: Notify when a WD Raid is launched at one of your Outposts -->
-  <TSA_WD_Notify_IncomingRaidOutpost>WD 突襲對你的哨站發動時通知</TSA_WD_Notify_IncomingRaidOutpost>
+  <TSA_WD_Notify_IncomingRaidOutpost>WD突襲對你的哨站發動時通知</TSA_WD_Notify_IncomingRaidOutpost>
   <!-- EN: Receive a high-priority letter when a hostile expedition is launched against one of your outposts. -->
   <TSA_WD_Notify_IncomingRaidOutpostTooltip>敵對突襲隊伍對你的某個哨站發動時，收到高優先度信件。</TSA_WD_Notify_IncomingRaidOutpostTooltip>
   <!-- EN: Notify when a WD Raid arrives at one of your Outposts -->
-  <TSA_WD_Notify_RaidArrivalOutpost>WD 突襲抵達你的哨站時通知</TSA_WD_Notify_RaidArrivalOutpost>
+  <TSA_WD_Notify_RaidArrivalOutpost>WD突襲抵達你的哨站時通知</TSA_WD_Notify_RaidArrivalOutpost>
   <!-- EN: Receive a high-priority letter when you open a manual outpost defense and the hostile expedition arrives on the encounter map. -->
   <TSA_WD_Notify_RaidArrivalOutpostTooltip>你開啟哨站手動防禦，且敵對突襲隊伍抵達遭遇地圖時，收到高優先度信件。</TSA_WD_Notify_RaidArrivalOutpostTooltip>
   <!-- EN: Notify when a raid diverts away from you -->
@@ -329,11 +329,11 @@
   <!-- EN: Notify when enemy mortars target you -->
   <TSA_WD_Notify_NpcMortarHitPlayer>敵方迫擊砲以你為目標時通知</TSA_WD_Notify_NpcMortarHitPlayer>
   <!-- EN: Receive a letter when an enemy T4 settlement mortar fires at one of your WD outposts, caravans, or travelers. -->
-  <TSA_WD_Notify_NpcMortarHitPlayerTooltip>敵方 T4 據點迫擊砲向你的 WD 哨站、旅隊或旅行者開火時，收到信件。</TSA_WD_Notify_NpcMortarHitPlayerTooltip>
+  <TSA_WD_Notify_NpcMortarHitPlayerTooltip>敵方T4據點迫擊砲向你的WD哨站、旅隊或旅行者開火時，收到信件。</TSA_WD_Notify_NpcMortarHitPlayerTooltip>
   <!-- EN: Notify when enemy anti-air targets your drop pods -->
   <TSA_WD_Notify_T4AntiAirHitPlayer>敵方防空以你的運輸艙為目標時通知</TSA_WD_Notify_T4AntiAirHitPlayer>
   <!-- EN: Receive a letter when enemy T4 anti-air hits or misses your drop pods, transport pods, or other non-shell airborne targets. Mortar shells use a separate setting below. If colonists die in a shot-down pod, a who-died letter is always sent. -->
-  <TSA_WD_Notify_T4AntiAirHitPlayerTooltip>敵方 T4 防空命中或未命中你的運輸艙或其他非砲彈空中目標時，收到信件。迫擊砲彈使用下方的獨立設定。若有殖民者在被擊落的運輸艙中死亡，一律會發送死亡名單信件。</TSA_WD_Notify_T4AntiAirHitPlayerTooltip>
+  <TSA_WD_Notify_T4AntiAirHitPlayerTooltip>敵方T4防空命中或未命中你的運輸艙或其他非砲彈空中目標時，收到信件。迫擊砲彈使用下方的獨立設定。若有殖民者在被擊落的運輸艙中死亡，一律會發送死亡名單信件。</TSA_WD_Notify_T4AntiAirHitPlayerTooltip>
   <!-- EN: Notify when enemy anti-air shoots down your mortar shells -->
   <TSA_WD_Notify_PlayerMortarShellShotDown>敵方防空擊落你的迫擊砲彈時通知</TSA_WD_Notify_PlayerMortarShellShotDown>
   <!-- EN: Receive a neutral letter when enemy flak destroys or misses a mortar shell from one of your outposts. Can be noisy. -->
@@ -341,7 +341,7 @@
   <!-- EN: Notify when enemies fire mortars at each other -->
   <TSA_WD_Notify_NpcMortarHitNpc>敵方之間以迫擊砲互擊時通知</TSA_WD_Notify_NpcMortarHitNpc>
   <!-- EN: Receive a letter when an enemy mortar fires at another NPC (settlement, caravan, or traveler), or when enemy anti-air destroys another NPC's airborne target (including mortar shells). Can be noisy. -->
-  <TSA_WD_Notify_NpcMortarHitNpcTooltip>敵方迫擊砲向其他 NPC（據點、旅隊或旅行者）開火，或敵方防空摧毀其他 NPC 的空中目標（包含迫擊砲彈）時，收到信件。可能較頻繁。</TSA_WD_Notify_NpcMortarHitNpcTooltip>
+  <TSA_WD_Notify_NpcMortarHitNpcTooltip>敵方迫擊砲向其他NPC（據點、旅隊或旅行者）開火，或敵方防空摧毀其他NPC的空中目標（包含迫擊砲彈）時，收到信件。可能較頻繁。</TSA_WD_Notify_NpcMortarHitNpcTooltip>
   <!-- EN: Notify when goods arrive at a Warehouse Outpost -->
   <TSA_WD_Notify_WarehouseGoodsArrived>貨物抵達倉庫哨站時通知</TSA_WD_Notify_WarehouseGoodsArrived>
   <!-- EN: Receive a notification when goods are deposited into one of your Warehouse Outposts. -->
@@ -357,7 +357,7 @@
   <!-- EN: Notify when a player caravan has a clash -->
   <TSA_WD_Notify_PlayerCaravanClash>玩家旅隊發生交鋒時通知</TSA_WD_Notify_PlayerCaravanClash>
   <!-- EN: Receive letters when one of your caravans enters or loses a WD caravan clash. -->
-  <TSA_WD_Notify_PlayerCaravanClashTooltip>你的旅隊進入或輸掉 WD 旅隊交鋒時，收到信件。</TSA_WD_Notify_PlayerCaravanClashTooltip>
+  <TSA_WD_Notify_PlayerCaravanClashTooltip>你的旅隊進入或輸掉WD旅隊交鋒時，收到信件。</TSA_WD_Notify_PlayerCaravanClashTooltip>
   <!-- EN: Notify about Rapid Response caravan clashes -->
   <TSA_WD_Notify_RapidResponseCaravanClash>快速反應旅隊交鋒通知</TSA_WD_Notify_RapidResponseCaravanClash>
   <!-- EN: Receive letters when a Rapid Response interceptor defeats an enemy caravan or is defeated. -->
@@ -365,11 +365,11 @@
   <!-- EN: Notify when a traveler takes pollution damage -->
   <TSA_WD_Notify_TravelerPollutionDamage>旅行者受到汙染傷害時通知</TSA_WD_Notify_TravelerPollutionDamage>
   <!-- EN: Receive one yellow letter the first time each of your WD travelers loses strength leaving a polluted tile. Later polluted tiles on the same traveler stay silent. -->
-  <TSA_WD_Notify_TravelerPollutionDamageTooltip>你的每個 WD 旅行者第一次因離開受汙染地塊而損失戰力時，收到一封黃色信件。同一旅行者之後經過的受汙染地塊不再通知。</TSA_WD_Notify_TravelerPollutionDamageTooltip>
+  <TSA_WD_Notify_TravelerPollutionDamageTooltip>你的每個WD旅行者第一次因離開受汙染地塊而損失戰力時，收到一封黃色信件。同一旅行者之後經過的受汙染地塊不再通知。</TSA_WD_Notify_TravelerPollutionDamageTooltip>
   <!-- EN: Notify when an outpost takes pollution damage -->
   <TSA_WD_Notify_OutpostPollutionDamage>哨站受到汙染傷害時通知</TSA_WD_Notify_OutpostPollutionDamage>
   <!-- EN: Show a message when one of your WD outposts loses strength from average pollution nearby (once per day when damage applies), and a letter if pollution wipes the outpost. Dev log always records these events. -->
-  <TSA_WD_Notify_OutpostPollutionDamageTooltip>你的 WD 哨站因附近平均汙染損失戰力時顯示訊息（造成傷害時每天一次）；若汙染使哨站覆滅則發送信件。開發者日誌一律會記錄這些事件。</TSA_WD_Notify_OutpostPollutionDamageTooltip>
+  <TSA_WD_Notify_OutpostPollutionDamageTooltip>你的WD哨站因附近平均汙染損失戰力時顯示訊息（造成傷害時每天一次）；若汙染使哨站覆滅則發送信件。開發者日誌一律會記錄這些事件。</TSA_WD_Notify_OutpostPollutionDamageTooltip>
   <!-- EN: Nearby world events -->
   <TSA_WD_Notify_HeaderNearby>附近世界事件</TSA_WD_Notify_HeaderNearby>
   <!-- EN: World threat actions -->
@@ -391,11 +391,11 @@
   <!-- EN: Notify when a settlement is founded nearby -->
   <TSA_WD_Notify_NewSettlement>附近建立據點時通知</TSA_WD_Notify_NewSettlement>
   <!-- EN: Letter when a faction founds a new settlement by expansion within the notification radius. Does not cover conquest after an NPC raid. -->
-  <TSA_WD_Notify_NewSettlementTooltip>派系在通知半徑內透過擴張建立新據點時，發送信件。不包含 NPC 突襲後的征服。</TSA_WD_Notify_NewSettlementTooltip>
+  <TSA_WD_Notify_NewSettlementTooltip>派系在通知半徑內透過擴張建立新據點時，發送信件。不包含NPC突襲後的征服。</TSA_WD_Notify_NewSettlementTooltip>
   <!-- EN: Notify when a settlement is captured -->
   <TSA_WD_Notify_NpcConquestSettlement>據點被攻佔時通知</TSA_WD_Notify_NpcConquestSettlement>
   <!-- EN: Letter when an NPC raid wins and the attacker takes the settlement (replacement settlement on the tile) within the notification radius. -->
-  <TSA_WD_Notify_NpcConquestSettlementTooltip>通知半徑內 NPC 突襲獲勝、且進攻方奪取據點（在該地塊建立取代的據點）時，發送信件。</TSA_WD_Notify_NpcConquestSettlementTooltip>
+  <TSA_WD_Notify_NpcConquestSettlementTooltip>通知半徑內NPC突襲獲勝、且進攻方奪取據點（在該地塊建立取代的據點）時，發送信件。</TSA_WD_Notify_NpcConquestSettlementTooltip>
   <!-- EN: Notify when a player outpost is destroyed -->
   <TSA_WD_Notify_OutpostDestroyed>玩家哨站被摧毀時通知</TSA_WD_Notify_OutpostDestroyed>
   <!-- EN: Urgent letter when one of your outposts is lost in a simulated world raid or a manual defense map defeat. Fires at any distance. Does not cover mortar wipe or voluntary evacuate. -->
@@ -405,11 +405,11 @@
   <!-- EN: Notify when a settlement is destroyed nearby -->
   <TSA_WD_Notify_SettlementRaided>附近據點被摧毀時通知</TSA_WD_Notify_SettlementRaided>
   <!-- EN: Letter when a major or minor world incident completely wipes a settlement within the notification radius. Not for NPC raids. -->
-  <TSA_WD_Notify_SettlementRaidedTooltip>通知半徑內有重大或輕微世界事件徹底消滅據點時，發送信件。不適用於 NPC 突襲。</TSA_WD_Notify_SettlementRaidedTooltip>
+  <TSA_WD_Notify_SettlementRaidedTooltip>通知半徑內有重大或輕微世界事件徹底消滅據點時，發送信件。不適用於NPC突襲。</TSA_WD_Notify_SettlementRaidedTooltip>
   <!-- EN: Notify when a settlement is razed nearby -->
   <TSA_WD_Notify_SettlementRazed>附近據點被夷平時通知</TSA_WD_Notify_SettlementRazed>
   <!-- EN: Letter when an NPC raid wins and the settlement is destroyed in the process (tile left empty) within the notification radius. -->
-  <TSA_WD_Notify_SettlementRazedTooltip>通知半徑內 NPC 突襲獲勝、且據點在過程中被摧毀（地塊變為空地）時，發送信件。</TSA_WD_Notify_SettlementRazedTooltip>
+  <TSA_WD_Notify_SettlementRazedTooltip>通知半徑內NPC突襲獲勝、且據點在過程中被摧毀（地塊變為空地）時，發送信件。</TSA_WD_Notify_SettlementRazedTooltip>
   <!-- EN: Turtle consolidate nearby -->
   <TSA_WD_Notify_Turtle>附近龜縮整併</TSA_WD_Notify_Turtle>
   <!-- EN: Letter when a nearby faction consolidates its outer settlements into a hub and fortifies it, within the notification radius. -->
@@ -421,11 +421,11 @@
   <!-- EN: Show critical outpost food alert (right side) -->
   <TSA_WD_Notify_CriticalFood>顯示哨站食物危急警示（右側）</TSA_WD_Notify_CriticalFood>
   <!-- EN: Shows a silent, persistent alert on the right-side readout when at least one of your WD outposts has critical virtual food: negative stock, or at most 3 in-game days until empty while net food is negative. Stable or surplus outposts do not trigger this alert. Click to jump to the most severe outpost. Requires food logistics to be enabled. -->
-  <TSA_WD_Notify_CriticalFoodTooltip>至少有一個 WD 哨站的虛擬食物處於危急狀態時，在右側持續顯示無音效警示：存量為負，或食物淨收支為負且最多 3 個遊戲日內耗盡。穩定或有盈餘的哨站不會觸發此警示。點擊可跳至狀況最嚴重的哨站。需要啟用食物物流。</TSA_WD_Notify_CriticalFoodTooltip>
+  <TSA_WD_Notify_CriticalFoodTooltip>至少有一個WD哨站的虛擬食物處於危急狀態時，在右側持續顯示無音效警示：存量為負，或食物淨收支為負且最多3個遊戲日內耗盡。穩定或有盈餘的哨站不會觸發此警示。點擊可跳至狀況最嚴重的哨站。需要啟用食物物流。</TSA_WD_Notify_CriticalFoodTooltip>
   <!-- EN: WD: Drop Pod Delivery in range of AA -->
   <TSA_WD_Notify_DropPodDeliveryInAaRange>WD：運輸艙配送位於防空範圍內</TSA_WD_Notify_DropPodDeliveryInAaRange>
   <!-- EN: Shows a right-side alert when one of your warehouses is set to drop pod delivery and sits within anti-air range of a hostile Tier 4 settlement with AA active. Checks the warehouse tile only (not the full flight path). Switch that warehouse to land delivery or clear the AA threat. -->
-  <TSA_WD_Notify_DropPodDeliveryInAaRangeTooltip>當你的某個倉庫設為運輸艙配送，且位於已啟用防空的敵對等級 4 據點防空範圍內時，在右側顯示警示。只檢查倉庫所在地塊（不檢查完整飛行路徑）。可將該倉庫改為陸路配送，或排除防空威脅。</TSA_WD_Notify_DropPodDeliveryInAaRangeTooltip>
+  <TSA_WD_Notify_DropPodDeliveryInAaRangeTooltip>當你的某個倉庫設為運輸艙配送，且位於已啟用防空的敵對等級4據點防空範圍內時，在右側顯示警示。只檢查倉庫所在地塊（不檢查完整飛行路徑）。可將該倉庫改為陸路配送，或排除防空威脅。</TSA_WD_Notify_DropPodDeliveryInAaRangeTooltip>
   <!-- EN: WD: Drop Pod Delivery in range of AA -->
   <TSA_WD_Alert_DropPodDeliveryInAaRange>WD：運輸艙配送位於防空範圍內</TSA_WD_Alert_DropPodDeliveryInAaRange>
   <!-- EN: These warehouses use drop pod delivery while inside enemy AA Turret range: -->
@@ -435,7 +435,7 @@
   <!-- EN: Show construction insufficient-strength alert (right side) -->
   <TSA_WD_Notify_ConstructionInsufficientStrength>顯示建造戰力不足警示（右側）</TSA_WD_Notify_ConstructionInsufficientStrength>
   <!-- EN: Shows a silent, persistent alert on the right-side readout when a WD outpost has finished preparing a road-block or trap segment but lacks the strength to dispatch the crew. Click to jump to an affected outpost. -->
-  <TSA_WD_Notify_ConstructionInsufficientStrengthTooltip>WD 哨站已準備好路障或陷阱路段，但戰力不足以派出小隊時，在右側持續顯示無音效警示。點擊可跳至受影響的哨站。</TSA_WD_Notify_ConstructionInsufficientStrengthTooltip>
+  <TSA_WD_Notify_ConstructionInsufficientStrengthTooltip>WD哨站已準備好路障或陷阱路段，但戰力不足以派出小隊時，在右側持續顯示無音效警示。點擊可跳至受影響的哨站。</TSA_WD_Notify_ConstructionInsufficientStrengthTooltip>
   <!-- EN: WD: Construction waiting on strength -->
   <TSA_WD_Alert_ConstructionInsufficientStrength>WD：建造等待戰力</TSA_WD_Alert_ConstructionInsufficientStrength>
   <!-- EN: These outposts are ready to dispatch a construction crew but lack strength: -->
@@ -445,11 +445,11 @@
   <!-- EN: Show construction insufficient-materials alert (right side) -->
   <TSA_WD_Notify_ConstructionInsufficientMaterials>顯示建造材料不足警示（右側）</TSA_WD_Notify_ConstructionInsufficientMaterials>
   <!-- EN: Shows a silent, persistent alert on the right-side readout when a WD outpost has finished preparing a road, bridge segment, fortification, or AT segment but lacks materials to dispatch the crew. Click to jump to an affected outpost. -->
-  <TSA_WD_Notify_ConstructionInsufficientMaterialsTooltip>WD 哨站已準備好道路、橋段、防禦工事或 AT 路段，但材料不足以派出小隊時，在右側持續顯示無音效警示。點擊可跳至受影響的哨站。</TSA_WD_Notify_ConstructionInsufficientMaterialsTooltip>
+  <TSA_WD_Notify_ConstructionInsufficientMaterialsTooltip>WD哨站已準備好道路、橋段、防禦工事或AT路段，但材料不足以派出小隊時，在右側持續顯示無音效警示。點擊可跳至受影響的哨站。</TSA_WD_Notify_ConstructionInsufficientMaterialsTooltip>
   <!-- EN: Show letter when bridge teardown is blocked -->
   <TSA_WD_Notify_BridgeDeconstructBlocked>拆除橋樑受阻時顯示信件</TSA_WD_Notify_BridgeDeconstructBlocked>
   <!-- EN: When a bridge teardown crew arrives and the span is occupied, show a yellow NeutralEvent letter naming the blocker. If off, only a message is shown. -->
-  <TSA_WD_Notify_BridgeDeconstructBlockedTooltip>拆橋小隊抵達而橋段被佔用時，顯示一封點名阻擋者的黃色 NeutralEvent 信件。關閉時只顯示訊息。</TSA_WD_Notify_BridgeDeconstructBlockedTooltip>
+  <TSA_WD_Notify_BridgeDeconstructBlockedTooltip>拆橋小隊抵達而橋段被佔用時，顯示一封點名阻擋者的黃色NeutralEvent信件。關閉時只顯示訊息。</TSA_WD_Notify_BridgeDeconstructBlockedTooltip>
   <!-- EN: WD: Construction waiting on materials -->
   <TSA_WD_Alert_ConstructionInsufficientMaterials>WD：建造等待材料</TSA_WD_Alert_ConstructionInsufficientMaterials>
   <!-- EN: These outposts are ready to dispatch a construction crew but lack materials: -->
@@ -459,11 +459,11 @@
   <!-- EN: Show outposts without production alert (right side) -->
   <TSA_WD_Notify_OutpostNoProduction>顯示未選產出的哨站警示（右側）</TSA_WD_Notify_OutpostNoProduction>
   <!-- EN: Shows a silent, persistent alert on the right-side readout when at least one of your WD outposts needs a production pick but has nothing selected. Mouseover lists all affected outposts. Click to jump to the first. -->
-  <TSA_WD_Notify_OutpostNoProductionTooltip>至少有一個 WD 哨站需要選擇產出但尚未選擇時，在右側持續顯示無音效警示。滑鼠移上可列出所有受影響的哨站。點擊可跳至第一個。</TSA_WD_Notify_OutpostNoProductionTooltip>
+  <TSA_WD_Notify_OutpostNoProductionTooltip>至少有一個WD哨站需要選擇產出但尚未選擇時，在右側持續顯示無音效警示。滑鼠移上可列出所有受影響的哨站。點擊可跳至第一個。</TSA_WD_Notify_OutpostNoProductionTooltip>
   <!-- EN: Show outposts without experts alert (right side) -->
   <TSA_WD_Notify_OutpostUnusedExperts>顯示專家欄位未滿的哨站警示（右側）</TSA_WD_Notify_OutpostUnusedExperts>
   <!-- EN: Shows a silent, persistent alert on the right-side readout when at least one of your WD outposts has unused expert slots. Mouseover lists all affected outposts with assigned/max. Click to jump to the first. -->
-  <TSA_WD_Notify_OutpostUnusedExpertsTooltip>至少有一個 WD 哨站有未使用的專家欄位時，在右側持續顯示無音效警示。滑鼠移上可列出所有受影響的哨站及已指派／上限。點擊可跳至第一個。</TSA_WD_Notify_OutpostUnusedExpertsTooltip>
+  <TSA_WD_Notify_OutpostUnusedExpertsTooltip>至少有一個WD哨站有未使用的專家欄位時，在右側持續顯示無音效警示。滑鼠移上可列出所有受影響的哨站及已指派／上限。點擊可跳至第一個。</TSA_WD_Notify_OutpostUnusedExpertsTooltip>
   <!-- EN: WD: Outposts w/o Production -->
   <TSA_WD_Alert_OutpostNoProduction>WD：未選產出的哨站</TSA_WD_Alert_OutpostNoProduction>
   <!-- EN: These outposts have nothing to produce selected: -->
@@ -501,11 +501,11 @@
   <!-- EN: Critical -->
   <TSA_WD_WorldThreatTier_Critical>危急</TSA_WD_WorldThreatTier_Critical>
   <!-- EN: WD: Threat {0}|{1} -->
-  <TSA_WD_Alert_WorldThreat_NearFar>WD：威脅 {0}|{1}</TSA_WD_Alert_WorldThreat_NearFar>
+  <TSA_WD_Alert_WorldThreat_NearFar>WD：威脅{0}|{1}</TSA_WD_Alert_WorldThreat_NearFar>
   <!-- EN: WD: Threat {0}|0 -->
-  <TSA_WD_Alert_WorldThreat_NearOnly>WD：威脅 {0}|0</TSA_WD_Alert_WorldThreat_NearOnly>
+  <TSA_WD_Alert_WorldThreat_NearOnly>WD：威脅{0}|0</TSA_WD_Alert_WorldThreat_NearOnly>
   <!-- EN: WD: Threat 0|{0} -->
-  <TSA_WD_Alert_WorldThreat_FarOnly>WD：威脅 0|{0}</TSA_WD_Alert_WorldThreat_FarOnly>
+  <TSA_WD_Alert_WorldThreat_FarOnly>WD：威脅0|{0}</TSA_WD_Alert_WorldThreat_FarOnly>
   <!-- EN: Current Storyteller Raid Points: {0} -->
   <TSA_WD_Alert_WorldThreatDesc_Storyteller>目前故事敘述者突襲點數：{0}</TSA_WD_Alert_WorldThreatDesc_Storyteller>
   <!-- EN: Clamping from Mod Settings: Min {0} %, Max {1} % of Storyteller Raid Points -->
@@ -551,19 +551,19 @@
   <!-- EN: Always use Strength as Raid points -->
   <TS_WD_CaravanRaidAlwaysUseStrength>一律以戰力作為突襲點數</TS_WD_CaravanRaidAlwaysUseStrength>
   <!-- EN: Strictly uses the raid points of a caravan when a raid on the colony happens or when your caravan clashes with a NPC caravan. -->
-  <TS_WD_CaravanRaidAlwaysUseStrengthTooltip>殖民地遭到突襲，或你的旅隊與 NPC 旅隊交鋒時，嚴格以旅隊的戰力作為突襲點數。</TS_WD_CaravanRaidAlwaysUseStrengthTooltip>
+  <TS_WD_CaravanRaidAlwaysUseStrengthTooltip>殖民地遭到突襲，或你的旅隊與NPC旅隊交鋒時，嚴格以旅隊的戰力作為突襲點數。</TS_WD_CaravanRaidAlwaysUseStrengthTooltip>
   <!-- EN: Always use Strength for manual outpost defense -->
   <TS_WD_OutpostDefenseAlwaysUseStrength>哨站手動防禦一律使用戰力</TS_WD_OutpostDefenseAlwaysUseStrength>
   <!-- EN: When on, manual outpost defense map fights use traveler strength as raid points with no storyteller band clamp. When off, the same floor and ceiling as other WD raids apply. Colony raids and caravan clashes use the setting above. -->
-  <TS_WD_OutpostDefenseAlwaysUseStrengthTooltip>開啟後，哨站手動防禦地圖戰以旅行者戰力作為突襲點數，不受故事敘述者範圍限制。關閉時，套用與其他 WD 突襲相同的下限與上限。殖民地突襲與旅隊交鋒使用上方的設定。</TS_WD_OutpostDefenseAlwaysUseStrengthTooltip>
+  <TS_WD_OutpostDefenseAlwaysUseStrengthTooltip>開啟後，哨站手動防禦地圖戰以旅行者戰力作為突襲點數，不受故事敘述者範圍限制。關閉時，套用與其他WD突襲相同的下限與上限。殖民地突襲與旅隊交鋒使用上方的設定。</TS_WD_OutpostDefenseAlwaysUseStrengthTooltip>
   <!-- EN: WD: Mid Game activated -->
   <TSA_WD_Alert_MidGameActive>WD：中期階段已啟動</TSA_WD_Alert_MidGameActive>
   <!-- EN: Your outpost strength has triggered Mid Game. Hostile settlements grow faster, gain more attack range, and bias raids toward you. Settlements expand toward your holdings, goodwill drifts down over time, and your outposts may suffer lighter attrition incidents. T4 mortars and AA do not target you yet unless the Mid Game toggles are on. -->
-  <TSA_WD_Alert_MidGameActiveDesc>你的哨站戰力已觸發中期階段。敵對據點成長更快、攻擊範圍擴大，且突襲更偏向你。據點會朝你的領地擴張，友好度會隨時間下滑，你的哨站也可能遭遇較輕的消耗事件。除非開啟中期階段的相關開關，T4 迫擊砲與防空暫時還不會以你為目標。</TSA_WD_Alert_MidGameActiveDesc>
+  <TSA_WD_Alert_MidGameActiveDesc>你的哨站戰力已觸發中期階段。敵對據點成長更快、攻擊範圍擴大，且突襲更偏向你。據點會朝你的領地擴張，友好度會隨時間下滑，你的哨站也可能遭遇較輕的消耗事件。除非開啟中期階段的相關開關，T4迫擊砲與防空暫時還不會以你為目標。</TSA_WD_Alert_MidGameActiveDesc>
   <!-- EN: WD: Late Game activated -->
   <TSA_WD_Alert_LateGameActive>WD：後期階段已啟動</TSA_WD_Alert_LateGameActive>
   <!-- EN: Your outpost strength has triggered Late Game. Hostile settlements grow much faster, gain more attack range, and bias raids harder toward you. Settlements expand farther toward your holdings, goodwill drops faster, enemy T4 mortars and AA may target your WD caravans and outposts if enabled, and your outposts may suffer fuller attrition incidents. -->
-  <TSA_WD_Alert_LateGameActiveDesc>你的哨站戰力已觸發後期階段。敵對據點成長大幅加快、攻擊範圍擴大，且突襲更強烈地偏向你。據點會更深入地朝你的領地擴張，友好度下降更快；若已啟用，敵方 T4 迫擊砲與防空可能以你的 WD 旅隊與哨站為目標，你的哨站也可能遭遇更完整的消耗事件。</TSA_WD_Alert_LateGameActiveDesc>
+  <TSA_WD_Alert_LateGameActiveDesc>你的哨站戰力已觸發後期階段。敵對據點成長大幅加快、攻擊範圍擴大，且突襲更強烈地偏向你。據點會更深入地朝你的領地擴張，友好度下降更快；若已啟用，敵方T4迫擊砲與防空可能以你的WD旅隊與哨站為目標，你的哨站也可能遭遇更完整的消耗事件。</TSA_WD_Alert_LateGameActiveDesc>
   <!-- EN: Mid Game is now active. What changed: -->
   <TSA_WD_Letter_MidGameActiveIntro>中期階段現已生效。變化如下：</TSA_WD_Letter_MidGameActiveIntro>
   <!-- EN: Late Game is now active. What changed: -->
@@ -573,7 +573,7 @@
   <!-- EN: Enable Mid Game and Late Game -->
   <TSA_WD_Difficulty_EnableLateGame>啟用中期階段與後期階段</TSA_WD_Difficulty_EnableLateGame>
   <!-- EN: Hostile factions push back in two steps: Mid Game, then Late Game. Effects include faster hostile growth, higher NPC attack range, biased raids, expansion toward you, goodwill drain, outpost incidents, and (when toggles allow) T4 fire on your caravans/outposts. Driven by outpost strength, world share, or elapsed days. Stages never drop once reached. -->
-  <TSA_WD_Difficulty_EnableLateGameTooltip>敵對派系分兩步反擊：先是中期階段，再來是後期階段。效果包括敵對勢力成長加快、NPC 攻擊範圍提高、突襲偏向你、朝你擴張、友好度流失、哨站事件，以及（開關允許時）T4 對你的旅隊／哨站開火。觸發依據為哨站戰力、世界佔比或經過天數。階段一旦達成就不會回退。</TSA_WD_Difficulty_EnableLateGameTooltip>
+  <TSA_WD_Difficulty_EnableLateGameTooltip>敵對派系分兩步反擊：先是中期階段，再來是後期階段。效果包括敵對勢力成長加快、NPC攻擊範圍提高、突襲偏向你、朝你擴張、友好度流失、哨站事件，以及（開關允許時）T4對你的旅隊／哨站開火。觸發依據為哨站戰力、世界佔比或經過天數。階段一旦達成就不會回退。</TSA_WD_Difficulty_EnableLateGameTooltip>
   <!-- EN: Each of Mid Game and Late Game activates when any of its share, strength, or days thresholds is met. Late Game replaces Mid Game. Once reached, a stage never drops back. -->
   <TSA_WD_Difficulty_ActivationHint>中期階段與後期階段各自在佔比、戰力或天數任一門檻達成時啟動。後期階段會取代中期階段。階段一旦達成就不會回退。</TSA_WD_Difficulty_ActivationHint>
   <!-- EN: Player Strength Share for Late-Game Difficulty -->
@@ -595,7 +595,7 @@
   <!-- EN: Attack range bonus -->
   <TSA_WD_LateGame_AttackRangeBonus>攻擊範圍加成</TSA_WD_LateGame_AttackRangeBonus>
   <!-- EN: Added to every NPC settlement attack range while Late Game is active (100% doubles early baselines). Replaces the Mid Game bonus. Applies even to newly founded towns. -->
-  <TSA_WD_LateGame_AttackRangeBonusTooltip>後期階段生效期間，加到所有 NPC 據點的攻擊範圍（100% 使初期基準加倍）。取代中期階段的加成。新建立的城鎮也適用。</TSA_WD_LateGame_AttackRangeBonusTooltip>
+  <TSA_WD_LateGame_AttackRangeBonusTooltip>後期階段生效期間，加到所有NPC據點的攻擊範圍（100% 使初期基準加倍）。取代中期階段的加成。新建立的城鎮也適用。</TSA_WD_LateGame_AttackRangeBonusTooltip>
   <!-- EN: Scale Ally radius in Late game -->
   <TSA_WD_LateGame_ScaleAllyRadius>後期階段縮放同盟半徑</TSA_WD_LateGame_ScaleAllyRadius>
   <!-- EN: When on, Late Game multiplies the base ally pull radius by (1 + Late ally radius bonus). Replaces Mid ally scaling. If this is off during Late Game, ally radius stays at base (no Mid fallback). -->
@@ -603,7 +603,7 @@
   <!-- EN: Ally radius bonus -->
   <TSA_WD_LateGame_AllyRadiusBonus>同盟半徑加成</TSA_WD_LateGame_AllyRadiusBonus>
   <!-- EN: Added to the base ally pull radius while Late Game is active and scaling is on (100% raises base 6 to 12). Replaces the Mid Game ally bonus. -->
-  <TSA_WD_LateGame_AllyRadiusBonusTooltip>後期階段生效且縮放開啟時，加到基礎同盟召集半徑（100% 使基礎 6 提高為 12）。取代中期階段的同盟加成。</TSA_WD_LateGame_AllyRadiusBonusTooltip>
+  <TSA_WD_LateGame_AllyRadiusBonusTooltip>後期階段生效且縮放開啟時，加到基礎同盟召集半徑（100% 使基礎6提高為12）。取代中期階段的同盟加成。</TSA_WD_LateGame_AllyRadiusBonusTooltip>
   <!-- EN: Garrison boost -->
   <TSA_WD_Difficulty_GarrisonBoost>駐軍加成</TSA_WD_Difficulty_GarrisonBoost>
   <!-- EN: While Late Game is active, settlement garrisons are multiplied by (1 + this value). Stacks multiplicatively with the per-tier garrison sliders. -->
@@ -613,9 +613,9 @@
   <!-- EN: While Late Game is active, hostile settlements expand toward your nearest outpost/colony but no farther than this many tiles from the parent settlement. -->
   <TSA_WD_Difficulty_ExpandTilesTooltip>後期階段生效期間，敵對據點會朝你最近的哨站／殖民地擴張，但距離母據點不超過此格數。</TSA_WD_Difficulty_ExpandTilesTooltip>
   <!-- EN: T4 settlement mortars -->
-  <TSA_WD_Difficulty_EnableT4Mortar>T4 據點迫擊砲</TSA_WD_Difficulty_EnableT4Mortar>
+  <TSA_WD_Difficulty_EnableT4Mortar>T4據點迫擊砲</TSA_WD_Difficulty_EnableT4Mortar>
   <!-- EN: Tier-4 enemy settlements fire mortars at hostile WD travelers in range. When no hostile caravan is in range they shell the nearest hostile settlement instead. They may also hit your WD caravans and outposts while Late Game is active. -->
-  <TSA_WD_Difficulty_EnableT4MortarTooltip>等級 4 敵方據點會向範圍內的敵對 WD 旅行者發射迫擊砲。範圍內沒有敵對旅隊時，改為砲擊最近的敵對據點。後期階段生效期間，也可能擊中你的 WD 旅隊與哨站。</TSA_WD_Difficulty_EnableT4MortarTooltip>
+  <TSA_WD_Difficulty_EnableT4MortarTooltip>等級4敵方據點會向範圍內的敵對WD旅行者發射迫擊砲。範圍內沒有敵對旅隊時，改為砲擊最近的敵對據點。後期階段生效期間，也可能擊中你的WD旅隊與哨站。</TSA_WD_Difficulty_EnableT4MortarTooltip>
   <!-- EN: Anti-leader coalition raid priority -->
   <TSA_WD_Difficulty_CoalitionRaidBias>反霸主聯盟突襲優先度</TSA_WD_Difficulty_CoalitionRaidBias>
   <!-- EN: When an anti-leader coalition is active, member factions roll this often to prioritize raids against the coalition target. -->
@@ -681,7 +681,7 @@
   <!-- EN: Attack range bonus -->
   <TSA_WD_MidGame_AttackRangeBonus>攻擊範圍加成</TSA_WD_MidGame_AttackRangeBonus>
   <!-- EN: Added to every NPC settlement attack range while Mid Game is active (50% raises early baselines by half). Late Game replaces this bonus. Applies even to newly founded towns. -->
-  <TSA_WD_MidGame_AttackRangeBonusTooltip>中期階段生效期間，加到所有 NPC 據點的攻擊範圍（50% 使初期基準提高一半）。後期階段會取代此加成。新建立的城鎮也適用。</TSA_WD_MidGame_AttackRangeBonusTooltip>
+  <TSA_WD_MidGame_AttackRangeBonusTooltip>中期階段生效期間，加到所有NPC據點的攻擊範圍（50% 使初期基準提高一半）。後期階段會取代此加成。新建立的城鎮也適用。</TSA_WD_MidGame_AttackRangeBonusTooltip>
   <!-- EN: Scale Ally radius in Mid game -->
   <TSA_WD_MidGame_ScaleAllyRadius>中期階段縮放同盟半徑</TSA_WD_MidGame_ScaleAllyRadius>
   <!-- EN: When on, Mid Game multiplies the base ally pull radius by (1 + Mid ally radius bonus). Late Game uses its own toggle instead (no Mid fallback). -->
@@ -689,7 +689,7 @@
   <!-- EN: Ally radius bonus -->
   <TSA_WD_MidGame_AllyRadiusBonus>同盟半徑加成</TSA_WD_MidGame_AllyRadiusBonus>
   <!-- EN: Added to the base ally pull radius while Mid Game is active and scaling is on (40% raises base 6 to 9). Late Game replaces this bonus when its scale toggle is on. -->
-  <TSA_WD_MidGame_AllyRadiusBonusTooltip>中期階段生效且縮放開啟時，加到基礎同盟召集半徑（40% 使基礎 6 提高為 9）。後期階段的縮放開關開啟時會取代此加成。</TSA_WD_MidGame_AllyRadiusBonusTooltip>
+  <TSA_WD_MidGame_AllyRadiusBonusTooltip>中期階段生效且縮放開啟時，加到基礎同盟召集半徑（40% 使基礎6提高為9）。後期階段的縮放開關開啟時會取代此加成。</TSA_WD_MidGame_AllyRadiusBonusTooltip>
   <!-- EN: Garrison boost -->
   <TSA_WD_MidGame_GarrisonBoost>駐軍加成</TSA_WD_MidGame_GarrisonBoost>
   <!-- EN: While Mid Game is active, settlement garrisons are multiplied by (1 + this value). Stacks multiplicatively with the per-tier garrison sliders. -->
@@ -715,9 +715,9 @@
   <!-- EN: Goodwill lost per faction each Mid Game pulse. Permanent enemies are skipped. -->
   <TSA_WD_MidGame_GoodwillDrainAmountTooltip>中期階段每次觸發時，每個派系流失的友好度。永久敵對派系會略過。</TSA_WD_MidGame_GoodwillDrainAmountTooltip>
   <!-- EN: When on, enemy T4 mortars may fire at your WD caravans and outposts while Mid Game is active. Turning this on also turns on the Late Game mortar toggle. -->
-  <TSA_WD_MidGame_T4Mortar_TargetPlayerTooltip>開啟後，中期階段生效期間，敵方 T4 迫擊砲可能向你的 WD 旅隊與哨站開火。開啟此項也會同時開啟後期階段的迫擊砲開關。</TSA_WD_MidGame_T4Mortar_TargetPlayerTooltip>
+  <TSA_WD_MidGame_T4Mortar_TargetPlayerTooltip>開啟後，中期階段生效期間，敵方T4迫擊砲可能向你的WD旅隊與哨站開火。開啟此項也會同時開啟後期階段的迫擊砲開關。</TSA_WD_MidGame_T4Mortar_TargetPlayerTooltip>
   <!-- EN: When on, T4 AA may engage your drop pods and shells while Mid Game is active. Turning this on also turns on the Late Game AA toggle. -->
-  <TSA_WD_MidGame_T4AA_TargetPlayerTooltip>開啟後，中期階段生效期間，T4 防空可能攻擊你的運輸艙與砲彈。開啟此項也會同時開啟後期階段的防空開關。</TSA_WD_MidGame_T4AA_TargetPlayerTooltip>
+  <TSA_WD_MidGame_T4AA_TargetPlayerTooltip>開啟後，中期階段生效期間，T4防空可能攻擊你的運輸艙與砲彈。開啟此項也會同時開啟後期階段的防空開關。</TSA_WD_MidGame_T4AA_TargetPlayerTooltip>
   <!-- EN: Late Game -->
   <TSA_WD_LateGame_HeaderScaling>後期階段</TSA_WD_LateGame_HeaderScaling>
   <!-- EN: Goodwill drain per pulse -->
@@ -785,21 +785,21 @@
   <!-- EN: Storyteller-threat ceiling while Late Game is active. Default 230%. -->
   <TS_WD_RaidClamp_LateMaxTooltip>後期階段啟用期間的故事敘述者威脅上限。預設230%。</TS_WD_RaidClamp_LateMaxTooltip>
   <!-- EN: Block storyteller raids (only World Domination raids) -->
-  <TS_WD_Threat_BlockStorytellerRaids>阻擋故事敘述者突襲（僅限 World Domination 突襲）</TS_WD_Threat_BlockStorytellerRaids>
+  <TS_WD_Threat_BlockStorytellerRaids>阻擋故事敘述者突襲（僅限World Domination突襲）</TS_WD_Threat_BlockStorytellerRaids>
   <!-- EN: When enabled, random enemy raids from the vanilla storyteller are blocked for WD-managed factions. Raids from World Domination (world map), quests, comms, dev tools, and other scripted incidents (including those flagged as forced or tied to a quest) are not blocked. -->
-  <TS_WD_Threat_BlockStorytellerRaidsTooltip>啟用時，原版故事敘述者對 WD 管理之派系產生的隨機敵方突襲會被阻擋。來自 World Domination（世界地圖）、任務、通訊、開發者工具及其他腳本事件（包括標記為強制或與任務綁定者）的突襲不受影響。</TS_WD_Threat_BlockStorytellerRaidsTooltip>
+  <TS_WD_Threat_BlockStorytellerRaidsTooltip>啟用時，原版故事敘述者對WD管理之派系產生的隨機敵方突襲會被阻擋。來自World Domination（世界地圖）、任務、通訊、開發者工具及其他腳本事件（包括標記為強制或與任務綁定者）的突襲不受影響。</TS_WD_Threat_BlockStorytellerRaidsTooltip>
   <!-- EN: Allow storyteller raids from non-WD factions -->
-  <TS_WD_Threat_AllowNonWdStorytellerRaids>允許非 WD 派系的故事敘述者突襲</TS_WD_Threat_AllowNonWdStorytellerRaids>
+  <TS_WD_Threat_AllowNonWdStorytellerRaids>允許非WD派系的故事敘述者突襲</TS_WD_Threat_AllowNonWdStorytellerRaids>
   <!-- EN: When enabled, vanilla storyteller raids can still come from factions not controlled by World Domination, such as factions without physical WD settlements on the planet. Disable this to restore the old behavior and block all random storyteller enemy raids. -->
-  <TS_WD_Threat_AllowNonWdStorytellerRaidsTooltip>啟用時，不受 World Domination 控制的派系（例如在星球上沒有實體 WD 據點的派系）仍可透過原版故事敘述者發動突襲。停用此選項可恢復舊行為，阻擋所有隨機故事敘述者敵方突襲。</TS_WD_Threat_AllowNonWdStorytellerRaidsTooltip>
+  <TS_WD_Threat_AllowNonWdStorytellerRaidsTooltip>啟用時，不受World Domination控制的派系（例如在星球上沒有實體WD據點的派系）仍可透過原版故事敘述者發動突襲。停用此選項可恢復舊行為，阻擋所有隨機故事敘述者敵方突襲。</TS_WD_Threat_AllowNonWdStorytellerRaidsTooltip>
   <!-- EN: Max Raid Points -->
   <TS_WD_Threat_MaxPoints>最高突襲點數</TS_WD_Threat_MaxPoints>
   <!-- EN: The absolute ceiling for raid points used by some WD reinforcement-style spawns. Vanilla storyteller raid points are not scaled by this page. -->
-  <TS_WD_Threat_MaxPointsTooltip>部分 WD 援軍類生成所用突襲點數的絕對上限。原版故事敘述者的突襲點數不受此頁調整。</TS_WD_Threat_MaxPointsTooltip>
+  <TS_WD_Threat_MaxPointsTooltip>部分WD援軍類生成所用突襲點數的絕對上限。原版故事敘述者的突襲點數不受此頁調整。</TS_WD_Threat_MaxPointsTooltip>
   <!-- EN: Min Raid Points -->
   <TS_WD_Threat_MinPoints>最低突襲點數</TS_WD_Threat_MinPoints>
   <!-- EN: The absolute floor for raid points in those same WD flows. Very low values can prevent spawning enemies. -->
-  <TS_WD_Threat_MinPointsTooltip>上述 WD 流程中突襲點數的絕對下限。數值過低可能導致無法生成敵人。</TS_WD_Threat_MinPointsTooltip>
+  <TS_WD_Threat_MinPointsTooltip>上述WD流程中突襲點數的絕對下限。數值過低可能導致無法生成敵人。</TS_WD_Threat_MinPointsTooltip>
   <!-- EN: No Goodwill from Hostile factions on Settlement Conquest -->
   <TS_WD_Threat_NoGoodwillHostiles>征服據點時敵對派系不增加友好度</TS_WD_Threat_NoGoodwillHostiles>
   <!-- EN: When enabled, conquering a settlement will not grant goodwill with factions that are hostile to you. Only non-hostile factions can gain goodwill from your conquests. -->
@@ -977,7 +977,7 @@
   <!-- EN: Xenotype -->
   <TSA_WD_PawnRoster_ColXenotype>異種人</TSA_WD_PawnRoster_ColXenotype>
   <!-- EN: Biotech xenotype label. Hover a cell for the description. -->
-  <TSA_WD_PawnRoster_ColXenotypeTip>Biotech 異種人名稱。將滑鼠懸停在儲存格上可查看說明。</TSA_WD_PawnRoster_ColXenotypeTip>
+  <TSA_WD_PawnRoster_ColXenotypeTip>Biotech異種人名稱。將滑鼠懸停在儲存格上可查看說明。</TSA_WD_PawnRoster_ColXenotypeTip>
   <!-- EN: Psycasts -->
   <TSA_WD_PawnRoster_ColPsycasts>心靈能力</TSA_WD_PawnRoster_ColPsycasts>
   <!-- EN: Known psycast abilities. Hover for the full list. -->
@@ -985,7 +985,7 @@
   <!-- EN: Ideology -->
   <TSA_WD_PawnRoster_ColIdeology>理念</TSA_WD_PawnRoster_ColIdeology>
   <!-- EN: Ideology name when the Ideology DLC is active. Hover a cell for the label. -->
-  <TSA_WD_PawnRoster_ColIdeologyTip>Ideology DLC 啟用時的理念名稱。將滑鼠懸停在儲存格上可查看名稱。</TSA_WD_PawnRoster_ColIdeologyTip>
+  <TSA_WD_PawnRoster_ColIdeologyTip>Ideology DLC啟用時的理念名稱。將滑鼠懸停在儲存格上可查看名稱。</TSA_WD_PawnRoster_ColIdeologyTip>
   <!-- EN: Filter by traits -->
   <TSA_WD_TraitFilter_Title>依特性篩選</TSA_WD_TraitFilter_Title>
   <!-- EN: Hide roster rows that do not match. Counts include all player humanlikes (colony, outposts, caravans, prisoners). -->

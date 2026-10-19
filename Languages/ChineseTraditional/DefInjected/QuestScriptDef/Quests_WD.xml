@@ -11,7 +11,7 @@
   </TSA_WD_FirstOutpostIntro.questNameRules.rulesStrings>
   <TSA_WD_FirstOutpostIntro.questDescriptionRules.rulesStrings>
     <!-- EN: [faction_name] asks you to found your first World Domination outpost anywhere on the world map.\n\nThe request stays open until you found an outpost. It fails if they become hostile or are destroyed. -->
-    <li>questDescription->[faction_name]請你在世界地圖上任意地點建立第一座 World Domination 哨站。\n\n在你建立哨站之前，這項請求會一直有效。若對方轉為敵對或被消滅，任務即失敗。</li>
+    <li>questDescription->[faction_name]請你在世界地圖上任意地點建立第一座World Domination哨站。\n\n在你建立哨站之前，這項請求會一直有效。若對方轉為敵對或被消滅，任務即失敗。</li>
   </TSA_WD_FirstOutpostIntro.questDescriptionRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <TSA_WD_FirstOutpostIntro.TSA_WD_FirstOutpost_LetterLabelFailed.slateRef>任務失敗：[resolvedQuestName]</TSA_WD_FirstOutpostIntro.TSA_WD_FirstOutpost_LetterLabelFailed.slateRef>
@@ -27,7 +27,7 @@
   </TSA_WD_ColonyRoadLink.questNameRules.rulesStrings>
   <TSA_WD_ColonyRoadLink.questDescriptionRules.rulesStrings>
     <!-- EN: [faction_name] wants a road between your colony and [askerSettlement_label]. Connect the two towns by road. How the road gets built does not matter.\n\nYou have 30 days. -->
-    <li>questDescription->[faction_name]希望在你的殖民地與[askerSettlement_label]之間有一條道路。用道路連通這兩座城鎮即可，道路如何建成並不重要。\n\n你有 30 天的時間。</li>
+    <li>questDescription->[faction_name]希望在你的殖民地與[askerSettlement_label]之間有一條道路。用道路連通這兩座城鎮即可，道路如何建成並不重要。\n\n你有30天的時間。</li>
   </TSA_WD_ColonyRoadLink.questDescriptionRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <TSA_WD_ColonyRoadLink.TSA_WD_ColonyRoadLink_LetterLabelFailed.slateRef>任務失敗：[resolvedQuestName]</TSA_WD_ColonyRoadLink.TSA_WD_ColonyRoadLink_LetterLabelFailed.slateRef>
@@ -47,7 +47,7 @@
   </TSA_WD_CommonEnemySettlement.questNameRules.rulesStrings>
   <TSA_WD_CommonEnemySettlement.questDescriptionRules.rulesStrings>
     <!-- EN: [faction_name] wants you to wipe out or conquer [enemySettlement_label], a shared enemy. Do it yourself: attack in person, or launch a raid from one of your World Domination outposts.\n\nAllied-settlement raid orders and unrelated faction attacks do not count. You have 8 days. -->
-    <li>questDescription->[faction_name]希望你剷除或征服雙方共同的敵人[enemySettlement_label]。必須由你自己完成：親自前往進攻，或從你的 World Domination 哨站發動突襲。\n\n同盟據點的突襲命令與無關派系的攻擊都不算數。你有 8 天的時間。</li>
+    <li>questDescription->[faction_name]希望你剷除或征服雙方共同的敵人[enemySettlement_label]。必須由你自己完成：親自前往進攻，或從你的World Domination哨站發動突襲。\n\n同盟據點的突襲命令與無關派系的攻擊都不算數。你有8天的時間。</li>
   </TSA_WD_CommonEnemySettlement.questDescriptionRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <TSA_WD_CommonEnemySettlement.TSA_WD_CommonEnemy_LetterLabelFailed.slateRef>任務失敗：[resolvedQuestName]</TSA_WD_CommonEnemySettlement.TSA_WD_CommonEnemy_LetterLabelFailed.slateRef>
@@ -67,7 +67,7 @@
   </TSA_WD_WorldDominationVictory.questNameRules.rulesStrings>
   <TSA_WD_WorldDominationVictory.questDescriptionRules.rulesStrings>
     <!-- EN: Become the strongest World Domination faction and hold that lead for 15 continuous days.\n\nYour ranking uses WD outposts only. If you lose the lead, the streak resets. There is no time limit. -->
-    <li>questDescription->成為 World Domination 中最強的派系，並連續保持領先 15 天。\n\n你的排名只計算 WD 哨站。若失去領先，連續天數會重置。沒有時間限制。</li>
+    <li>questDescription->成為World Domination中最強的派系，並連續保持領先15天。\n\n你的排名只計算WD哨站。若失去領先，連續天數會重置。沒有時間限制。</li>
   </TSA_WD_WorldDominationVictory.questDescriptionRules.rulesStrings>
 
 </LanguageData>

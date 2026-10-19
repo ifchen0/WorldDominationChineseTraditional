@@ -29,7 +29,7 @@
   <!-- EN: Deepchem Drilling Outpost -->
   <TSA_WD_Outpost_DeepchemDrill.label>深層化合物鑽探哨站</TSA_WD_Outpost_DeepchemDrill.label>
   <!-- EN: Drills deepchem on desert tiles. Requires Vanilla Chemfuel Expanded. -->
-  <TSA_WD_Outpost_DeepchemDrill.description>在沙漠地塊鑽採深層化合物。需要 Vanilla Chemfuel Expanded。</TSA_WD_Outpost_DeepchemDrill.description>
+  <TSA_WD_Outpost_DeepchemDrill.description>在沙漠地塊鑽採深層化合物。需要Vanilla Chemfuel Expanded。</TSA_WD_Outpost_DeepchemDrill.description>
   <!-- EN: Raw Resource Shaping Outpost -->
   <TSA_WD_Outpost_RawShaping.label>原料塑形哨站</TSA_WD_Outpost_RawShaping.label>
   <!-- EN: Produces plasteel, synthread, or hyperweave on desert tiles. -->
@@ -37,7 +37,7 @@
   <!-- EN: Deepchem Factory Outpost -->
   <TSA_WD_Outpost_DeepchemFactory.label>深層化合物工廠哨站</TSA_WD_Outpost_DeepchemFactory.label>
   <!-- EN: Legacy chemical outpost from the Bambaryla addon. Produces neutroamine and dye. Prefer founding a Chemical Refinery for new outposts. -->
-  <TSA_WD_Outpost_DeepchemFactory.description>來自 Bambaryla 擴充的舊版化工哨站。產出中性胺與染料。新建哨站請優先選擇化學精煉廠。</TSA_WD_Outpost_DeepchemFactory.description>
+  <TSA_WD_Outpost_DeepchemFactory.description>來自Bambaryla擴充的舊版化工哨站。產出中性胺與染料。新建哨站請優先選擇化學精煉廠。</TSA_WD_Outpost_DeepchemFactory.description>
   <!-- EN: Ranch Outpost -->
   <TSA_WD_Outpost_Ranch.label>牧場哨站</TSA_WD_Outpost_Ranch.label>
   <!-- EN: Artillery Outpost -->

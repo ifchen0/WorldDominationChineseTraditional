@@ -43,7 +43,7 @@
   <!-- EN: Click a world tile to set this AT Turret's rest heading. The barrel stays on its last shot unless you set this. -->
   <TSA_WD_AT_Turret_SetFacingDesc>點擊世界地塊以設定此 反戰車砲塔的待機朝向。除非設定此項，否則砲管會停留在最後一次射擊的方向。</TSA_WD_AT_Turret_SetFacingDesc>
   <!-- EN: Click a tile to set the AT Turret resting facing. Right-click or Esc to cancel. -->
-  <TSA_WD_AT_Turret_SetFacingPrompt>點擊地塊以設定 反戰車砲塔的待機朝向。按右鍵或 Esc 取消。</TSA_WD_AT_Turret_SetFacingPrompt>
+  <TSA_WD_AT_Turret_SetFacingPrompt>點擊地塊以設定 反戰車砲塔的待機朝向。按右鍵或Esc取消。</TSA_WD_AT_Turret_SetFacingPrompt>
   <!-- EN: AT Turret resting facing updated. -->
   <TSA_WD_AT_Turret_SetFacingDone>反戰車砲塔待機朝向已更新。</TSA_WD_AT_Turret_SetFacingDone>
   <!-- EN: AA range: {0} tiles -->
@@ -65,7 +65,7 @@
   <!-- EN: Strength: {0} / {1} -->
   <TSA_WD_Inspect_Outpost>戰力：{0} / {1}</TSA_WD_Inspect_Outpost>
   <!-- EN: Off: {0}  Def: {1} -->
-  <TSA_WD_Inspect_OffDefLine>攻：{0}  防：{1}</TSA_WD_Inspect_OffDefLine>
+  <TSA_WD_Inspect_OffDefLine>攻：{0}防：{1}</TSA_WD_Inspect_OffDefLine>
   <!-- EN: Strength: {0}/{1} -->
   <TSA_WD_Inspect_StrengthSimpleLine>戰力：{0}/{1}</TSA_WD_Inspect_StrengthSimpleLine>
   <!-- EN: Strength: {0}/{1}, Humanoid Pawns: {2} -->
@@ -301,7 +301,7 @@
   <!-- EN: Details -->
   <TSA_WD_Log_BtnDetails>詳細資訊</TSA_WD_Log_BtnDetails>
   <!-- EN: EXPAND: Success. {0} founded new T1 {1}. -->
-  <TSA_WD_Log_ExpandSuccess>擴張：成功。{0}建立了新的 T1 據點{1}。</TSA_WD_Log_ExpandSuccess>
+  <TSA_WD_Log_ExpandSuccess>擴張：成功。{0}建立了新的T1據點{1}。</TSA_WD_Log_ExpandSuccess>
   <!-- EN: VANGUARD: {0} aborted; remounting near destination. -->
   <TSA_WD_Log_MassRelocationCancelled>先鋒：{0}已中止；在目的地附近重新整隊。</TSA_WD_Log_MassRelocationCancelled>
   <!-- EN: VANGUARD: {0} packs into {1} columns toward your front. -->
@@ -335,7 +335,7 @@
   <!-- EN: ISOLATION PRESSURE: {0} forced to found {1} settlement(s) near you. -->
   <TSA_WD_Log_IsolationPressure>孤立壓力：{0}被迫在你附近建立{1}個據點。</TSA_WD_Log_IsolationPressure>
   <!-- EN: EXPAND: {0} skipped (world NPC settlement count {1} at cap {2}). -->
-  <TSA_WD_Log_Expand_SkippedGlobalCap>擴張：{0}略過（世界 NPC 據點數{1}已達上限{2}）。</TSA_WD_Log_Expand_SkippedGlobalCap>
+  <TSA_WD_Log_Expand_SkippedGlobalCap>擴張：{0}略過（世界NPC據點數{1}已達上限{2}）。</TSA_WD_Log_Expand_SkippedGlobalCap>
   <!-- EN: EXPAND: {0} skipped (no valid tile in range for a new settlement). -->
   <TSA_WD_Log_Expand_SkippedNoValidTile>擴張：{0}略過（範圍內沒有可建立新據點的有效地塊）。</TSA_WD_Log_Expand_SkippedNoValidTile>
   <!-- EN: GROW: Strength {0} -> {1} -->
@@ -347,9 +347,9 @@
   <!-- EN: Action -->
   <TSA_WD_Log_HeaderAction>行動</TSA_WD_Log_HeaderAction>
   <!-- EN: Actor A -->
-  <TSA_WD_Log_HeaderActor>行動者 A</TSA_WD_Log_HeaderActor>
+  <TSA_WD_Log_HeaderActor>行動者A</TSA_WD_Log_HeaderActor>
   <!-- EN: Actor B -->
-  <TSA_WD_Log_HeaderTarget>行動者 B</TSA_WD_Log_HeaderTarget>
+  <TSA_WD_Log_HeaderTarget>行動者B</TSA_WD_Log_HeaderTarget>
   <!-- EN: Timestamp -->
   <TSA_WD_Log_HeaderTime>時間</TSA_WD_Log_HeaderTime>
   <!-- EN: Mission aborted: Destination no longer valid. -->
@@ -367,13 +367,13 @@
   <!-- EN: TRADER: {0} skipped (sending a caravan would break garrison: cost {1}, floor {2}, current strength {3}). -->
   <TSA_WD_Log_Trader_SkippedGarrison>商人：{0}略過（派出旅隊會使駐軍不足：花費{1}，下限{2}，目前戰力{3}）。</TSA_WD_Log_Trader_SkippedGarrison>
   <!-- EN: TRADER: {0} skipped (traveler def missing; intended destination {1}). -->
-  <TSA_WD_Log_Trader_SkippedNoDef>商人：{0}略過（缺少旅行者 def；原定目的地{1}）。</TSA_WD_Log_Trader_SkippedNoDef>
+  <TSA_WD_Log_Trader_SkippedNoDef>商人：{0}略過（缺少旅行者def；原定目的地{1}）。</TSA_WD_Log_Trader_SkippedNoDef>
   <!-- EN: TRADER: {0} skipped (no valid neutral or allied settlement in range). -->
   <TSA_WD_Log_Trader_SkippedNoTarget>商人：{0}略過（範圍內沒有有效的中立或同盟據點）。</TSA_WD_Log_Trader_SkippedNoTarget>
   <!-- EN: TRADER: Caravan launched from {0} to {1}. -->
   <TSA_WD_Log_TraderLaunched>商人：商隊從{0}出發前往{1}。</TSA_WD_Log_TraderLaunched>
   <!-- EN: TRADE: WD trader caravan completed from {0} to {1}. -->
-  <TSA_WD_Log_TraderTrade_Header>貿易：WD 商隊已完成從{0}到{1}的行程。</TSA_WD_Log_TraderTrade_Header>
+  <TSA_WD_Log_TraderTrade_Header>貿易：WD商隊已完成從{0}到{1}的行程。</TSA_WD_Log_TraderTrade_Header>
   <!-- EN: TRADE: {0} seized a trader caravan ({1}); receiver trade reward applied. -->
   <TSA_WD_Log_TraderTrade_HeaderIntercept>貿易：{0}奪取了一支商隊（{1}）；已套用接收方的貿易獎勵。</TSA_WD_Log_TraderTrade_HeaderIntercept>
   <!-- EN: {0}: {1} -->
@@ -389,7 +389,7 @@
   <!-- EN: offensive strength increased and settlement tier upgraded (trade path; ignores same-tier neighbor requirements). -->
   <TSA_WD_Log_TraderTrade_OutcomeUpgrade>進攻戰力增加且據點等級提升（貿易途徑；忽略同等級鄰近據點的條件）。</TSA_WD_Log_TraderTrade_OutcomeUpgrade>
   <!-- EN: {0}: no settlement strength applied (not a WD settlement / excluded). -->
-  <TSA_WD_Log_TraderTrade_NoStrengthLine>{0}：未套用據點戰力（非 WD 據點／已排除）。</TSA_WD_Log_TraderTrade_NoStrengthLine>
+  <TSA_WD_Log_TraderTrade_NoStrengthLine>{0}：未套用據點戰力（非WD據點／已排除）。</TSA_WD_Log_TraderTrade_NoStrengthLine>
   <!-- EN: TRADER: Caravan arrived from {0} at {1}. -->
   <TSA_WD_Log_TraderArrived>商人：來自{0}的商隊抵達{1}。</TSA_WD_Log_TraderArrived>
   <!-- EN: OUTPOST UPGRADE: Caravan launched from {0} to {1} for {2} (level {3}). -->
@@ -461,7 +461,7 @@
   <!-- EN: {0} missed {1}. -->
   <TSA_WD_AT_Turret_Miss_Text>{0}未擊中{1}。</TSA_WD_AT_Turret_Miss_Text>
   <!-- EN: Action Log (Last 500) -->
-  <TSA_WD_Log_WindowTitle>行動紀錄（最近 500 筆）</TSA_WD_Log_WindowTitle>
+  <TSA_WD_Log_WindowTitle>行動紀錄（最近500筆）</TSA_WD_Log_WindowTitle>
   <!-- EN: Raider Caravan -->
   <TSA_WD_RaiderCaravan>突襲旅隊</TSA_WD_RaiderCaravan>
   <!-- EN: Raider Drop Pods -->
@@ -543,23 +543,23 @@
   <!-- EN: Settlement -->
   <TSA_WD_SubType_Generic>據點</TSA_WD_SubType_Generic>
   <!-- EN: DEBUG raid caravan (500) -->
-  <TSA_WD_DebugRaidTravelerLabel>DEBUG 突襲旅隊（500）</TSA_WD_DebugRaidTravelerLabel>
+  <TSA_WD_DebugRaidTravelerLabel>DEBUG突襲旅隊（500）</TSA_WD_DebugRaidTravelerLabel>
   <!-- EN: WD debug: Click START tile. Spawns a hostile raid traveler (500 str); destination is random ~10 tiles away with a valid path; despawns on arrival (mortar interception applies). -->
-  <TSA_WD_DebugRaidPickStart>WD 除錯：點擊起點地塊。會生成一支敵對突襲旅行者（戰力 500）；目的地為約 10 格外、有有效路徑的隨機地點；抵達後消失（會套用迫擊砲攔截）。</TSA_WD_DebugRaidPickStart>
+  <TSA_WD_DebugRaidPickStart>WD除錯：點擊起點地塊。會生成一支敵對突襲旅行者（戰力500）；目的地為約10格外、有有效路徑的隨機地點；抵達後消失（會套用迫擊砲攔截）。</TSA_WD_DebugRaidPickStart>
   <!-- EN: WD debug: Could not find a valid random destination (~10 tiles) with a path from the clicked tile. Try another start tile. -->
-  <TSA_WD_DebugRaidNoPath>WD 除錯：從點擊的地塊找不到有路徑可達的有效隨機目的地（約 10 格）。請換個起點地塊。</TSA_WD_DebugRaidNoPath>
+  <TSA_WD_DebugRaidNoPath>WD除錯：從點擊的地塊找不到有路徑可達的有效隨機目的地（約10格）。請換個起點地塊。</TSA_WD_DebugRaidNoPath>
   <!-- EN: WD debug: Spawned {0} raid traveler tiles {1} → {2}. -->
-  <TSA_WD_DebugRaidSpawned>WD 除錯：已生成{0}突襲旅行者，地塊{1} → {2}。</TSA_WD_DebugRaidSpawned>
+  <TSA_WD_DebugRaidSpawned>WD除錯：已生成{0}突襲旅行者，地塊{1} → {2}。</TSA_WD_DebugRaidSpawned>
   <!-- EN: WD debug: No non-player faction hostile to the colony was found. -->
-  <TSA_WD_DebugRaidNoHostileFaction>WD 除錯：找不到與殖民地敵對的非玩家派系。</TSA_WD_DebugRaidNoHostileFaction>
+  <TSA_WD_DebugRaidNoHostileFaction>WD除錯：找不到與殖民地敵對的非玩家派系。</TSA_WD_DebugRaidNoHostileFaction>
   <!-- EN: WD debug: Click a player outpost. Spawns a real hostile raid caravan (500 str) about 4 tiles away and sends it to attack that outpost. -->
-  <TSA_WD_DebugOutpostRaidPickTarget>WD 除錯：點擊一個玩家哨站。會在約 4 格外生成一支真正的敵對突襲旅隊（戰力 500），並派其攻擊該哨站。</TSA_WD_DebugOutpostRaidPickTarget>
+  <TSA_WD_DebugOutpostRaidPickTarget>WD除錯：點擊一個玩家哨站。會在約4格外生成一支真正的敵對突襲旅隊（戰力500），並派其攻擊該哨站。</TSA_WD_DebugOutpostRaidPickTarget>
   <!-- EN: WD debug: Clicked tile does not contain a player outpost. -->
-  <TSA_WD_DebugOutpostRaidNoOutpost>WD 除錯：點擊的地塊上沒有玩家哨站。</TSA_WD_DebugOutpostRaidNoOutpost>
+  <TSA_WD_DebugOutpostRaidNoOutpost>WD除錯：點擊的地塊上沒有玩家哨站。</TSA_WD_DebugOutpostRaidNoOutpost>
   <!-- EN: WD debug: Could not find a valid start tile about 4 tiles away with a path to this outpost. -->
-  <TSA_WD_DebugOutpostRaidNoStart>WD 除錯：找不到約 4 格外、有路徑可達此哨站的有效起點地塊。</TSA_WD_DebugOutpostRaidNoStart>
+  <TSA_WD_DebugOutpostRaidNoStart>WD除錯：找不到約4格外、有路徑可達此哨站的有效起點地塊。</TSA_WD_DebugOutpostRaidNoStart>
   <!-- EN: WD debug: Spawned {0} outpost raid traveler from tile {1} toward {2}. -->
-  <TSA_WD_DebugOutpostRaidSpawned>WD 除錯：已生成{0}哨站突襲旅行者，從地塊{1}前往{2}。</TSA_WD_DebugOutpostRaidSpawned>
+  <TSA_WD_DebugOutpostRaidSpawned>WD除錯：已生成{0}哨站突襲旅行者，從地塊{1}前往{2}。</TSA_WD_DebugOutpostRaidSpawned>
   <!-- EN: Silo -->
   <TSA_WD_AdvBuild_Silo>糧倉</TSA_WD_AdvBuild_Silo>
   <!-- EN: Hospital -->

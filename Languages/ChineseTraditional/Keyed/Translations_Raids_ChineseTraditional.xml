@@ -165,23 +165,23 @@
   <!-- EN: A hostile expedition from {0} has been launched! They are traveling across the world map to raid {1}.\n\nYou have time to prepare your defenses or intercept them on the world map before they arrive. -->
   <TSA_WD_Letter_IncomingRaid_Text>來自{0}的敵對遠征隊已出發！他們正穿越世界地圖，準備突襲{1}。\n\n在他們抵達前，你還有時間準備防禦，或在世界地圖上攔截他們。</TSA_WD_Letter_IncomingRaid_Text>
   <!-- EN: WD raid on colony launched: {0} ({1}) -->
-  <TSA_WD_Letter_IncomingRaid_Colony_Label>WD 對殖民地的突襲已出發：{0}（{1}）</TSA_WD_Letter_IncomingRaid_Colony_Label>
+  <TSA_WD_Letter_IncomingRaid_Colony_Label>WD對殖民地的突襲已出發：{0}（{1}）</TSA_WD_Letter_IncomingRaid_Colony_Label>
   <!-- EN: A hostile expedition from {0} is heading for your colony {1} across the world map.\n\nExpected raid points on arrival: {2}\nEstimated arrival in {3} days.\n\nYou have time to prepare defenses at {1} or intercept them on the world map before they arrive. -->
   <TSA_WD_Letter_IncomingRaid_Colony_Text>來自{0}的敵對遠征隊正穿越世界地圖，前往你的殖民地{1}。\n\n抵達時預計突襲點數：{2}\n預計{3}天後抵達。\n\n在他們抵達前，你還有時間在{1}準備防禦，或在世界地圖上攔截他們。</TSA_WD_Letter_IncomingRaid_Colony_Text>
   <!-- EN: WD raid on colony launched: {0} ({1}) -->
-  <TSA_WD_Letter_IncomingRaid_Colony_Dispatch_Label>WD 對殖民地的突襲已出發：{0}（{1}）</TSA_WD_Letter_IncomingRaid_Colony_Dispatch_Label>
+  <TSA_WD_Letter_IncomingRaid_Colony_Dispatch_Label>WD對殖民地的突襲已出發：{0}（{1}）</TSA_WD_Letter_IncomingRaid_Colony_Dispatch_Label>
   <!-- EN: {0} has dispatched a force from {1} against your colony {2}.\n\nExpected raid points on arrival: {3}\nEstimated arrival in {4} days.\n\nYou have time to prepare defenses at {2} or intercept them on the world map before they arrive. -->
   <TSA_WD_Letter_IncomingRaid_Colony_Dispatch_Text>{0}已從{1}派出部隊進攻你的殖民地{2}。\n\n抵達時預計突襲點數：{3}\n預計{4}天後抵達。\n\n在他們抵達前，你還有時間在{2}準備防禦，或在世界地圖上攔截他們。</TSA_WD_Letter_IncomingRaid_Colony_Dispatch_Text>
   <!-- EN: WD Drop Raid incoming -->
-  <TSA_WD_Letter_IncomingDropRaid_Label>WD 空降突襲來襲</TSA_WD_Letter_IncomingDropRaid_Label>
+  <TSA_WD_Letter_IncomingDropRaid_Label>WD空降突襲來襲</TSA_WD_Letter_IncomingDropRaid_Label>
   <!-- EN: Drop pods from {0} are inbound on your colony {1}.\n\nExpected raid points on arrival: {2}\nEstimated arrival in {3} days. -->
   <TSA_WD_Letter_IncomingDropRaid_Text>來自{0}的運輸艙正飛往你的殖民地{1}。\n\n抵達時預計突襲點數：{2}\n預計{3}天後抵達。</TSA_WD_Letter_IncomingDropRaid_Text>
   <!-- EN: WD Drop Raid incoming ({0}) -->
-  <TSA_WD_Letter_IncomingDropRaid_Dispatch_Label>WD 空降突襲來襲（{0}）</TSA_WD_Letter_IncomingDropRaid_Dispatch_Label>
+  <TSA_WD_Letter_IncomingDropRaid_Dispatch_Label>WD空降突襲來襲（{0}）</TSA_WD_Letter_IncomingDropRaid_Dispatch_Label>
   <!-- EN: {0} has dispatched drop pods from {1} against your colony {2}.\n\nExpected raid points on arrival: {3}\nEstimated arrival in {4} days. -->
   <TSA_WD_Letter_IncomingDropRaid_Dispatch_Text>{0}已從{1}派出運輸艙進攻你的殖民地{2}。\n\n抵達時預計突襲點數：{3}\n預計{4}天後抵達。</TSA_WD_Letter_IncomingDropRaid_Dispatch_Text>
   <!-- EN: WD raid on {0} launched ({1}) -->
-  <TSA_WD_Letter_IncomingRaid_Outpost_Label>WD 對{0}的突襲已出發（{1}）</TSA_WD_Letter_IncomingRaid_Outpost_Label>
+  <TSA_WD_Letter_IncomingRaid_Outpost_Label>WD對{0}的突襲已出發（{1}）</TSA_WD_Letter_IncomingRaid_Outpost_Label>
   <!-- EN: A hostile expedition from {0} is heading for your outpost {1} across the world map.\n\nExpected raid points on arrival: {2}\nOutpost strength: {3}\nDefense win likelihood (auto-resolve): {4}\nEstimated arrival in {5} days.\n\nYou have time to prepare defenses or intercept them on the world map before they arrive. -->
   <TSA_WD_Letter_IncomingRaid_Outpost_Text>來自{0}的敵對遠征隊正穿越世界地圖，前往你的哨站{1}。\n\n抵達時預計突襲點數：{2}\n哨站戰力：{3}\n防守勝算（自動結算）：{4}\n預計{5}天後抵達。\n\n在他們抵達前，你還有時間準備防禦，或在世界地圖上攔截他們。</TSA_WD_Letter_IncomingRaid_Outpost_Text>
   <!-- EN: Jump to attacker -->
@@ -199,11 +199,11 @@
   <!-- EN: {0} was overrun by {1}. Personnel lost. -->
   <TSA_WD_Letter_OutpostRaided_Text>{0}被{1}攻陷。人員全數損失。</TSA_WD_Letter_OutpostRaided_Text>
   <!-- EN: WD Raid: {0} -->
-  <TSA_WD_Letter_RaidPlayer_Label>WD 突襲：{0}</TSA_WD_Letter_RaidPlayer_Label>
+  <TSA_WD_Letter_RaidPlayer_Label>WD突襲：{0}</TSA_WD_Letter_RaidPlayer_Label>
   <!-- EN: An assault has been launched from the world map by {0}. -->
   <TSA_WD_Letter_RaidPlayer_Text>{0}從世界地圖發動了一次攻擊。</TSA_WD_Letter_RaidPlayer_Text>
   <!-- EN: WD raid on colony: {0} ({1}) -->
-  <TSA_WD_Letter_RaidPlayer_Colony_Label>WD 突襲殖民地：{0}（{1}）</TSA_WD_Letter_RaidPlayer_Colony_Label>
+  <TSA_WD_Letter_RaidPlayer_Colony_Label>WD突襲殖民地：{0}（{1}）</TSA_WD_Letter_RaidPlayer_Colony_Label>
   <!-- EN: Raiders from {0} have arrived at your colony {1} and are attacking.\n\nRespond on the map immediately. -->
   <TSA_WD_Letter_RaidPlayer_Colony_Text>來自{0}的侵略者已抵達你的殖民地{1}並發動攻擊。\n\n請立即在地圖上應對。</TSA_WD_Letter_RaidPlayer_Colony_Text>
   <!-- EN: Attempted Raid Analysis -->
@@ -357,11 +357,11 @@
   <!-- EN: Allow Player Outposts to be Raided -->
   <TSA_WD_Raid_AllowOutpost>允許玩家哨站遭到突襲</TSA_WD_Raid_AllowOutpost>
   <!-- EN: If enabled, NPC settlements can launch simulated raids against your Outposts in range. -->
-  <TSA_WD_Raid_AllowOutpostTooltip>啟用後，範圍內的 NPC 據點可對你的哨站發動模擬突襲。</TSA_WD_Raid_AllowOutpostTooltip>
+  <TSA_WD_Raid_AllowOutpostTooltip>啟用後，範圍內的NPC據點可對你的哨站發動模擬突襲。</TSA_WD_Raid_AllowOutpostTooltip>
   <!-- EN: Allow Player Colony to be Raided -->
   <TSA_WD_Raid_AllowPlayer>允許玩家殖民地遭到突襲</TSA_WD_Raid_AllowPlayer>
   <!-- EN: If enabled, NPC settlements within range can launch actual raids against your colony map. -->
-  <TSA_WD_Raid_AllowPlayerTooltip>啟用後，範圍內的 NPC 據點可對你的殖民地地圖發動實際突襲。</TSA_WD_Raid_AllowPlayerTooltip>
+  <TSA_WD_Raid_AllowPlayerTooltip>啟用後，範圍內的NPC據點可對你的殖民地地圖發動實際突襲。</TSA_WD_Raid_AllowPlayerTooltip>
   <!-- EN: Ally pull radius -->
   <TSA_WD_Raid_AllyRadius>同盟召集半徑</TSA_WD_Raid_AllyRadius>
   <!-- EN: Base world-tile radius for same-faction and allied-faction neighbors that can join attacks or defenses. Mid/Late Game can raise the base. Tunnel Network adds an outer ring that only pulls other outposts with Tunnel Network. -->
@@ -371,17 +371,17 @@
   <!-- EN: How many days must pass before your colony can be targeted again by a world-triggered raid. -->
   <TSA_WD_Raid_CdPlayerTooltip>你的殖民地再次成為世界突襲目標前必須經過的天數。</TSA_WD_Raid_CdPlayerTooltip>
   <!-- EN: Max player WD raids per day -->
-  <TSA_WD_Raid_MaxPerDay>每天針對玩家的 WD 突襲上限</TSA_WD_Raid_MaxPerDay>
+  <TSA_WD_Raid_MaxPerDay>每天針對玩家的WD突襲上限</TSA_WD_Raid_MaxPerDay>
   <!-- EN: Global limit on World Domination world raids against your colonies and outposts combined in any 1-day window. Stacks on top of per-colony and per-outpost raid cooldowns. Does not affect storyteller raids. -->
-  <TSA_WD_Raid_MaxPerDayTooltip>任意1天內，World Domination 世界突襲對你的殖民地與哨站合計的全域上限。與各殖民地、各哨站的突襲冷卻疊加。不影響故事敘述者的突襲。</TSA_WD_Raid_MaxPerDayTooltip>
+  <TSA_WD_Raid_MaxPerDayTooltip>任意1天內，World Domination世界突襲對你的殖民地與哨站合計的全域上限。與各殖民地、各哨站的突襲冷卻疊加。不影響故事敘述者的突襲。</TSA_WD_Raid_MaxPerDayTooltip>
   <!-- EN: Max player WD raids per 4 days -->
-  <TSA_WD_Raid_MaxPer4Days>每4天針對玩家的 WD 突襲上限</TSA_WD_Raid_MaxPer4Days>
+  <TSA_WD_Raid_MaxPer4Days>每4天針對玩家的WD突襲上限</TSA_WD_Raid_MaxPer4Days>
   <!-- EN: Global limit on World Domination world raids against your colonies and outposts combined in any 4-day window. Cannot be lower than the per-day limit. Stacks on top of per-target cooldowns. Does not affect storyteller raids. -->
-  <TSA_WD_Raid_MaxPer4DaysTooltip>任意4天內，World Domination 世界突襲對你的殖民地與哨站合計的全域上限。不能低於每天上限。與各目標的冷卻疊加。不影響故事敘述者的突襲。</TSA_WD_Raid_MaxPer4DaysTooltip>
+  <TSA_WD_Raid_MaxPer4DaysTooltip>任意4天內，World Domination世界突襲對你的殖民地與哨站合計的全域上限。不能低於每天上限。與各目標的冷卻疊加。不影響故事敘述者的突襲。</TSA_WD_Raid_MaxPer4DaysTooltip>
   <!-- EN: Max player WD raids per 7 days -->
-  <TSA_WD_Raid_MaxPer7Days>每7天針對玩家的 WD 突襲上限</TSA_WD_Raid_MaxPer7Days>
+  <TSA_WD_Raid_MaxPer7Days>每7天針對玩家的WD突襲上限</TSA_WD_Raid_MaxPer7Days>
   <!-- EN: Global limit on World Domination world raids against your colonies and outposts combined in any 7-day window. Cannot be lower than the per-4-day limit. Stacks on top of per-target cooldowns. Does not affect storyteller raids. -->
-  <TSA_WD_Raid_MaxPer7DaysTooltip>任意7天內，World Domination 世界突襲對你的殖民地與哨站合計的全域上限。不能低於每4天上限。與各目標的冷卻疊加。不影響故事敘述者的突襲。</TSA_WD_Raid_MaxPer7DaysTooltip>
+  <TSA_WD_Raid_MaxPer7DaysTooltip>任意7天內，World Domination世界突襲對你的殖民地與哨站合計的全域上限。不能低於每4天上限。與各目標的冷卻疊加。不影響故事敘述者的突襲。</TSA_WD_Raid_MaxPer7DaysTooltip>
   <!-- EN: Player raiding is currently disabled. -->
   <TSA_WD_Raid_DisabledPlayer>對玩家的突襲目前已停用。</TSA_WD_Raid_DisabledPlayer>
   <!-- EN: Battle Outcome Tiers (Auto-Balancing) -->
@@ -393,7 +393,7 @@
   <!-- EN: Pre-raid exact path and travel cost calculation -->
   <TSA_WD_Raid_TravelPrepExactPct>突襲前精確路徑與移動成本計算</TSA_WD_Raid_TravelPrepExactPct>
   <!-- EN: Share of raid/trader destination prep assessments that use full world pathfinding (FindPath). 0% always uses the crow-flies heuristic (often the biggest performance gain on huge worlds). 100% always pathfinds. In between, a deterministic cadence uses exact pathing that share of the time. Prep can understate mountain/sea detours (e.g. real path 4× longer), so a raid may launch that arrives weaker: acceptable fog of war, not a bug. Launch still uses a real path. Also managed by Setting presets → Performance when you use those packs. -->
-  <TSA_WD_Raid_TravelPrepExactPctTip>突襲／商人目的地準備評估中，使用完整世界尋路（FindPath）的比例。0%一律使用直線距離估算（在超大世界上通常是最大的效能提升）。100%一律尋路。介於兩者之間時，會以固定節奏在該比例的次數中使用精確尋路。準備階段可能低估繞過山脈／海洋的距離（例如實際路徑長4倍），因此突襲抵達時可能較弱：這是可接受的戰爭迷霧，不是 bug。實際出發時仍使用真實路徑。使用設定預設集時，也會由「設定預設集 → 效能」管理。</TSA_WD_Raid_TravelPrepExactPctTip>
+  <TSA_WD_Raid_TravelPrepExactPctTip>突襲／商人目的地準備評估中，使用完整世界尋路（FindPath）的比例。0%一律使用直線距離估算（在超大世界上通常是最大的效能提升）。100%一律尋路。介於兩者之間時，會以固定節奏在該比例的次數中使用精確尋路。準備階段可能低估繞過山脈／海洋的距離（例如實際路徑長4倍），因此突襲抵達時可能較弱：這是可接受的戰爭迷霧，不是bug。實際出發時仍使用真實路徑。使用設定預設集時，也會由「設定預設集 → 效能」管理。</TSA_WD_Raid_TravelPrepExactPctTip>
   <!-- EN: Strength Attrition (% per hour) -->
   <TSA_WD_Raid_LossPerHour>戰力耗損（每小時%）</TSA_WD_Raid_LossPerHour>
   <!-- EN: The percentage of current strength lost every hour during travel. The longer a raid force is on the road, the more strength they lose. -->
@@ -401,15 +401,15 @@
   <!-- EN: Max Travel Duration (Days) -->
   <TSA_WD_Raid_MaxTravelDays>最長移動時間（天）</TSA_WD_Raid_MaxTravelDays>
   <!-- EN: The hard limit for how long a WD Traveler (Raid, Expansion, Road Building Caravan) can remain in the field. If a caravan reaches this limit before hitting its target, the mission is aborted and the force is lost. -->
-  <TSA_WD_Raid_MaxTravelDaysTooltip>WD 旅行者（突襲、擴張、築路旅隊）可在野外停留的硬性上限。若旅隊在抵達目標前達到此上限，任務即中止，部隊全數損失。</TSA_WD_Raid_MaxTravelDaysTooltip>
+  <TSA_WD_Raid_MaxTravelDaysTooltip>WD旅行者（突襲、擴張、築路旅隊）可在野外停留的硬性上限。若旅隊在抵達目標前達到此上限，任務即中止，部隊全數損失。</TSA_WD_Raid_MaxTravelDaysTooltip>
   <!-- EN: Raid arrival styles -->
   <TSA_WD_Raid_HeaderArrivalStyles>突襲抵達方式</TSA_WD_Raid_HeaderArrivalStyles>
   <!-- EN: T3 drop-pod raid chance -->
-  <TSA_WD_Raid_DropPodChanceT3>T3 空降突襲機率</TSA_WD_Raid_DropPodChanceT3>
+  <TSA_WD_Raid_DropPodChanceT3>T3空降突襲機率</TSA_WD_Raid_DropPodChanceT3>
   <!-- EN: When a tier-3 settlement launches a raid and meets the tech gate, this is the chance it uses ballistic drop pods instead of a walking caravan. Same attrition formula as T4 drop pods. -->
-  <TSA_WD_Raid_DropPodChanceT3Tip>3級據點發動突襲且符合科技門檻時，改用彈道式運輸艙而非步行旅隊的機率。耗損公式與 T4 運輸艙相同。</TSA_WD_Raid_DropPodChanceT3Tip>
+  <TSA_WD_Raid_DropPodChanceT3Tip>3級據點發動突襲且符合科技門檻時，改用彈道式運輸艙而非步行旅隊的機率。耗損公式與T4運輸艙相同。</TSA_WD_Raid_DropPodChanceT3Tip>
   <!-- EN: T4 drop-pod raid chance -->
-  <TSA_WD_Raid_DropPodChance>T4 空降突襲機率</TSA_WD_Raid_DropPodChance>
+  <TSA_WD_Raid_DropPodChance>T4空降突襲機率</TSA_WD_Raid_DropPodChance>
   <!-- EN: When a tier-4 settlement launches a raid and meets the tech gate, this is the chance it uses ballistic drop pods instead of a walking caravan. Launch gate, letter, and arrival strength all use the same drop-pod attrition formula. -->
   <TSA_WD_Raid_DropPodChanceTip>4級據點發動突襲且符合科技門檻時，改用彈道式運輸艙而非步行旅隊的機率。出發門檻、信件與抵達戰力都使用相同的運輸艙耗損公式。</TSA_WD_Raid_DropPodChanceTip>
   <!-- EN: Drop-pod raids: min tech level -->
@@ -423,19 +423,19 @@
   <!-- EN: Colony siege chance (walk raids) -->
   <TSA_WD_Raid_ColonySiegeChance>殖民地圍攻機率（步行突襲）</TSA_WD_Raid_ColonySiegeChance>
   <!-- EN: When a normal (walking) raid caravan from a T3 or T4 settlement arrives at your colony, chance the map raid uses the Siege strategy. Drop-pod raids never roll siege. -->
-  <TSA_WD_Raid_ColonySiegeChanceTip>來自 T3 或 T4 據點的一般（步行）突襲旅隊抵達你的殖民地時，地圖突襲採用圍攻策略的機率。空降突襲不會判定圍攻。</TSA_WD_Raid_ColonySiegeChanceTip>
+  <TSA_WD_Raid_ColonySiegeChanceTip>來自T3或T4據點的一般（步行）突襲旅隊抵達你的殖民地時，地圖突襲採用圍攻策略的機率。空降突襲不會判定圍攻。</TSA_WD_Raid_ColonySiegeChanceTip>
   <!-- EN: Min Strength Ratio -->
   <TSA_WD_Raid_MinRatio>最低戰力比</TSA_WD_Raid_MinRatio>
   <!-- EN: Minimum strength advantage required for an NPC to consider a raid on an outpost or NPC settlement viable. Raids on your colony use a separate storyteller-points gate: attackers need at least 0.7× those points, then −0.2× per quiet day (floor 0). Quiet means days since a WD raid last launched at the colony. When a settlement would raid the colony, the nearest same-faction settlement that still passes that gate launches instead. -->
-  <TSA_WD_Raid_MinRatioTooltip>NPC 認定對哨站或 NPC 據點的突襲可行所需的最低戰力優勢。對你殖民地的突襲則使用另一個故事敘述者點數門檻：進攻方至少需要該點數的0.7×，每個平靜日再−0.2×（下限0）。平靜日指距離上次 WD 突襲對該殖民地出發的天數。當某據點要突襲殖民地時，會改由仍通過該門檻、最近的同派系據點出發。</TSA_WD_Raid_MinRatioTooltip>
+  <TSA_WD_Raid_MinRatioTooltip>NPC認定對哨站或NPC據點的突襲可行所需的最低戰力優勢。對你殖民地的突襲則使用另一個故事敘述者點數門檻：進攻方至少需要該點數的0.7×，每個平靜日再−0.2×（下限0）。平靜日指距離上次WD突襲對該殖民地出發的天數。當某據點要突襲殖民地時，會改由仍通過該門檻、最近的同派系據點出發。</TSA_WD_Raid_MinRatioTooltip>
   <!-- EN: Raze Chance -->
   <TSA_WD_Raid_RazeChance>夷平機率</TSA_WD_Raid_RazeChance>
   <!-- EN: Chance that a successful automatic NPC raid razes the target instead of founding a conqueror settlement. Razed tiles leave timed ruins that block new settlements and outposts nearby until they clear. -->
-  <TSA_WD_Raid_RazeChanceTooltip>NPC 自動突襲成功時，夷平目標而非建立征服者據點的機率。被夷平的地塊會留下限時廢墟，在消失前阻擋附近建立新據點與哨站。</TSA_WD_Raid_RazeChanceTooltip>
+  <TSA_WD_Raid_RazeChanceTooltip>NPC自動突襲成功時，夷平目標而非建立征服者據點的機率。被夷平的地塊會留下限時廢墟，在消失前阻擋附近建立新據點與哨站。</TSA_WD_Raid_RazeChanceTooltip>
   <!-- EN: Ruin linger (days) -->
   <TSA_WD_Raid_RuinLingerDays>廢墟殘留（天）</TSA_WD_Raid_RuinLingerDays>
   <!-- EN: How long WD settlement ruins remain on the map after a raze. They use the same neighbor blocking distance as settlements and outposts, then despawn. -->
-  <TSA_WD_Raid_RuinLingerDaysTooltip>WD 據點廢墟在夷平後留在地圖上的時間。它們使用與據點、哨站相同的鄰近阻擋距離，之後便會消失。</TSA_WD_Raid_RuinLingerDaysTooltip>
+  <TSA_WD_Raid_RuinLingerDaysTooltip>WD據點廢墟在夷平後留在地圖上的時間。它們使用與據點、哨站相同的鄰近阻擋距離，之後便會消失。</TSA_WD_Raid_RuinLingerDaysTooltip>
   <!-- EN: Reset this Page to Defaults -->
   <TSA_WD_Raid_Reset>將此頁重設為預設值</TSA_WD_Raid_Reset>
   <!-- EN: Target Search Range -->
@@ -443,23 +443,23 @@
   <!-- EN: Max distance (in tiles) a settlement will look to find a target. -->
   <TSA_WD_Raid_TargetRadTooltip>據點尋找目標時的最大距離（格）。</TSA_WD_Raid_TargetRadTooltip>
   <!-- EN: NPC Attack Range -->
-  <TSA_WD_Raid_AttackRangeHeader>NPC 攻擊範圍</TSA_WD_Raid_AttackRangeHeader>
+  <TSA_WD_Raid_AttackRangeHeader>NPC攻擊範圍</TSA_WD_Raid_AttackRangeHeader>
   <!-- EN: T1 baseline range -->
-  <TSA_WD_Raid_T1AttackRange>T1 基準範圍</TSA_WD_Raid_T1AttackRange>
+  <TSA_WD_Raid_T1AttackRange>T1基準範圍</TSA_WD_Raid_T1AttackRange>
   <!-- EN: Base attack search radius (tiles) for tier 1 NPC settlements, before Mid/Late and settlement age. -->
-  <TSA_WD_Raid_T1AttackRangeTooltip>1級 NPC 據點的基礎攻擊搜尋半徑（格），未計中期／後期與據點年齡。</TSA_WD_Raid_T1AttackRangeTooltip>
+  <TSA_WD_Raid_T1AttackRangeTooltip>1級NPC據點的基礎攻擊搜尋半徑（格），未計中期／後期與據點年齡。</TSA_WD_Raid_T1AttackRangeTooltip>
   <!-- EN: T2 baseline range -->
-  <TSA_WD_Raid_T2AttackRange>T2 基準範圍</TSA_WD_Raid_T2AttackRange>
+  <TSA_WD_Raid_T2AttackRange>T2基準範圍</TSA_WD_Raid_T2AttackRange>
   <!-- EN: Base attack search radius (tiles) for tier 2 NPC settlements, before Mid/Late and settlement age. -->
-  <TSA_WD_Raid_T2AttackRangeTooltip>2級 NPC 據點的基礎攻擊搜尋半徑（格），未計中期／後期與據點年齡。</TSA_WD_Raid_T2AttackRangeTooltip>
+  <TSA_WD_Raid_T2AttackRangeTooltip>2級NPC據點的基礎攻擊搜尋半徑（格），未計中期／後期與據點年齡。</TSA_WD_Raid_T2AttackRangeTooltip>
   <!-- EN: T3 baseline range -->
-  <TSA_WD_Raid_T3AttackRange>T3 基準範圍</TSA_WD_Raid_T3AttackRange>
+  <TSA_WD_Raid_T3AttackRange>T3基準範圍</TSA_WD_Raid_T3AttackRange>
   <!-- EN: Base attack search radius (tiles) for tier 3 NPC settlements, before Mid/Late and settlement age. -->
-  <TSA_WD_Raid_T3AttackRangeTooltip>3級 NPC 據點的基礎攻擊搜尋半徑（格），未計中期／後期與據點年齡。</TSA_WD_Raid_T3AttackRangeTooltip>
+  <TSA_WD_Raid_T3AttackRangeTooltip>3級NPC據點的基礎攻擊搜尋半徑（格），未計中期／後期與據點年齡。</TSA_WD_Raid_T3AttackRangeTooltip>
   <!-- EN: T4 baseline range -->
-  <TSA_WD_Raid_T4AttackRange>T4 基準範圍</TSA_WD_Raid_T4AttackRange>
+  <TSA_WD_Raid_T4AttackRange>T4基準範圍</TSA_WD_Raid_T4AttackRange>
   <!-- EN: Base attack search radius (tiles) for tier 4 NPC settlements, before Mid/Late and settlement age. -->
-  <TSA_WD_Raid_T4AttackRangeTooltip>4級 NPC 據點的基礎攻擊搜尋半徑（格），未計中期／後期與據點年齡。</TSA_WD_Raid_T4AttackRangeTooltip>
+  <TSA_WD_Raid_T4AttackRangeTooltip>4級NPC據點的基礎攻擊搜尋半徑（格），未計中期／後期與據點年齡。</TSA_WD_Raid_T4AttackRangeTooltip>
   <!-- EN: Settlement age range bonus -->
   <TSA_WD_Raid_AttackRangeTimeBonus>據點年齡範圍加成</TSA_WD_Raid_AttackRangeTimeBonus>
   <!-- EN: Maximum percentage added to that settlement's attack range after it ages to Days to max age. Tier changes do not reset age. Scales from founding day 0 to Days to max age. -->
@@ -471,7 +471,7 @@
   <!-- EN: Player outpost attack range -->
   <TSA_WD_Raid_PlayerOutpostAttackRange>玩家哨站攻擊範圍</TSA_WD_Raid_PlayerOutpostAttackRange>
   <!-- EN: Max distance (tiles) when manually launching raids from player outposts. Does not affect NPC settlement range. -->
-  <TSA_WD_Raid_PlayerOutpostAttackRangeTooltip>從玩家哨站手動發動突襲時的最大距離（格）。不影響 NPC 據點的範圍。</TSA_WD_Raid_PlayerOutpostAttackRangeTooltip>
+  <TSA_WD_Raid_PlayerOutpostAttackRangeTooltip>從玩家哨站手動發動突襲時的最大距離（格）。不影響NPC據點的範圍。</TSA_WD_Raid_PlayerOutpostAttackRangeTooltip>
   <!-- EN: Force Breakdown -->
   <TSA_WD_ReinforcementBreakdown>兵力明細</TSA_WD_ReinforcementBreakdown>
   <!-- EN: Reinforcements: {0} -->

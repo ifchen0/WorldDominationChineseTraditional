@@ -11,7 +11,7 @@
   <!-- EN: Launch Mortar Strike -->
   <TSA_WD_Mortar_LaunchLabel>發動迫擊砲轟擊</TSA_WD_Mortar_LaunchLabel>
   <!-- EN: Pick a hostile settlement, caravan, or WD traveler within {0} tiles.\n\nIf the shell hits, it deals {1} strength.\n\nHit chance uses your range-band settings from the outpost options, plus one percentage point per Shooting level of the best shooter ({2}).\n\nCooldown is shortened by total garrison Shooting ({3}): each point is −2% duration, stacking with upgrades (minimum 25% of base days). -->
-  <TSA_WD_Mortar_LaunchDesc>選擇{0}格內的敵對據點、旅隊或 WD 旅行者。
+  <TSA_WD_Mortar_LaunchDesc>選擇{0}格內的敵對據點、旅隊或WD旅行者。
 
 砲彈命中時造成{1}戰力傷害。
 
@@ -127,11 +127,11 @@
   <!-- EN: Artillery cooldown (days) -->
   <TSA_WD_Settings_CooldownMortarDays>砲擊冷卻（天）</TSA_WD_Settings_CooldownMortarDays>
   <!-- EN: Base days before a player artillery outpost or hostile T4 interceptor can fire again, before garrison Shooting (2% shorter per summed point, min 25% of this) and outpost upgrade reductions. -->
-  <TSA_WD_Settings_CooldownMortarDaysTooltip>玩家砲兵哨站或敵方 T4 攔截據點再次開火前的基礎天數，尚未計入駐軍射擊技能（總和每點縮短2%，最低為此值的25%）與哨站升級的縮減。</TSA_WD_Settings_CooldownMortarDaysTooltip>
+  <TSA_WD_Settings_CooldownMortarDaysTooltip>玩家砲兵哨站或敵方T4攔截據點再次開火前的基礎天數，尚未計入駐軍射擊技能（總和每點縮短2%，最低為此值的25%）與哨站升級的縮減。</TSA_WD_Settings_CooldownMortarDaysTooltip>
   <!-- EN: Base shell strength damage -->
   <TSA_WD_Settings_MortarBaseShellDamage>基礎砲彈戰力傷害</TSA_WD_Settings_MortarBaseShellDamage>
   <!-- EN: Strength removed on a hit before outpost upgrades. Upgrades add flat damage per built level via XML (mortarShellDamageBonus). Settlements split damage across offensive/defensive pools; caravans and WD travelers use one abstract pool. -->
-  <TSA_WD_Settings_MortarBaseShellDamageTooltip>命中時扣除的戰力（未計哨站升級）。升級會依 XML（mortarShellDamageBonus）為每個已建等級增加固定傷害。據點的傷害會分攤到進攻／防禦兩個戰力池；旅隊與 WD 旅行者使用單一抽象戰力池。</TSA_WD_Settings_MortarBaseShellDamageTooltip>
+  <TSA_WD_Settings_MortarBaseShellDamageTooltip>命中時扣除的戰力（未計哨站升級）。升級會依XML（mortarShellDamageBonus）為每個已建等級增加固定傷害。據點的傷害會分攤到進攻／防禦兩個戰力池；旅隊與WD旅行者使用單一抽象戰力池。</TSA_WD_Settings_MortarBaseShellDamageTooltip>
   <!-- EN: Hit chance at 0–50% of max range -->
   <TSA_WD_Settings_MortarHitBand0To50>最大射程0–50%時的命中率</TSA_WD_Settings_MortarHitBand0To50>
   <!-- EN: Base hit for 0-50% of max range. With the level-20 best shooter bonus (+20 pp), hit chance reaches 100% at half max range. Upgrades add mortar hit chance bonus. -->
@@ -165,19 +165,19 @@
   <!-- EN: Interception Caravan travel time multiplier -->
   <TSA_WD_Outpost_RapidResponseSpeedMult>攔截旅隊移動時間倍率</TSA_WD_Outpost_RapidResponseSpeedMult>
   <!-- EN: Ticks per move multiplier for Interception Caravans (player Rapid Response and NPC settlement ambush). Relative to the walking traveler speed setting. Lower = faster. An extra ~10% chase edge still applies so they can catch targets moving at a similar pace. -->
-  <TSA_WD_Outpost_RapidResponseSpeedMultTooltip>攔截旅隊（玩家快速反應與 NPC 據點伏擊）每次移動所需 tick 的倍率，以步行旅行者速度設定為基準。越低越快。另外仍有約10%的追擊優勢，讓它們能追上速度相近的目標。</TSA_WD_Outpost_RapidResponseSpeedMultTooltip>
+  <TSA_WD_Outpost_RapidResponseSpeedMultTooltip>攔截旅隊（玩家快速反應與NPC據點伏擊）每次移動所需tick的倍率，以步行旅行者速度設定為基準。越低越快。另外仍有約10%的追擊優勢，讓它們能追上速度相近的目標。</TSA_WD_Outpost_RapidResponseSpeedMultTooltip>
   <!-- EN: Drop-pod travel ticks per tile -->
-  <TSA_WD_Settings_DropPodTicksPerMove>運輸艙每格移動 tick 數</TSA_WD_Settings_DropPodTicksPerMove>
+  <TSA_WD_Settings_DropPodTicksPerMove>運輸艙每格移動tick數</TSA_WD_Settings_DropPodTicksPerMove>
   <!-- EN: World ticks per tile for ballistic drop-pod travelers (raids, warehouse and colony deliveries, Rapid Response pawn pods, trade pods, and similar). Lower = faster. Does not affect land Interception Caravans (use the Interception Caravan travel time multiplier). -->
-  <TSA_WD_Settings_DropPodTicksPerMoveTooltip>彈道式運輸艙旅行者（突襲、倉庫與殖民地配送、快速反應角色運輸艙、貿易運輸艙等）每格所需的世界 tick 數。越低越快。不影響陸上的攔截旅隊（請使用攔截旅隊移動時間倍率）。</TSA_WD_Settings_DropPodTicksPerMoveTooltip>
+  <TSA_WD_Settings_DropPodTicksPerMoveTooltip>彈道式運輸艙旅行者（突襲、倉庫與殖民地配送、快速反應角色運輸艙、貿易運輸艙等）每格所需的世界tick數。越低越快。不影響陸上的攔截旅隊（請使用攔截旅隊移動時間倍率）。</TSA_WD_Settings_DropPodTicksPerMoveTooltip>
   <!-- EN: Mortar shell travel ticks per tile -->
-  <TSA_WD_Settings_MortarShellTicksPerMove>迫擊砲彈每格移動 tick 數</TSA_WD_Settings_MortarShellTicksPerMove>
+  <TSA_WD_Settings_MortarShellTicksPerMove>迫擊砲彈每格移動tick數</TSA_WD_Settings_MortarShellTicksPerMove>
   <!-- EN: World ticks per tile for mortar shell travelers on the world map. Lower = faster shells. -->
-  <TSA_WD_Settings_MortarShellTicksPerMoveTooltip>世界地圖上迫擊砲彈旅行者每格所需的世界 tick 數。越低砲彈越快。</TSA_WD_Settings_MortarShellTicksPerMoveTooltip>
+  <TSA_WD_Settings_MortarShellTicksPerMoveTooltip>世界地圖上迫擊砲彈旅行者每格所需的世界tick數。越低砲彈越快。</TSA_WD_Settings_MortarShellTicksPerMoveTooltip>
   <!-- EN: Anti-Air flak travel ticks per tile -->
-  <TSA_WD_Settings_FlakShellTicksPerMove>防空防空砲彈每格移動 tick 數</TSA_WD_Settings_FlakShellTicksPerMove>
+  <TSA_WD_Settings_FlakShellTicksPerMove>防空防空砲彈每格移動tick數</TSA_WD_Settings_FlakShellTicksPerMove>
   <!-- EN: World ticks per tile for Anti-Air flak shells. Lower = faster. Also used when leading moving targets. -->
-  <TSA_WD_Settings_FlakShellTicksPerMoveTooltip>防空防空砲彈每格所需的世界 tick 數。越低越快。也用於計算移動目標的提前量。</TSA_WD_Settings_FlakShellTicksPerMoveTooltip>
+  <TSA_WD_Settings_FlakShellTicksPerMoveTooltip>防空防空砲彈每格所需的世界tick數。越低越快。也用於計算移動目標的提前量。</TSA_WD_Settings_FlakShellTicksPerMoveTooltip>
   <!-- EN: Enemy settlement mortar damage -->
   <TSA_WD_Settings_NpcMortarDamage>敵方據點迫擊砲傷害</TSA_WD_Settings_NpcMortarDamage>
   <!-- EN: Strength removed from hostile tier-4 settlements when their defensive mortar hits a traveler or caravan. -->
@@ -185,11 +185,11 @@
   <!-- EN: Enemy settlement equivalent shooting skill -->
   <TSA_WD_Settings_NpcMortarSkillEquivalent>敵方據點等效射擊技能</TSA_WD_Settings_NpcMortarSkillEquivalent>
   <!-- EN: Treated as the settlement’s “best shooter” level: adds this many percentage points to hit (+1% per point) after distance bands. No outpost upgrades apply to NPC shots. -->
-  <TSA_WD_Settings_NpcMortarSkillEquivalentTooltip>視為該據點「最佳射手」的等級：在距離區段之後，命中率增加此數值的百分點（每點+1%）。NPC 射擊不套用任何哨站升級。</TSA_WD_Settings_NpcMortarSkillEquivalentTooltip>
+  <TSA_WD_Settings_NpcMortarSkillEquivalentTooltip>視為該據點「最佳射手」的等級：在距離區段之後，命中率增加此數值的百分點（每點+1%）。NPC射擊不套用任何哨站升級。</TSA_WD_Settings_NpcMortarSkillEquivalentTooltip>
   <!-- EN: Interception scan interval (seconds) -->
   <TSA_WD_Settings_InterceptionScanIntervalSec>攔截掃描間隔（秒）</TSA_WD_Settings_InterceptionScanIntervalSec>
   <!-- EN: Shared performance setting. Player artillery and Rapid Response outposts use this interval. Enemy T4 settlements use three times this interval (capped scans per cycle). -->
-  <TSA_WD_Settings_InterceptionScanIntervalSecTooltip>共用的效能設定。玩家砲兵哨站與快速反應哨站使用此間隔。敵方 T4 據點使用此間隔的三倍（每週期掃描次數有上限）。</TSA_WD_Settings_InterceptionScanIntervalSecTooltip>
+  <TSA_WD_Settings_InterceptionScanIntervalSecTooltip>共用的效能設定。玩家砲兵哨站與快速反應哨站使用此間隔。敵方T4據點使用此間隔的三倍（每週期掃描次數有上限）。</TSA_WD_Settings_InterceptionScanIntervalSecTooltip>
   <!-- EN: Reset artillery / interception tuning -->
   <TSA_WD_Settings_ResetMortarInterception>重設砲擊／攔截調整</TSA_WD_Settings_ResetMortarInterception>
   <!-- EN: Enemy artillery turrets -->
@@ -197,15 +197,15 @@
   <!-- EN: Enemy Mortar Turrets fire -->
   <TSA_WD_T4Mortar_EnableAll>敵方迫擊砲塔開火</TSA_WD_T4Mortar_EnableAll>
   <!-- EN: Master toggle. NPC settlements build Mortar Turrets as advanced building projects (tier 3 on a 30% roll, one free turret on reaching tier 4). When on, these turrets fire at hostile NON-player WD travelers in range, and when none are in range they shell hostile targets nearby. Settlements themselves never fire. Whether turrets may also target YOU is set under Threat timing. -->
-  <TSA_WD_T4Mortar_EnableAllTooltip>總開關。NPC 據點會把迫擊砲塔當作進階建築計畫來建造（3級時有30%機率，升到4級時免費獲得一座）。開啟時，這些砲塔會向範圍內的敵對「非玩家」WD 旅行者開火；範圍內沒有目標時，則砲擊附近的敵對目標。據點本身永遠不會開火。砲塔是否也能以「你」為目標，在「威脅時機」中設定。</TSA_WD_T4Mortar_EnableAllTooltip>
+  <TSA_WD_T4Mortar_EnableAllTooltip>總開關。NPC據點會把迫擊砲塔當作進階建築計畫來建造（3級時有30%機率，升到4級時免費獲得一座）。開啟時，這些砲塔會向範圍內的敵對「非玩家」WD旅行者開火；範圍內沒有目標時，則砲擊附近的敵對目標。據點本身永遠不會開火。砲塔是否也能以「你」為目標，在「威脅時機」中設定。</TSA_WD_T4Mortar_EnableAllTooltip>
   <!-- EN: Artillery turrets: min tech level -->
   <TSA_WD_T4Mortar_MinTech>砲塔：最低科技等級</TSA_WD_T4Mortar_MinTech>
   <!-- EN: Only factions at this tech level or higher may build and fire Mortar and AA Turrets. Neolithic allows essentially all factions. -->
   <TSA_WD_T4Mortar_MinTechTip>只有達到此科技等級以上的派系才能建造並使用迫擊砲塔與防空砲塔。選「原始部落」基本上等於所有派系皆可。</TSA_WD_T4Mortar_MinTechTip>
   <!-- EN: May target your WD travelers and outposts -->
-  <TSA_WD_T4Mortar_TargetPlayer>可攻擊你的 WD 旅行者與哨站</TSA_WD_T4Mortar_TargetPlayer>
+  <TSA_WD_T4Mortar_TargetPlayer>可攻擊你的WD旅行者與哨站</TSA_WD_T4Mortar_TargetPlayer>
   <!-- EN: When on, enemy Mortar Turrets may also fire at your WD caravans and outposts, but only while Late Game is active. With this off, they never target you in Late Game. Mid Game has its own toggle; turning Mid Game on forces this Late Game toggle on. -->
-  <TSA_WD_T4Mortar_TargetPlayerTooltip>開啟時，敵方迫擊砲塔也可能向你的 WD 旅隊與哨站開火，但僅限後期階段啟用期間。關閉時，後期階段絕不會以你為目標。中期階段有獨立的開關；開啟中期階段會強制開啟此後期開關。</TSA_WD_T4Mortar_TargetPlayerTooltip>
+  <TSA_WD_T4Mortar_TargetPlayerTooltip>開啟時，敵方迫擊砲塔也可能向你的WD旅隊與哨站開火，但僅限後期階段啟用期間。關閉時，後期階段絕不會以你為目標。中期階段有獨立的開關；開啟中期階段會強制開啟此後期開關。</TSA_WD_T4Mortar_TargetPlayerTooltip>
   <!-- EN: Mortar Turret range (tiles) -->
   <TSA_WD_T4Mortar_Range>迫擊砲塔射程（格）</TSA_WD_T4Mortar_Range>
   <!-- EN: Maximum world distance (tiles) an enemy Mortar Turret can reach. Independent of the player artillery range. -->
@@ -441,13 +441,13 @@
   <!-- EN: Off (ungrouped) -->
   <TSA_WD_AntiAir_Group_Menu_Off>關閉（不分組）</TSA_WD_AntiAir_Group_Menu_Off>
   <!-- EN: Group A -->
-  <TSA_WD_AntiAir_Group_Menu_A>A 組</TSA_WD_AntiAir_Group_Menu_A>
+  <TSA_WD_AntiAir_Group_Menu_A>A組</TSA_WD_AntiAir_Group_Menu_A>
   <!-- EN: Group B -->
-  <TSA_WD_AntiAir_Group_Menu_B>B 組</TSA_WD_AntiAir_Group_Menu_B>
+  <TSA_WD_AntiAir_Group_Menu_B>B組</TSA_WD_AntiAir_Group_Menu_B>
   <!-- EN: Group C -->
-  <TSA_WD_AntiAir_Group_Menu_C>C 組</TSA_WD_AntiAir_Group_Menu_C>
+  <TSA_WD_AntiAir_Group_Menu_C>C組</TSA_WD_AntiAir_Group_Menu_C>
   <!-- EN: Group D -->
-  <TSA_WD_AntiAir_Group_Menu_D>D 組</TSA_WD_AntiAir_Group_Menu_D>
+  <TSA_WD_AntiAir_Group_Menu_D>D組</TSA_WD_AntiAir_Group_Menu_D>
   <!-- EN: Mortar shell destroyed -->
   <TSA_WD_AntiAir_MortarShell_Destroyed_Label>迫擊砲彈已被摧毀</TSA_WD_AntiAir_MortarShell_Destroyed_Label>
   <!-- EN: Anti-Air guns of your Outpost '{0}' have destroyed a mortar shell from the Settlement '{1}' of Faction '{2}'. -->
@@ -539,27 +539,27 @@
   <!-- EN: Hover for Mortar Range -->
   <TSA_WD_T4_HoverMortarRange>懸停顯示迫擊砲射程</TSA_WD_T4_HoverMortarRange>
   <!-- EN: Hover this command to draw this settlement's T4 mortar range on the world map. Not a toggle. -->
-  <TSA_WD_T4_HoverMortarRangeDesc>將滑鼠懸停在此指令上，即可在世界地圖上繪出此據點的 T4 迫擊砲射程。並非開關。</TSA_WD_T4_HoverMortarRangeDesc>
+  <TSA_WD_T4_HoverMortarRangeDesc>將滑鼠懸停在此指令上，即可在世界地圖上繪出此據點的T4迫擊砲射程。並非開關。</TSA_WD_T4_HoverMortarRangeDesc>
   <!-- EN: Hover for AA Range -->
   <TSA_WD_T4_HoverAARange>懸停顯示防空射程</TSA_WD_T4_HoverAARange>
   <!-- EN: Hover this command to draw this settlement's T4 Anti-Air range on the world map. Red, orange, and yellow rings are Anti-Air accuracy bands vs pods and aerials (mortar shells use a flat shot-down chance). Not a toggle. -->
-  <TSA_WD_T4_HoverAARangeDesc>將滑鼠懸停在此指令上，即可在世界地圖上繪出此據點的 T4 防空射程。紅、橘、黃圓環是對運輸艙與飛行載具的防空準度區段（迫擊砲彈使用固定的擊落機率）。並非開關。</TSA_WD_T4_HoverAARangeDesc>
+  <TSA_WD_T4_HoverAARangeDesc>將滑鼠懸停在此指令上，即可在世界地圖上繪出此據點的T4防空射程。紅、橘、黃圓環是對運輸艙與飛行載具的防空準度區段（迫擊砲彈使用固定的擊落機率）。並非開關。</TSA_WD_T4_HoverAARangeDesc>
   <!-- EN: Auto Mortar On -->
   <TSA_WD_T4_AutoMortar_On>自動迫擊砲：開啟</TSA_WD_T4_AutoMortar_On>
   <!-- EN: Auto Mortar Off -->
   <TSA_WD_T4_AutoMortar_Off>自動迫擊砲：關閉</TSA_WD_T4_AutoMortar_Off>
   <!-- EN: When on, this T4 settlement auto-fires its mortar at hostile ground targets in range. -->
-  <TSA_WD_T4_AutoMortar_Desc>開啟時，此 T4 據點會自動以迫擊砲射擊範圍內的敵對地面目標。</TSA_WD_T4_AutoMortar_Desc>
+  <TSA_WD_T4_AutoMortar_Desc>開啟時，此T4據點會自動以迫擊砲射擊範圍內的敵對地面目標。</TSA_WD_T4_AutoMortar_Desc>
   <!-- EN: Auto AA On -->
   <TSA_WD_T4_AutoAA_On>自動防空：開啟</TSA_WD_T4_AutoAA_On>
   <!-- EN: Auto AA Off -->
   <TSA_WD_T4_AutoAA_Off>自動防空：關閉</TSA_WD_T4_AutoAA_Off>
   <!-- EN: When on, this T4 settlement auto-engages hostile airborne targets in AA range. -->
-  <TSA_WD_T4_AutoAA_Desc>開啟時，此 T4 據點會自動迎擊防空範圍內的敵對空中目標。</TSA_WD_T4_AutoAA_Desc>
+  <TSA_WD_T4_AutoAA_Desc>開啟時，此T4據點會自動迎擊防空範圍內的敵對空中目標。</TSA_WD_T4_AutoAA_Desc>
   <!-- EN: Enemy AA Turrets fire -->
   <TSA_WD_T4AA_EnableAll>敵方防空砲塔開火</TSA_WD_T4AA_EnableAll>
   <!-- EN: Master toggle for NPC AA Turrets against hostile airborne targets. Settlements build AA Turrets as advanced building projects; settlements themselves never fire. -->
-  <TSA_WD_T4AA_EnableAllTooltip>NPC 防空砲塔對敵對空中目標開火的總開關。據點會把防空砲塔當作進階建築計畫來建造；據點本身永遠不會開火。</TSA_WD_T4AA_EnableAllTooltip>
+  <TSA_WD_T4AA_EnableAllTooltip>NPC防空砲塔對敵對空中目標開火的總開關。據點會把防空砲塔當作進階建築計畫來建造；據點本身永遠不會開火。</TSA_WD_T4AA_EnableAllTooltip>
   <!-- EN: AA may target your airborne assets -->
   <TSA_WD_T4AA_TargetPlayer>防空可攻擊你的空中單位</TSA_WD_T4AA_TargetPlayer>
   <!-- EN: When on, enemy AA Turrets may engage your drop pods and shells while Late Game is active. Mid Game has its own toggle; turning Mid Game on forces this Late Game toggle on. -->
@@ -575,7 +575,7 @@
   <!-- EN: AA Turret damage -->
   <TSA_WD_T4AA_Damage>防空砲塔傷害</TSA_WD_T4AA_Damage>
   <!-- EN: Flak resolver damage for NPC AA Turrets. -->
-  <TSA_WD_T4AA_DamageTooltip>NPC 防空砲塔的高射砲結算傷害。</TSA_WD_T4AA_DamageTooltip>
+  <TSA_WD_T4AA_DamageTooltip>NPC防空砲塔的高射砲結算傷害。</TSA_WD_T4AA_DamageTooltip>
   <!-- EN: AA Turret skill equivalent -->
   <TSA_WD_T4AA_Skill>防空砲塔等效技能</TSA_WD_T4AA_Skill>
   <!-- EN: Equivalent Shooting skill used for AA Turret hit bands vs drop pods, transport pods, and aerials (+1 percentage point per level). Does not affect the flat AA Turret chance vs mortar shells. -->

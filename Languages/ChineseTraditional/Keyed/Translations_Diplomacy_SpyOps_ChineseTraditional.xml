@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: This list applies to changes attempted by the World Domination mod -->
-  <TSA_WD_AllegianceLock_ScopeInfo>此清單適用於 World Domination 模組嘗試進行的關係變動</TSA_WD_AllegianceLock_ScopeInfo>
+  <TSA_WD_AllegianceLock_ScopeInfo>此清單適用於World Domination模組嘗試進行的關係變動</TSA_WD_AllegianceLock_ScopeInfo>
   <!-- EN: Allowed Diplomacy Changes -->
   <TSA_WD_AllegianceLock_Title>允許的外交變動</TSA_WD_AllegianceLock_Title>
   <!-- EN: Allow All -->
@@ -11,17 +11,17 @@
   <!-- EN: Lock All -->
   <TSA_WD_BtnLockAll>全部鎖定</TSA_WD_BtnLockAll>
   <!-- EN: No relationship changes will occur through the World Domination mod. -->
-  <TSA_WD_BtnLockAll_Tooltip>World Domination 模組不會造成任何關係變動。</TSA_WD_BtnLockAll_Tooltip>
+  <TSA_WD_BtnLockAll_Tooltip>World Domination模組不會造成任何關係變動。</TSA_WD_BtnLockAll_Tooltip>
   <!-- EN: Default -->
   <TSA_WD_BtnReset>預設</TSA_WD_BtnReset>
   <!-- EN: Perm. Hostile -->
   <TSA_WD_BtnResetGlobal>永久敵對</TSA_WD_BtnResetGlobal>
   <!-- EN: Locks every pair that includes a permanently hostile faction (including vs the player), and locks Insectoid/Hive pairs against everyone. Stops WD diplomacy from changing those pairs. -->
-  <TSA_WD_BtnResetGlobal_Tooltip>鎖定所有包含永久敵對派系的組合（包括與玩家之間），並將蟲族／蟲巢組合對所有派系鎖定。WD 外交不會變更這些組合。</TSA_WD_BtnResetGlobal_Tooltip>
+  <TSA_WD_BtnResetGlobal_Tooltip>鎖定所有包含永久敵對派系的組合（包括與玩家之間），並將蟲族／蟲巢組合對所有派系鎖定。WD外交不會變更這些組合。</TSA_WD_BtnResetGlobal_Tooltip>
   <!-- EN: Applies default lock rules: permanently hostile factions (Insectoids and vanilla Permanent Enemies) are locked against each other, and Insectoid/Hive factions are locked against everyone. Other pairs, including vs the player, stay unlocked unless you lock them in the list below. -->
   <TSA_WD_BtnReset_Tooltip>套用預設鎖定規則：永久敵對派系（蟲族與原版永久敵人）彼此鎖定，蟲族／蟲巢派系對所有派系鎖定。其他組合（包括與玩家之間）保持未鎖定，除非你在下方清單中鎖定。</TSA_WD_BtnReset_Tooltip>
   <!-- EN: In-game only: faction participation (WD Actions, MapGen, Storyteller) and per-pair allegiances. -->
-  <TSA_WD_DescAllegianceMatrix>僅限遊戲中：派系參與設定（WD 行動、MapGen、故事敘述者）與各派系對的陣營。</TSA_WD_DescAllegianceMatrix>
+  <TSA_WD_DescAllegianceMatrix>僅限遊戲中：派系參與設定（WD行動、MapGen、故事敘述者）與各派系對的陣營。</TSA_WD_DescAllegianceMatrix>
   <!-- EN: Daily action share multiplier -->
   <TSA_WD_Diplo_ActionShareMult>每日行動佔比倍率</TSA_WD_Diplo_ActionShareMult>
   <!-- EN: Enable Anti-Leader Coalitions -->
@@ -97,7 +97,7 @@
   <!-- EN: {0} at {1} failed. -{2} goodwill with {3}, now at {4} -->
   <TSA_WD_GoodwillMsg_SpyOpFailure>{1}的{0}失敗。與{3}的友好度 -{2}，目前為{4}</TSA_WD_GoodwillMsg_SpyOpFailure>
   <!-- EN: Trader caravan arrived at your settlement. +{1} goodwill with {0}, now at {2} -->
-  <TSA_WD_GoodwillMsg_TraderCaravan>商隊抵達你的據點。與{0}的友好度 {1}，目前為{2}</TSA_WD_GoodwillMsg_TraderCaravan>
+  <TSA_WD_GoodwillMsg_TraderCaravan>商隊抵達你的據點。與{0}的友好度{1}，目前為{2}</TSA_WD_GoodwillMsg_TraderCaravan>
   <!-- EN: Embassy {3}: {1} goodwill with {0}, now at {2} -->
   <TSA_WD_GoodwillMsg_Embassy>大使館{3}：與{0}的友好度{1}，目前為{2}</TSA_WD_GoodwillMsg_Embassy>
   <!-- EN: Ordered {0} at {1} to build road to {2}. -{3} goodwill, now at {4} -->
@@ -125,7 +125,7 @@
   <!-- EN: Order trader caravan (goodwill) -->
   <TSA_WD_Diplo_OrderedTraderCost>委派商隊（友好度）</TSA_WD_Diplo_OrderedTraderCost>
   <!-- EN: Flat goodwill cost to order a trader caravan from a neutral or allied settlement. All trader types cost the same. At least 10 goodwill must remain after payment. -->
-  <TSA_WD_Diplo_OrderedTraderCostTooltip>向中立或同盟據點委派商隊的固定友好度花費。所有商人類型花費相同。付款後友好度至少須剩下 10。</TSA_WD_Diplo_OrderedTraderCostTooltip>
+  <TSA_WD_Diplo_OrderedTraderCostTooltip>向中立或同盟據點委派商隊的固定友好度花費。所有商人類型花費相同。付款後友好度至少須剩下10。</TSA_WD_Diplo_OrderedTraderCostTooltip>
   <!-- EN: Road Project for Player -->
   <TSA_WD_FacDet_HeaderRoadForPlayer>為玩家修建的道路工程</TSA_WD_FacDet_HeaderRoadForPlayer>
   <!-- EN: Minimum allied raid success chance -->
@@ -155,11 +155,11 @@
   <!-- EN: Leader: Incident strength loss multiplier -->
   <TSA_WD_Diplo_LeaderIncidentSeverity>霸主：事件戰力損失倍率</TSA_WD_Diplo_LeaderIncidentSeverity>
   <!-- EN: When the world leader suffers an incident, strength deduction is multiplied by this (e.g. 2 = double damage). -->
-  <TSA_WD_Diplo_LeaderIncidentSeverityTooltip>世界霸主遭遇事件時，扣除的戰力會乘以此值（例如 2 = 雙倍損失）。</TSA_WD_Diplo_LeaderIncidentSeverityTooltip>
+  <TSA_WD_Diplo_LeaderIncidentSeverityTooltip>世界霸主遭遇事件時，扣除的戰力會乘以此值（例如2 = 雙倍損失）。</TSA_WD_Diplo_LeaderIncidentSeverityTooltip>
   <!-- EN: Leader: Incident likelihood multiplier -->
   <TSA_WD_Diplo_LeaderIncidentWeight>霸主：事件發生機率倍率</TSA_WD_Diplo_LeaderIncidentWeight>
   <!-- EN: When the world leader has the debuff, their weight for minor/major incidents is multiplied by this (e.g. 2 = twice as likely). -->
-  <TSA_WD_Diplo_LeaderIncidentWeightTooltip>世界霸主帶有減益時，其小型／大型事件的權重會乘以此值（例如 2 = 機率加倍）。</TSA_WD_Diplo_LeaderIncidentWeightTooltip>
+  <TSA_WD_Diplo_LeaderIncidentWeightTooltip>世界霸主帶有減益時，其小型／大型事件的權重會乘以此值（例如2 = 機率加倍）。</TSA_WD_Diplo_LeaderIncidentWeightTooltip>
   <!-- EN: Leader debuff trigger chance -->
   <TSA_WD_Diplo_LeaderTriggerChance>霸主減益觸發機率</TSA_WD_Diplo_LeaderTriggerChance>
   <!-- EN: Daily chance to apply the dominant-faction handicap when conditions are met. -->
@@ -173,19 +173,19 @@
   <!-- EN: Enable Random Allegiance Changes -->
   <TSA_WD_Diplo_RandomEnable>啟用隨機陣營變動</TSA_WD_Diplo_RandomEnable>
   <!-- EN: If enabled, NPC factions will occasionally change their relations (Peace, War, Alliances) independently. -->
-  <TSA_WD_Diplo_RandomEnableTooltip>啟用後，NPC 派系會不時自行變更彼此關係（和平、戰爭、同盟）。</TSA_WD_Diplo_RandomEnableTooltip>
+  <TSA_WD_Diplo_RandomEnableTooltip>啟用後，NPC派系會不時自行變更彼此關係（和平、戰爭、同盟）。</TSA_WD_Diplo_RandomEnableTooltip>
   <!-- EN: Enable strong-faction wars -->
   <TSA_WD_Diplo_StrongFactionWarEnable>啟用強權派系戰爭</TSA_WD_Diplo_StrongFactionWarEnable>
   <!-- EN: Each day, the strongest NPC factions (top share by world strength) may cool an alliance to neutral or escalate neutral pairs to war. Allies never jump straight to hostile. Separate from random allegiance changes. -->
-  <TSA_WD_Diplo_StrongFactionWarEnableTooltip>每天最強的 NPC 派系（依世界戰力排名前段）可能將同盟關係降為中立，或將中立組合升級為戰爭。同盟不會直接跳到敵對。與隨機陣營變動分開計算。</TSA_WD_Diplo_StrongFactionWarEnableTooltip>
+  <TSA_WD_Diplo_StrongFactionWarEnableTooltip>每天最強的NPC派系（依世界戰力排名前段）可能將同盟關係降為中立，或將中立組合升級為戰爭。同盟不會直接跳到敵對。與隨機陣營變動分開計算。</TSA_WD_Diplo_StrongFactionWarEnableTooltip>
   <!-- EN: Strong-faction war chance -->
   <TSA_WD_Diplo_StrongFactionWarChance>強權派系戰爭機率</TSA_WD_Diplo_StrongFactionWarChance>
   <!-- EN: Daily chance that one eligible neutral or allied pair among the top strongest NPC factions escalates (ally to neutral, or neutral to war). -->
-  <TSA_WD_Diplo_StrongFactionWarChanceTooltip>最強 NPC 派系之間，每日有一組符合條件的中立或同盟組合關係升級（同盟降為中立，或中立轉為戰爭）的機率。</TSA_WD_Diplo_StrongFactionWarChanceTooltip>
+  <TSA_WD_Diplo_StrongFactionWarChanceTooltip>最強NPC派系之間，每日有一組符合條件的中立或同盟組合關係升級（同盟降為中立，或中立轉為戰爭）的機率。</TSA_WD_Diplo_StrongFactionWarChanceTooltip>
   <!-- EN: Top strong factions considered -->
   <TSA_WD_Diplo_StrongFactionWarTopPct>列入考量的前段強權派系</TSA_WD_Diplo_StrongFactionWarTopPct>
   <!-- EN: Share of the strongest NPC factions (by total strength) that can be picked for strong-faction escalation. At least two factions are always considered when available. -->
-  <TSA_WD_Diplo_StrongFactionWarTopPctTooltip>最強 NPC 派系（依總戰力）中可被選入強權派系升級的比例。只要有足夠派系，至少會考量兩個派系。</TSA_WD_Diplo_StrongFactionWarTopPctTooltip>
+  <TSA_WD_Diplo_StrongFactionWarTopPctTooltip>最強NPC派系（依總戰力）中可被選入強權派系升級的比例。只要有足夠派系，至少會考量兩個派系。</TSA_WD_Diplo_StrongFactionWarTopPctTooltip>
   <!-- EN: Only after Mid or Late Game -->
   <TSA_WD_Diplo_StrongFactionWarRequireMidOrLate>僅限中期或後期之後</TSA_WD_Diplo_StrongFactionWarRequireMidOrLate>
   <!-- EN: When on, strong-faction wars only roll once Mid Game or Late Game escalation is active. -->
@@ -207,7 +207,7 @@
   <!-- EN: Daily Revolt Chance -->
   <TSA_WD_Diplo_RevoltChance>每日叛亂機率</TSA_WD_Diplo_RevoltChance>
   <!-- EN: Daily chance that a defeated faction returns and seizes 3 to 7 settlements from the top NPC factions by settlement count (at least 3 from the largest, the rest from the next two). Prefers lower-tier settlements. Player holdings are never taken. -->
-  <TSA_WD_Diplo_RevoltChanceTooltip>每日一個已被擊敗的派系捲土重來，從據點數量最多的 NPC 派系手中奪取 3 至 7 個據點的機率（至少 3 個來自最大派系，其餘來自接下來的兩個派系）。優先奪取等級較低的據點。玩家的領地絕不會被奪取。</TSA_WD_Diplo_RevoltChanceTooltip>
+  <TSA_WD_Diplo_RevoltChanceTooltip>每日一個已被擊敗的派系捲土重來，從據點數量最多的NPC派系手中奪取3至7個據點的機率（至少3個來自最大派系，其餘來自接下來的兩個派系）。優先奪取等級較低的據點。玩家的領地絕不會被奪取。</TSA_WD_Diplo_RevoltChanceTooltip>
   <!-- EN: Revolt cooldown -->
   <TSA_WD_Diplo_RevoltCooldown>叛亂冷卻</TSA_WD_Diplo_RevoltCooldown>
   <!-- EN: Days before another revolt can fire after one succeeds. Ignored while Shared special event cooldown is on. -->
@@ -215,7 +215,7 @@
   <!-- EN: Enable forward assault (Vanguard / Invasion) -->
   <TSA_WD_Diplo_ForwardAssaultEnable>啟用前線攻勢（先鋒／入侵）</TSA_WD_Diplo_ForwardAssaultEnable>
   <!-- EN: A strong distant hostile may pack 5–7 settlements into a few strong Vanguard caravans that dig in on your front, or launch 5–7 coordinated raids for Invasion (homes stay). Timing of Vanguard vs Invasion is set by Combat Difficulty threat gates. Shared Forward Assault enable, chance, and distance knobs live there too. If Vanguard cannot reserve a cluster and fallback is on, Invasion is attempted instead. -->
-  <TSA_WD_Diplo_ForwardAssaultEnableTooltip>遠方的強大敵對派系可能將 5–7 個據點打包成數支強大的先鋒旅隊，在你的前線紮營，或在入侵模式下發動 5–7 次協同突襲（據點保留）。先鋒與入侵的時機由戰鬥難度的威脅門檻決定，前線攻勢共用的啟用、機率與距離設定也在那裡。若先鋒無法保留據點群且已開啟備援，則改為嘗試入侵。</TSA_WD_Diplo_ForwardAssaultEnableTooltip>
+  <TSA_WD_Diplo_ForwardAssaultEnableTooltip>遠方的強大敵對派系可能將5–7個據點打包成數支強大的先鋒旅隊，在你的前線紮營，或在入侵模式下發動5–7次協同突襲（據點保留）。先鋒與入侵的時機由戰鬥難度的威脅門檻決定，前線攻勢共用的啟用、機率與距離設定也在那裡。若先鋒無法保留據點群且已開啟備援，則改為嘗試入侵。</TSA_WD_Diplo_ForwardAssaultEnableTooltip>
   <!-- EN: Forward assault chance -->
   <TSA_WD_Diplo_ForwardAssaultChance>前線攻勢機率</TSA_WD_Diplo_ForwardAssaultChance>
   <!-- EN: Daily chance to attempt a Vanguard or Invasion forward assault when Mid/Late Game difficulty gates and cooldowns allow. -->
@@ -223,7 +223,7 @@
   <!-- EN: Top strong factions considered -->
   <TSA_WD_Diplo_ForwardAssaultTopPct>列入考量的前段強權派系</TSA_WD_Diplo_ForwardAssaultTopPct>
   <!-- EN: Share of the strongest NPC factions (by total strength) that can be picked as the forward-assault aggressor. -->
-  <TSA_WD_Diplo_ForwardAssaultTopPctTooltip>最強 NPC 派系（依總戰力）中可被選為前線攻勢發動者的比例。</TSA_WD_Diplo_ForwardAssaultTopPctTooltip>
+  <TSA_WD_Diplo_ForwardAssaultTopPctTooltip>最強NPC派系（依總戰力）中可被選為前線攻勢發動者的比例。</TSA_WD_Diplo_ForwardAssaultTopPctTooltip>
   <!-- EN: Min distance from player (tiles) -->
   <TSA_WD_Diplo_ForwardAssaultMinDist>與玩家的最小距離（格）</TSA_WD_Diplo_ForwardAssaultMinDist>
   <!-- EN: Source settlements must be at least this far from the nearest player colony to be eligible for Vanguard packing or Invasion raid hosts. -->
@@ -253,7 +253,7 @@
   <!-- EN: Enable desperation raid -->
   <TSA_WD_Diplo_DesperationRaidEnable>啟用孤注一擲突襲</TSA_WD_Diplo_DesperationRaidEnable>
   <!-- EN: When an eligible NPC cluster loses a settlement, the faction may Turtle or launch a desperation raid. Difficulty presets do not control this gate. -->
-  <TSA_WD_Diplo_DesperationRaidEnableTooltip>符合條件的 NPC 據點群失去一個據點時，該派系可能龜縮或發動孤注一擲突襲。難度預設集不控制此門檻。</TSA_WD_Diplo_DesperationRaidEnableTooltip>
+  <TSA_WD_Diplo_DesperationRaidEnableTooltip>符合條件的NPC據點群失去一個據點時，該派系可能龜縮或發動孤注一擲突襲。難度預設集不控制此門檻。</TSA_WD_Diplo_DesperationRaidEnableTooltip>
   <!-- EN: Strategy fire chance -->
   <TSA_WD_Diplo_StrategyFireChance>對策觸發機率</TSA_WD_Diplo_StrategyFireChance>
   <!-- EN: When an overpowered cluster loses a settlement and Strategy is not on cooldown, this is the chance that Strategy actually fires (Turtle or desperation). Failed rolls do nothing and do not start the Strategy cooldown. -->
@@ -261,7 +261,7 @@
   <!-- EN: Desperation Raid possible? -->
   <TSA_WD_Diplo_DesperationChance>可能發動孤注一擲突襲？</TSA_WD_Diplo_DesperationChance>
   <!-- EN: If Strategy fires after a settlement is lost in an overpowered cluster, the faction may Turtle (consolidate forces into a single settlement) or run a desperation raid (abandon settlements and rush the nearest target).\n\nA cluster is settlements of that faction linked within {0} tiles. Overpowered means hostile offense within {2} tiles of any site in the cluster is at least {1}% of the cluster's own offense.\n\nWhen this is on:\nStrong factions: never desperation, always Turtle\nNormal factions: {3}% desperation, {4}% Turtle\nWeak factions: {5}% desperation, {6}% Turtle\n\nStrong = at least {7}% of an equal share of living NPC strength (1/N)\nNormal = {8}% to {7}% of equal share\nWeak = below {8}% of equal share\n\nOff = Turtle only when Strategy fires. -->
-  <TSA_WD_Diplo_DesperationChanceTooltip>若在劣勢據點群失去據點後觸發對策，該派系可能龜縮（將兵力集中到單一據點）或發動孤注一擲突襲（放棄據點並衝向最近的目標）。\n\n據點群是指該派系彼此相距{0}格內相連的據點。劣勢是指據點群中任一據點{2}格內的敵對攻擊力，至少達到據點群自身攻擊力的{1}%。\n\n開啟時：\n強派系：絕不發動孤注一擲突襲，一律龜縮\n普通派系：{3}%孤注一擲突襲，{4}%龜縮\n弱派系：{5}%孤注一擲突襲，{6}%龜縮\n\n強 = 至少達存活 NPC 戰力平均份額（1/N）的{7}%\n普通 = 平均份額的{8}%至{7}%\n弱 = 低於平均份額的{8}%\n\n關閉 = 對策觸發時只會龜縮。</TSA_WD_Diplo_DesperationChanceTooltip>
+  <TSA_WD_Diplo_DesperationChanceTooltip>若在劣勢據點群失去據點後觸發對策，該派系可能龜縮（將兵力集中到單一據點）或發動孤注一擲突襲（放棄據點並衝向最近的目標）。\n\n據點群是指該派系彼此相距{0}格內相連的據點。劣勢是指據點群中任一據點{2}格內的敵對攻擊力，至少達到據點群自身攻擊力的{1}%。\n\n開啟時：\n強派系：絕不發動孤注一擲突襲，一律龜縮\n普通派系：{3}%孤注一擲突襲，{4}%龜縮\n弱派系：{5}%孤注一擲突襲，{6}%龜縮\n\n強 = 至少達存活NPC戰力平均份額（1/N）的{7}%\n普通 = 平均份額的{8}%至{7}%\n弱 = 低於平均份額的{8}%\n\n關閉 = 對策觸發時只會龜縮。</TSA_WD_Diplo_DesperationChanceTooltip>
   <!-- EN: Weak strength share -->
   <TSA_WD_Diplo_DesperationMaxShare>弱勢戰力佔比</TSA_WD_Diplo_DesperationMaxShare>
   <!-- EN: Legacy setting kept for save compatibility. Strategy now uses equal-share bands instead. -->
@@ -279,11 +279,11 @@
   <!-- EN: Underdog: Daily action share multiplier -->
   <TSA_WD_Diplo_UnderdogActionShare>弱勢派系：每日行動佔比倍率</TSA_WD_Diplo_UnderdogActionShare>
   <!-- EN: When underdog buff is active, that faction's share of daily actions is multiplied by this (e.g. 2 = twice as many actions). -->
-  <TSA_WD_Diplo_UnderdogActionShareTooltip>弱勢增益生效時，該派系的每日行動佔比會乘以此值（例如 2 = 行動次數加倍）。</TSA_WD_Diplo_UnderdogActionShareTooltip>
+  <TSA_WD_Diplo_UnderdogActionShareTooltip>弱勢增益生效時，該派系的每日行動佔比會乘以此值（例如2 = 行動次數加倍）。</TSA_WD_Diplo_UnderdogActionShareTooltip>
   <!-- EN: Enable Underdog Growth Boost (Buff) -->
   <TSA_WD_Diplo_UnderdogBuff>啟用弱勢派系成長加速（增益）</TSA_WD_Diplo_UnderdogBuff>
   <!-- EN: Weak NPC factions below equal-share strength can become Nimble (up to several at once), granting faster growth and stronger defense for a limited time. -->
-  <TSA_WD_Diplo_UnderdogBuffTooltip>戰力低於平均份額的弱小 NPC 派系可獲得「靈活」狀態（可同時有數個），在限定時間內成長更快、防禦更強。</TSA_WD_Diplo_UnderdogBuffTooltip>
+  <TSA_WD_Diplo_UnderdogBuffTooltip>戰力低於平均份額的弱小NPC派系可獲得「靈活」狀態（可同時有數個），在限定時間內成長更快、防禦更強。</TSA_WD_Diplo_UnderdogBuffTooltip>
   <!-- EN: Buff: Growth Boost -->
   <TSA_WD_Diplo_UnderdogBuff_Label>增益：成長加速</TSA_WD_Diplo_UnderdogBuff_Label>
   <!-- EN: Buff: '{0}' will grow faster for the next {1} days thanks to being small and nimble. -->
@@ -295,7 +295,7 @@
   <!-- EN: Max concurrent underdogs -->
   <TSA_WD_Diplo_MaxConcurrentUnderdogs>同時存在的弱勢派系上限</TSA_WD_Diplo_MaxConcurrentUnderdogs>
   <!-- EN: How many weak NPC factions can hold the Nimble buff in one wave. -->
-  <TSA_WD_Diplo_MaxConcurrentUnderdogsTooltip>單一波次中最多可有多少個弱小 NPC 派系持有「靈活」增益。</TSA_WD_Diplo_MaxConcurrentUnderdogsTooltip>
+  <TSA_WD_Diplo_MaxConcurrentUnderdogsTooltip>單一波次中最多可有多少個弱小NPC派系持有「靈活」增益。</TSA_WD_Diplo_MaxConcurrentUnderdogsTooltip>
   <!-- EN: Leader: Growth strength gain multiplier -->
   <TSA_WD_Diplo_LeaderGrowthGainMult>霸主：成長戰力增加倍率</TSA_WD_Diplo_LeaderGrowthGainMult>
   <!-- EN: When the world-leader handicap is active, passive growth strength gain is multiplied by this. -->
@@ -311,7 +311,7 @@
   <!-- EN: Leader: Fortify density multiplier -->
   <TSA_WD_Diplo_LeaderFortifyDensityMult>霸主：設防密度倍率</TSA_WD_Diplo_LeaderFortifyDensityMult>
   <!-- EN: Scales fortify kit AT count / caravan density while leader handicap is active. -->
-  <TSA_WD_Diplo_LeaderFortifyDensityTooltip>霸主懲罰生效時，縮放設防套件的 AT 數量／旅隊密度。</TSA_WD_Diplo_LeaderFortifyDensityTooltip>
+  <TSA_WD_Diplo_LeaderFortifyDensityTooltip>霸主懲罰生效時，縮放設防套件的AT數量／旅隊密度。</TSA_WD_Diplo_LeaderFortifyDensityTooltip>
   <!-- EN: Leader attacking: attacker win mult -->
   <TSA_WD_Diplo_LeaderAttackAttWinMult>霸主進攻時：進攻方勝率倍率</TSA_WD_Diplo_LeaderAttackAttWinMult>
   <!-- EN: Multiplies attacker win chance when the handicapped leader is attacking. -->
@@ -335,7 +335,7 @@
   <!-- EN: Underdog: Fortify density multiplier -->
   <TSA_WD_Diplo_UnderdogFortifyDensityMult>弱勢派系：設防密度倍率</TSA_WD_Diplo_UnderdogFortifyDensityMult>
   <!-- EN: Scales fortify kit AT count / caravan density while Nimble is active. -->
-  <TSA_WD_Diplo_UnderdogFortifyDensityTooltip>「靈活」生效時，縮放設防套件的 AT 數量／旅隊密度。</TSA_WD_Diplo_UnderdogFortifyDensityTooltip>
+  <TSA_WD_Diplo_UnderdogFortifyDensityTooltip>「靈活」生效時，縮放設防套件的AT數量／旅隊密度。</TSA_WD_Diplo_UnderdogFortifyDensityTooltip>
   <!-- EN: Underdog defending: attacker win mult -->
   <TSA_WD_Diplo_UnderdogDefendAttWinMult>弱勢派系防守時：進攻方勝率倍率</TSA_WD_Diplo_UnderdogDefendAttWinMult>
   <!-- EN: Multiplies attacker win chance when a Nimble faction is defending (lower = harder to erase underdogs). -->
@@ -347,15 +347,15 @@
   <!-- EN: Underdog: Growth strength gain multiplier -->
   <TSA_WD_Diplo_UnderdogGrowthGain>弱勢派系：成長戰力增加倍率</TSA_WD_Diplo_UnderdogGrowthGain>
   <!-- EN: When underdog buff is active, strength gained from growth actions is multiplied by this (e.g. 2 = double growth). -->
-  <TSA_WD_Diplo_UnderdogGrowthGainTooltip>弱勢增益生效時，成長行動獲得的戰力乘以此值（例如 2 = 成長加倍）。</TSA_WD_Diplo_UnderdogGrowthGainTooltip>
+  <TSA_WD_Diplo_UnderdogGrowthGainTooltip>弱勢增益生效時，成長行動獲得的戰力乘以此值（例如2 = 成長加倍）。</TSA_WD_Diplo_UnderdogGrowthGainTooltip>
   <!-- EN: Incident likelihood multiplier -->
   <TSA_WD_Diplo_UnderdogIncidentWeight>事件發生機率倍率</TSA_WD_Diplo_UnderdogIncidentWeight>
   <!-- EN: When underdog buff is active, how often incidents happen is multiplied by this (e.g. 0.5 = half as likely). -->
-  <TSA_WD_Diplo_UnderdogIncidentWeightTooltip>弱勢增益生效時，事件發生的頻率乘以此值（例如 0.5 = 機率減半）。</TSA_WD_Diplo_UnderdogIncidentWeightTooltip>
+  <TSA_WD_Diplo_UnderdogIncidentWeightTooltip>弱勢增益生效時，事件發生的頻率乘以此值（例如0.5 = 機率減半）。</TSA_WD_Diplo_UnderdogIncidentWeightTooltip>
   <!-- EN: Incident strength loss multiplier -->
   <TSA_WD_Diplo_UnderdogIncidentSeverity>事件戰力損失倍率</TSA_WD_Diplo_UnderdogIncidentSeverity>
   <!-- EN: When underdog buff is active, strength removed by incidents is multiplied by this (e.g. 0.5 = half the loss). -->
-  <TSA_WD_Diplo_UnderdogIncidentSeverityTooltip>弱勢增益生效時，事件扣除的戰力乘以此值（例如 0.5 = 損失減半）。</TSA_WD_Diplo_UnderdogIncidentSeverityTooltip>
+  <TSA_WD_Diplo_UnderdogIncidentSeverityTooltip>弱勢增益生效時，事件扣除的戰力乘以此值（例如0.5 = 損失減半）。</TSA_WD_Diplo_UnderdogIncidentSeverityTooltip>
   <!-- EN: Underdog buff trigger chance -->
   <TSA_WD_Diplo_UnderdogTriggerChance>弱勢增益觸發機率</TSA_WD_Diplo_UnderdogTriggerChance>
   <!-- EN: Daily chance to start a Nimble wave for up to several weak factions when conditions are met. -->
@@ -363,11 +363,11 @@
   <!-- EN: Zeal: Travel attrition multiplier -->
   <TSA_WD_Diplo_ZealAttritionMult>狂熱：行軍耗損倍率</TSA_WD_Diplo_ZealAttritionMult>
   <!-- EN: When a faction has Zeal, caravan strength loss per hour is multiplied by this (e.g. 0.5 = half the normal attrition). -->
-  <TSA_WD_Diplo_ZealAttritionMultTooltip>派系處於狂熱時，旅隊每小時的戰力損失乘以此值（例如 0.5 = 正常耗損的一半）。</TSA_WD_Diplo_ZealAttritionMultTooltip>
+  <TSA_WD_Diplo_ZealAttritionMultTooltip>派系處於狂熱時，旅隊每小時的戰力損失乘以此值（例如0.5 = 正常耗損的一半）。</TSA_WD_Diplo_ZealAttritionMultTooltip>
   <!-- EN: Zeal: Raid range multiplier -->
   <TSA_WD_Diplo_ZealRaidRangeMult>狂熱：突襲範圍倍率</TSA_WD_Diplo_ZealRaidRangeMult>
   <!-- EN: When a faction has Expansionist Zeal, their raid target radius is multiplied by this (e.g. 1.5 = +50% range). -->
-  <TSA_WD_Diplo_ZealRaidRangeMultTooltip>派系處於擴張狂熱時，其突襲目標半徑乘以此值（例如 1.5 = 範圍 +50%）。</TSA_WD_Diplo_ZealRaidRangeMultTooltip>
+  <TSA_WD_Diplo_ZealRaidRangeMultTooltip>派系處於擴張狂熱時，其突襲目標半徑乘以此值（例如1.5 = 範圍 +50%）。</TSA_WD_Diplo_ZealRaidRangeMultTooltip>
   <!-- EN: Zeal Buff Trigger Chance -->
   <TSA_WD_Diplo_ZealTriggerChance>狂熱增益觸發機率</TSA_WD_Diplo_ZealTriggerChance>
   <!-- EN: The daily percentage chance that an ambitious faction will gain Expansionist Zeal (provided the buff is not on cooldown). -->
@@ -391,7 +391,7 @@
   <!-- EN: CD: {0} Days -->
   <TSA_WD_Diplomacy_WdCooldown>冷卻：{0}天</TSA_WD_Diplomacy_WdCooldown>
   <!-- EN: This relationship pair cannot be changed by WD until the cooldown expires. -->
-  <TSA_WD_Diplomacy_WdCooldownTip>冷卻結束前，WD 無法變更這組關係。</TSA_WD_Diplomacy_WdCooldownTip>
+  <TSA_WD_Diplomacy_WdCooldownTip>冷卻結束前，WD無法變更這組關係。</TSA_WD_Diplomacy_WdCooldownTip>
   <!-- EN: Base Strength Point Reduction -->
   <TSA_WD_Dis_BaseReduc>基礎戰力點數削減</TSA_WD_Dis_BaseReduc>
   <!-- EN: Strength removed from the settlement on success. -->
@@ -417,7 +417,7 @@
   <!-- EN: They were identified as an agitator and wounded while fleeing the city. -->
   <TSA_WD_Dis_FailureSpotted>對方被認出是煽動者，在逃離城市時受了傷。</TSA_WD_Dis_FailureSpotted>
   <!-- EN: Launch a disinformation campaign with your pawn {0} (Social: {1}).\n\nSuccess Probability Math:\n  Base: {2}\n  Skill weight: +{3}\n  Tier weight: -{4}\n  Health: x{5}\n- - - - - - - - - - - - - - - - - - - - - - - - - -\n  Total Success: {6}\n\nDetection results in -30 Reputation. -->
-  <TSA_WD_Dis_GizmoDesc>派遣角色{0}（社交：{1}）發動假情報行動。\n\n成功機率計算：\n  基礎：{2}\n  技能權重：+{3}\n  等級權重：-{4}\n  健康：x{5}\n--------------------------\n  總成功率：{6}\n\n被發現會使友好度 -30。</TSA_WD_Dis_GizmoDesc>
+  <TSA_WD_Dis_GizmoDesc>派遣角色{0}（社交：{1}）發動假情報行動。\n\n成功機率計算：\n基礎：{2}\n技能權重：+{3}\n等級權重：-{4}\n健康：x{5}\n--------------------------\n總成功率：{6}\n\n被發現會使友好度 -30。</TSA_WD_Dis_GizmoDesc>
   <!-- EN: Spread Disinformation -->
   <TSA_WD_Dis_GizmoLabel>散播假情報</TSA_WD_Dis_GizmoLabel>
   <!-- EN: Success Likelihood Modifiers -->
@@ -427,13 +427,13 @@
   <!-- EN: Saving Throws -->
   <TSA_WD_Dis_HeaderSaves>豁免判定</TSA_WD_Dis_HeaderSaves>
   <!-- EN: Concrete Examples (Against T2 Town with healthy pawn) -->
-  <TSA_WD_Dis_HeaderSimulation>實際範例（對 T2 城鎮，角色健康）</TSA_WD_Dis_HeaderSimulation>
+  <TSA_WD_Dis_HeaderSimulation>實際範例（對T2城鎮，角色健康）</TSA_WD_Dis_HeaderSimulation>
   <!-- EN: Disinformation Settings: Base Outcome Likelihood -->
   <TSA_WD_Dis_HeaderWeights>假情報設定：基礎結果機率</TSA_WD_Dis_HeaderWeights>
   <!-- EN: Health Impact on Success -->
   <TSA_WD_Dis_HealthImpact>健康對成功率的影響</TSA_WD_Dis_HealthImpact>
   <!-- EN: How much health affects success. At 100%, a pawn with 50% health has their success weight halved. -->
-  <TSA_WD_Dis_HealthImpactTooltip>健康對成功率的影響程度。設為 100% 時，健康 50% 的角色成功權重減半。</TSA_WD_Dis_HealthImpactTooltip>
+  <TSA_WD_Dis_HealthImpactTooltip>健康對成功率的影響程度。設為100% 時，健康50% 的角色成功權重減半。</TSA_WD_Dis_HealthImpactTooltip>
   <!-- EN: Settlement Collapsed! -->
   <TSA_WD_Dis_LetterCollapsedLabel>據點崩潰！</TSA_WD_Dis_LetterCollapsedLabel>
   <!-- EN: {0}'s disinformation campaign was so effective that {1} has dissolved in chaos. Ruins remain for a while and block new settlements nearby. -->
@@ -463,11 +463,11 @@
   <!-- EN: Reset this page to Defaults -->
   <TSA_WD_Dis_Reset>將此頁重設為預設值</TSA_WD_Dis_Reset>
   <!-- EN: All Relevant Skills Lvl 0 -->
-  <TSA_WD_Dis_SimLvl0>所有相關技能 0 級</TSA_WD_Dis_SimLvl0>
+  <TSA_WD_Dis_SimLvl0>所有相關技能0級</TSA_WD_Dis_SimLvl0>
   <!-- EN: All Relevant Skills Lvl 10 -->
-  <TSA_WD_Dis_SimLvl10>所有相關技能 10 級</TSA_WD_Dis_SimLvl10>
+  <TSA_WD_Dis_SimLvl10>所有相關技能10級</TSA_WD_Dis_SimLvl10>
   <!-- EN: All Relevant Skills Lvl 20 -->
-  <TSA_WD_Dis_SimLvl20>所有相關技能 20 級</TSA_WD_Dis_SimLvl20>
+  <TSA_WD_Dis_SimLvl20>所有相關技能20級</TSA_WD_Dis_SimLvl20>
   <!-- EN: {0} | Success: {1} | Clean Fail: {2} | Injury: {3} | Death: {4} -->
   <TSA_WD_Dis_SimResult>{0} | 成功：{1} | 單純失敗：{2} | 受傷：{3} | 死亡：{4}</TSA_WD_Dis_SimResult>
   <!-- EN: Success Weight Bonus per Social Lvl -->
@@ -559,13 +559,13 @@
   <!-- EN: Saving Throws (Skill-based Recovery) -->
   <TSA_WD_Sab_HeaderSaves>豁免判定（依技能挽救）</TSA_WD_Sab_HeaderSaves>
   <!-- EN: Simulation: Against T2 Town (Healthy Pawn) -->
-  <TSA_WD_Sab_HeaderSimulation>模擬：對 T2 城鎮（角色健康）</TSA_WD_Sab_HeaderSimulation>
+  <TSA_WD_Sab_HeaderSimulation>模擬：對T2城鎮（角色健康）</TSA_WD_Sab_HeaderSimulation>
   <!-- EN: Sabotage Settings: Base Outcome Likelihood -->
   <TSA_WD_Sab_HeaderWeights>破壞設定：基礎結果機率</TSA_WD_Sab_HeaderWeights>
   <!-- EN: Health Impact on Success -->
   <TSA_WD_Sab_HealthImpact>健康對成功率的影響</TSA_WD_Sab_HealthImpact>
   <!-- EN: How much pawn health affects success. At 100%, a pawn with 50% health has their success weight halved. -->
-  <TSA_WD_Sab_HealthImpactTooltip>角色健康對成功率的影響程度。設為 100% 時，健康 50% 的角色成功權重減半。</TSA_WD_Sab_HealthImpactTooltip>
+  <TSA_WD_Sab_HealthImpactTooltip>角色健康對成功率的影響程度。設為100% 時，健康50% 的角色成功權重減半。</TSA_WD_Sab_HealthImpactTooltip>
   <!-- EN: Sabotage Failed -->
   <TSA_WD_Sab_LetterFailedLabel>破壞失敗</TSA_WD_Sab_LetterFailedLabel>
   <!-- EN: {0} failed the mission at {1}.  -->
@@ -593,11 +593,11 @@
   <!-- EN: Reset this page to Defaults -->
   <TSA_WD_Sab_Reset>將此頁重設為預設值</TSA_WD_Sab_Reset>
   <!-- EN: All Relevant Skills Lvl 0 -->
-  <TSA_WD_Sab_SimLvl0>所有相關技能 0 級</TSA_WD_Sab_SimLvl0>
+  <TSA_WD_Sab_SimLvl0>所有相關技能0級</TSA_WD_Sab_SimLvl0>
   <!-- EN: All Relevant Skills Lvl 10 -->
-  <TSA_WD_Sab_SimLvl10>所有相關技能 10 級</TSA_WD_Sab_SimLvl10>
+  <TSA_WD_Sab_SimLvl10>所有相關技能10級</TSA_WD_Sab_SimLvl10>
   <!-- EN: All Relevant Skills Lvl 20 -->
-  <TSA_WD_Sab_SimLvl20>所有相關技能 20 級</TSA_WD_Sab_SimLvl20>
+  <TSA_WD_Sab_SimLvl20>所有相關技能20級</TSA_WD_Sab_SimLvl20>
   <!-- EN: {0} | Success: {1} | Clean Fail: {2} | Injury: {3} | Death: {4} -->
   <TSA_WD_Sab_SimResult>{0} | 成功：{1} | 單純失敗：{2} | 受傷：{3} | 死亡：{4}</TSA_WD_Sab_SimResult>
   <!-- EN: Success Weight Bonus per Crafting Lvl -->
@@ -649,7 +649,7 @@
   <!-- EN: The seller must own at least {0} settlements. -->
   <TSA_WD_BuySettlement_TooFewSettlements>賣方至少須擁有{0}個據點。</TSA_WD_BuySettlement_TooFewSettlements>
   <!-- EN: Buy T{0} settlement '{1}' -->
-  <TSA_WD_BuySettlement_DealTitle>購買 T{0} 據點「{1}」</TSA_WD_BuySettlement_DealTitle>
+  <TSA_WD_BuySettlement_DealTitle>購買T{0}據點「{1}」</TSA_WD_BuySettlement_DealTitle>
   <!-- EN: Price: {0} Silver (or equivalent). -->
   <TSA_WD_BuySettlement_DealPrice>價格：{0}白銀（或等值物資）。</TSA_WD_BuySettlement_DealPrice>
   <!-- EN: Pay with silver, goods or goodwill. Payment (goods and goodwill) is deducted immediately. A caravan will travel from the closest outpost or colony to the target. If the caravan is destroyed, payment is lost. If the settlement is destroyed or the deal becomes invalid (relation, seller settlements, or tier change), goods and goodwill are refunded. Overpayment is not refunded. Payment and overpayment strengthen the seller's nearby settlements (boost strength and can upgrade tiers). -->
@@ -665,7 +665,7 @@
   <!-- EN: Overspending: {0} (no refund!) -->
   <TSA_WD_BuySettlement_Overspending>超額支付：{0}（不退還！）</TSA_WD_BuySettlement_Overspending>
   <!-- EN: 1 goodwill = {0} silver -->
-  <TSA_WD_BuySettlement_GoodwillRate>1 友好度 = {0}白銀</TSA_WD_BuySettlement_GoodwillRate>
+  <TSA_WD_BuySettlement_GoodwillRate>1友好度 = {0}白銀</TSA_WD_BuySettlement_GoodwillRate>
   <!-- EN: Current goodwill: {0} -->
   <TSA_WD_BuySettlement_GoodwillCurrent>目前友好度：{0}</TSA_WD_BuySettlement_GoodwillCurrent>
   <!-- EN: Minimum goodwill to retain: {0} -->
@@ -697,13 +697,13 @@
   <!-- EN: Silver per item -->
   <TSA_WD_BuySettlement_ColSilverPer>每件白銀</TSA_WD_BuySettlement_ColSilverPer>
   <!-- EN: Payment value after the vanilla sell-price factor (weapons are typically 20% of listed market value, same as selling to a trader). -->
-  <TSA_WD_BuySettlement_ColSilverPerTip>套用原版售價係數後的付款價值（武器通常為標示市值的 20%，與賣給商人相同）。</TSA_WD_BuySettlement_ColSilverPerTip>
+  <TSA_WD_BuySettlement_ColSilverPerTip>套用原版售價係數後的付款價值（武器通常為標示市值的20%，與賣給商人相同）。</TSA_WD_BuySettlement_ColSilverPerTip>
   <!-- EN: Silver -->
   <TSA_WD_BuySettlement_ColSilver>白銀</TSA_WD_BuySettlement_ColSilver>
   <!-- EN: Filter -->
   <TSA_WD_BuySettlement_Filter>篩選</TSA_WD_BuySettlement_Filter>
   <!-- EN: Hold Ctrl for ×10, Shift for ×100, or both for ×1000. -->
-  <TSA_WD_QuantityAdjustTip>按住 Ctrl 為 ×10，Shift 為 ×100，兩者同時按住為 ×1000。</TSA_WD_QuantityAdjustTip>
+  <TSA_WD_QuantityAdjustTip>按住Ctrl為 ×10，Shift為 ×100，兩者同時按住為 ×1000。</TSA_WD_QuantityAdjustTip>
   <!-- EN: Confirm purchase -->
   <TSA_WD_BuySettlement_Confirm>確認購買</TSA_WD_BuySettlement_Confirm>
   <!-- EN: Offer does not meet the ask price. -->
@@ -747,7 +747,7 @@
   <!-- EN: Gift silver per goodwill bonus point -->
   <TSA_WD_GiftSettlement_GoodwillDivisor>每點友好度加成所需的贈禮白銀</TSA_WD_GiftSettlement_GoodwillDivisor>
   <!-- EN: On gift arrival, goodwill gained is raw goods market value divided by this number (not the deal meter's sell-price valuation). Higher values mean weaker goodwill. Vanilla uses 40. -->
-  <TSA_WD_GiftSettlement_GoodwillDivisorTip>贈禮送達時，獲得的友好度為物資原始市值除以此數值（不是交易量表的售價估值）。數值越高，友好度越少。原版為 40。</TSA_WD_GiftSettlement_GoodwillDivisorTip>
+  <TSA_WD_GiftSettlement_GoodwillDivisorTip>贈禮送達時，獲得的友好度為物資原始市值除以此數值（不是交易量表的售價估值）。數值越高，友好度越少。原版為40。</TSA_WD_GiftSettlement_GoodwillDivisorTip>
   <!-- EN: Minimum gift (silver) -->
   <TSA_WD_GiftSettlement_MinSilverSetting>最低贈禮（白銀）</TSA_WD_GiftSettlement_MinSilverSetting>
   <!-- EN: Gift caravan goods must reach this silver-equivalent on the deal meter (sell-price valuation) before you can confirm. -->
@@ -757,15 +757,15 @@
   <!-- EN: Enable buy settlement -->
   <TSA_WD_BuySettlement_Enable>啟用購買據點</TSA_WD_BuySettlement_Enable>
   <!-- EN: When enabled, ally and neutral WD settlements show a Buy settlement gizmo. -->
-  <TSA_WD_BuySettlement_EnableTip>啟用後，同盟與中立的 WD 據點會顯示「購買據點」按鈕。</TSA_WD_BuySettlement_EnableTip>
+  <TSA_WD_BuySettlement_EnableTip>啟用後，同盟與中立的WD據點會顯示「購買據點」按鈕。</TSA_WD_BuySettlement_EnableTip>
   <!-- EN: Ask (T1 silver) -->
-  <TSA_WD_BuySettlement_AskT1>要價（T1 白銀）</TSA_WD_BuySettlement_AskT1>
+  <TSA_WD_BuySettlement_AskT1>要價（T1白銀）</TSA_WD_BuySettlement_AskT1>
   <!-- EN: Ask (T2 silver) -->
-  <TSA_WD_BuySettlement_AskT2>要價（T2 白銀）</TSA_WD_BuySettlement_AskT2>
+  <TSA_WD_BuySettlement_AskT2>要價（T2白銀）</TSA_WD_BuySettlement_AskT2>
   <!-- EN: Ask (T3 silver) -->
-  <TSA_WD_BuySettlement_AskT3>要價（T3 白銀）</TSA_WD_BuySettlement_AskT3>
+  <TSA_WD_BuySettlement_AskT3>要價（T3白銀）</TSA_WD_BuySettlement_AskT3>
   <!-- EN: Ask (T4 silver) -->
-  <TSA_WD_BuySettlement_AskT4>要價（T4 白銀）</TSA_WD_BuySettlement_AskT4>
+  <TSA_WD_BuySettlement_AskT4>要價（T4白銀）</TSA_WD_BuySettlement_AskT4>
   <!-- EN: Ask price in silver. Same for allies and neutrals; not discounted by goodwill level. -->
   <TSA_WD_BuySettlement_AskTip>以白銀計的要價。同盟與中立相同；不會因友好度高低而折扣。</TSA_WD_BuySettlement_AskTip>
   <!-- EN: Silver per goodwill point -->
@@ -807,7 +807,7 @@
   <!-- EN: {0} received gift value as strength for nearby settlements ({1} towns filled, {2} tier-ups). -->
   <TSA_WD_FactionInvestment_LetterGift>{0}將贈禮價值轉為附近據點的戰力（{1}座城鎮補滿，{2}次升級）。</TSA_WD_FactionInvestment_LetterGift>
   <!-- EN: {0} settlements in range are already at max tier and strength. Further gifts do not add WD strength. -->
-  <TSA_WD_FactionInvestment_LetterGiftFullyCapped>範圍內的{0}據點都已達最高等級與戰力。後續贈禮不會再增加 WD 戰力。</TSA_WD_FactionInvestment_LetterGiftFullyCapped>
+  <TSA_WD_FactionInvestment_LetterGiftFullyCapped>範圍內的{0}據點都已達最高等級與戰力。後續贈禮不會再增加WD戰力。</TSA_WD_FactionInvestment_LetterGiftFullyCapped>
   <!-- EN: Gift value ({1} silver-equivalent) did not change {0} settlements in range (already filled for their tier, and leftover was below the next upgrade cost). -->
   <TSA_WD_FactionInvestment_LetterGiftNoEffect>贈禮價值（{1}白銀等值）未改變範圍內的{0}據點（已達其等級上限，且剩餘價值低於下一次升級費用）。</TSA_WD_FactionInvestment_LetterGiftNoEffect>
   <!-- EN: No {0} settlements within investment range to receive {1} silver-equivalent. -->
@@ -819,19 +819,19 @@
   <!-- EN: When you buy a settlement or gift goods, convert silver-equivalent value into nearby same-faction settlement strength, then tier-ups, repeating until the budget cannot buy more. -->
   <TSA_WD_FactionInvestment_EnableTip>購買據點或贈送物資時，將白銀等值轉為附近同派系據點的戰力，再用於升級，重複直到預算不足為止。</TSA_WD_FactionInvestment_EnableTip>
   <!-- EN: Strength per 100 silver -->
-  <TSA_WD_FactionInvestment_StrengthPer100>每 100 白銀的戰力</TSA_WD_FactionInvestment_StrengthPer100>
+  <TSA_WD_FactionInvestment_StrengthPer100>每100白銀的戰力</TSA_WD_FactionInvestment_StrengthPer100>
   <!-- EN: How much offensive strength 100 silver of gifts or purchase payment grants while filling settlements to their tier max. -->
-  <TSA_WD_FactionInvestment_StrengthPer100Tip>將據點補滿至其等級上限時，每 100 白銀的贈禮或購買款項可提供多少進攻戰力。</TSA_WD_FactionInvestment_StrengthPer100Tip>
+  <TSA_WD_FactionInvestment_StrengthPer100Tip>將據點補滿至其等級上限時，每100白銀的贈禮或購買款項可提供多少進攻戰力。</TSA_WD_FactionInvestment_StrengthPer100Tip>
   <!-- EN: Investment radius (tiles) -->
   <TSA_WD_FactionInvestment_Radius>投資半徑（格）</TSA_WD_FactionInvestment_Radius>
   <!-- EN: Settlements farther than this from the gift or purchase tile do not receive strength. -->
   <TSA_WD_FactionInvestment_RadiusTip>與贈禮或購買地塊距離超過此值的據點不會獲得戰力。</TSA_WD_FactionInvestment_RadiusTip>
   <!-- EN: Silver to upgrade T1 to T2 -->
-  <TSA_WD_FactionInvestment_UpgradeT1T2>T1 升級至 T2 所需白銀</TSA_WD_FactionInvestment_UpgradeT1T2>
+  <TSA_WD_FactionInvestment_UpgradeT1T2>T1升級至T2所需白銀</TSA_WD_FactionInvestment_UpgradeT1T2>
   <!-- EN: Silver to upgrade T2 to T3 -->
-  <TSA_WD_FactionInvestment_UpgradeT2T3>T2 升級至 T3 所需白銀</TSA_WD_FactionInvestment_UpgradeT2T3>
+  <TSA_WD_FactionInvestment_UpgradeT2T3>T2升級至T3所需白銀</TSA_WD_FactionInvestment_UpgradeT2T3>
   <!-- EN: Silver to upgrade T3 to T4 -->
-  <TSA_WD_FactionInvestment_UpgradeT3T4>T3 升級至 T4 所需白銀</TSA_WD_FactionInvestment_UpgradeT3T4>
+  <TSA_WD_FactionInvestment_UpgradeT3T4>T3升級至T4所需白銀</TSA_WD_FactionInvestment_UpgradeT3T4>
   <!-- EN: Silver fills in-range same-faction settlements to their current tier max (nearest first), then buys tier-ups, then fills again, until the budget cannot buy more. -->
   <TSA_WD_FactionInvestment_UpgradeTip>白銀會先將範圍內同派系據點補滿至目前等級上限（由近至遠），再購買升級，接著再次補滿，直到預算不足為止。</TSA_WD_FactionInvestment_UpgradeTip>
   <!-- EN: Tier-up success chance -->
@@ -865,17 +865,17 @@
   <!-- EN: Relation -->
   <TSA_WD_Negotiate_H_Relation>關係</TSA_WD_Negotiate_H_Relation>
   <!-- EN: This faction vs. Target Faction -->
-  <TSA_WD_Negotiate_H_Strength>此派系 vs. 目標派系</TSA_WD_Negotiate_H_Strength>
+  <TSA_WD_Negotiate_H_Strength>此派系vs.目標派系</TSA_WD_Negotiate_H_Strength>
   <!-- EN: This faction vs. Global Strength -->
-  <TSA_WD_Negotiate_H_WarFoes>此派系 vs. 全球戰力</TSA_WD_Negotiate_H_WarFoes>
+  <TSA_WD_Negotiate_H_WarFoes>此派系vs.全球戰力</TSA_WD_Negotiate_H_WarFoes>
   <!-- EN: Price in Silver -->
   <TSA_WD_Negotiate_H_Ask>價格（白銀）</TSA_WD_Negotiate_H_Ask>
   <!-- EN: Ask them to -->
   <TSA_WD_Negotiate_H_Action>請其</TSA_WD_Negotiate_H_Action>
   <!-- EN: Military strength of this faction (the one you are paying) divided by the target faction's strength. Below 1.00× means they are weaker than the target. -->
-  <TSA_WD_Negotiate_StrengthTip>此派系（你付款的對象）的軍事戰力除以目標派系的戰力。低於 1.00× 代表其比目標弱。</TSA_WD_Negotiate_StrengthTip>
+  <TSA_WD_Negotiate_StrengthTip>此派系（你付款的對象）的軍事戰力除以目標派系的戰力。低於1.00× 代表其比目標弱。</TSA_WD_Negotiate_StrengthTip>
   <!-- EN: This faction's strength divided by the combined strength of factions it is already at war with (e.g. 0.20× means 20% of that combined strength). Low values mean they are already stretched and raise the Declare War price. -->
-  <TSA_WD_Negotiate_WarFoesTip>此派系的戰力除以其已在交戰中的所有派系的合計戰力（例如 0.20× 代表為合計戰力的 20%）。數值低代表其兵力已吃緊，會提高宣戰的價格。</TSA_WD_Negotiate_WarFoesTip>
+  <TSA_WD_Negotiate_WarFoesTip>此派系的戰力除以其已在交戰中的所有派系的合計戰力（例如0.20× 代表為合計戰力的20%）。數值低代表其兵力已吃緊，會提高宣戰的價格。</TSA_WD_Negotiate_WarFoesTip>
   <!-- EN: Current diplomatic status between this faction and the one you are paying. -->
   <TSA_WD_Negotiate_RelationTip>此派系與你付款對象之間目前的外交狀態。</TSA_WD_Negotiate_RelationTip>
   <!-- EN: Silver-equivalent price to request this change. Rejected rows and diplomacy freeze cannot be asked yet. -->
@@ -975,7 +975,7 @@
   <!-- EN: Enable diplomacy negotiate -->
   <TSA_WD_Negotiate_Enable>啟用外交談判</TSA_WD_Negotiate_Enable>
   <!-- EN: When enabled, ally and neutral NPC factions on the diplomacy matrix show a Negotiate button. -->
-  <TSA_WD_Negotiate_EnableTip>啟用後，外交矩陣上的同盟與中立 NPC 派系會顯示「談判」按鈕。</TSA_WD_Negotiate_EnableTip>
+  <TSA_WD_Negotiate_EnableTip>啟用後，外交矩陣上的同盟與中立NPC派系會顯示「談判」按鈕。</TSA_WD_Negotiate_EnableTip>
   <!-- EN: Ask floor (silver) -->
   <TSA_WD_Negotiate_AskMin>要價下限（白銀）</TSA_WD_Negotiate_AskMin>
   <!-- EN: Minimum negotiate ask when the strength ratio allows the action. -->
@@ -1079,7 +1079,7 @@
   <!-- EN: Bribe for ceasefire -->
   <TSA_WD_Bribe_SettlementGizmoLabel>賄賂以換取停火</TSA_WD_Bribe_SettlementGizmoLabel>
   <!-- EN: Pay goods for a temporary ceasefire. This faction will not launch new World Domination raids at your colony or outposts for the chosen duration. Raids already on the road are not recalled. -->
-  <TSA_WD_Bribe_SettlementGizmoDesc>支付物資以換取暫時停火。在選定期間內，此派系不會對你的殖民地或哨站發動新的 World Domination 突襲。已在路上的突襲不會被召回。</TSA_WD_Bribe_SettlementGizmoDesc>
+  <TSA_WD_Bribe_SettlementGizmoDesc>支付物資以換取暫時停火。在選定期間內，此派系不會對你的殖民地或哨站發動新的World Domination突襲。已在路上的突襲不會被召回。</TSA_WD_Bribe_SettlementGizmoDesc>
   <!-- EN: Bribe raid caravan -->
   <TSA_WD_Bribe_RaidGizmoLabel>賄賂突襲旅隊</TSA_WD_Bribe_RaidGizmoLabel>
   <!-- EN: Send a payment caravan to catch this raid. On delivery, that raid dissolves. Strength investment is centered on the raid's launch settlement. -->
@@ -1155,7 +1155,7 @@
   <!-- EN: Ceasefire bribe delivered -->
   <TSA_WD_Bribe_SettlementCompletedLabel>停火賄賂已送達</TSA_WD_Bribe_SettlementCompletedLabel>
   <!-- EN: Your bribe reached {0} ({1}). New World Domination raids from this faction against your colony and outposts are blocked for {2} days. Strength investment {3} silver. Raids already on the road are not recalled. -->
-  <TSA_WD_Bribe_SettlementCompletedText>你的賄賂已送達{0}（{1}）。此派系在{2}天內無法對你的殖民地與哨站發動新的 World Domination 突襲。戰力投資{3}白銀。已在路上的突襲不會被召回。</TSA_WD_Bribe_SettlementCompletedText>
+  <TSA_WD_Bribe_SettlementCompletedText>你的賄賂已送達{0}（{1}）。此派系在{2}天內無法對你的殖民地與哨站發動新的World Domination突襲。戰力投資{3}白銀。已在路上的突襲不會被召回。</TSA_WD_Bribe_SettlementCompletedText>
   <!-- EN: Raid bribe delivered -->
   <TSA_WD_Bribe_RaidCompletedLabel>突襲賄賂已送達</TSA_WD_Bribe_RaidCompletedLabel>
   <!-- EN: Your bribe dissolved {0} ({1}). Strength investment near the launch site {2} silver. -->
@@ -1177,7 +1177,7 @@
   <!-- EN: Bribe ceasefire ended -->
   <TSA_WD_Bribe_CeasefireExpiredLabel>賄賂停火結束</TSA_WD_Bribe_CeasefireExpiredLabel>
   <!-- EN: Your bribe ceasefire with {0} has ended. They may launch new World Domination raids at your colony and outposts again. -->
-  <TSA_WD_Bribe_CeasefireExpiredText>你與{0}的賄賂停火已結束。他們可能再次對你的殖民地與哨站發動新的 World Domination 突襲。</TSA_WD_Bribe_CeasefireExpiredText>
+  <TSA_WD_Bribe_CeasefireExpiredText>你與{0}的賄賂停火已結束。他們可能再次對你的殖民地與哨站發動新的World Domination突襲。</TSA_WD_Bribe_CeasefireExpiredText>
   <!-- EN: (bribe ceasefire {0}d) -->
   <TSA_WD_Diplomacy_BribeCeasefire>（賄賂停火{0}天）</TSA_WD_Diplomacy_BribeCeasefire>
   <!-- EN: {0} dispatched a bribe caravan to {1} ({2}). -->
@@ -1213,7 +1213,7 @@
   <!-- EN: Enable faction bribes -->
   <TSA_WD_Bribe_Enable>啟用派系賄賂</TSA_WD_Bribe_Enable>
   <!-- EN: When enabled, hostile WD settlements and ground raid caravans targeting you show a Bribe gizmo. -->
-  <TSA_WD_Bribe_EnableTip>啟用後，敵對的 WD 據點與以你為目標的地面突襲旅隊會顯示「賄賂」按鈕。</TSA_WD_Bribe_EnableTip>
+  <TSA_WD_Bribe_EnableTip>啟用後，敵對的WD據點與以你為目標的地面突襲旅隊會顯示「賄賂」按鈕。</TSA_WD_Bribe_EnableTip>
   <!-- EN: Ceasefire days (short) -->
   <TSA_WD_Bribe_DaysShort>停火天數（短）</TSA_WD_Bribe_DaysShort>
   <!-- EN: Ceasefire days (medium) -->
@@ -1221,13 +1221,13 @@
   <!-- EN: Ceasefire days (long) -->
   <TSA_WD_Bribe_DaysLong>停火天數（長）</TSA_WD_Bribe_DaysLong>
   <!-- EN: How long new World Domination raids from that faction are blocked after a successful settlement bribe. -->
-  <TSA_WD_Bribe_DaysTip>成功賄賂據點後，該派系的新 World Domination 突襲被阻擋的時間。</TSA_WD_Bribe_DaysTip>
+  <TSA_WD_Bribe_DaysTip>成功賄賂據點後，該派系的新World Domination突襲被阻擋的時間。</TSA_WD_Bribe_DaysTip>
   <!-- EN: Medium package discount -->
   <TSA_WD_Bribe_DiscountMedium>中期方案折扣</TSA_WD_Bribe_DiscountMedium>
   <!-- EN: Long package discount -->
   <TSA_WD_Bribe_DiscountLong>長期方案折扣</TSA_WD_Bribe_DiscountLong>
   <!-- EN: Price multiplier is (days / short days) times (1 minus this discount). -->
-  <TSA_WD_Bribe_DiscountTip>價格倍率為（天數 / 短期天數）×（1 減去此折扣）。</TSA_WD_Bribe_DiscountTip>
+  <TSA_WD_Bribe_DiscountTip>價格倍率為（天數 / 短期天數）×（1減去此折扣）。</TSA_WD_Bribe_DiscountTip>
   <!-- EN: Raid ask floor (of launch strength) -->
   <TSA_WD_Bribe_RaidAskFloor>突襲要價下限（佔出發戰力）</TSA_WD_Bribe_RaidAskFloor>
   <!-- EN: Raid bribe ask uses the greater of current strength and this fraction of launch strength. -->
@@ -1235,7 +1235,7 @@
   <!-- EN: Bribe investment fraction -->
   <TSA_WD_Bribe_InvestmentFraction>賄賂投資比例</TSA_WD_Bribe_InvestmentFraction>
   <!-- EN: Fraction of payment value converted to nearby settlement strength on success (gift and buy use 100%). Intercept loot still invests the full seized value. -->
-  <TSA_WD_Bribe_InvestmentFractionTip>成功時轉為附近據點戰力的款項價值比例（贈禮與購買為 100%）。攔截戰利品仍會以奪得的全部價值投資。</TSA_WD_Bribe_InvestmentFractionTip>
+  <TSA_WD_Bribe_InvestmentFractionTip>成功時轉為附近據點戰力的款項價值比例（贈禮與購買為100%）。攔截戰利品仍會以奪得的全部價值投資。</TSA_WD_Bribe_InvestmentFractionTip>
   <!-- EN: Raid bribe investment radius -->
   <TSA_WD_Bribe_CaravanInvestRadius>突襲賄賂投資半徑</TSA_WD_Bribe_CaravanInvestRadius>
   <!-- EN: Tiles from the raid launch settlement used when investing after a successful raid bribe. -->

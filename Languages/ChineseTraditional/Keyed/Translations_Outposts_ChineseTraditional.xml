@@ -898,6 +898,10 @@
   <TSA_WD_ConquestLetter_Label>征服結果</TSA_WD_ConquestLetter_Label>
   <!-- EN: The ruins of {0} (Tier {1}) are under your control. Decide whether to establish an outpost, recruit the survivors, hand the site to a friendly faction, or leave it behind. -->
   <TSA_WD_ConquestLetter_Text>{0}（等級{1}）的廢墟已在你的控制之下。決定要建立哨站、招募倖存者、將此地交給友好派系，或直接離開。</TSA_WD_ConquestLetter_Text>
+  <!-- EN: {0} has been conquered -->
+  <TSA_WD_Letter_SettlementConquered_Label>{0}已被征服</TSA_WD_Letter_SettlementConquered_Label>
+  <!-- EN: {0} has been conquered. -->
+  <TSA_WD_Letter_SettlementConquered_Text>{0}已被征服。</TSA_WD_Letter_SettlementConquered_Text>
   <!-- EN: Establish outpost -->
   <TSA_WD_Conquest_OptEstablish>建立哨站</TSA_WD_Conquest_OptEstablish>
   <!-- EN: Recruit the survivors -->
@@ -1246,8 +1250,8 @@
   <TSA_WD_Outpost_StrengthRecovery_OffMinFlatTooltip>套用升級倍率前每日進攻恢復的下限。實際增加量為 max（此值, 目標上限 × 進攻恢復 %）×（1 + 升級加成）。</TSA_WD_Outpost_StrengthRecovery_OffMinFlatTooltip>
   <!-- EN: Occupant healing (injury severity per day) -->
   <TSA_WD_Outpost_OccupantHealSeverity>駐員治療（每日傷勢嚴重度）</TSA_WD_Outpost_OccupantHealSeverity>
-  <!-- EN: Each day, every non-permanent injury on mothballed outpost occupants loses this many severity points (linear). Set to 0 to disable. Example: at 2 severity per day, a 6-severity wound heals in ~3 days; 20 severity in ~10 days. Hospital upgrades on each outpost multiply this rate (Basic +30%, Advanced +60%). Immunizable diseases still advance immunity at the same multiplier. Blood loss is reduced with the same daily amount. -->
-  <TSA_WD_Outpost_OccupantHealSeverityTooltip>每天，封存中哨站駐員身上每個非永久性傷勢會減少此數值的嚴重度（線性）。設為 0 即停用。例：每日 2 點嚴重度時，6 點嚴重度的傷口約 3 天痊癒；20 點約 10 天。各哨站的醫院升級會加乘此速率（基礎 +30%，進階 +60%）。可免疫疾病的免疫力也以相同倍率推進。失血也會以相同的每日量減少。</TSA_WD_Outpost_OccupantHealSeverityTooltip>
+  <!-- EN: Each day, every non-permanent injury on mothballed outpost occupants loses this many severity points (linear). Set to 0 to disable injury healing (timed hediffs still wear off). Example: at 2 severity per day, a 6-severity wound heals in ~3 days; 20 severity in ~10 days. Hospital upgrades on each outpost multiply this injury/immunity rate (Basic +30%, Advanced +60%). Immunizable diseases advance immunity and natural recovery severity at the same multiplier. Blood loss prefers its natural recovery rate, otherwise this daily amount. Separately, drug highs, food poisoning, alcohol/hangover, and similar timed hediffs advance one in-game day of their vanilla wear-off each day; hypothermia and heatstroke clear when sheltered at the outpost; malnutrition recovers while Food is topped. -->
+  <TSA_WD_Outpost_OccupantHealSeverityTooltip>每天，封存中哨站駐員身上每個非永久性傷勢會減少此數值的嚴重度（線性）。設為 0 即停用傷勢治療（有時效的健康狀態仍會自然消退）。例：每日 2 點嚴重度時，6 點嚴重度的傷口約 3 天痊癒；20 點約 10 天。各哨站的醫院升級會加乘此傷勢／免疫速率（基礎 +30%，進階 +60%）。可免疫疾病的免疫力與自然恢復也以相同倍率推進。失血優先採用其自然恢復速率，否則採用此每日量。另外，藥物興奮、食物中毒、酒醉／宿醉等有時效的健康狀態，每天會推進一天原版的消退進度；在哨站有遮蔽時，失溫與中暑會解除；食物補足期間，營養不良會逐漸恢復。</TSA_WD_Outpost_OccupantHealSeverityTooltip>
   <!-- EN: Vehicle repair per day -->
   <TSA_WD_Outpost_VehicleRepairPerDay>每日載具修復量</TSA_WD_Outpost_VehicleRepairPerDay>
   <!-- EN: Each day, every damaged part on Vehicle Framework vehicles stored at the outpost regains this fraction of that part's max health. 0 disables. -->
@@ -2154,6 +2158,52 @@
   <TSA_WD_RelevantSkills>技能：{0}</TSA_WD_RelevantSkills>
   <!-- EN: Removing the last pawn will destroy the outpost "{0}". Continue? -->
   <TSA_WD_RemoveLastPawnWarning>移除最後一名角色將會摧毀哨站「{0}」。是否繼續？</TSA_WD_RemoveLastPawnWarning>
+  <!-- EN: Abandon Outpost -->
+  <TSA_WD_AbandonOutpost>放棄哨站</TSA_WD_AbandonOutpost>
+  <!-- EN: Withdraw everyone from this outpost (same as selecting all pawns and transferring with Exit here). Uses the same strength budget and last-pawn warnings. -->
+  <TSA_WD_AbandonOutpostTip>撤出此哨站的所有人（等同選取全部角色並以「在此離開」轉移）。同樣受戰力預算與最後一名角色的警告限制。</TSA_WD_AbandonOutpostTip>
+  <!-- EN: Nothing left to withdraw from this outpost. -->
+  <TSA_WD_AbandonOutpost_NoRoster>此哨站已沒有可撤出的人。</TSA_WD_AbandonOutpost_NoRoster>
+  <!-- EN: Change Outpost Type -->
+  <TSA_WD_ChangeOutpostType>變更哨站類型</TSA_WD_ChangeOutpostType>
+  <!-- EN: Convert this outpost to another type. Materials equal a full establishment of the new type and ship from the colony or nearest warehouse like upgrades. Garrison skills and headcount must meet the new type. Road blocks and AT turrets stay; incompatible upgrades are dropped. -->
+  <TSA_WD_ChangeOutpostTypeTip>將此哨站轉換為其他類型。所需材料等同從頭建立一座新類型哨站，會像升級一樣從殖民地或最近的倉庫運送。駐軍的技能與人數必須符合新類型的要求。路障與反戰車砲塔會保留；不相容的升級會被移除。</TSA_WD_ChangeOutpostTypeTip>
+  <!-- EN: Start Conversion -->
+  <TSA_WD_TypeChange_Confirm>開始轉換</TSA_WD_TypeChange_Confirm>
+  <!-- EN: Convert "{0}" to {1}? -->
+  <TSA_WD_TypeChange_ConfirmBody>要將「{0}」轉換為{1}嗎？</TSA_WD_TypeChange_ConfirmBody>
+  <!-- EN: Stock in this warehouse cannot move to the new outpost type and will be lost. Continue? -->
+  <TSA_WD_TypeChange_WarehouseLossConfirm>這座倉庫的存貨無法轉移到新的哨站類型，將會遺失。要繼續嗎？</TSA_WD_TypeChange_WarehouseLossConfirm>
+  <!-- EN: Cannot change outpost type. -->
+  <TSA_WD_TypeChange_Invalid>無法變更哨站類型。</TSA_WD_TypeChange_Invalid>
+  <!-- EN: That is already this outpost's type. -->
+  <TSA_WD_TypeChange_SameType>這座哨站已經是這個類型。</TSA_WD_TypeChange_SameType>
+  <!-- EN: A type change is already in transit. -->
+  <TSA_WD_TypeChange_AlreadyPending>已有一項類型變更正在運送中。</TSA_WD_TypeChange_AlreadyPending>
+  <!-- EN: Another player outpost is already on this tile. -->
+  <TSA_WD_TypeChange_TileConflict>這個地塊上已有另一座玩家哨站。</TSA_WD_TypeChange_TileConflict>
+  <!-- EN: Could not queue the type change. -->
+  <TSA_WD_TypeChange_QueueFailed>無法排入類型變更。</TSA_WD_TypeChange_QueueFailed>
+  <!-- EN: Could not launch the conversion caravan. -->
+  <TSA_WD_TypeChange_LaunchFailed>無法派出轉換旅隊。</TSA_WD_TypeChange_LaunchFailed>
+  <!-- EN: Could not spawn the replacement outpost. -->
+  <TSA_WD_TypeChange_SpawnFailed>無法生成替代的哨站。</TSA_WD_TypeChange_SpawnFailed>
+  <!-- EN: Type change failed on arrival. -->
+  <TSA_WD_TypeChange_ApplyFailed>抵達時類型變更失敗。</TSA_WD_TypeChange_ApplyFailed>
+  <!-- EN: {0} converted to {1}. -->
+  <TSA_WD_TypeChange_Completed>{0}已轉換為{1}。</TSA_WD_TypeChange_Completed>
+  <!-- EN: Conversion to {0} is on the way. -->
+  <TSA_WD_TypeChange_Launched>轉換為{0}的旅隊已在路上。</TSA_WD_TypeChange_Launched>
+  <!-- EN: Outpost conversion lost -->
+  <TSA_WD_TypeChange_LostLabel>哨站轉換失敗</TSA_WD_TypeChange_LostLabel>
+  <!-- EN: The caravan converting to {0} was lost. Materials spent for "{1}" are gone. -->
+  <TSA_WD_TypeChange_Lost>轉換為{0}的旅隊已損失。為「{1}」花費的材料已無法收回。</TSA_WD_TypeChange_Lost>
+  <!-- EN: Outpost Conversion Caravan -->
+  <TSA_WD_Traveler_Outpost_TypeChange>哨站轉換旅隊</TSA_WD_Traveler_Outpost_TypeChange>
+  <!-- EN: {0} dispatched a conversion caravan to {1} ({2}). -->
+  <TSA_WD_Log_OutpostTypeChangeLaunched>{0}派出轉換旅隊前往{1}（{2}）。</TSA_WD_Log_OutpostTypeChangeLaunched>
+  <!-- EN: Debug: force outpost type change… -->
+  <TSA_WD_Debug_ForceTypeChange>除錯：強制變更哨站類型…</TSA_WD_Debug_ForceTypeChange>
   <!-- EN: Colonist -->
   <TSA_WD_StrengthBudget_ColName>殖民者</TSA_WD_StrengthBudget_ColName>
   <!-- EN: Gear -->
@@ -3734,8 +3784,8 @@
   <TSA_WD_OutpostStats_Row_OffensiveRecoveryTip>每天朝上限恢復的進攻戰力。</TSA_WD_OutpostStats_Row_OffensiveRecoveryTip>
   <!-- EN: Defensive strength regained per day toward the cap. -->
   <TSA_WD_OutpostStats_Row_DefensiveRecoveryTip>每天朝上限恢復的防禦戰力。</TSA_WD_OutpostStats_Row_DefensiveRecoveryTip>
-  <!-- EN: Injury, blood loss, and infection healing per day for garrisoned occupants. -->
-  <TSA_WD_OutpostStats_Row_OccupantHealTip>駐軍駐員每天的傷勢、失血與感染治療量。</TSA_WD_OutpostStats_Row_OccupantHealTip>
+  <!-- EN: Injury/immunity heal rate for garrisoned occupants. Timed hediffs (highs, toxins, etc.) wear off at vanilla day rates separately. -->
+  <TSA_WD_OutpostStats_Row_OccupantHealTip>駐軍駐員的傷勢／免疫治療速率。有時效的健康狀態（興奮、毒素等）另外依原版每日速率消退。</TSA_WD_OutpostStats_Row_OccupantHealTip>
   <!-- EN: Maximum tile distance for manual raids launched from this outpost. -->
   <TSA_WD_OutpostStats_Row_AttackRangeTip>從此哨站發動手動突襲的最大地塊距離。</TSA_WD_OutpostStats_Row_AttackRangeTip>
   <!-- EN: Maximum tile distance this settlement can raid. -->

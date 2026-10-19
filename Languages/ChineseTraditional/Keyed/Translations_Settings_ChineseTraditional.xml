@@ -974,8 +974,8 @@
   <TSA_WD_FactionCol_Name>派系</TSA_WD_FactionCol_Name>
   <!-- EN: WD Actions -->
   <TSA_WD_FactionCol_WdActions>WD 行動</TSA_WD_FactionCol_WdActions>
-  <!-- EN: Allow this faction to perform WD actions like sending out caravans to raid, expand, trade, or build fortifications. -->
-  <TSA_WD_FactionCol_WdActions_Tooltip>允許此派系執行 WD 行動，例如派出旅隊進行突襲、擴張、交易或建造防禦工事。</TSA_WD_FactionCol_WdActions_Tooltip>
+  <!-- EN: Allow this faction to perform WD actions: raid, expand, trade, fortify, scrub pollution, launch settlement ambush interceptors, and fire defensive mortar/AA/AT. -->
+  <TSA_WD_FactionCol_WdActions_Tooltip>允許此派系執行 WD 行動：突襲、擴張、交易、設防、清除汙染、派出據點伏擊攔截隊，以及以迫擊砲／防空／反戰車進行防禦射擊。</TSA_WD_FactionCol_WdActions_Tooltip>
   <!-- EN: MapGen -->
   <TSA_WD_FactionCol_BaseGen>MapGen</TSA_WD_FactionCol_BaseGen>
   <!-- EN: Allow WD to control map generation for this faction when you attack one of their settlements. T1 settlements become tiny villages; T4 citadels become actual fortresses. -->

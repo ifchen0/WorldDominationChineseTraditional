@@ -178,6 +178,10 @@
   <TSA_WD_Dash_EscalationTip_T4AaOn>敵方防空砲塔攻擊你的運輸艙與投射物：開</TSA_WD_Dash_EscalationTip_T4AaOn>
   <!-- EN: Enemy AA Turrets vs your pods and projectiles: off -->
   <TSA_WD_Dash_EscalationTip_T4AaOff>敵方防空砲塔攻擊你的運輸艙與投射物：關</TSA_WD_Dash_EscalationTip_T4AaOff>
+  <!-- EN: NPC interception caravans vs your caravans and travelers: on -->
+  <TSA_WD_Dash_EscalationTip_InterceptOn>NPC攔截旅隊攻擊你的旅隊與旅行者：開</TSA_WD_Dash_EscalationTip_InterceptOn>
+  <!-- EN: NPC interception caravans vs your caravans and travelers: off -->
+  <TSA_WD_Dash_EscalationTip_InterceptOff>NPC攔截旅隊攻擊你的旅隊與旅行者：關</TSA_WD_Dash_EscalationTip_InterceptOff>
   <!-- EN: Outpost incidents: {0} strength loss, {1}% chance per day -->
   <TSA_WD_Dash_EscalationTip_IncidentsOn>哨站事件：損失{0}戰力，每日機率{1}%</TSA_WD_Dash_EscalationTip_IncidentsOn>
   <!-- EN: Outpost incidents: off -->
@@ -558,12 +562,12 @@
   <TS_WD_OutpostDefenseAlwaysUseStrengthTooltip>開啟後，哨站手動防禦地圖戰以旅行者戰力作為突襲點數，不受故事敘述者範圍限制。關閉時，套用與其他WD突襲相同的下限與上限。殖民地突襲與旅隊交鋒使用上方的設定。</TS_WD_OutpostDefenseAlwaysUseStrengthTooltip>
   <!-- EN: WD: Mid Game activated -->
   <TSA_WD_Alert_MidGameActive>WD：中期階段已啟動</TSA_WD_Alert_MidGameActive>
-  <!-- EN: Your outpost strength has triggered Mid Game. Hostile settlements grow faster, gain more attack range, and bias raids toward you. Settlements expand toward your holdings, goodwill drifts down over time, and your outposts may suffer lighter attrition incidents. T4 mortars and AA do not target you yet unless the Mid Game toggles are on. -->
-  <TSA_WD_Alert_MidGameActiveDesc>你的哨站戰力已觸發中期階段。敵對據點成長更快、攻擊範圍擴大，且突襲更偏向你。據點會朝你的領地擴張，友好度會隨時間下滑，你的哨站也可能遭遇較輕的消耗事件。除非開啟中期階段的相關開關，T4迫擊砲與防空暫時還不會以你為目標。</TSA_WD_Alert_MidGameActiveDesc>
+  <!-- EN: Your outpost strength has triggered Mid Game. Hostile settlements grow faster, gain more attack range, and bias raids toward you. Settlements expand toward your holdings, goodwill drifts down over time, and your outposts may suffer lighter attrition incidents. NPC interception caravans may ambush your caravans and travelers. T4 mortars and AA do not target you yet unless the Mid Game toggles are on. -->
+  <TSA_WD_Alert_MidGameActiveDesc>你的哨站戰力已觸發中期階段。敵對據點成長更快、攻擊範圍擴大，且突襲更偏向你。據點會朝你的領地擴張，友好度會隨時間下滑，你的哨站也可能遭遇較輕的消耗事件。NPC攔截旅隊可能埋伏你的旅隊與旅行者。除非開啟中期階段的相關開關，T4迫擊砲與防空暫時還不會以你為目標。</TSA_WD_Alert_MidGameActiveDesc>
   <!-- EN: WD: Late Game activated -->
   <TSA_WD_Alert_LateGameActive>WD：後期階段已啟動</TSA_WD_Alert_LateGameActive>
-  <!-- EN: Your outpost strength has triggered Late Game. Hostile settlements grow much faster, gain more attack range, and bias raids harder toward you. Settlements expand farther toward your holdings, goodwill drops faster, enemy T4 mortars and AA may target your WD caravans and outposts if enabled, and your outposts may suffer fuller attrition incidents. -->
-  <TSA_WD_Alert_LateGameActiveDesc>你的哨站戰力已觸發後期階段。敵對據點成長大幅加快、攻擊範圍擴大，且突襲更強烈地偏向你。據點會更深入地朝你的領地擴張，友好度下降更快；若已啟用，敵方T4迫擊砲與防空可能以你的WD旅隊與哨站為目標，你的哨站也可能遭遇更完整的消耗事件。</TSA_WD_Alert_LateGameActiveDesc>
+  <!-- EN: Your outpost strength has triggered Late Game. Hostile settlements grow much faster, gain more attack range, and bias raids harder toward you. Settlements expand farther toward your holdings, goodwill drops faster, enemy T4 mortars and AA may target your WD caravans and outposts if enabled, NPC interception caravans may ambush you, and your outposts may suffer fuller attrition incidents. -->
+  <TSA_WD_Alert_LateGameActiveDesc>你的哨站戰力已觸發後期階段。敵對據點成長大幅加快、攻擊範圍擴大，且突襲更強烈地偏向你。據點會更深入地朝你的領地擴張，友好度下降更快；若已啟用，敵方T4迫擊砲與防空可能以你的WD旅隊與哨站為目標，NPC攔截旅隊可能埋伏你，你的哨站也可能遭遇更完整的消耗事件。</TSA_WD_Alert_LateGameActiveDesc>
   <!-- EN: Mid Game is now active. What changed: -->
   <TSA_WD_Letter_MidGameActiveIntro>中期階段現已生效。變化如下：</TSA_WD_Letter_MidGameActiveIntro>
   <!-- EN: Late Game is now active. What changed: -->
@@ -1200,14 +1204,60 @@
   <TSA_WD_AllPlayerPawns_DeselectAllTip>清除目前的選取。不會選取任何人。</TSA_WD_AllPlayerPawns_DeselectAllTip>
   <!-- EN: Smart Send Now -->
   <TSA_WD_AllPlayerPawns_SmartSendNow>智慧立即派送</TSA_WD_AllPlayerPawns_SmartSendNow>
-  <!-- EN: Immediately sends the selected pawns as caravans. For each pawn it picks their best skill, then the closest matching outpost from where they are now, and launches right away. This is not a schedule. Uses the same outpost exclusion list as prisoner Smart Assign. -->
-  <TSA_WD_AllPlayerPawns_SmartSendTip>立即將所選角色以旅隊形式派出。為每名角色挑出最高的技能，再從其目前位置選出最近的對應哨站，並立刻出發。這不是排程。使用與俘虜「智慧分配」相同的哨站排除清單。</TSA_WD_AllPlayerPawns_SmartSendTip>
+  <!-- EN: Opens a confirmation to send selected pawns as caravans. For each pawn it picks their best skill, then scores matching outposts for lower skill load and full efficiency, with distance as a soft factor, and spreads picks within the same send. This is not a schedule. Uses the same outpost exclusion list as prisoner Smart Assign. -->
+  <TSA_WD_AllPlayerPawns_SmartSendTip>開啟確認視窗，將所選角色以旅隊形式派出。為每名角色挑出最高的技能，再依技能負載較低與完整效率為對應哨站評分，距離作為次要因素，並在同一次派送中分散目的地。這不是排程。使用與俘虜「智慧分配」相同的哨站排除清單。</TSA_WD_AllPlayerPawns_SmartSendTip>
   <!-- EN: Smart assigned and sent {0} pawn(s). -->
   <TSA_WD_AllPlayerPawns_SmartAssignDone>已智慧分配並派出{0}名角色。</TSA_WD_AllPlayerPawns_SmartAssignDone>
   <!-- EN: Smart assigned and sent {0} pawn(s). Could not match or send {1}. -->
   <TSA_WD_AllPlayerPawns_SmartAssignPartial>已智慧分配並派出{0}名角色。有{1}名無法配對或派出。</TSA_WD_AllPlayerPawns_SmartAssignPartial>
   <!-- EN: No matching outpost for the selected pawns (or none were ready to travel). -->
   <TSA_WD_AllPlayerPawns_SmartAssignNone>沒有符合所選角色的哨站（或沒有角色可以出發）。</TSA_WD_AllPlayerPawns_SmartAssignNone>
+  <!-- EN: {0} selected pawn(s) are already at a good matching outpost. Nothing to send. -->
+  <TSA_WD_AllPlayerPawns_SmartAssignAlreadyPlaced>所選的{0}名角色已經在合適的對應哨站，沒有需要派出的人。</TSA_WD_AllPlayerPawns_SmartAssignAlreadyPlaced>
+  <!-- EN: Pawn -->
+  <TSA_WD_SmartSend_ColPawn>角色</TSA_WD_SmartSend_ColPawn>
+  <!-- EN: Origin -->
+  <TSA_WD_SmartSend_ColOrigin>出發地</TSA_WD_SmartSend_ColOrigin>
+  <!-- EN: Destination -->
+  <TSA_WD_SmartSend_ColDestination>目的地</TSA_WD_SmartSend_ColDestination>
+  <!-- EN: Reason -->
+  <TSA_WD_SmartSend_ColReason>原因</TSA_WD_SmartSend_ColReason>
+  <!-- EN: Select -->
+  <TSA_WD_SmartSend_SelectDest>選擇</TSA_WD_SmartSend_SelectDest>
+  <!-- EN: Manual override: {0} -->
+  <TSA_WD_SmartSend_ReasonOverrideDest>手動指定：{0}</TSA_WD_SmartSend_ReasonOverrideDest>
+  <!-- EN: Highest skill: {0} = {1} -->
+  <TSA_WD_SmartSend_ReasonSkill>最高技能：{0} = {1}</TSA_WD_SmartSend_ReasonSkill>
+  <!-- EN: Distance: {0} -->
+  <TSA_WD_SmartSend_ReasonDistance>距離：{0}</TSA_WD_SmartSend_ReasonDistance>
+  <!-- EN: Outpost {0} Skill: {1} (Full Eff.) -->
+  <TSA_WD_SmartSend_ReasonCumSkillFull>哨站{0}技能：{1}（完整效率）</TSA_WD_SmartSend_ReasonCumSkillFull>
+  <!-- EN: Outpost {0} Skill: {1} (Dim. Returns) -->
+  <TSA_WD_SmartSend_ReasonCumSkillDr>哨站{0}技能：{1}（收益遞減）</TSA_WD_SmartSend_ReasonCumSkillDr>
+  <!-- EN: Ranking: -->
+  <TSA_WD_SmartSend_ReasonTipHeader>評分：</TSA_WD_SmartSend_ReasonTipHeader>
+  <!-- EN: {0}, {1} -->
+  <TSA_WD_SmartSend_ReasonTipRow>{0}，{1}</TSA_WD_SmartSend_ReasonTipRow>
+  <!-- EN: No other outpost requiring {0} skill -->
+  <TSA_WD_SmartSend_ReasonTipNoOther>沒有其他需要{0}技能的哨站</TSA_WD_SmartSend_ReasonTipNoOther>
+  <!-- EN: Ranking = Outpost Skill + (distance × {0}) + dim. returns penalty -->
+  <TSA_WD_SmartSend_ReasonTipFormula>評分 = 哨站技能 + (距離 × {0}) + 收益遞減懲罰</TSA_WD_SmartSend_ReasonTipFormula>
+  <!-- EN: Ranking = distance -->
+  <TSA_WD_SmartSend_ReasonTipFormulaDistOnly>評分 = 距離</TSA_WD_SmartSend_ReasonTipFormulaDistOnly>
+  <!-- EN: Lower ranking wins. -->
+  <TSA_WD_SmartSend_ReasonTipLowerWins>評分越低越優先。</TSA_WD_SmartSend_ReasonTipLowerWins>
+  <!-- EN: Remove this pawn from Smart Send. -->
+  <TSA_WD_SmartSend_RemoveTip>將此角色從智慧派送中移除。</TSA_WD_SmartSend_RemoveTip>
+  <!-- EN: Click to pick a different destination -->
+  <TSA_WD_SmartSend_OverrideTip>點擊以選擇其他目的地</TSA_WD_SmartSend_OverrideTip>
+  <!-- EN: Override destination -->
+  <TSA_WD_SmartSend_OverrideTitle>指定目的地</TSA_WD_SmartSend_OverrideTitle>
+  <!-- EN: Reset smart assignment -->
+  <TSA_WD_SmartSend_Reset>重設智慧分配</TSA_WD_SmartSend_Reset>
+  <!-- EN: Already well placed (no move). -->
+  <TSA_WD_SmartSend_ReasonStay>已在合適位置（不移動）。</TSA_WD_SmartSend_ReasonStay>
+  <!-- EN: Sending {0}. Staying put: {1}. -->
+  <TSA_WD_SmartSend_SubtitleMixed>派出{0}名。留在原地：{1}名。</TSA_WD_SmartSend_SubtitleMixed>
   <!-- EN: Choose destination -->
   <TSA_WD_PawnTransfer_DialogTitle>選擇目的地</TSA_WD_PawnTransfer_DialogTitle>
   <!-- EN: Moving {0} pawn(s) -->

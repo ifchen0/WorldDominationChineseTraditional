@@ -72,8 +72,8 @@
   <TSA_WD_Combat_HeaderTargetOfOpportunityTip>行進中的突襲者可能在途中改打較弱的目標。</TSA_WD_Combat_HeaderTargetOfOpportunityTip>
   <!-- EN: After a fight, survivors may push on to another target. -->
   <TSA_WD_Combat_HeaderMaraudingTip>戰鬥結束後，倖存者可能繼續進攻另一個目標。</TSA_WD_Combat_HeaderMaraudingTip>
-  <!-- EN: Enemy settlements may ambush your caravan if you pass close. -->
-  <TSA_WD_Combat_HeaderSettlementAmbushTip>你的旅隊經過敵方據點附近時，可能遭到埋伏。</TSA_WD_Combat_HeaderSettlementAmbushTip>
+  <!-- EN: Enemy settlements may ambush your caravan if you pass close (stage-gated). They can also launch interception caravans at other NPC travelers in early game. -->
+  <TSA_WD_Combat_HeaderSettlementAmbushTip>你的旅隊經過敵方據點附近時，可能遭到埋伏（受階段門檻限制）。遊戲初期，據點也可能對其他NPC旅行者派出攔截旅隊。</TSA_WD_Combat_HeaderSettlementAmbushTip>
   <!-- EN: Vanguard -->
   <TSA_WD_Combat_HeaderVanguard>先鋒</TSA_WD_Combat_HeaderVanguard>
   <!-- EN: Invasion -->
@@ -126,14 +126,14 @@
   <TSA_WD_Combat_GateWhen>啟動時機</TSA_WD_Combat_GateWhen>
   <!-- EN: Opportunity (ToO / maraud / ambush) -->
   <TSA_WD_Combat_GateOpportunity>機會型（機會目標/劫掠/埋伏）</TSA_WD_Combat_GateOpportunity>
-  <!-- EN: Stage gate for target-of-opportunity, marauding after conquest, and settlement ambush. -->
-  <TSA_WD_Combat_GateOpportunityTip>機會目標、征服後劫掠與據點埋伏的階段門檻。</TSA_WD_Combat_GateOpportunityTip>
+  <!-- EN: Stage gate for target-of-opportunity, marauding after conquest, and settlement ambush against you (NPC-vs-NPC interception caravans are separate and can run early). -->
+  <TSA_WD_Combat_GateOpportunityTip>機會目標、征服後劫掠與針對你的據點埋伏的階段門檻（NPC之間的攔截旅隊另外計算，可在初期發生）。</TSA_WD_Combat_GateOpportunityTip>
   <!-- EN: Stage gate for target-of-opportunity retargeting. -->
   <TSA_WD_Combat_GateToOTip>機會目標轉換目標的階段門檻。</TSA_WD_Combat_GateToOTip>
   <!-- EN: Stage gate for post-victory marauding. -->
   <TSA_WD_Combat_GateMaraudTip>勝利後劫掠的階段門檻。</TSA_WD_Combat_GateMaraudTip>
-  <!-- EN: Stage gate for settlement-launched ambush. -->
-  <TSA_WD_Combat_GateAmbushTip>據點發動埋伏的階段門檻。</TSA_WD_Combat_GateAmbushTip>
+  <!-- EN: Stage gate for settlement interception caravans against you (your travelers and real caravans). NPC-vs-NPC interception caravans ignore this gate and can happen in early game. -->
+  <TSA_WD_Combat_GateAmbushTip>據點對你（你的旅行者與實體旅隊）派出攔截旅隊的階段門檻。NPC之間的攔截旅隊不受此門檻限制，可在遊戲初期發生。</TSA_WD_Combat_GateAmbushTip>
   <!-- EN: NPC Mortar Turrets vs player -->
   <TSA_WD_Combat_GateT4Mortar>NPC迫擊砲塔對玩家</TSA_WD_Combat_GateT4Mortar>
   <!-- EN: When enemy Mortar Turrets may target the player. -->
@@ -364,8 +364,8 @@
   <TSA_WD_DescUpdateNotes>檢視World Domination更新說明與變更紀錄。</TSA_WD_DescUpdateNotes>
   <!-- EN: Configure how raid points are multiplied, whether your outposts may be attacked and whether you want storyteller raids. -->
   <TSA_WD_DescRaidMult>設定突襲點數的倍率、你的哨站是否可能遭受攻擊，以及是否要故事敘述者突襲。</TSA_WD_DescRaidMult>
-  <!-- EN: Configure Mid Game and Late Game pushback once you grow strong: thresholds, biased raids, faster growth, expansion creep, goodwill drain, T4 mortars, and outpost incidents. -->
-  <TSA_WD_DescLateGame>設定你變強後的中期與後期反制：門檻、偏向性突襲、加速成長、擴張蔓延、友好度流失、T4迫擊砲與哨站事件。</TSA_WD_DescLateGame>
+  <!-- EN: Configure Mid Game and Late Game pushback once you grow strong: thresholds, biased raids, faster growth, expansion creep, goodwill drain, T4 mortars, outpost incidents, and enemy settlement interception caravans that can hit your caravans and travelers (NPC-vs-NPC interception already runs in early game). -->
+  <TSA_WD_DescLateGame>設定你變強後的中期與後期反制：門檻、偏向性突襲、加速成長、擴張蔓延、友好度流失、T4迫擊砲、哨站事件，以及可能攻擊你的旅隊與旅行者的敵方據點攔截旅隊（NPC之間的攔截在遊戲初期就已啟動）。</TSA_WD_DescLateGame>
   <!-- EN: Configure enemy tier-4 settlement mortars and anti-air: whether they fire, whether they may target you, and their own ranges, cooldowns, damage and accuracy. -->
   <TSA_WD_DescT4Mortar>設定敵方T4據點的迫擊砲與防空：是否開火、是否可鎖定你，以及其射程、冷卻、傷害與精準度。</TSA_WD_DescT4Mortar>
   <!-- EN: Outpost mortar, anti-air, and Rapid Response combat logic (damage, range, cooldowns, hit bands, intercept strength). Travel speeds for walking travelers, drop pods, and Interception Caravans are under Caravans and Trade. -->
@@ -1844,8 +1844,8 @@
   <TSA_WD_Experimental_HeaderSettlementAmbush>據點發動的埋伏</TSA_WD_Experimental_HeaderSettlementAmbush>
   <!-- EN: Experimental: settlement ambush of passing travelers -->
   <TSA_WD_Experimental_SettlementAmbush>實驗性：據點埋伏途經的旅行者</TSA_WD_Experimental_SettlementAmbush>
-  <!-- EN: When on, NPC settlements at the minimum ambush tier (Tier 2 by default) may launch an interceptor at a hostile trader caravan, gift/bribe caravan, uninvolved raid, or real player caravan that passes within watch range. Player Rapid Response and mortar outposts are not this feature; they intercept through their own defense range. By default only after mid or late escalation; turn on "Allow target-of-opportunity, marauding and ambush from the start" below to skip that gate. -->
-  <TSA_WD_Experimental_SettlementAmbushTip>開啟後，達到最低埋伏等級（預設為等級2）的NPC據點，可能對進入監視範圍的敵對商隊、贈禮／賄賂旅隊、無關的突襲或玩家實體旅隊派出攔截隊。玩家的快速反應與迫擊砲哨站不屬於此功能，它們透過各自的防禦範圍攔截。預設僅在中期或後期升級後生效；開啟下方的「從開局就允許機會目標、劫掠與埋伏」可略過此門檻。</TSA_WD_Experimental_SettlementAmbushTip>
+  <!-- EN: When on, NPC settlements at the minimum ambush tier may launch an interception caravan at a hostile trader traveler, gift/bribe traveler, uninvolved raid, or real player caravan that passes within watch range. Player Rapid Response and mortar outposts are not this feature; they intercept through their own defense range. NPC-vs-NPC interception caravans can fire in early game. Interception against you waits for the Mid/Late stage gate unless you turn on "Allow target-of-opportunity, marauding and ambush from the start" below. -->
+  <TSA_WD_Experimental_SettlementAmbushTip>開啟後，達到最低埋伏等級的NPC據點，可能對進入監視範圍的敵對商人旅行者、贈禮／賄賂旅行者、無關的突襲或玩家實體旅隊派出攔截旅隊。玩家的快速反應與迫擊砲哨站不屬於此功能，它們透過各自的防禦範圍攔截。NPC之間的攔截旅隊可在遊戲初期發生。針對你的攔截要等到中期／後期的階段門檻，除非開啟下方的「從開局就允許機會目標、劫掠與埋伏」。</TSA_WD_Experimental_SettlementAmbushTip>
   <!-- EN: Ambush chance (coin flip) -->
   <TSA_WD_Experimental_AmbushChancePct>埋伏機率（擲幣判定）</TSA_WD_Experimental_AmbushChancePct>
   <!-- EN: Rolled after the escalation gate but before any strength math, so a failed roll never costs the more expensive strength-ratio check. -->
@@ -1874,8 +1874,8 @@
   <TSA_WD_Experimental_AmbushWatchRangeTip>達到合格等級的一般NPC據點監視埋伏目標的距離。設計上與據點周圍的內圈封鎖地塊半徑一致。迫擊砲與快速反應地點透過各自的防禦範圍攔截，不使用此埋伏監視範圍。</TSA_WD_Experimental_AmbushWatchRangeTip>
   <!-- EN: Allow target-of-opportunity, marauding and ambush from the start -->
   <TSA_WD_Experimental_OpportunityIgnoreEscalationGate>從開局就允許機會目標、劫掠與埋伏</TSA_WD_Experimental_OpportunityIgnoreEscalationGate>
-  <!-- EN: When on, target-of-opportunity retargeting, post-victory marauding, and settlement ambush (whichever of the three are enabled in the sections above) can trigger from the very start of a game instead of only once mid or late escalation is reached. Has no effect on any of the three unless at least one of them is also switched on. -->
-  <TSA_WD_Experimental_OpportunityIgnoreEscalationGateTip>開啟後，機會目標改道、勝利後劫掠與據點埋伏（以上三項中已在上方啟用者）從遊戲一開始就能觸發，不必等到中期或後期升級。若三項都未開啟，此選項沒有任何效果。</TSA_WD_Experimental_OpportunityIgnoreEscalationGateTip>
+  <!-- EN: When on, target-of-opportunity retargeting, post-victory marauding, and settlement interception caravans against you (whichever are enabled above) can trigger from the start instead of waiting for mid or late escalation. NPC-vs-NPC interception caravans already ignore the stage gate. Has no effect unless at least one of those features is also on. -->
+  <TSA_WD_Experimental_OpportunityIgnoreEscalationGateTip>開啟後，機會目標改道、勝利後劫掠與針對你的據點攔截旅隊（以上已在上方啟用者）從遊戲一開始就能觸發，不必等到中期或後期升級。NPC之間的攔截旅隊本來就不受階段門檻限制。若這些功能都未開啟，此選項沒有任何效果。</TSA_WD_Experimental_OpportunityIgnoreEscalationGateTip>
   <!-- EN: WD world map combat sounds -->
   <TSA_WD_Experimental_EnableWorldMapSounds>WD世界地圖戰鬥音效</TSA_WD_Experimental_EnableWorldMapSounds>
   <!-- EN: When on, AT Turret, mortar, and flak fire play short oneshots on the world map. Turn off to mute all of those WD combat sounds. UI clicks are unchanged. -->

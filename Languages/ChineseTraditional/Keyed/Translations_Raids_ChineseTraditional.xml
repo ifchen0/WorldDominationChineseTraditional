@@ -8,8 +8,8 @@
   <TSA_WD_AlliedRaidOrder_ClaimForAlly>進攻並由對方佔領（友好度-{0}。目前友好度：{1}）</TSA_WD_AlliedRaidOrder_ClaimForAlly>
   <!-- EN: Attack and destroy (-{0} goodwill. Current goodwill: {1}) -->
   <TSA_WD_AlliedRaidOrder_DestroyTurret>進攻並摧毀（友好度-{0}。目前友好度：{1}）</TSA_WD_AlliedRaidOrder_DestroyTurret>
-  <!-- EN: Raid aborted: launch ratio {0}× below minimum {1}×. No strength committed. -->
-  <TSA_WD_Log_Raid_Aborted_BelowMinRatio>突襲中止：出擊比例{0}×低於最低要求{1}×。未投入任何戰力。</TSA_WD_Log_Raid_Aborted_BelowMinRatio>
+  <!-- EN: RAID: Aborted (launch ratio {0}x below minimum {1}x). No strength committed. -->
+  <TSA_WD_Log_Raid_Aborted_BelowMinRatio>突襲：已中止（出擊比例{0}×低於最低要求{1}×）。未投入任何戰力。</TSA_WD_Log_Raid_Aborted_BelowMinRatio>
   <!-- EN: {0} cancelled a raid on {1}: the route would lose about {2} strength to pollution. -->
   <TSA_WD_Log_Raid_Aborted_Pollution>{0}取消了對{1}的突襲：該路線會因汙染損失約{2}戰力。</TSA_WD_Log_Raid_Aborted_Pollution>
   <!-- EN: Costs {0} goodwill. You have {1}; at least {2} goodwill must remain. -->
@@ -184,6 +184,12 @@
   <TSA_WD_Letter_IncomingRaid_Outpost_Label>WD對{0}的突襲已出發（{1}）</TSA_WD_Letter_IncomingRaid_Outpost_Label>
   <!-- EN: A hostile expedition from {0} is heading for your outpost {1} across the world map.\n\nExpected raid points on arrival: {2}\nOutpost strength: {3}\nDefense win likelihood (auto-resolve): {4}\nEstimated arrival in {5} days.\n\nYou have time to prepare defenses or intercept them on the world map before they arrive. -->
   <TSA_WD_Letter_IncomingRaid_Outpost_Text>來自{0}的敵對遠征隊正穿越世界地圖，前往你的哨站{1}。\n\n抵達時預計突襲點數：{2}\n哨站戰力：{3}\n防守勝算（自動結算）：{4}\n預計{5}天後抵達。\n\n在他們抵達前，你還有時間準備防禦，或在世界地圖上攔截他們。</TSA_WD_Letter_IncomingRaid_Outpost_Text>
+  <!-- EN: Beyond its normal range. -->
+  <TSA_WD_Letter_Raid_BeyondNormalRange>已超出其正常範圍。</TSA_WD_Letter_Raid_BeyondNormalRange>
+  <!-- EN: Raid party destroyed -->
+  <TSA_WD_Letter_RaidPartyDestroyed_Label>突襲隊伍已被消滅</TSA_WD_Letter_RaidPartyDestroyed_Label>
+  <!-- EN: A raid from {0} headed for {1} was destroyed on the world map before it arrived. -->
+  <TSA_WD_Letter_RaidPartyDestroyed_Text>一支來自{0}、前往{1}的突襲隊伍，在抵達之前已於世界地圖上被消滅。</TSA_WD_Letter_RaidPartyDestroyed_Text>
   <!-- EN: Jump to attacker -->
   <TSA_WD_Letter_IncomingRaid_JumpAttacker>跳至進攻方</TSA_WD_Letter_IncomingRaid_JumpAttacker>
   <!-- EN: Jump to target -->
@@ -212,44 +218,44 @@
   <TSA_WD_Log_AttemptHeader_Aborted>遠征已中止</TSA_WD_Log_AttemptHeader_Aborted>
   <!-- EN: Expedition Launched -->
   <TSA_WD_Log_AttemptHeader_Launched>遠征已出發</TSA_WD_Log_AttemptHeader_Launched>
-  <!-- EN: {0} ({2}) — Strength: {1} -->
-  <TSA_WD_Log_Clash_Detail>{0}（{2}）— 戰力：{1}</TSA_WD_Log_Clash_Detail>
-  <!-- EN: EXPEDITION: Allied settlement {0} launched a raid against {1} (initialized by player) -->
-  <TSA_WD_Log_AlliedRaidLaunchedByPlayer>遠征：同盟據點{0}對{1}發動突襲（由玩家發起）</TSA_WD_Log_AlliedRaidLaunchedByPlayer>
-  <!-- EN: EXPEDITION: Your Outpost {0} launched a raid against {1} -->
-  <TSA_WD_Log_PlayerRaidLaunched>遠征：你的哨站{0}對{1}發動突襲</TSA_WD_Log_PlayerRaidLaunched>
-  <!-- EN: {0} mission cancelled: Target destroyed or invalid. -->
-  <TSA_WD_Log_RaidCancelled>{0}的任務已取消：目標已被摧毀或無效。</TSA_WD_Log_RaidCancelled>
+  <!-- EN: {0} ({2}): strength {1} -->
+  <TSA_WD_Log_Clash_Detail>{0}（{2}）：戰力{1}</TSA_WD_Log_Clash_Detail>
+  <!-- EN: RAID: Allied settlement {0} launched a raid against {1}. -->
+  <TSA_WD_Log_AlliedRaidLaunchedByPlayer>突襲：同盟據點{0}對{1}發動突襲。</TSA_WD_Log_AlliedRaidLaunchedByPlayer>
+  <!-- EN: RAID: Your outpost {0} launched a raid against {1}. -->
+  <TSA_WD_Log_PlayerRaidLaunched>突襲：你的哨站{0}對{1}發動突襲。</TSA_WD_Log_PlayerRaidLaunched>
+  <!-- EN: {0} mission cancelled: target destroyed or invalid. -->
+  <TSA_WD_Log_RaidCancelled>{0}任務已取消：目標已被摧毀或無效。</TSA_WD_Log_RaidCancelled>
   <!-- EN: {0} (debug path) cancelled: destination became invalid. -->
   <TSA_WD_Log_DebugRaidCancelled>{0}（除錯路徑）已取消：目的地已失效。</TSA_WD_Log_DebugRaidCancelled>
-  <!-- EN: RAID ABORTED: Target is no longer valid or has been destroyed. -->
-  <TSA_WD_Log_Raid_Aborted>突襲中止：目標已失效或已被摧毀。</TSA_WD_Log_Raid_Aborted>
-  <!-- EN: RAID: Aborted (attacker in space) -->
-  <TSA_WD_Log_Raid_AbortedSpace>突襲：已中止（進攻方位於太空）</TSA_WD_Log_Raid_AbortedSpace>
+  <!-- EN: RAID: Aborted (target no longer valid or destroyed). -->
+  <TSA_WD_Log_Raid_Aborted>突襲：已中止（目標已失效或已被摧毀）。</TSA_WD_Log_Raid_Aborted>
+  <!-- EN: RAID: Aborted (attacker in space). -->
+  <TSA_WD_Log_Raid_AbortedSpace>突襲：已中止（進攻方位於太空）。</TSA_WD_Log_Raid_AbortedSpace>
   <!-- EN: This expedition was aborted before combat. -->
   <TSA_WD_Log_Raid_Aborted_Detail>這次遠征在交戰前就已中止。</TSA_WD_Log_Raid_Aborted_Detail>
-  <!-- EN: RAID: Aborted (same faction) -->
-  <TSA_WD_Log_Raid_Aborted_SameFaction>突襲：已中止（同一派系）</TSA_WD_Log_Raid_Aborted_SameFaction>
-  <!-- EN: RAID: Aborted (target despawned) -->
-  <TSA_WD_Log_Raid_Aborted_TargetDespawned>突襲：已中止（目標已消失）</TSA_WD_Log_Raid_Aborted_TargetDespawned>
-  <!-- EN: RAID: Aborted (target no longer exists) -->
-  <TSA_WD_Log_Raid_Aborted_TargetNull>突襲：已中止（目標已不存在）</TSA_WD_Log_Raid_Aborted_TargetNull>
-  <!-- EN: RAID: Aborted — {0} and {1} are no longer at war. Committed strength refunded. -->
-  <TSA_WD_Log_Raid_Aborted_NoLongerHostile>突襲：已中止——{0}與{1}已不再交戰。投入的戰力已退還。</TSA_WD_Log_Raid_Aborted_NoLongerHostile>
+  <!-- EN: RAID: Aborted (same faction). -->
+  <TSA_WD_Log_Raid_Aborted_SameFaction>突襲：已中止（同一派系）。</TSA_WD_Log_Raid_Aborted_SameFaction>
+  <!-- EN: RAID: Aborted (target despawned). -->
+  <TSA_WD_Log_Raid_Aborted_TargetDespawned>突襲：已中止（目標已消失）。</TSA_WD_Log_Raid_Aborted_TargetDespawned>
+  <!-- EN: RAID: Aborted (target no longer exists). -->
+  <TSA_WD_Log_Raid_Aborted_TargetNull>突襲：已中止（目標已不存在）。</TSA_WD_Log_Raid_Aborted_TargetNull>
+  <!-- EN: RAID: Aborted ({0} and {1} are no longer at war). Committed strength refunded. -->
+  <TSA_WD_Log_Raid_Aborted_NoLongerHostile>突襲：已中止（{0}與{1}已不再交戰）。投入的戰力已退還。</TSA_WD_Log_Raid_Aborted_NoLongerHostile>
   <!-- EN: Garrison at {0}: {1} strength. -->
   <TSA_WD_Log_Raid_DefBase>{0}的駐軍：{1}戰力。</TSA_WD_Log_Raid_DefBase>
   <!-- EN: {0} ({1}) provided +{2} defense power. (Raw: {3}, Eff: {4}% over {5} tiles). -->
   <TSA_WD_Log_Raid_DefContrib>{0}（{1}）提供+{2}防禦戰力。（原始：{3}，有效：{4}%，距離{5}格）。</TSA_WD_Log_Raid_DefContrib>
-  <!-- EN: Raid dispatched: Caravan is underway. -->
-  <TSA_WD_Log_Raid_ExpeditionLaunched>突襲已派出：旅隊正在途中。</TSA_WD_Log_Raid_ExpeditionLaunched>
+  <!-- EN: RAID: {0} dispatched a raid against {1}. -->
+  <TSA_WD_Log_Raid_ExpeditionLaunched>突襲：{0}對{1}派出突襲。</TSA_WD_Log_Raid_ExpeditionLaunched>
   <!-- EN: Raid expedition launched against {0}. -->
   <TSA_WD_RaidExpeditionLaunched>已對{0}發動突襲遠征。</TSA_WD_RaidExpeditionLaunched>
   <!-- EN: {0} dispatched a raid from {1} against {2}. -->
   <TSA_WD_Log_Raid_FactionDispatch>{0}從{1}派出突襲，目標為{2}。</TSA_WD_Log_Raid_FactionDispatch>
-  <!-- EN: Picked Colony as target and delegated to closer ally -->
-  <TSA_WD_Log_Raid_ColonyDelegated>選定殖民地為目標，並委派給較近的同盟</TSA_WD_Log_Raid_ColonyDelegated>
-  <!-- EN: Raid Failed: The attackers were repelled. -->
-  <TSA_WD_Log_Raid_Failed>突襲失敗：進攻方遭到擊退。</TSA_WD_Log_Raid_Failed>
+  <!-- EN: RAID: Colony chosen as target; delegated to a closer ally. -->
+  <TSA_WD_Log_Raid_ColonyDelegated>突襲：選定殖民地為目標，已委派給較近的同盟。</TSA_WD_Log_Raid_ColonyDelegated>
+  <!-- EN: RAID: Attackers were repelled. -->
+  <TSA_WD_Log_Raid_Failed>突襲：進攻方遭到擊退。</TSA_WD_Log_Raid_Failed>
   <!-- EN: Raid intercepted: {0} walked into fortress {1} (original target: {2}). -->
   <TSA_WD_Log_Raid_ChokeIntercept>突襲遭攔截：{0}闖入了要塞{1}（原目標：{2}）。</TSA_WD_Log_Raid_ChokeIntercept>
   <!-- EN: Raid intercepted: {0} walked into colony {1} (original target: {2}). -->
@@ -298,14 +304,14 @@
   <TSA_WD_Letter_RaidDivertedFromPlayer_Label>突襲轉向</TSA_WD_Letter_RaidDivertedFromPlayer_Label>
   <!-- EN: {0} spotted a target of opportunity and diverted away from you to attack {1} instead. -->
   <TSA_WD_Letter_RaidDivertedFromPlayer_Text>{0}發現了機會目標，轉而離開你去攻擊{1}。</TSA_WD_Letter_RaidDivertedFromPlayer_Text>
-  <!-- EN: RAID: Attack on player colony -->
-  <TSA_WD_Log_Raid_PlayerAttack>突襲：進攻玩家殖民地</TSA_WD_Log_Raid_PlayerAttack>
+  <!-- EN: RAID: Attack on player colony. -->
+  <TSA_WD_Log_Raid_PlayerAttack>突襲：進攻玩家殖民地。</TSA_WD_Log_Raid_PlayerAttack>
   <!-- EN: RAID: {0} skipped (available raid power {1}; minimum 50 required). -->
   <TSA_WD_Log_Raid_SkippedLowRaidPower>突襲：{0}已略過（可用突襲戰力{1}；至少需要50）。</TSA_WD_Log_Raid_SkippedLowRaidPower>
   <!-- EN: RAID: {0} skipped (strength {1}; needs {2} to launch raids at this tier). -->
   <TSA_WD_Log_Raid_SkippedLowStrength>突襲：{0}已略過（戰力{1}；此等級需要{2}才能發動突襲）。</TSA_WD_Log_Raid_SkippedLowStrength>
-  <!-- EN: RAID: Skipped (no valid target in range) -->
-  <TSA_WD_Log_Raid_SkippedNoTarget>突襲：已略過（範圍內沒有有效目標）</TSA_WD_Log_Raid_SkippedNoTarget>
+  <!-- EN: RAID: skipped (no valid target in range). -->
+  <TSA_WD_Log_Raid_SkippedNoTarget>突襲：已略過（範圍內沒有有效目標）。</TSA_WD_Log_Raid_SkippedNoTarget>
   <!-- EN: Band {0} picked. -->
   <TSA_WD_Log_Raid_BandPicked>選定區段{0}。</TSA_WD_Log_Raid_BandPicked>
   <!-- EN: Band {0} picked but no valid target. Fallback Band {1}. -->
@@ -322,8 +328,8 @@
   <TSA_WD_Letter_OutpostIncidentDestroyed_Label>哨站已被摧毀：{0}</TSA_WD_Letter_OutpostIncidentDestroyed_Label>
   <!-- EN: A world incident wiped out {0} (lost {1} strength). Ruins remain for a while and block new outposts nearby. -->
   <TSA_WD_Letter_OutpostIncidentDestroyed_Text>一起世界事件摧毀了{0}（損失{1}戰力）。廢墟會殘留一段時間，期間附近無法建立新哨站。</TSA_WD_Letter_OutpostIncidentDestroyed_Text>
-  <!-- EN: Raid Successful: {0} has been conquered. -->
-  <TSA_WD_Log_Raid_Successful>突襲成功：{0}已被征服。</TSA_WD_Log_Raid_Successful>
+  <!-- EN: RAID: {0} was conquered. -->
+  <TSA_WD_Log_Raid_Successful>突襲：{0}已被征服。</TSA_WD_Log_Raid_Successful>
   <!-- EN: Garrison retain floor: {0} Strength -->
   <TSA_WD_MinGarrisonCap>駐軍保留下限：{0}戰力</TSA_WD_MinGarrisonCap>
   <!-- EN: Garrison retain (%) -->

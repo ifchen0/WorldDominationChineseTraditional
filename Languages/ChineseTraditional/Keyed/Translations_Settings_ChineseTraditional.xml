@@ -1892,6 +1892,10 @@
   <TSA_WD_Experimental_OutpostArmory>哨站軍械庫</TSA_WD_Experimental_OutpostArmory>
   <!-- EN: When on, every outpost keeps a loose store for weapons, armor, medicine, drugs, food and ammo. Gear arriving by caravan or drop pod is stored instead of destroyed, and you can hand it to occupants from the Armory button on the Pawns tab. Turn off to go back to discarding arriving gear. Anything already stored stays in the save. On by default. -->
   <TSA_WD_Experimental_OutpostArmoryTip>開啟後，每個哨站都會保有一個散裝倉庫，可存放武器、護甲、藥品、藥物、食物與彈藥。由旅隊或運輸艙抵達的裝備會被存放而非銷毀，你可以從「角色」分頁的「軍械庫」按鈕將其交給駐員。關閉後恢復為丟棄抵達的裝備。已存放的物品會保留在存檔中。預設開啟。</TSA_WD_Experimental_OutpostArmoryTip>
+  <!-- EN: Disable vanilla caravan travel incidents -->
+  <TSA_WD_Experimental_DisableVanillaCaravanIncidents>停用原版旅隊移動事件</TSA_WD_Experimental_DisableVanillaCaravanIncidents>
+  <!-- EN: When on, blocks random vanilla storyteller events on traveling caravans: ambush, manhunter ambush, caravan meeting, payment demand, and caravan disease. Does not affect WD settlement ambush, Rapid Response, or traveler clashes. Off by default. -->
+  <TSA_WD_Experimental_DisableVanillaCaravanIncidentsTip>開啟時，阻擋原版故事敘述者對移動中旅隊產生的隨機事件：埋伏、獸群埋伏、旅隊接觸、勒索與旅隊疾病。不影響WD的據點伏擊、快速反應或旅行者交戰。預設關閉。</TSA_WD_Experimental_DisableVanillaCaravanIncidentsTip>
   <!-- EN: Experimental: T4 gravship raids -->
   <TSA_WD_Experimental_T4GravshipRaids>實驗性：T4重力船突襲</TSA_WD_Experimental_T4GravshipRaids>
   <!-- EN: When on, tier-4 settlements may launch ballistic gravship raid travelers at the player. Requires Odyssey and the Gravship Raids Workshop mod (sk.gravshipraids). Without those mods the option has no effect. Off by default. -->

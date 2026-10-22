@@ -314,6 +314,10 @@
   <TSA_WD_Notify_RaidDivertedFromPlayer>突襲從你身上轉向時通知</TSA_WD_Notify_RaidDivertedFromPlayer>
   <!-- EN: Receive a letter when a raid that was headed at your colony or an outpost spots a target of opportunity and diverts to attack it instead. -->
   <TSA_WD_Notify_RaidDivertedFromPlayerTooltip>原本朝你的殖民地或哨站而來的突襲發現機會目標並轉而攻擊它時，收到信件。</TSA_WD_Notify_RaidDivertedFromPlayerTooltip>
+  <!-- EN: Notify when a raid party is destroyed before arrival -->
+  <TSA_WD_Notify_RaidPartyDestroyed>突襲隊伍在抵達前被消滅時通知</TSA_WD_Notify_RaidPartyDestroyed>
+  <!-- EN: Receive a letter when a hostile raid headed at you is wiped out on the world map before it reaches you. -->
+  <TSA_WD_Notify_RaidPartyDestroyedTooltip>朝你而來的敵對突襲在抵達之前於世界地圖上被殲滅時發送信件。</TSA_WD_Notify_RaidPartyDestroyedTooltip>
   <!-- EN: Notify when your mortar destroys a target -->
   <TSA_WD_Notify_MortarHit>你的迫擊砲摧毀目標時通知</TSA_WD_Notify_MortarHit>
   <!-- EN: Receive a silent blue letter when your artillery outpost destroys a target. Partial hits only go to the action log. -->

@@ -3750,6 +3750,12 @@
   <TSA_WD_Experts_RowBenefit_Engineer>建設工程速度+{0}%\n建設工程半徑+{1}%\n防禦恢復+{0}%</TSA_WD_Experts_RowBenefit_Engineer>
   <!-- EN: Expert roles are assigned in the Experts tab. -->
   <TSA_WD_Outpost_Pawns_ExpertsHint>專家職位在專家分頁中指派。</TSA_WD_Outpost_Pawns_ExpertsHint>
+  <!-- EN: Interception radius -->
+  <TSA_WD_OutpostStats_Row_AmbushWatch>攔截半徑</TSA_WD_OutpostStats_Row_AmbushWatch>
+  <!-- EN: Tiles this settlement watches for hostile travelers to intercept ({0}). -->
+  <TSA_WD_OutpostStats_Row_AmbushWatchTip>此據點監視敵對旅行者並加以攔截的地塊範圍（{0}）。</TSA_WD_OutpostStats_Row_AmbushWatchTip>
+  <!-- EN: Base interception radius {0} tiles. Stable extends it to {1} tiles. -->
+  <TSA_WD_OutpostStats_Row_AmbushWatchTip_Stable>基礎攔截半徑{0}格。馬廄將其延伸至{1}格。</TSA_WD_OutpostStats_Row_AmbushWatchTip_Stable>
   <!-- EN: Attack range -->
   <TSA_WD_OutpostStats_Row_AttackRange>攻擊範圍</TSA_WD_OutpostStats_Row_AttackRange>
   <!-- EN: Baseline: {0} -->
@@ -4412,8 +4418,8 @@
   <TSA_WD_OutpostStats_Row_AdvBuildingsTip>此據點擁有的進階建築。欄位數等於據點等級（{0}）；每種類型最多一座。</TSA_WD_OutpostStats_Row_AdvBuildingsTip>
   <!-- EN: Land caravan speed -->
   <TSA_WD_OutpostStats_Row_LandSpeed>陸路旅隊速度</TSA_WD_OutpostStats_Row_LandSpeed>
-  <!-- EN: Stable bonus to the walking speed of caravans launched from this settlement. -->
-  <TSA_WD_OutpostStats_Row_LandSpeedTip>馬廄對從此據點出發的旅隊步行速度的加成。</TSA_WD_OutpostStats_Row_LandSpeedTip>
+  <!-- EN: Bonus to the walking speed of caravans launched from this settlement. A Stable provides the bonus; without one the bonus is +0%. -->
+  <TSA_WD_OutpostStats_Row_LandSpeedTip>從此據點出發的旅隊步行速度加成。加成由馬廄提供；沒有馬廄時加成為+0%。</TSA_WD_OutpostStats_Row_LandSpeedTip>
   <!-- EN: Silo: {0} +{1}% = {2} -->
   <TSA_WD_OutpostStats_SiloMaxLine>糧倉：{0} +{1}% = {2}</TSA_WD_OutpostStats_SiloMaxLine>
   <!-- EN: Hospital: +{0}% -->

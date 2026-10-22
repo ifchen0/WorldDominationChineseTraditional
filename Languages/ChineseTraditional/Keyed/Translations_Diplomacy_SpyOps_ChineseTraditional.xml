@@ -1188,8 +1188,8 @@
   <TSA_WD_Log_BribeSettlementCompleted>經由{0}與{1}達成賄賂停火，為期{2}天。</TSA_WD_Log_BribeSettlementCompleted>
   <!-- EN: Bribed and dissolved {0} ({1}). -->
   <TSA_WD_Log_BribeRaidCompleted>已賄賂並解散{0}（{1}）。</TSA_WD_Log_BribeRaidCompleted>
-  <!-- EN: Raid skipped: bribe ceasefire still active with {0}. -->
-  <TSA_WD_Log_Raid_SkippedBribeCeasefire>略過突襲：與{0}的賄賂停火仍在生效中。</TSA_WD_Log_Raid_SkippedBribeCeasefire>
+  <!-- EN: RAID: skipped (bribe ceasefire still active with {0}). -->
+  <TSA_WD_Log_Raid_SkippedBribeCeasefire>突襲：已略過（與{0}的賄賂停火仍在生效中）。</TSA_WD_Log_Raid_SkippedBribeCeasefire>
   <!-- EN: Bribe cost -->
   <TSA_WD_Bribe_CostHeader>賄賂費用</TSA_WD_Bribe_CostHeader>
   <!-- EN: Settlement silver per strength -->

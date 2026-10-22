@@ -322,8 +322,8 @@
   <TSA_WD_Log_ForwardAssault_VanguardFounded>先鋒：建立了{0}。</TSA_WD_Log_ForwardAssault_VanguardFounded>
   <!-- EN: VANGUARD: Reinforcements absorbed into an existing dig-in ({0}). -->
   <TSA_WD_Log_ForwardAssault_VanguardAbsorbed>先鋒：增援已併入既有的據守點（{0}）。</TSA_WD_Log_ForwardAssault_VanguardAbsorbed>
-  <!-- EN: VANGUARD: {0} found {1} on reserved tile — diverting to raid. -->
-  <TSA_WD_Log_ForwardAssault_BlockedRaid>先鋒：{0}發現保留地塊上有{1}——改為發動突襲。</TSA_WD_Log_ForwardAssault_BlockedRaid>
+  <!-- EN: VANGUARD: {0} found {1} on reserved tile (diverting to raid). -->
+  <TSA_WD_Log_ForwardAssault_BlockedRaid>先鋒：{0}在保留地塊上發現{1}（改為發動突襲）。</TSA_WD_Log_ForwardAssault_BlockedRaid>
   <!-- EN: VANGUARD: {0} remounted as {1}. -->
   <TSA_WD_Log_ForwardAssault_Refound>先鋒：{0}重新整隊為{1}。</TSA_WD_Log_ForwardAssault_Refound>
   <!-- EN: CONQUEST: {0} founded {1} ({2}) after a successful raid. -->
@@ -642,4 +642,72 @@
   <TSA_WD_AdvBuild_Inspect_ReloadingDays>裝填中：{0}天</TSA_WD_AdvBuild_Inspect_ReloadingDays>
   <!-- EN: Protection from being shelled: {0} Days -->
   <TSA_WD_AdvBuild_Inspect_ShellProtectionDays>免受砲擊保護：{0}天</TSA_WD_AdvBuild_Inspect_ShellProtectionDays>
+  <!-- EN: Stats -->
+  <TSA_WD_TravelerStats_TabLabel>數值</TSA_WD_TravelerStats_TabLabel>
+  <!-- EN: Route -->
+  <TSA_WD_TravelerStats_Section_Route>路線</TSA_WD_TravelerStats_Section_Route>
+  <!-- EN: Force -->
+  <TSA_WD_TravelerStats_Section_Force>兵力</TSA_WD_TravelerStats_Section_Force>
+  <!-- EN: Ambush -->
+  <TSA_WD_TravelerStats_Section_Ambush>伏擊</TSA_WD_TravelerStats_Section_Ambush>
+  <!-- EN: Player threat -->
+  <TSA_WD_TravelerStats_Section_PlayerThreat>對玩家的威脅</TSA_WD_TravelerStats_Section_PlayerThreat>
+  <!-- EN: Mission -->
+  <TSA_WD_TravelerStats_Row_Mission>任務</TSA_WD_TravelerStats_Row_Mission>
+  <!-- EN: Faction -->
+  <TSA_WD_TravelerStats_Row_Faction>派系</TSA_WD_TravelerStats_Row_Faction>
+  <!-- EN: Origin -->
+  <TSA_WD_TravelerStats_Row_Origin>出發地</TSA_WD_TravelerStats_Row_Origin>
+  <!-- EN: Destination -->
+  <TSA_WD_TravelerStats_Row_Destination>目的地</TSA_WD_TravelerStats_Row_Destination>
+  <!-- EN: Strength (current / initial) -->
+  <TSA_WD_TravelerStats_Row_Strength>戰力（目前／初始）</TSA_WD_TravelerStats_Row_Strength>
+  <!-- EN: Strength remaining -->
+  <TSA_WD_TravelerStats_Row_StrengthRemaining>剩餘戰力</TSA_WD_TravelerStats_Row_StrengthRemaining>
+  <!-- EN: ETA (days) -->
+  <TSA_WD_TravelerStats_Row_EtaDays>預計抵達（天）</TSA_WD_TravelerStats_Row_EtaDays>
+  <!-- EN: Travel mode -->
+  <TSA_WD_TravelerStats_Row_TravelMode>移動方式</TSA_WD_TravelerStats_Row_TravelMode>
+  <!-- EN: Resting from attrition -->
+  <TSA_WD_TravelerStats_Row_AttritionResting>休整中（暫停耗損）</TSA_WD_TravelerStats_Row_AttritionResting>
+  <!-- EN: Land -->
+  <TSA_WD_TravelerStats_Mode_Land>陸路</TSA_WD_TravelerStats_Mode_Land>
+  <!-- EN: Drop pod -->
+  <TSA_WD_TravelerStats_Mode_DropPod>運輸艙</TSA_WD_TravelerStats_Mode_DropPod>
+  <!-- EN: Gravship -->
+  <TSA_WD_TravelerStats_Mode_Gravship>重力船</TSA_WD_TravelerStats_Mode_Gravship>
+  <!-- EN: Ambush visibility -->
+  <TSA_WD_TravelerStats_Row_AmbushRangeBand>伏擊可見範圍</TSA_WD_TravelerStats_Row_AmbushRangeBand>
+  <!-- EN: {0} of {1} tiles -->
+  <TSA_WD_TravelerStats_Row_AmbushRangeBandValue>{0}／{1}格</TSA_WD_TravelerStats_Row_AmbushRangeBandValue>
+  <!-- EN: How far settlements can spot this traveler for ambush. Weaker parties are only seen nearby. Trader and Expansion parties count as stronger for spotting. -->
+  <TSA_WD_TravelerStats_Row_AmbushRangeBandTip>據點能在多遠的距離發現此旅行者並發動伏擊。較弱的隊伍只會在近距離被發現。商人與擴張隊伍在被發現的判定上視為較強。</TSA_WD_TravelerStats_Row_AmbushRangeBandTip>
+  <!-- EN: Can be ambushed -->
+  <TSA_WD_TravelerStats_Row_CanBeAmbushed>可被伏擊</TSA_WD_TravelerStats_Row_CanBeAmbushed>
+  <!-- EN: Raid target -->
+  <TSA_WD_TravelerStats_Row_RaidTargetKind>突襲目標</TSA_WD_TravelerStats_Row_RaidTargetKind>
+  <!-- EN: Beyond normal range -->
+  <TSA_WD_TravelerStats_Row_BeyondNormalRange>超出正常範圍</TSA_WD_TravelerStats_Row_BeyondNormalRange>
+  <!-- EN: Counts toward raid caps -->
+  <TSA_WD_TravelerStats_Row_CapStamped>計入突襲上限</TSA_WD_TravelerStats_Row_CapStamped>
+  <!-- EN: Reached player contact -->
+  <TSA_WD_TravelerStats_Row_Contacted>已與玩家接觸</TSA_WD_TravelerStats_Row_Contacted>
+  <!-- EN: Yes -->
+  <TSA_WD_TravelerStats_Yes>是</TSA_WD_TravelerStats_Yes>
+  <!-- EN: No -->
+  <TSA_WD_TravelerStats_No>否</TSA_WD_TravelerStats_No>
+  <!-- EN: Colony -->
+  <TSA_WD_TravelerStats_RaidTarget_Colony>殖民地</TSA_WD_TravelerStats_RaidTarget_Colony>
+  <!-- EN: Outpost -->
+  <TSA_WD_TravelerStats_RaidTarget_Outpost>哨站</TSA_WD_TravelerStats_RaidTarget_Outpost>
+  <!-- EN: Settlement -->
+  <TSA_WD_TravelerStats_RaidTarget_Settlement>據點</TSA_WD_TravelerStats_RaidTarget_Settlement>
+  <!-- EN: Inventory -->
+  <TSA_WD_TravelerInventory_TabLabel>貨物</TSA_WD_TravelerInventory_TabLabel>
+  <!-- EN: No cargo on this traveler. -->
+  <TSA_WD_TravelerInventory_Empty>此旅行者沒有攜帶貨物。</TSA_WD_TravelerInventory_Empty>
+  <!-- EN: Upgrade: {0} (level {1}) -->
+  <TSA_WD_TravelerInventory_UpgradeLine>升級：{0}（等級{1}）</TSA_WD_TravelerInventory_UpgradeLine>
+  <!-- EN: Converting to: {0} -->
+  <TSA_WD_TravelerInventory_TypeChangeLine>轉換為：{0}</TSA_WD_TravelerInventory_TypeChangeLine>
 </LanguageData>
